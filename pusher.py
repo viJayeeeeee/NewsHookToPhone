@@ -1,12 +1,10 @@
-"""飞书消息推送（富文本 + 签名）"""
+"""飞书消息推送（消息卡片 + 签名）"""
 
 import hashlib
 import hmac
-import json
 import os
 import time
 from base64 import b64encode
-from typing import Optional
 
 import requests
 
@@ -33,7 +31,7 @@ def _build_platform_payload(
     update_time: str,
 ) -> dict:
     """
-    构建单个平台的推送 payload。
+    构建单个平台的推送 payload（消息卡片格式）。
 
     参数:
         platform_name: 平台名称，如 "微博热搜"
@@ -41,12 +39,14 @@ def _build_platform_payload(
         update_time: 数据更新时间字符串
 
     返回:
-        飞书富文本消息 payload
+        飞书消息卡片 payload
     """
-    content_lines = [
-        [{"tag": "text", "text": f"{'=' * 40}"}],
-        [{"tag": "text", "text": f"📍 {platform_name} · {update_time}"}],
-        [{"tag": "text", "text": f"{'=' * 40}"}],
+    elements = [
+        {
+            "tag": "div",
+            "text": {"tag": "lark_md", "content": f"**📍 {platform_name}** · {update_time}"},
+        },
+        {"tag": "hr"},
     ]
 
     for item in items:
@@ -55,23 +55,31 @@ def _build_platform_payload(
         hot = item.get("formatted_hot", item.get("hot_value", ""))
         tags = item.get("extra", {}).get("display_tags", "")
 
-        line_text = f"#{rank}  {title}   {hot}"
+        # 截断过长的标题，保持排版整洁
+        display_title = title if len(title) <= 35 else title[:34] + "…"
+        line = f"**#{rank}**  {display_title}  **{hot}**"
         if tags:
-            line_text += f"  {tags}"
+            line += f"  ·  {tags}"
 
-        content_lines.append([{"tag": "text", "text": line_text}])
+        elements.append({
+            "tag": "div",
+            "text": {"tag": "lark_md", "content": line},
+        })
 
-    content_lines.append([{"tag": "text", "text": f"{'=' * 40}"}])
+    elements.append({"tag": "hr"})
+    elements.append({
+        "tag": "note",
+        "elements": [{"tag": "plain_text", "content": "数据来源: UApi · 每 10 分钟自动更新"}],
+    })
 
     return {
-        "msg_type": "post",
-        "content": {
-            "post": {
-                "zh_cn": {
-                    "title": f"📍 {platform_name}",
-                    "content": content_lines,
-                }
-            }
+        "msg_type": "interactive",
+        "card": {
+            "header": {
+                "title": {"tag": "plain_text", "content": f"📍 {platform_name}"},
+                "template": "blue",
+            },
+            "elements": elements,
         },
     }
 
@@ -83,62 +91,64 @@ def _build_keyword_payload(
     window_hours: int,
 ) -> dict:
     """
-    构建关键词聚合推送 payload。
+    构建关键词聚合推送 payload（消息卡片格式）。
 
     参数:
-        scored_keywords: ScoredKeyword 列表（需包含 keyword, score, related_news, stats 等字段）
+        scored_keywords: ScoredKeyword 列表
         total_platforms: 覆盖平台数
         total_items: 覆盖条目数
         window_hours: 聚合窗口
 
     返回:
-        飞书富文本消息 payload
+        飞书消息卡片 payload
     """
-    content_lines = [
-        [{"tag": "text", "text": f"{'=' * 45}"}],
-        [{"tag": "text", "text": f"🔥 热点关键词聚合 · 过去 {window_hours} 小时"}],
-        [{"tag": "text", "text": f"{'=' * 45}"}],
+    elements = [
+        {
+            "tag": "div",
+            "text": {
+                "tag": "lark_md",
+                "content": f"📊 基于 **{total_platforms}** 个平台、**{total_items}** 条热榜数据 | 窗口: **{window_hours}h**",
+            },
+        },
+        {"tag": "hr"},
     ]
 
     for i, kw in enumerate(scored_keywords, 1):
         score_str = f"{kw.get('score', 0) * 100:.1f}"
         fire_count = "🔥" * min(int(kw.get('score', 0) * 5) + 1, 3)
-        content_lines.append([
-            {"tag": "text", "text": f"{i}.  "},
-            {"tag": "text", "text": kw.get("keyword", ""), "style": [["bold"]]},
-            {"tag": "text", "text": f"    {score_str}分  {fire_count}"},
-        ])
+        keyword = kw.get("keyword", "")
 
-        # 关联新闻行（斜体小字）
-        platform_summary = kw.get("platform_summary", "")
-        if platform_summary:
-            content_lines.append([
-                {"tag": "text", "text": f"    出现在: {platform_summary}", "style": [["italic"]]},
-            ])
+        # 关键词行
+        line = f"**{i}. {keyword}**  {fire_count}  ·  **{score_str}分**"
+        elements.append({
+            "tag": "div",
+            "text": {"tag": "lark_md", "content": line},
+        })
 
-        # 各平台具体条目
-        for news in kw.get("related_news", []):
-            content_lines.append([
-                {"tag": "text", "text": f"    ├ {news.get('platform_name', '')}: {news.get('title', '')}",
-                 "style": [["italic"]]},
-            ])
+        # 关联新闻
+        for news in kw.get("related_news", [])[:3]:
+            pn = news.get("platform_name", "")
+            nt = news.get("title", "")
+            short_nt = nt if len(nt) <= 30 else nt[:29] + "…"
+            elements.append({
+                "tag": "div",
+                "text": {"tag": "lark_md", "content": f"└ {pn}: {short_nt}"},
+            })
 
-        content_lines.append([{"tag": "text", "text": ""}])
-
-    content_lines.append([{"tag": "text", "text": f"{'=' * 45}"}])
-    content_lines.append([
-        {"tag": "text", "text": f"📊 基于 {total_platforms} 个平台、{total_items} 条热榜数据"}
-    ])
+    elements.append({"tag": "hr"})
+    elements.append({
+        "tag": "note",
+        "elements": [{"tag": "plain_text", "content": "关键词权重算法: 增量热度 × 重复率 × 跨平台广度 × 同平台密度"}],
+    })
 
     return {
-        "msg_type": "post",
-        "content": {
-            "post": {
-                "zh_cn": {
-                    "title": "🔥 热点关键词聚合",
-                    "content": content_lines,
-                }
-            }
+        "msg_type": "interactive",
+        "card": {
+            "header": {
+                "title": {"tag": "plain_text", "content": "🔥 热点关键词聚合"},
+                "template": "orange",
+            },
+            "elements": elements,
         },
     }
 
