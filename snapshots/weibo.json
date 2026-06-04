@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-04T16:03:20",
+  "update_time": "2026-06-04T16:24:42",
   "items": [
     {
       "title": "原价899的耐克降至429消费者仍不买账",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E4%BB%B7899%E7%9A%84%E8%80%90%E5%85%8B%E9%99%8D%E8%87%B3429%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%8D%E4%B8%8D%E4%B9%B0%E8%B4%A6%23",
-      "last_hot_value": "1097341",
+      "last_hot_value": "1004170",
       "first_seen_at": "2026-06-04T15:32:29",
-      "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,19 +17,29 @@
       "last_hot_value": "581782",
       "first_seen_at": "2026-06-04T15:32:29",
       "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "国企回应保安只让员工孩子进门躲雨",
       "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E4%BF%9D%E5%AE%89%E5%8F%AA%E8%AE%A9%E5%91%98%E5%B7%A5%E5%AD%A9%E5%AD%90%E8%BF%9B%E9%97%A8%E8%BA%B2%E9%9B%A8%23",
-      "last_hot_value": "817489",
+      "last_hot_value": "741101",
       "first_seen_at": "2026-06-04T15:32:29",
-      "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "中国种地技能又有新突破",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%8D%E5%9C%B0%E6%8A%80%E8%83%BD%E5%8F%88%E6%9C%89%E6%96%B0%E7%AA%81%E7%A0%B4%23",
+      "last_hot_value": "575872",
+      "first_seen_at": "2026-06-04T16:24:42",
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "美丽中国行",
@@ -37,58 +47,68 @@
       "last_hot_value": "657805",
       "first_seen_at": "2026-06-04T15:32:29",
       "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "Bin被罚15万",
       "url": "https://s.weibo.com/weibo?q=%23Bin%E8%A2%AB%E7%BD%9A15%E4%B8%87%23",
-      "last_hot_value": "587469",
+      "last_hot_value": "468119",
       "first_seen_at": "2026-06-04T15:32:29",
-      "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "江语晨来浪姐胖了12斤",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%E6%9D%A5%E6%B5%AA%E5%A7%90%E8%83%96%E4%BA%8612%E6%96%A4%23",
-      "last_hot_value": "567763",
+      "last_hot_value": "449060",
       "first_seen_at": "2026-06-04T15:32:29",
-      "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "原来面条坨了也有邪修",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9D%A2%E6%9D%A1%E5%9D%A8%E4%BA%86%E4%B9%9F%E6%9C%89%E9%82%AA%E4%BF%AE%23",
-      "last_hot_value": "373257",
+      "last_hot_value": "317258",
       "first_seen_at": "2026-06-04T15:32:29",
-      "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "小米寻天汽车最新谍照曝光",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AF%BB%E5%A4%A9%E6%B1%BD%E8%BD%A6%E6%9C%80%E6%96%B0%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89%23",
-      "last_hot_value": "277341",
+      "last_hot_value": "240025",
       "first_seen_at": "2026-06-04T15:42:42",
-      "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 3,
-      "peak_rank": 8,
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 4,
+      "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "LPL发布BLG和Bin的处罚公告",
       "url": "https://s.weibo.com/weibo?q=%23LPL%E5%8F%91%E5%B8%83BLG%E5%92%8CBin%E7%9A%84%E5%A4%84%E7%BD%9A%E5%85%AC%E5%91%8A%23",
-      "last_hot_value": "272018",
+      "last_hot_value": "210815",
       "first_seen_at": "2026-06-04T15:32:29",
-      "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 5,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "黄灿灿唐艺昕 雪人",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E5%94%90%E8%89%BA%E6%98%95+%E9%9B%AA%E4%BA%BA%23",
+      "last_hot_value": "210778",
+      "first_seen_at": "2026-06-04T15:51:52",
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -97,19 +117,19 @@
       "last_hot_value": "266565",
       "first_seen_at": "2026-06-04T15:32:29",
       "last_seen_at": "2026-06-04T16:03:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "黄灿灿唐艺昕 雪人",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E5%94%90%E8%89%BA%E6%98%95+%E9%9B%AA%E4%BA%BA%23",
-      "last_hot_value": "311634",
-      "first_seen_at": "2026-06-04T15:51:52",
-      "last_seen_at": "2026-06-04T15:51:52",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "灵魂摆渡",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%23",
+      "last_hot_value": "185169",
+      "first_seen_at": "2026-06-04T16:24:42",
+      "last_seen_at": "2026-06-04T16:24:42",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "浪姐",
