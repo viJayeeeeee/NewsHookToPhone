@@ -71,7 +71,10 @@ def item_to_dict(item: NewsItem) -> dict:
 
 def main() -> None:
     categories = load_config()
-    cycle_index = get_current_cycle_index()
+    if not categories:
+        print("[main] 未配置任何类别，跳过本轮")
+        return
+    cycle_index = get_current_cycle_index() % len(categories)
     category = categories[cycle_index]
     pipeline = build_pipeline()
 
