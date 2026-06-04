@@ -29,7 +29,11 @@ def load_snapshot(platform_type: str) -> dict:
         return {"update_time": "", "items": []}
     try:
         with open(path, encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
+        # 兼容旧格式：根节点为数组时自动转换
+        if isinstance(data, list):
+            return {"update_time": "", "items": list(data)}
+        return data
     except (json.JSONDecodeError, Exception):
         print(f"[snapshot] {platform_type} 快照文件异常，重置快照")
         return {"update_time": "", "items": []}
