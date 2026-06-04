@@ -247,12 +247,11 @@ def _do_push(payload: dict) -> bool:
         print("[pusher] FEISHU_WEBHOOK_URL 未设置，跳过推送")
         return False
 
-    timestamp = int(time.time())
-    body = {
-        "timestamp": str(timestamp),
-        "sign": _gen_sign(timestamp),
-        **payload,
-    }
+    body = {**payload}
+    if _SECRET:
+        timestamp = int(time.time())
+        body["timestamp"] = str(timestamp)
+        body["sign"] = _gen_sign(timestamp)
 
     try:
         resp = requests.post(_WEBHOOK_URL, json=body, timeout=10)
