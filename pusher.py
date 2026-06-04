@@ -18,7 +18,6 @@ def _gen_sign(timestamp: int) -> str:
         return ""
     string_to_sign = f"{timestamp}\n{_SECRET}"
     hmac_code = hmac.new(
-        _SECRET.encode("utf-8"),
         string_to_sign.encode("utf-8"),
         digestmod=hashlib.sha256,
     ).digest()
