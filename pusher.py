@@ -34,16 +34,17 @@ def _build_platform_payload(
 
     参数:
         platform_name: 平台名称，如 "微博热搜"
-        items: 推送条目列表，每项包含 title, formatted_hot, extra 等
+        items: 推送条目列表，每项包含 title, url, formatted_hot, extra 等
         update_time: 数据更新时间字符串
 
     返回:
         飞书消息卡片 payload
     """
     elements = [
+        {"tag": "hr"},
         {
             "tag": "div",
-            "text": {"tag": "lark_md", "content": f"**📍 {platform_name}** · {update_time}"},
+            "text": {"tag": "lark_md", "content": f"**📍 {platform_name}**  ·  {update_time}  ·  Top {len(items)}"},
         },
         {"tag": "hr"},
     ]
@@ -51,12 +52,20 @@ def _build_platform_payload(
     for item in items:
         rank = item.get("index", "")
         title = item.get("title", "")
+        url = item.get("url", "")
         hot = item.get("formatted_hot", item.get("hot_value", ""))
         tags = item.get("extra", {}).get("display_tags", "")
 
-        # 截断过长的标题，保持排版整洁
-        display_title = title if len(title) <= 35 else title[:34] + "…"
-        line = f"**#{rank}**  {display_title}  **{hot}**"
+        # 短标题（手机友好）
+        short_title = title if len(title) <= 28 else title[:25] + "…"
+
+        # 可点击跳转
+        if url:
+            title_part = f"[{short_title}]({url})"
+        else:
+            title_part = short_title
+
+        line = f"**#{rank}**  {title_part}  **{hot}**"
         if tags:
             line += f"  ·  {tags}"
 
@@ -68,7 +77,7 @@ def _build_platform_payload(
     elements.append({"tag": "hr"})
     elements.append({
         "tag": "note",
-        "elements": [{"tag": "plain_text", "content": "数据来源: UApi · 每 10 分钟自动更新"}],
+        "elements": [{"tag": "plain_text", "content": "数据来源: UApi · 每 10 分钟自动更新 · 点击标题跳转原文"}],
     })
 
     return {
@@ -279,3 +288,39 @@ def _do_push(payload: dict) -> bool:
     except requests.RequestException as e:
         print(f"[pusher] 网络错误: {e}")
         return False
+
+
+def push_error_report(category_name: str, platform_name: str, platform_type: str, reason: str) -> bool:
+    """
+    推送获取失败的错误报告到飞书。
+
+    返回:
+        True 表示推送成功，False 表示失败
+    """
+    payload = {
+        "msg_type": "interactive",
+        "card": {
+            "header": {
+                "title": {"tag": "plain_text", "content": "⚠️ 热榜获取异常"},
+                "template": "red",
+            },
+            "elements": [
+                {"tag": "hr"},
+                {
+                    "tag": "div",
+                    "text": {
+                        "tag": "lark_md",
+                        "content": f"**类别**: {category_name}\n**平台**: {platform_name} (`{platform_type}`)\n**原因**: `{reason}`",
+                    },
+                },
+                {"tag": "hr"},
+                {
+                    "tag": "note",
+                    "elements": [
+                        {"tag": "plain_text", "content": "该平台已加入重试队列，下一轮将自动重试"}
+                    ],
+                },
+            ],
+        },
+    }
+    return _do_push(payload)
