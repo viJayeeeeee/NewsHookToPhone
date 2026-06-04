@@ -5,7 +5,87 @@
       "icon": "📱",
       "platforms": [
         {"type": "weibo",      "name": "微博热搜",     "enabled": true},
-        {"type": "zhihu",      "name": "知乎热榜",     "enabled": true}
+        {"type": "zhihu",      "name": "知乎热榜",     "enabled": true},
+        {"type": "douyin",     "name": "抖音热榜",     "enabled": true},
+        {"type": "bilibili",   "name": "哔哩哔哩",    "enabled": true},
+        {"type": "kuaishou",   "name": "快手热榜",     "enabled": true},
+        {"type": "tieba",      "name": "百度贴吧",     "enabled": true},
+        {"type": "acfun",      "name": "A站",          "enabled": true},
+        {"type": "zhihu-daily","name": "知乎日报",     "enabled": true},
+        {"type": "sina",       "name": "新浪热搜",     "enabled": true}
+      ]
+    },
+    {
+      "name": "科技·开发者",
+      "icon": "💻",
+      "platforms": [
+        {"type": "v2ex",       "name": "V2EX",         "enabled": true},
+        {"type": "juejin",     "name": "掘金",         "enabled": true},
+        {"type": "csdn",       "name": "CSDN",         "enabled": true},
+        {"type": "51cto",      "name": "51CTO",        "enabled": true},
+        {"type": "ithome",     "name": "IT之家",       "enabled": true},
+        {"type": "sspai",      "name": "少数派",       "enabled": true},
+        {"type": "ifanr",      "name": "爱范儿",       "enabled": true},
+        {"type": "hellogithub","name": "HelloGitHub",  "enabled": true},
+        {"type": "nodeseek",   "name": "NodeSeek",     "enabled": true},
+        {"type": "52pojie",    "name": "吾爱破解",     "enabled": true},
+        {"type": "hostloc",    "name": "全球主机交流",  "enabled": true},
+        {"type": "ithome-xijiayi","name": "IT之家喜加一","enabled": true}
+      ]
+    },
+    {
+      "name": "新闻·资讯",
+      "icon": "📰",
+      "platforms": [
+        {"type": "baidu",      "name": "百度热搜",     "enabled": true},
+        {"type": "toutiao",    "name": "今日头条",     "enabled": true},
+        {"type": "thepaper",   "name": "澎湃新闻",     "enabled": true},
+        {"type": "sina-news",  "name": "新浪新闻",     "enabled": true},
+        {"type": "netease-news","name": "网易新闻",    "enabled": true},
+        {"type": "qq-news",    "name": "腾讯新闻",     "enabled": true}
+      ]
+    },
+    {
+      "name": "行业·商业",
+      "icon": "📊",
+      "platforms": [
+        {"type": "36kr",       "name": "36氪",         "enabled": true},
+        {"type": "huxiu",      "name": "虎嗅",         "enabled": true},
+        {"type": "guokr",      "name": "果壳",         "enabled": true}
+      ]
+    },
+    {
+      "name": "文化·兴趣",
+      "icon": "🎨",
+      "platforms": [
+        {"type": "douban-movie","name": "豆瓣电影",    "enabled": true},
+        {"type": "douban-group","name": "豆瓣小组",    "enabled": true},
+        {"type": "jianshu",    "name": "简书",         "enabled": true},
+        {"type": "ngabbs",     "name": "NGA论坛",      "enabled": true},
+        {"type": "hupu",       "name": "虎扑",         "enabled": true},
+        {"type": "coolapk",    "name": "酷安",         "enabled": true}
+      ]
+    },
+    {
+      "name": "游戏",
+      "icon": "🎮",
+      "platforms": [
+        {"type": "lol",        "name": "英雄联盟",     "enabled": true},
+        {"type": "genshin",    "name": "原神",         "enabled": true},
+        {"type": "honkai",     "name": "崩坏3",        "enabled": true},
+        {"type": "starrail",   "name": "星穹铁道",     "enabled": true}
+      ]
+    },
+    {
+      "name": "音乐·阅读·生活",
+      "icon": "🎵",
+      "platforms": [
+        {"type": "netease-music","name": "网易云音乐",  "enabled": true},
+        {"type": "qq-music",   "name": "QQ音乐",       "enabled": true},
+        {"type": "weread",     "name": "微信读书",     "enabled": true},
+        {"type": "weatheralarm","name": "天气预警",    "enabled": true},
+        {"type": "earthquake", "name": "地震速报",     "enabled": true},
+        {"type": "history",    "name": "历史上的今天",  "enabled": true}
       ]
     }
   ]

@@ -8,6 +8,8 @@ on:
 jobs:
   send-card:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
       - name: Setup Python
@@ -19,4 +21,5 @@ jobs:
       - name: Send control card
         env:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
         run: python send_control_card.py
