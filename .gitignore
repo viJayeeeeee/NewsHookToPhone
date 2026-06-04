@@ -1,0 +1,29 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# ── 文档（不上传 GitHub，本地参考用） ──
+docs/
+
+# ── 配置文件（本地持有，不公开） ──
+config/
+snapshots/
+
+# ── 环境变量 ──
+.env
+.env.local
+.env.*
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── 系统 ──
+Thumbs.db
+.DS_Store

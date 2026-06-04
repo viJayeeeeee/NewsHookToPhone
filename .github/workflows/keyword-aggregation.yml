@@ -1,0 +1,39 @@
+name: Keyword Aggregation
+
+on:
+  workflow_dispatch:
+    inputs:
+      window_hours:
+        description: '聚合时间窗口（小时）'
+        required: false
+        default: '6'
+        type: choice
+        options:
+          - '3'
+          - '6'
+          - '12'
+          - '24'
+  schedule:
+    - cron: '0 8,20 * * *'
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install uapi-sdk-python requests jieba
+
+      - name: Run keyword aggregation
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          WINDOW_HOURS: ${{ github.event.inputs.window_hours || '6' }}
+        run: python keyword_aggregator.py

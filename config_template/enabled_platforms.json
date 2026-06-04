@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "name": "社交媒体·热榜",
+      "icon": "📱",
+      "platforms": [
+        {"type": "weibo",      "name": "微博热搜",     "enabled": true},
+        {"type": "zhihu",      "name": "知乎热榜",     "enabled": true}
+      ]
+    }
+  ]
+}

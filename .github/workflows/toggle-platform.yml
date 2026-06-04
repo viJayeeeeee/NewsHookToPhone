@@ -1,0 +1,26 @@
+name: Toggle Platform
+
+on:
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: 'Platform type to toggle'
+        required: true
+        type: string
+
+jobs:
+  toggle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Toggle platform
+        run: python toggle_platform.py ${{ github.event.inputs.platform }}
+
+      - name: Commit config change
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add config/enabled_platforms.json
+          git commit -m "chore: toggle platform ${{ github.event.inputs.platform }}"
+          git push

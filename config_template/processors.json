@@ -1,0 +1,7 @@
+{
+  "processors": {
+    "hot_value_formatter": {"enabled": true},
+    "rank_stabilizer": {"enabled": true},
+    "title_cleaner": {"enabled": true}
+  }
+}
