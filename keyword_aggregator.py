@@ -9,6 +9,7 @@
 """
 
 import os
+import re
 import sys
 from collections import defaultdict
 from dataclasses import dataclass, field
@@ -35,6 +36,67 @@ _STOP_WORDS = {
 
 _MIN_KEYWORD_LENGTH = 2
 _TOP_K = 10
+
+
+def _parse_hot_value(value: str) -> int:
+    """将各种格式的热度值解析为整数。
+
+    兼容格式:
+      - 纯数字: "1004170"
+      - 中文单位: "1,148.9万", "363万"
+      - 中文后缀: "917 万热度", "916379播放"
+      - 英文字母: "200.3W讨论", "200.3w"
+      - 空字符串 / 非数字: ""
+    """
+    if isinstance(value, (int, float)):
+        return int(value)
+    if not value or not isinstance(value, str):
+        return 0
+
+    s = value.replace(",", "").replace(" ", "").strip()
+
+    # 尝试直接转数字
+    try:
+        return int(s)
+    except ValueError:
+        pass
+
+    # 处理 "万" 单位
+    if "万" in s:
+        try:
+            num_str = s.split("万")[0]
+            return int(float(num_str) * 10000)
+        except (ValueError, IndexError):
+            pass
+
+    # 处理 "W"/"w" 单位 (英文万)
+    if "w" in s.lower():
+        try:
+            num_str = s.lower().split("w")[0]
+            return int(float(num_str) * 10000)
+        except (ValueError, IndexError):
+            pass
+
+    # 处理 "千"/"k" 单位
+    if "千" in s:
+        try:
+            num_str = s.split("千")[0]
+            return int(float(num_str) * 1000)
+        except (ValueError, IndexError):
+            pass
+    if "k" in s.lower():
+        try:
+            num_str = s.lower().split("k")[0]
+            return int(float(num_str) * 1000)
+        except (ValueError, IndexError):
+            pass
+
+    # 尝试提取开头的数字部分（含小数点）
+    match = re.match(r"(\d+(?:\.\d+)?)", s)
+    if match:
+        return int(float(match.group(1)))
+
+    return 0
 
 
 @dataclass
@@ -97,7 +159,7 @@ def aggregate_keywords(snapshots: dict, window_hours: int = 6) -> list[dict]:
     for platform_type, items in snapshots.items():
         for item in items:
             title = item.get("title", "")
-            hot_value = int(item.get("last_hot_value", 0))
+            hot_value = _parse_hot_value(item.get("last_hot_value", "0"))
             consecutive = item.get("consecutive_count", 1)
             platform_name = platform_name_map.get(platform_type, platform_type)
 
