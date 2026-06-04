@@ -49,17 +49,18 @@ def _build_platform_payload(
         {"tag": "hr"},
     ]
 
-    for item in items:
+    # 只展示前 3 条，其余折叠
+    visible = items[:3]
+    collapsed = items[3:]
+
+    for item in visible:
         rank = item.get("index", "")
         title = item.get("title", "")
         url = item.get("url", "")
         hot = item.get("formatted_hot", item.get("hot_value", ""))
         tags = item.get("extra", {}).get("display_tags", "")
 
-        # 短标题（手机友好）
         short_title = title if len(title) <= 28 else title[:25] + "…"
-
-        # 可点击跳转
         if url:
             title_part = f"[{short_title}]({url})"
         else:
@@ -72,6 +73,17 @@ def _build_platform_payload(
         elements.append({
             "tag": "div",
             "text": {"tag": "lark_md", "content": line},
+        })
+
+    # 折叠的条目
+    if collapsed:
+        rest_count = len(collapsed)
+        first_hidden_rank = collapsed[0].get("index", "")
+        last_hidden_rank = collapsed[-1].get("index", "")
+        collapsed_line = f"┄  **#{first_hidden_rank}** ～ **#{last_hidden_rank}**  共 {rest_count} 条 · 点击标题跳转原文"
+        elements.append({
+            "tag": "div",
+            "text": {"tag": "lark_md", "content": collapsed_line},
         })
 
     elements.append({"tag": "hr"})
