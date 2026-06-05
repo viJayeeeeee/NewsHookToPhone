@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-05T22:47:31",
+  "update_time": "2026-06-05T23:51:12",
   "items": [
     {
       "title": "如何评价钉钉内网 7.5 万字长文《置身钉内》？反映出公司管理和开发哪些问题？",
       "url": "https://www.zhihu.com/question/2046261330911482494",
-      "last_hot_value": "417 万热度",
+      "last_hot_value": "506 万热度",
       "first_seen_at": "2026-06-05T18:09:49",
-      "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +17,7 @@
       "last_hot_value": "207 万热度",
       "first_seen_at": "2026-06-05T13:25:51",
       "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -44,10 +44,10 @@
     {
       "title": "日股跳水韩股熔断， SK 海力士跌超 8%，暴跌原因是什么？释放了哪些市场信号？",
       "url": "https://www.zhihu.com/question/2046218166812893382",
-      "last_hot_value": "261 万热度",
+      "last_hot_value": "233 万热度",
       "first_seen_at": "2026-06-05T18:09:49",
-      "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -57,7 +57,7 @@
       "last_hot_value": "117 万热度",
       "first_seen_at": "2026-06-05T13:25:51",
       "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,22 +82,32 @@
       "is_new": false
     },
     {
+      "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
+      "url": "https://www.zhihu.com/question/2045446455956091852",
+      "last_hot_value": "229 万热度",
+      "first_seen_at": "2026-06-05T23:51:12",
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "美国如何一次性解决 36 万亿美债问题？",
       "url": "https://www.zhihu.com/question/6607165102",
-      "last_hot_value": "221 万热度",
+      "last_hot_value": "126 万热度",
       "first_seen_at": "2026-06-05T18:09:49",
-      "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "TP-LINK 被曝强制全员转签，新合同暗含霸王条款，超 140 人离职，企业这种做法合法吗？",
       "url": "https://www.zhihu.com/question/2046228508003627559",
-      "last_hot_value": "161 万热度",
+      "last_hot_value": "116 万热度",
       "first_seen_at": "2026-06-05T13:25:51",
-      "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -112,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "饶毅称：「中国学术不端比例世界空前，但很少对学术不端有惩罚」，如何看待他的这一说法？",
+      "url": "https://www.zhihu.com/question/2045491060734783593",
+      "last_hot_value": "140 万热度",
+      "first_seen_at": "2026-06-05T22:47:31",
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
       "url": "https://www.zhihu.com/question/2045939490523276303",
-      "last_hot_value": "159 万热度",
+      "last_hot_value": "131 万热度",
       "first_seen_at": "2026-06-05T13:25:51",
-      "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -157,9 +177,9 @@
       "last_hot_value": "177 万热度",
       "first_seen_at": "2026-06-05T22:47:31",
       "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "消息称「有地方正摸排辖区企业与追觅合作情况」，追觅内部人士回应「只是常规检查」，具体怎么回事？",
@@ -177,7 +197,7 @@
       "last_hot_value": "114 万热度",
       "first_seen_at": "2026-06-05T13:25:51",
       "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -200,6 +220,16 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "广东化州多校有空调却不开，校方称去年被举报收费，今年决定不开也不收钱，学校开空调为啥这么难？",
+      "url": "https://www.zhihu.com/question/2043719425409470743",
+      "last_hot_value": "123 万热度",
+      "first_seen_at": "2026-06-05T23:51:12",
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "如何评价：BLG 选手陈泽彬 (ID：Bin) 未按规定履行登场互动环节的赛场义务，罚款 15 万？",
@@ -242,16 +272,6 @@
       "is_new": false
     },
     {
-      "title": "饶毅称：「中国学术不端比例世界空前，但很少对学术不端有惩罚」，如何看待他的这一说法？",
-      "url": "https://www.zhihu.com/question/2045491060734783593",
-      "last_hot_value": "144 万热度",
-      "first_seen_at": "2026-06-05T22:47:31",
-      "last_seen_at": "2026-06-05T22:47:31",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
       "title": "泽连斯基致信普京提议会晤，普京此前也重申愿意和谈，俄乌局势是否迎来转机？",
       "url": "https://www.zhihu.com/question/2046202474390886086",
       "last_hot_value": "213 万热度",
@@ -270,6 +290,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "如何看待大胃袋良子加入华哥百日彭于晏训练营，你觉得他能回到正常体重，减肥成功吗？",
+      "url": "https://www.zhihu.com/question/2044768108083140114",
+      "last_hot_value": "115 万热度",
+      "first_seen_at": "2026-06-05T23:51:12",
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "电影《特立独行》中白敬亭造型被戏称「国产版祖国人」 ，你觉得如何？算致敬吗？",
@@ -300,6 +330,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
+      "url": "https://www.zhihu.com/question/2046178335382843425",
+      "last_hot_value": "105 万热度",
+      "first_seen_at": "2026-06-05T23:51:12",
+      "last_seen_at": "2026-06-05T23:51:12",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "世界杯前热身赛，姆巴佩率队法国 1-2 科特迪瓦，如何评价本场比赛？",
