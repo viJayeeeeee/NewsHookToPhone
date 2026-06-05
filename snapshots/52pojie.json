@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-05T01:57:33",
+  "update_time": "2026-06-05T21:42:27",
   "items": [
+    {
+      "title": "开源英语听说训练软件Echo-Loop-1.0.12",
+      "url": "",
+      "last_hot_value": "回复:66 查看:3646",
+      "first_seen_at": "2026-06-05T21:42:27",
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "WxCleaner v1.0.0 微信重复文件清理工具",
       "url": "",
-      "last_hot_value": "回复:178 查看:5624",
+      "last_hot_value": "回复:235 查看:7010",
       "first_seen_at": "2026-06-04T21:17:04",
-      "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,42 +32,52 @@
       "is_new": false
     },
     {
-      "title": "CardRead — 美观优雅的电脑小说阅读器|更新2|支持md-txt-epub",
+      "title": "派了个萌的翻译器 pot-desktop v3.0.7",
       "url": "",
-      "last_hot_value": "回复:1562 查看:11009",
-      "first_seen_at": "2026-06-04T21:17:04",
-      "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 2,
+      "last_hot_value": "回复:130 查看:6982",
+      "first_seen_at": "2026-06-05T21:42:27",
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "多格式音频转换器",
       "url": "",
-      "last_hot_value": "回复:101 查看:2255",
+      "last_hot_value": "回复:133 查看:3086",
       "first_seen_at": "2026-06-04T21:17:04",
-      "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "禁止程序联网工具Netcontrol",
+      "title": "CardRead — 美观优雅的电脑小说阅读器|更新2|支持md-txt-epub",
       "url": "",
-      "last_hot_value": "回复:269 查看:8152",
+      "last_hot_value": "回复:1779 查看:13234",
       "first_seen_at": "2026-06-04T21:17:04",
-      "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 2,
-      "peak_rank": 3,
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "火绒强力卸载工具Beta版 Huorong Uninstaller v1.0.0.4",
       "url": "",
-      "last_hot_value": "回复:127 查看:5020",
+      "last_hot_value": "回复:155 查看:6459",
       "first_seen_at": "2026-06-04T21:17:04",
-      "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "禁止程序联网工具Netcontrol",
+      "url": "",
+      "last_hot_value": "回复:327 查看:10040",
+      "first_seen_at": "2026-06-04T21:17:04",
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -67,9 +87,9 @@
       "last_hot_value": "回复:467 查看:15935",
       "first_seen_at": "2026-06-05T01:57:33",
       "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【虚拟容器】极低占用的VMware的Windows虚拟机！",
@@ -82,14 +102,24 @@
       "is_new": false
     },
     {
+      "title": "家常菜 食谱大全 v3.6",
+      "url": "",
+      "last_hot_value": "回复:314 查看:8183",
+      "first_seen_at": "2026-06-05T21:42:27",
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "开源PDF编辑器 KillerPDF v1.4.1汉化修改版",
       "url": "",
       "last_hot_value": "回复:140 查看:6354",
       "first_seen_at": "2026-06-05T01:57:33",
       "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "鲁大师 v6.1026.4605.519 单文件版",
@@ -104,12 +134,12 @@
     {
       "title": "PC单机版闲鱼麻将v1.0b，支持AI对战、多种难度、语音播报、番型计算~支持win10/11",
       "url": "",
-      "last_hot_value": "回复:62 查看:2082",
+      "last_hot_value": "回复:158 查看:5766",
       "first_seen_at": "2026-06-05T01:57:33",
-      "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "《剪映助手悬浮球V2.1》支持最新剪映，附源代码",
@@ -117,9 +147,9 @@
       "last_hot_value": "回复:192 查看:8074",
       "first_seen_at": "2026-06-05T01:57:33",
       "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "绘画工具 Krita v5.3.2.1",
@@ -132,12 +162,22 @@
       "is_new": false
     },
     {
+      "title": "微信Windows版 v4.1.10.48多开&消息防撤回正式版绿色版x64位（6.3更新）",
+      "url": "",
+      "last_hot_value": "回复:394 查看:16321",
+      "first_seen_at": "2026-06-05T21:42:27",
+      "last_seen_at": "2026-06-05T21:42:27",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "抖音短视频v13.6.0 轻量版只有5m大小",
       "url": "",
       "last_hot_value": "回复:204 查看:8294",
       "first_seen_at": "2026-06-04T21:17:04",
       "last_seen_at": "2026-06-05T01:57:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
