@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-06-04T21:16:55",
+  "update_time": "2026-06-05T01:57:23",
   "items": [
+    {
+      "title": "Claude Opus 4.8 让你睡觉时也能赚钱的工作流",
+      "url": "https://www.51cto.com/article/845030.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-04T21:16:55",
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "16亿Windows用户，一夜冲进Agent时代！",
       "url": "https://www.51cto.com/article/845239.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 2,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "MiniMax M3炸场后，引发的连锁反应：国产大模型正在跨越怎样的工程新周期？",
+      "url": "https://www.51cto.com/article/845142.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T01:57:23",
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,18 +37,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Claude Opus 4.8 让你睡觉时也能赚钱的工作流",
-      "url": "https://www.51cto.com/article/845030.html",
+      "title": "比华为官方 torch_npu 更快：我用 C++/Ascend 写了一个 7B deepseek推理引擎",
+      "url": "https://blog.51cto.com/u_15202985/14658241",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
+      "first_seen_at": "2026-06-05T01:57:23",
+      "last_seen_at": "2026-06-05T01:57:23",
       "consecutive_count": 1,
-      "peak_rank": 3,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +57,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "算子级开源、不依赖 torch_npu：从零实现 Ascend 大模型推理引擎",
+      "url": "https://blog.51cto.com/u_15202985/14658240",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T01:57:23",
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +77,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "我花了3个月驯服LLM：从“每次输出格式都不一样“到“95%一致性“的5层心法",
+      "url": "https://blog.51cto.com/u_15903793/14658217",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T01:57:23",
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +97,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "把输入框变成 AI 的“超级入口”（ProseMirror 全流程实战）",
+      "url": "https://blog.51cto.com/u_14291117/14657912",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T01:57:23",
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +117,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "API 优先与类型安全：现代全栈架构的“降本增效”实战",
+      "url": "https://blog.51cto.com/u_12795311/14657569",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T01:57:23",
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +137,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "HarmonyOS 6.1.1 全栈实战录 - 95 实战 Camera Kit 自定义 OIS 偏置与多轴调优",
+      "url": "https://ost.51cto.com/posts/43433#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T01:57:23",
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +157,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "鸿蒙阔折叠设备适配实战 -- HdsTabs 让你的应用颜值翻倍",
+      "url": "https://ost.51cto.com/posts/43635#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T01:57:23",
+      "last_seen_at": "2026-06-05T01:57:23",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +177,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
