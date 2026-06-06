@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-05T21:42:11",
+  "update_time": "2026-06-06T08:13:41",
   "items": [
+    {
+      "title": "大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。",
+      "url": "https://www.v2ex.com/t/1218201",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T21:42:11",
+      "last_seen_at": "2026-06-06T08:13:41",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "纯吐槽公司技术团队现状",
       "url": "https://www.v2ex.com/t/1218058",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T01:57:16",
       "last_seen_at": "2026-06-05T21:42:11",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,14 +32,24 @@
       "is_new": false
     },
     {
+      "title": "被裁了",
+      "url": "https://www.v2ex.com/t/1218162",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-05T21:42:11",
+      "last_seen_at": "2026-06-06T08:13:41",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "你相信有阿飘吗？",
       "url": "https://www.v2ex.com/t/1218086",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:11",
       "last_seen_at": "2026-06-05T21:42:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[HyperAPI] gpt pro➕plus 号池，额度又重置了，这不得送点",
@@ -52,14 +72,24 @@
       "is_new": false
     },
     {
+      "title": "找一个程序员搭子，互相鼓励",
+      "url": "https://www.v2ex.com/t/1218189",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T08:13:41",
+      "last_seen_at": "2026-06-06T08:13:41",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。",
       "url": "https://www.v2ex.com/t/1218155",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:11",
       "last_seen_at": "2026-06-05T21:42:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大家现在个人服务器一般怎么管理比较合适？",
@@ -72,11 +102,11 @@
       "is_new": false
     },
     {
-      "title": "被裁了",
-      "url": "https://www.v2ex.com/t/1218162",
+      "title": "为什么 AI 现在这么火，却很少有行业真的铺开呢？",
+      "url": "https://www.v2ex.com/t/1218246",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-05T21:42:11",
-      "last_seen_at": "2026-06-05T21:42:11",
+      "first_seen_at": "2026-06-06T08:13:41",
+      "last_seen_at": "2026-06-06T08:13:41",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -92,11 +122,11 @@
       "is_new": false
     },
     {
-      "title": "大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。",
-      "url": "https://www.v2ex.com/t/1218201",
+      "title": "看很多人用 codex 被封号的，想统计一下原因",
+      "url": "https://www.v2ex.com/t/1218212",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-05T21:42:11",
-      "last_seen_at": "2026-06-05T21:42:11",
+      "first_seen_at": "2026-06-06T08:13:41",
+      "last_seen_at": "2026-06-06T08:13:41",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -112,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "现在在国内还有办法注册 Google 账号吗？",
+      "url": "https://www.v2ex.com/t/1218362",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T08:13:41",
+      "last_seen_at": "2026-06-06T08:13:41",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "我把英语学习变成了看小说，感谢 Vibe Coding",
       "url": "https://www.v2ex.com/t/1218088",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:11",
       "last_seen_at": "2026-06-05T21:42:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "五年后的程序员会是什么样子呢？",
@@ -132,14 +172,24 @@
       "is_new": false
     },
     {
+      "title": "windows 终将成为最好的 Linux",
+      "url": "https://www.v2ex.com/t/1218268",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T08:13:41",
+      "last_seen_at": "2026-06-06T08:13:41",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "有人还玩 QQ 三国吗",
       "url": "https://www.v2ex.com/t/1218068",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:11",
       "last_seen_at": "2026-06-05T21:42:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我老婆最近找了新工作, 老板总说她生图很慢, 想帮她搞个工具",
@@ -162,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "Google 秒收录，秀一秀欢迎提交您的 vibe coding 作品",
+      "url": "https://www.v2ex.com/t/1218305",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T08:13:41",
+      "last_seen_at": "2026-06-06T08:13:41",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "你失业多久家庭矛盾就开始了？",
       "url": "https://www.v2ex.com/t/1218061",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:11",
       "last_seen_at": "2026-06-05T21:42:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "有重置了兄弟们",
@@ -182,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "三十多了，自己以后养老怎么办",
+      "url": "https://www.v2ex.com/t/1218169",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T08:13:41",
+      "last_seen_at": "2026-06-06T08:13:41",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "一天三款新车?",
       "url": "https://www.v2ex.com/t/1218080",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:11",
       "last_seen_at": "2026-06-05T21:42:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "麦当劳的可乐是不是比普通罐装可乐好喝？",
@@ -200,6 +270,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "总结一下这次 OpenAI 封号的问题，同时谈谈大家忽略的一个问题（可能这才是封号的元凶）",
+      "url": "https://www.v2ex.com/t/1218326",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T08:13:41",
+      "last_seen_at": "2026-06-06T08:13:41",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

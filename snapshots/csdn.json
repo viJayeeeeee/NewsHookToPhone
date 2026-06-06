@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-05T21:42:17",
+  "update_time": "2026-06-06T08:13:45",
   "items": [
+    {
+      "title": "从零实现《三角洲行动》手游自动跑刀脚本：ADB 直控 + OpenCV 视觉识别 + 固定点位搜刮)三角洲自动跑刀教程",
+      "url": "https://blog.csdn.net/weixin_46221106/article/details/161664774",
+      "last_hot_value": "3.6w",
+      "first_seen_at": "2026-06-05T21:42:17",
+      "last_seen_at": "2026-06-06T08:13:45",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Linux/Windows 双平台通关：YOLOv8 目标检测从模型选型到跨平台部署实战",
       "url": "https://blog.csdn.net/2402_87731470/article/details/161569839",
-      "last_hot_value": "2.9w",
+      "last_hot_value": "2.0w",
       "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-06T08:13:45",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,11 +32,11 @@
       "is_new": false
     },
     {
-      "title": "从零实现《三角洲行动》手游自动跑刀脚本：ADB 直控 + OpenCV 视觉识别 + 固定点位搜刮)三角洲自动跑刀教程",
-      "url": "https://blog.csdn.net/weixin_46221106/article/details/161664774",
-      "last_hot_value": "2.2w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-05T21:42:17",
+      "title": "鸿蒙 PC 文件共享：分布式机制 + Demo 实现",
+      "url": "https://blog.csdn.net/qq_36478920/article/details/161712441",
+      "last_hot_value": "2.5w",
+      "first_seen_at": "2026-06-06T08:13:45",
+      "last_seen_at": "2026-06-06T08:13:45",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
@@ -42,24 +52,24 @@
       "is_new": false
     },
     {
+      "title": "把 RK3566 小主机变成 24h AI 管家：飞牛 NAS 部署 Hermes + 微信接入实战",
+      "url": "https://blog.csdn.net/2401_82648291/article/details/161725048",
+      "last_hot_value": "2.2w",
+      "first_seen_at": "2026-06-05T21:42:17",
+      "last_seen_at": "2026-06-06T08:13:45",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "OpenClaw Canvas A2UI：AI驱动的交互式界面开发实战",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/161663195",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T08:13:45",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "把 RK3566 小主机变成 24h AI 管家：飞牛 NAS 部署 Hermes + 微信接入实战",
-      "url": "https://blog.csdn.net/2401_82648291/article/details/161725048",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Re：Linux系统篇（二十六）进程篇·十一：从底层原理到 exec* 家族：彻底搞懂 Linux 进程程序替换",
@@ -84,12 +94,12 @@
     {
       "title": "【Linux网络】一文吃透 TCP Socket 编程",
       "url": "https://blog.csdn.net/yhrxh_ymq/article/details/161681354",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T08:13:45",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "《Kingbase护城河》——跨平台环境下的数据库联调实战",
@@ -102,13 +112,33 @@
       "is_new": false
     },
     {
+      "title": "99.9%安全率：Java SSL加密如何守护交通数据的“黄金通道“",
+      "url": "https://blog.csdn.net/z_344791576/article/details/151898086",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-06-05T21:42:17",
+      "last_seen_at": "2026-06-06T08:13:45",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "最新Codex 解决手机号验证码方案-亲测有效",
       "url": "https://blog.csdn.net/Jack_num1/article/details/161649557",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-05T21:42:17",
       "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "2026 年再看 GUI Agent：会操作电脑已经不稀奇，能进企业流程才稀缺",
+      "url": "https://blog.csdn.net/baronbool/article/details/161717992",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-06-06T08:13:45",
+      "last_seen_at": "2026-06-06T08:13:45",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -117,9 +147,9 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-06-05T21:42:17",
       "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Linux网络】深入理解 HTTP 协议（四）：完善 C++ HTTP 服务器：从协议原理到生产级实现",
@@ -127,16 +157,16 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-06-04T21:16:54",
       "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "99.9%安全率：Java SSL加密如何守护交通数据的“黄金通道“",
-      "url": "https://blog.csdn.net/z_344791576/article/details/151898086",
+      "title": "从 mysql 命令切到 ksql，第一步先把连接搞明白",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/161725772",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-05T21:42:17",
+      "first_seen_at": "2026-06-06T08:13:45",
+      "last_seen_at": "2026-06-06T08:13:45",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -162,14 +192,24 @@
       "is_new": false
     },
     {
+      "title": "04-【政务】某市政务云安全架构",
+      "url": "https://blog.csdn.net/weixin_42115157/article/details/161722230",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-06T08:13:45",
+      "last_seen_at": "2026-06-06T08:13:45",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "SpringBoot+Vue3+Flowable 实现合同管理全生命周期：起草·审批·签署·履约·回款台账闭环设计",
       "url": "https://blog.csdn.net/zhouzhongyan/article/details/161707278",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-05T21:42:17",
       "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "数据库挂了服务就瘫？我用PostgreSQL主从流复制搭了高可用架构，cpolar打通远程访问",
