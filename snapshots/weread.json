@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-05T06:15:37",
+  "update_time": "2026-06-06T20:47:00",
   "items": [
     {
-      "title": "主角（张嘉益、刘浩存、秦海璐主演同名电视剧原著）",
+      "title": "克拉多克太太（毛姆文集）",
       "url": "",
-      "last_hot_value": "2人在读",
-      "first_seen_at": "2026-06-05T06:15:37",
-      "last_seen_at": "2026-06-05T06:15:37",
+      "last_hot_value": "1807人在读",
+      "first_seen_at": "2026-06-06T20:47:00",
+      "last_seen_at": "2026-06-06T20:47:00",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
+    },
+    {
+      "title": "主角（张嘉益、刘浩存、秦海璐主演同名电视剧原著）",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-06-05T06:15:37",
+      "last_seen_at": "2026-06-06T20:47:00",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
     },
     {
       "title": "金融狂热简史",
@@ -17,9 +27,19 @@
       "last_hot_value": "241人在读",
       "first_seen_at": "2026-06-05T06:15:37",
       "last_seen_at": "2026-06-05T06:15:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "金钱心理学 （全新增订版）",
+      "url": "",
+      "last_hot_value": "2229人在读",
+      "first_seen_at": "2026-06-05T06:15:37",
+      "last_seen_at": "2026-06-06T20:47:00",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "优势累积：给中国家庭的松弛父母课",
@@ -27,18 +47,28 @@
       "last_hot_value": "1363人在读",
       "first_seen_at": "2026-06-05T06:15:37",
       "last_seen_at": "2026-06-05T06:15:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "起初·纪年",
       "url": "",
-      "last_hot_value": "445人在读",
+      "last_hot_value": "743人在读",
       "first_seen_at": "2026-06-05T06:15:37",
-      "last_seen_at": "2026-06-05T06:15:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T20:47:00",
+      "consecutive_count": 2,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "2666：珍藏纪念版",
+      "url": "",
+      "last_hot_value": "290人在读",
+      "first_seen_at": "2026-06-06T20:47:00",
+      "last_seen_at": "2026-06-06T20:47:00",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,9 +77,19 @@
       "last_hot_value": "987人在读",
       "first_seen_at": "2026-06-05T06:15:37",
       "last_seen_at": "2026-06-05T06:15:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "不原谅也没关系",
+      "url": "",
+      "last_hot_value": "2916人在读",
+      "first_seen_at": "2026-06-05T06:15:37",
+      "last_seen_at": "2026-06-06T20:47:00",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "做对“懒”爸妈 养出省心娃",
@@ -57,38 +97,48 @@
       "last_hot_value": "1597人在读",
       "first_seen_at": "2026-06-05T06:15:37",
       "last_seen_at": "2026-06-05T06:15:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "金钱心理学 （全新增订版）",
+      "title": "关键跃升：新任管理者成事的底层逻辑",
       "url": "",
-      "last_hot_value": "2140人在读",
-      "first_seen_at": "2026-06-05T06:15:37",
-      "last_seen_at": "2026-06-05T06:15:37",
+      "last_hot_value": "389人在读",
+      "first_seen_at": "2026-06-06T20:47:00",
+      "last_seen_at": "2026-06-06T20:47:00",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
     },
     {
-      "title": "不原谅也没关系",
+      "title": "毛泽东选集（全四卷）",
       "url": "",
-      "last_hot_value": "2185人在读",
+      "last_hot_value": "9494人在读",
       "first_seen_at": "2026-06-05T06:15:37",
-      "last_seen_at": "2026-06-05T06:15:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T20:47:00",
+      "consecutive_count": 2,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "圆圈正义：作为自由前提的信念",
+      "url": "",
+      "last_hot_value": "920人在读",
+      "first_seen_at": "2026-06-06T20:47:00",
+      "last_seen_at": "2026-06-06T20:47:00",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "毛泽东选集（全四卷）",
+      "title": "一句顶一万句（2022新版）",
       "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-06-05T06:15:37",
-      "last_seen_at": "2026-06-05T06:15:37",
+      "last_hot_value": "7690人在读",
+      "first_seen_at": "2026-06-06T20:47:00",
+      "last_seen_at": "2026-06-06T20:47:00",
       "consecutive_count": 1,
-      "peak_rank": 9,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +147,9 @@
       "last_hot_value": "2964人在读",
       "first_seen_at": "2026-06-05T06:15:37",
       "last_seen_at": "2026-06-05T06:15:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
