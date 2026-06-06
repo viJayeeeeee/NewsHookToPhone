@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-06T08:13:46",
+  "update_time": "2026-06-06T13:00:28",
   "items": [
     {
       "title": "网络 IT、运维必掌握！LInux 常用高效命令大全！",
       "url": "https://www.51cto.com/article/845449.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +17,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-04T21:16:55",
       "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://www.51cto.com/article/845251.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,12 +62,32 @@
       "is_new": false
     },
     {
+      "title": "给会议室设备检查表加 Core Speech Kit：麦克风备注、草稿和释放路径要分清",
+      "url": "https://ost.51cto.com/posts/43655#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T13:00:28",
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "大模型微调实战",
+      "url": "https://blog.51cto.com/u_15916160/14663369",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T13:00:28",
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "利用 OpenAI Codex 高效开发 .NET 应用：从入门到实战",
       "url": "https://blog.51cto.com/zicl/14660767",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -77,7 +97,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T01:57:23",
       "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -92,12 +112,22 @@
       "is_new": false
     },
     {
+      "title": "AI 表格处理：智能数据清洗与异常检测",
+      "url": "https://blog.51cto.com/qian5201314/14663292",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T13:00:28",
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "一键部署 Qwen2.5-7B-Instruct 大模型：vLLM + Docker 高效推理方案实战指南",
       "url": "https://blog.51cto.com/u_15912723/14660614",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -126,8 +156,8 @@
       "url": "https://blog.51cto.com/u_16380863/14660560",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -157,7 +187,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
       "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -202,12 +232,22 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS 多设备图片美化应用开发",
+      "url": "https://ost.51cto.com/posts/44167#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T13:00:28",
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS 6 ArkGraphics 3D 精讲：深入浅出你不知道的几何体、材质与纹理",
       "url": "https://ost.51cto.com/posts/43948#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
       "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -217,7 +257,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T01:57:23",
       "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -230,6 +270,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "HarmonyOS 校园勤工助学岗位申报系统建设实践：岗位条件、申请材料与录用回执管理",
+      "url": "https://ost.51cto.com/posts/43923#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-06T13:00:28",
+      "last_seen_at": "2026-06-06T13:00:28",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "鸿蒙阔折叠设备适配实战 -- HdsTabs 让你的应用颜值翻倍",

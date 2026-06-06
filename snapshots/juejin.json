@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-06T08:13:43",
+  "update_time": "2026-06-06T13:00:20",
   "items": [
     {
       "title": "前端工程师最终会变成 AI工程师？",
       "url": "https://juejin.cn/post/7646302254308606004",
-      "last_hot_value": "热度:1440",
+      "last_hot_value": "热度:1431",
       "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://juejin.cn/post/7646674707382927375",
       "last_hot_value": "热度:1143",
       "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -64,20 +64,30 @@
     {
       "title": "我招了一个“Prompt工程师”来写前端，结果项目差点崩了",
       "url": "https://juejin.cn/post/7647355871891587087",
-      "last_hot_value": "热度:567",
+      "last_hot_value": "热度:558",
       "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 3,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "Flutter 最好的 AI 自动化测试工具：Patrol",
+      "url": "https://juejin.cn/post/7646696467931807807",
+      "last_hot_value": "热度:549",
+      "first_seen_at": "2026-06-05T21:42:13",
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "Go史上最大“打脸”现场来了：泛型方法终于实现了",
       "url": "https://juejin.cn/post/7646996673109573684",
-      "last_hot_value": "热度:558",
+      "last_hot_value": "热度:549",
       "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -89,16 +99,6 @@
       "last_seen_at": "2026-06-05T21:42:13",
       "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Flutter 最好的 AI 自动化测试工具：Patrol",
-      "url": "https://juejin.cn/post/7646696467931807807",
-      "last_hot_value": "热度:549",
-      "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 2,
-      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -114,12 +114,12 @@
     {
       "title": "前端转全栈别乱学：15 个 Node.js 高质量资源，按能力地图整理",
       "url": "https://juejin.cn/post/7647086721050525705",
-      "last_hot_value": "热度:468",
+      "last_hot_value": "热度:459",
       "first_seen_at": "2026-06-06T08:13:43",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "胡彦斌搞的 APP 上架了，这完成度，多少程序员都弄不出来啊。",
@@ -136,8 +136,8 @@
       "url": "https://juejin.cn/post/7646960545631715378",
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -146,8 +146,8 @@
       "url": "https://juejin.cn/post/7646622729530146856",
       "last_hot_value": "热度:423",
       "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -176,10 +176,10 @@
       "url": "https://juejin.cn/post/7646606448858595364",
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-06-06T08:13:43",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么我不推荐一人公司用PostgreSQL",
@@ -196,10 +196,10 @@
       "url": "https://juejin.cn/post/7647175057976115200",
       "last_hot_value": "热度:333",
       "first_seen_at": "2026-06-06T08:13:43",
-      "last_seen_at": "2026-06-06T08:13:43",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T13:00:20",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从截图到企业级前端页面：2个Skill，1次对话，10X效率开发符合设计/编码规范的页面",

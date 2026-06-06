@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-06-06T08:13:45",
+  "update_time": "2026-06-06T13:00:26",
   "items": [
     {
       "title": "从零实现《三角洲行动》手游自动跑刀脚本：ADB 直控 + OpenCV 视觉识别 + 固定点位搜刮)三角洲自动跑刀教程",
       "url": "https://blog.csdn.net/weixin_46221106/article/details/161664774",
-      "last_hot_value": "3.6w",
+      "last_hot_value": "3.5w",
       "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "Linux/Windows 双平台通关：YOLOv8 目标检测从模型选型到跨平台部署实战",
       "url": "https://blog.csdn.net/2402_87731470/article/details/161569839",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.7w",
       "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -34,12 +34,12 @@
     {
       "title": "鸿蒙 PC 文件共享：分布式机制 + Demo 实现",
       "url": "https://blog.csdn.net/qq_36478920/article/details/161712441",
-      "last_hot_value": "2.5w",
+      "last_hot_value": "2.2w",
       "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "基于 Albumentations 的 YOLO 目标检测数据增强可视化与批量扩增工具实战",
@@ -54,21 +54,31 @@
     {
       "title": "把 RK3566 小主机变成 24h AI 管家：飞牛 NAS 部署 Hermes + 微信接入实战",
       "url": "https://blog.csdn.net/2401_82648291/article/details/161725048",
-      "last_hot_value": "2.2w",
+      "last_hot_value": "2.1w",
       "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "OpenClaw Canvas A2UI：AI驱动的交互式界面开发实战",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/161663195",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 3,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "从 mysql 命令切到 ksql，第一步先把连接搞明白",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/161725772",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-06-06T08:13:45",
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -97,7 +107,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-05T21:42:17",
       "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -117,7 +127,7 @@
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-06-05T21:42:17",
       "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -136,10 +146,10 @@
       "url": "https://blog.csdn.net/baronbool/article/details/161717992",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【ROS2 Humble 开发专栏】Ubuntu22.04 基于 OpenCV 实现颜色阈值分割与目标坐标定位｜附完整工程源码",
@@ -162,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "从 mysql 命令切到 ksql，第一步先把连接搞明白",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/161725772",
-      "last_hot_value": "1.3w",
+      "title": "04-【政务】某市政务云安全架构",
+      "url": "https://blog.csdn.net/weixin_42115157/article/details/161722230",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "基于 MVTec AD 真实图像子集的工业表面异常检测：Python 无监督缺陷检测实战",
@@ -182,6 +192,16 @@
       "is_new": false
     },
     {
+      "title": "JVM 内存模型深度解析：从原理到实战调优",
+      "url": "https://blog.csdn.net/2504_94294476/article/details/161729604",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-06T13:00:26",
+      "last_seen_at": "2026-06-06T13:00:26",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "PyTorch强化学习实战（11）——N步DQN（N-step DQN）",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/157771745",
       "last_hot_value": "1.0w",
@@ -192,11 +212,11 @@
       "is_new": false
     },
     {
-      "title": "04-【政务】某市政务云安全架构",
-      "url": "https://blog.csdn.net/weixin_42115157/article/details/161722230",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-06T08:13:45",
+      "title": "【LE Audio】CAP精讲[14]: BR/EDR传输连接实战，老设备兼容的核心流程解析",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/161634517",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-06T13:00:26",
+      "last_seen_at": "2026-06-06T13:00:26",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

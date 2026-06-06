@@ -1,33 +1,53 @@
 {
-  "update_time": "2026-06-06T08:13:54",
+  "update_time": "2026-06-06T13:00:43",
   "items": [
     {
-      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
-      "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:575388 回复:1044",
-      "first_seen_at": "2026-06-05T21:42:25",
-      "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 2,
+      "title": "世界上还没有发现比它好用的easytier一键组网脚本！完美支持 Debian/Ubuntu/Mac/Alpine/windows/openwrt!!!!!!！宇宙无敌好用！",
+      "url": "https://www.nodeseek.com/post-410003-1",
+      "last_hot_value": "查看:16711 回复:197",
+      "first_seen_at": "2026-06-06T13:00:43",
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:191656 回复:1823",
+      "last_hot_value": "查看:192437 回复:1831",
       "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:578454 回复:1045",
+      "first_seen_at": "2026-06-05T21:42:25",
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【开源】realm全功能一键转发脚本,流量统计,MPTCP，负载均衡权重,故障转移，备注,导出/导入,搭建隧道",
+      "url": "https://www.nodeseek.com/post-391214-1",
+      "last_hot_value": "查看:30895 回复:303",
+      "first_seen_at": "2026-06-06T13:00:43",
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:185060 回复:2578",
+      "last_hot_value": "查看:185468 回复:2582",
       "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,12 +62,22 @@
       "is_new": false
     },
     {
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:79433 回复:731",
+      "first_seen_at": "2026-06-05T21:42:25",
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "AWS更新规则后，水篇教程。",
       "url": "https://www.nodeseek.com/post-408103-1",
       "last_hot_value": "查看:7303 回复:133",
       "first_seen_at": "2026-06-05T21:42:25",
       "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -57,7 +87,7 @@
       "last_hot_value": "查看:180533 回复:469",
       "first_seen_at": "2026-06-04T21:17:03",
       "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -67,7 +97,7 @@
       "last_hot_value": "查看:127938 回复:346",
       "first_seen_at": "2026-06-05T21:42:25",
       "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -82,16 +112,6 @@
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:79211 回复:729",
-      "first_seen_at": "2026-06-05T21:42:25",
-      "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
       "url": "https://www.nodeseek.com/post-718774-1",
       "last_hot_value": "查看:12877 回复:172",
@@ -102,14 +122,34 @@
       "is_new": false
     },
     {
+      "title": "【更新cf bypass】写了一个简单的补货监控，支持 Web 界面管理、推送到 Telegram/微信/自定义URL",
+      "url": "https://www.nodeseek.com/post-191876-1",
+      "last_hot_value": "查看:7422 回复:88",
+      "first_seen_at": "2026-06-06T13:00:43",
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "NodeGet探针 Bucket功能 仅需点两下 就可以部署你的探针前端",
       "url": "https://www.nodeseek.com/post-744377-1",
       "last_hot_value": "查看:1194 回复:17",
       "first_seen_at": "2026-06-04T21:17:03",
       "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "分享一个容器公网 ipv6 方法",
+      "url": "https://www.nodeseek.com/post-6769-1",
+      "last_hot_value": "查看:1039 回复:8",
+      "first_seen_at": "2026-06-06T13:00:43",
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "【知识】简单教你鉴别假CN2GIA",
@@ -117,9 +157,19 @@
       "last_hot_value": "查看:13183 回复:178",
       "first_seen_at": "2026-06-04T21:17:03",
       "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "在线云浏览器",
+      "url": "https://www.nodeseek.com/post-4510-1",
+      "last_hot_value": "查看:8424 回复:35",
+      "first_seen_at": "2026-06-06T13:00:43",
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "warp / warp-go 一键脚本 --- 祝贺顺利迁至GitLab，愿您在新的平台上获得所期望的一切！",
@@ -132,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "[HE-IPV6隧道]Vir JP TYC33节点的V6挂掉，套用HE的V6隧道应急备忘录",
+      "url": "https://www.nodeseek.com/post-8827-1",
+      "last_hot_value": "查看:342 回复:13",
+      "first_seen_at": "2026-06-06T13:00:43",
+      "last_seen_at": "2026-06-06T13:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "用 NDP 代答的方式给容器分配公网 IPv6",
       "url": "https://www.nodeseek.com/post-761362-1",
       "last_hot_value": "查看:244 回复:4",
       "first_seen_at": "2026-06-05T21:42:25",
       "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
