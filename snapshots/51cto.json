@@ -1,33 +1,13 @@
 {
-  "update_time": "2026-06-06T13:00:28",
+  "update_time": "2026-06-07T23:55:15",
   "items": [
     {
       "title": "网络 IT、运维必掌握！LInux 常用高效命令大全！",
       "url": "https://www.51cto.com/article/845449.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "16亿Windows用户，一夜冲进Agent时代！",
-      "url": "https://www.51cto.com/article/845239.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-06T08:13:46",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Claude Opus 4.8 让你睡觉时也能赚钱的工作流",
-      "url": "https://www.51cto.com/article/845030.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-05T01:57:23",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +16,8 @@
       "url": "https://www.51cto.com/article/845251.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,14 +32,14 @@
       "is_new": false
     },
     {
-      "title": "臭名昭著的、存在20年的MySQL Bug #11472终于被修复了",
-      "url": "https://www.51cto.com/article/844859.html",
+      "title": "老黄刚夸完OpenClaw，Hermes反手把智能体搬进电脑桌面",
+      "url": "https://www.51cto.com/article/845365.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-06-07T23:55:15",
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "给会议室设备检查表加 Core Speech Kit：麦克风备注、草稿和释放路径要分清",
@@ -67,27 +47,27 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-06T13:00:28",
       "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大模型微调实战",
       "url": "https://blog.51cto.com/u_15916160/14663369",
       "last_hot_value": "",
       "first_seen_at": "2026-06-06T13:00:28",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "利用 OpenAI Codex 高效开发 .NET 应用：从入门到实战",
       "url": "https://blog.51cto.com/zicl/14660767",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,32 +82,22 @@
       "is_new": false
     },
     {
-      "title": "一句话搞定数据开发！体验 DataWorks Data Agent，抽 51CTO 定制鼠标垫！",
-      "url": "https://blog.51cto.com/51ctoblog/14655706",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "AI 表格处理：智能数据清洗与异常检测",
       "url": "https://blog.51cto.com/qian5201314/14663292",
       "last_hot_value": "",
       "first_seen_at": "2026-06-06T13:00:28",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "一键部署 Qwen2.5-7B-Instruct 大模型：vLLM + Docker 高效推理方案实战指南",
       "url": "https://blog.51cto.com/u_15912723/14660614",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,22 +112,12 @@
       "is_new": false
     },
     {
-      "title": "Zed Git Graph 新特性：右键就能执行 Git 命令，这才是真正的效率工具",
-      "url": "https://blog.51cto.com/u_14602932/14655549",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "大模型应用：公交路线智能规划的最短路径算法：大模型重塑站点路径决策.114",
       "url": "https://blog.51cto.com/u_16380863/14660560",
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T21:42:18",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -167,16 +127,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T01:57:23",
       "last_seen_at": "2026-06-05T01:57:23",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "CodeGraph：给 Claude Code/Codex 装上“代码地图“，Token 直降 35%",
-      "url": "https://blog.51cto.com/u_16116809/14655509",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
@@ -202,16 +152,6 @@
       "is_new": false
     },
     {
-      "title": "Ollama 本地部署大模型：从入门到真正用起来",
-      "url": "https://blog.51cto.com/u_16040716/14655302",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "API 优先与类型安全：现代全栈架构的“降本增效”实战",
       "url": "https://blog.51cto.com/u_12795311/14657569",
       "last_hot_value": "",
@@ -222,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "用WorkBuddy给IoT网关加上行下行历史数据：一次真实的AI代码辅助记录",
-      "url": "https://blog.51cto.com/u_16864929/14655150",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "HarmonyOS 多设备图片美化应用开发",
       "url": "https://ost.51cto.com/posts/44167#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-06T13:00:28",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 6 ArkGraphics 3D 精讲：深入浅出你不知道的几何体、材质与纹理",
@@ -262,24 +192,14 @@
       "is_new": false
     },
     {
-      "title": "用 HarmonyOS 搓个正则测试器，写正则再也不用盲人摸象了",
-      "url": "https://ost.51cto.com/posts/43072#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "HarmonyOS 校园勤工助学岗位申报系统建设实践：岗位条件、申请材料与录用回执管理",
       "url": "https://ost.51cto.com/posts/43923#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-06T13:00:28",
-      "last_seen_at": "2026-06-06T13:00:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-07T23:55:15",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "鸿蒙阔折叠设备适配实战 -- HdsTabs 让你的应用颜值翻倍",
@@ -287,16 +207,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-05T01:57:23",
       "last_seen_at": "2026-06-05T01:57:23",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "开发者的瑞士军刀：用 HarmonyOS 搓个 JSON 格式化工具，复制粘贴一键搞定",
-      "url": "https://ost.51cto.com/posts/43021#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-04T21:16:55",
-      "last_seen_at": "2026-06-04T21:16:55",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

@@ -1,35 +1,35 @@
 {
-  "update_time": "2026-06-06T13:00:26",
+  "update_time": "2026-06-07T23:55:13",
   "items": [
+    {
+      "title": "Apollo- 非 Java 客户端集成：Python / Go / Node.js 客户端的使用实操",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157547944",
+      "last_hot_value": "2.2w",
+      "first_seen_at": "2026-06-07T23:55:13",
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "从零实现《三角洲行动》手游自动跑刀脚本：ADB 直控 + OpenCV 视觉识别 + 固定点位搜刮)三角洲自动跑刀教程",
       "url": "https://blog.csdn.net/weixin_46221106/article/details/161664774",
       "last_hot_value": "3.5w",
       "first_seen_at": "2026-06-05T21:42:17",
       "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Linux/Windows 双平台通关：YOLOv8 目标检测从模型选型到跨平台部署实战",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/161569839",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "TimechoAI 上手：从一段时序数据跑到预测分析",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/161661125",
-      "last_hot_value": "2.1w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T01:57:21",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "【QT】系统相关：QT文件",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/161604485",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-06-07T23:55:13",
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "鸿蒙 PC 文件共享：分布式机制 + Demo 实现",
@@ -37,27 +37,27 @@
       "last_hot_value": "2.2w",
       "first_seen_at": "2026-06-06T08:13:45",
       "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "基于 Albumentations 的 YOLO 目标检测数据增强可视化与批量扩增工具实战",
-      "url": "https://blog.csdn.net/2401_88848122/article/details/161615466",
-      "last_hot_value": "2.0w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T01:57:21",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
+      "title": "从 mysql 命令切到 ksql，第一步先把连接搞明白",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/161725772",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-06-06T08:13:45",
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "把 RK3566 小主机变成 24h AI 管家：飞牛 NAS 部署 Hermes + 微信接入实战",
       "url": "https://blog.csdn.net/2401_82648291/article/details/161725048",
-      "last_hot_value": "2.1w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -67,39 +67,19 @@
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-06-05T21:42:17",
       "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "从 mysql 命令切到 ksql，第一步先把连接搞明白",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/161725772",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Re：Linux系统篇（二十六）进程篇·十一：从底层原理到 exec* 家族：彻底搞懂 Linux 进程程序替换",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/161432261",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T01:57:21",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "鸿蒙Flutter实战：IndexedStack保持Tab页面状态",
-      "url": "https://blog.csdn.net/2302_80329073/article/details/161665017",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T01:57:21",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "AtomGit Flutter鸿蒙客户端：Issue管理",
+      "url": "https://blog.csdn.net/2302_80329073/article/details/161754091",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-06-07T23:55:13",
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【Linux网络】一文吃透 TCP Socket 编程",
@@ -112,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "《Kingbase护城河》——跨平台环境下的数据库联调实战",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/161633044",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T01:57:21",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "OpenClaw Nodes 设备管理深度解析：AI Agent的跨设备协作能力",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/161729293",
+      "last_hot_value": "9437",
+      "first_seen_at": "2026-06-07T23:55:13",
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "99.9%安全率：Java SSL加密如何守护交通数据的“黄金通道“",
@@ -142,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "手机里存了几千首歌却懒得打开听?我用飞牛NAS+Navidrome搭了个自己的音乐库",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/161726079",
+      "last_hot_value": "9390",
+      "first_seen_at": "2026-06-07T23:55:13",
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "2026 年再看 GUI Agent：会操作电脑已经不稀奇，能进企业流程才稀缺",
       "url": "https://blog.csdn.net/baronbool/article/details/161717992",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-06T08:13:45",
       "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -162,13 +152,13 @@
       "is_new": false
     },
     {
-      "title": "【Linux网络】深入理解 HTTP 协议（四）：完善 C++ HTTP 服务器：从协议原理到生产级实现",
-      "url": "https://blog.csdn.net/2503_91389547/article/details/161227202",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 0,
-      "peak_rank": 7,
+      "title": "JVM 内存模型深度解析：从原理到实战调优",
+      "url": "https://blog.csdn.net/2504_94294476/article/details/161729604",
+      "last_hot_value": "8888",
+      "first_seen_at": "2026-06-06T13:00:26",
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 2,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -177,39 +167,29 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-06T08:13:45",
       "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "基于 MVTec AD 真实图像子集的工业表面异常检测：Python 无监督缺陷检测实战",
-      "url": "https://blog.csdn.net/loushangfengjing/article/details/161633169",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T01:57:21",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "JVM 内存模型深度解析：从原理到实战调优",
-      "url": "https://blog.csdn.net/2504_94294476/article/details/161729604",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-06T13:00:26",
-      "last_seen_at": "2026-06-06T13:00:26",
+      "title": "第21届全国大学生智能汽车竞赛第二次组委会扩大会议（2026）",
+      "url": "https://blog.csdn.net/zhuoqingjoking97298/article/details/161726674",
+      "last_hot_value": "8884",
+      "first_seen_at": "2026-06-07T23:55:13",
+      "last_seen_at": "2026-06-07T23:55:13",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "PyTorch强化学习实战（11）——N步DQN（N-step DQN）",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/157771745",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T01:57:21",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "ROS2 Humble 开发专栏Ubuntu22.04|基于OpenCV 实现机器视觉人脸检测实验指南",
+      "url": "https://blog.csdn.net/weixin_61186812/article/details/161708947",
+      "last_hot_value": "8557",
+      "first_seen_at": "2026-06-07T23:55:13",
+      "last_seen_at": "2026-06-07T23:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【LE Audio】CAP精讲[14]: BR/EDR传输连接实战，老设备兼容的核心流程解析",
@@ -217,9 +197,9 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-06-06T13:00:26",
       "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SpringBoot+Vue3+Flowable 实现合同管理全生命周期：起草·审批·签署·履约·回款台账闭环设计",
@@ -227,16 +207,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-05T21:42:17",
       "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "数据库挂了服务就瘫？我用PostgreSQL主从流复制搭了高可用架构，cpolar打通远程访问",
-      "url": "https://blog.csdn.net/liu_chen_yang/article/details/161690069",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-04T21:16:54",
-      "last_seen_at": "2026-06-05T01:57:21",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

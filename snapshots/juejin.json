@@ -1,93 +1,43 @@
 {
-  "update_time": "2026-06-06T13:00:20",
+  "update_time": "2026-06-07T23:54:59",
   "items": [
-    {
-      "title": "前端工程师最终会变成 AI工程师？",
-      "url": "https://juejin.cn/post/7646302254308606004",
-      "last_hot_value": "热度:1431",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "单仓库下的四十模块 —— React Monorepo 工程架构拆解",
-      "url": "https://juejin.cn/post/7646780176223010826",
-      "last_hot_value": "热度:1584",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T21:42:13",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "GSY 史上最全跨平台/架构/语言的项目，七大项目召唤「神龙」",
-      "url": "https://juejin.cn/post/7645878125167853611",
-      "last_hot_value": "热度:1494",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T01:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "彦火APP-Flutter包体分析",
       "url": "https://juejin.cn/post/7646674707382927375",
-      "last_hot_value": "热度:1143",
+      "last_hot_value": "热度:1242",
       "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "胡彦斌都开始苦修Vibe Coding，还上架App Store，都卷到编程来了吗？",
-      "url": "https://juejin.cn/post/7647045346850013224",
-      "last_hot_value": "热度:1422",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T01:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "我们需要的不是天涯，而是那个愿意认真讨论的互联网",
-      "url": "https://juejin.cn/post/7645962490813743155",
-      "last_hot_value": "热度:1395",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T01:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 4,
+      "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "我招了一个“Prompt工程师”来写前端，结果项目差点崩了",
       "url": "https://juejin.cn/post/7647355871891587087",
-      "last_hot_value": "热度:558",
+      "last_hot_value": "热度:738",
       "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 4,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "Go史上最大“打脸”现场来了：泛型方法终于实现了",
+      "url": "https://juejin.cn/post/7646996673109573684",
+      "last_hot_value": "热度:648",
+      "first_seen_at": "2026-06-05T21:42:13",
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "Flutter 最好的 AI 自动化测试工具：Patrol",
       "url": "https://juejin.cn/post/7646696467931807807",
-      "last_hot_value": "热度:549",
+      "last_hot_value": "热度:585",
       "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Go史上最大“打脸”现场来了：泛型方法终于实现了",
-      "url": "https://juejin.cn/post/7646996673109573684",
-      "last_hot_value": "热度:549",
-      "first_seen_at": "2026-06-05T21:42:13",
-      "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,33 +52,33 @@
       "is_new": false
     },
     {
-      "title": "别再把“做个H5”挂嘴边了：这个词，官方压根就没有定义过",
-      "url": "https://juejin.cn/post/7646334161279893513",
-      "last_hot_value": "热度:1107",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T01:57:18",
-      "consecutive_count": 0,
+      "title": "前端转全栈别乱学：15 个 Node.js 高质量资源，按能力地图整理",
+      "url": "https://juejin.cn/post/7647086721050525705",
+      "last_hot_value": "热度:558",
+      "first_seen_at": "2026-06-06T08:13:43",
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "前端转全栈别乱学：15 个 Node.js 高质量资源，按能力地图整理",
-      "url": "https://juejin.cn/post/7647086721050525705",
-      "last_hot_value": "热度:459",
+      "title": "MybatisPlus Pro 来了，CURD开发效率直接拉满！",
+      "url": "https://juejin.cn/post/7646606448858595364",
+      "last_hot_value": "热度:441",
       "first_seen_at": "2026-06-06T08:13:43",
-      "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "胡彦斌搞的 APP 上架了，这完成度，多少程序员都弄不出来啊。",
-      "url": "https://juejin.cn/post/7647084849180409892",
-      "last_hot_value": "热度:1098",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T01:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 6,
+      "title": "你真的知道自己把 AI 用在了哪里吗？这是 Vibe Usage 想回答的问题",
+      "url": "https://juejin.cn/post/7647175057976115200",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-06-06T08:13:43",
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 3,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -137,9 +87,19 @@
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-06-05T21:42:13",
       "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "Android 17 内存管理将严格管控，App 要注意适配",
+      "url": "https://juejin.cn/post/7647356541462806580",
+      "last_hot_value": "热度:324",
+      "first_seen_at": "2026-06-07T23:54:59",
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "《Kingbase护城河》——跨平台环境下的数据库联调实战",
@@ -147,7 +107,7 @@
       "last_hot_value": "热度:423",
       "first_seen_at": "2026-06-05T21:42:13",
       "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -162,54 +122,24 @@
       "is_new": false
     },
     {
-      "title": "别再用MySQL了，AI时代这个数据库更香！",
-      "url": "https://juejin.cn/post/7646180958676631595",
-      "last_hot_value": "热度:810",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T01:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "MybatisPlus Pro 来了，CURD开发效率直接拉满！",
-      "url": "https://juejin.cn/post/7646606448858595364",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-06-06T08:13:43",
-      "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 2,
+      "title": "一个 Linux 调度器优化，让 Android 多耗 20% 的电，传音工程师如何发现问题？",
+      "url": "https://juejin.cn/post/7646955656403238966",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-06-07T23:54:59",
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "为什么我不推荐一人公司用PostgreSQL",
-      "url": "https://juejin.cn/post/7646348958055546930",
-      "last_hot_value": "热度:765",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T01:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "你真的知道自己把 AI 用在了哪里吗？这是 Vibe Usage 想回答的问题",
-      "url": "https://juejin.cn/post/7647175057976115200",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-06-06T08:13:43",
-      "last_seen_at": "2026-06-06T13:00:20",
-      "consecutive_count": 2,
+      "title": "Kotlin放大招！官方 Skills 直接喂出「专家级」代码",
+      "url": "https://juejin.cn/post/7647096140721340462",
+      "last_hot_value": "热度:270",
+      "first_seen_at": "2026-06-07T23:54:59",
+      "last_seen_at": "2026-06-07T23:54:59",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "从截图到企业级前端页面：2个Skill，1次对话，10X效率开发符合设计/编码规范的页面",
-      "url": "https://juejin.cn/post/7646396172870008847",
-      "last_hot_value": "热度:693",
-      "first_seen_at": "2026-06-04T21:16:51",
-      "last_seen_at": "2026-06-05T01:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

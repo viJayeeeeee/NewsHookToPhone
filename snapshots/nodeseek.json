@@ -1,23 +1,13 @@
 {
-  "update_time": "2026-06-06T13:00:43",
+  "update_time": "2026-06-07T23:55:22",
   "items": [
     {
       "title": "世界上还没有发现比它好用的easytier一键组网脚本！完美支持 Debian/Ubuntu/Mac/Alpine/windows/openwrt!!!!!!！宇宙无敌好用！",
       "url": "https://www.nodeseek.com/post-410003-1",
       "last_hot_value": "查看:16711 回复:197",
       "first_seen_at": "2026-06-06T13:00:43",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:192437 回复:1831",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-07T23:55:22",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +16,8 @@
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:578454 回复:1045",
       "first_seen_at": "2026-06-05T21:42:25",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:55:22",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,29 +26,9 @@
       "url": "https://www.nodeseek.com/post-391214-1",
       "last_hot_value": "查看:30895 回复:303",
       "first_seen_at": "2026-06-06T13:00:43",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-07T23:55:22",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:185468 回复:2582",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 5,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "探针主题开源！！！",
-      "url": "https://www.nodeseek.com/post-698953-1",
-      "last_hot_value": "查看:3683 回复:75",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-05T01:57:31",
-      "consecutive_count": 0,
-      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -66,8 +36,8 @@
       "url": "https://www.nodeseek.com/post-287967-1",
       "last_hot_value": "查看:79433 回复:731",
       "first_seen_at": "2026-06-05T21:42:25",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-07T23:55:22",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -76,16 +46,6 @@
       "url": "https://www.nodeseek.com/post-408103-1",
       "last_hot_value": "查看:7303 回复:133",
       "first_seen_at": "2026-06-05T21:42:25",
-      "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
-      "url": "https://www.nodeseek.com/post-373751-1",
-      "last_hot_value": "查看:180533 回复:469",
-      "first_seen_at": "2026-06-04T21:17:03",
       "last_seen_at": "2026-06-06T08:13:54",
       "consecutive_count": 0,
       "peak_rank": 4,
@@ -102,42 +62,12 @@
       "is_new": false
     },
     {
-      "title": "从零搭建 Obsidian 个人知识库：PARA + 中文目录 + Git 备份完整实战",
-      "url": "https://www.nodeseek.com/post-711247-1",
-      "last_hot_value": "查看:1474 回复:25",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-05T01:57:31",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
-      "url": "https://www.nodeseek.com/post-718774-1",
-      "last_hot_value": "查看:12877 回复:172",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-05T01:57:31",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "【更新cf bypass】写了一个简单的补货监控，支持 Web 界面管理、推送到 Telegram/微信/自定义URL",
       "url": "https://www.nodeseek.com/post-191876-1",
       "last_hot_value": "查看:7422 回复:88",
       "first_seen_at": "2026-06-06T13:00:43",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "NodeGet探针 Bucket功能 仅需点两下 就可以部署你的探针前端",
-      "url": "https://www.nodeseek.com/post-744377-1",
-      "last_hot_value": "查看:1194 回复:17",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-07T23:55:22",
+      "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
     },
@@ -146,18 +76,8 @@
       "url": "https://www.nodeseek.com/post-6769-1",
       "last_hot_value": "查看:1039 回复:8",
       "first_seen_at": "2026-06-06T13:00:43",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "【知识】简单教你鉴别假CN2GIA",
-      "url": "https://www.nodeseek.com/post-754155-1",
-      "last_hot_value": "查看:13183 回复:178",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-07T23:55:22",
+      "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
     },
@@ -166,18 +86,8 @@
       "url": "https://www.nodeseek.com/post-4510-1",
       "last_hot_value": "查看:8424 回复:35",
       "first_seen_at": "2026-06-06T13:00:43",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "warp / warp-go 一键脚本 --- 祝贺顺利迁至GitLab，愿您在新的平台上获得所期望的一切！",
-      "url": "https://www.nodeseek.com/post-23836-1",
-      "last_hot_value": "查看:42298 回复:217",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-05T01:57:31",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-07T23:55:22",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
@@ -186,10 +96,10 @@
       "url": "https://www.nodeseek.com/post-8827-1",
       "last_hot_value": "查看:342 回复:13",
       "first_seen_at": "2026-06-06T13:00:43",
-      "last_seen_at": "2026-06-06T13:00:43",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-07T23:55:22",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "用 NDP 代答的方式给容器分配公网 IPv6",
@@ -197,16 +107,6 @@
       "last_hot_value": "查看:244 回复:4",
       "first_seen_at": "2026-06-05T21:42:25",
       "last_seen_at": "2026-06-06T08:13:54",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "不止DMIT、BWH ❗❗❗ 超全面的NS热门商家套餐汇总",
-      "url": "https://www.nodeseek.com/post-600406-1",
-      "last_hot_value": "查看:11220 回复:175",
-      "first_seen_at": "2026-06-04T21:17:03",
-      "last_seen_at": "2026-06-05T01:57:31",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
