@@ -1,114 +1,14 @@
 {
-  "update_time": "2026-06-07T09:37:18",
+  "update_time": "2026-06-08T20:30:46",
   "items": [
     {
       "title": "12.31",
       "url": "https://music.163.com/#/song?id=3388509025",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-06-06T20:46:56",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "玻璃",
-      "url": "https://music.163.com/#/song?id=3382908505",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-07T09:37:18",
+      "last_seen_at": "2026-06-08T20:30:46",
       "consecutive_count": 3,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "海屿你",
-      "url": "https://music.163.com/#/song?id=1973665667",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "如果呢",
-      "url": "https://music.163.com/#/song?id=1842728629",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "恋人",
-      "url": "https://music.163.com/#/song?id=2600493765",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "雨过后的风景",
-      "url": "https://music.163.com/#/song?id=215382",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 3,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "阴天",
-      "url": "https://music.163.com/#/song?id=108640",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-05T06:15:32",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "于是",
-      "url": "https://music.163.com/#/song?id=1303464858",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 3,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "还是会想你",
-      "url": "https://music.163.com/#/song?id=1827600686",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-05T06:15:32",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Fever Pitch",
-      "url": "https://music.163.com/#/song?id=3362038053",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 3,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "一半一半",
-      "url": "https://music.163.com/#/song?id=3333988321",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-06-05T06:15:32",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 3,
-      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -116,8 +16,8 @@
       "url": "https://music.163.com/#/song?id=2701139855",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-06-06T20:46:56",
-      "last_seen_at": "2026-06-07T09:37:18",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-08T20:30:46",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     }
