@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-08T11:53:15",
+  "update_time": "2026-06-09T23:43:16",
   "items": [
+    {
+      "title": "【AI智能体】Codex 高级进阶使用技巧项目实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161695315",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "Spring AI 1.x 系列【40】MCP 客户端 Spring Boot 启动器",
       "url": "https://blog.csdn.net/qq_43437874/article/details/161777025",
       "last_hot_value": "788",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Apollo- 非 Java 客户端集成：Python / Go / Node.js 客户端的使用实操",
@@ -22,14 +32,14 @@
       "is_new": false
     },
     {
-      "title": "从零实现《三角洲行动》手游自动跑刀脚本：ADB 直控 + OpenCV 视觉识别 + 固定点位搜刮)三角洲自动跑刀教程",
-      "url": "https://blog.csdn.net/weixin_46221106/article/details/161664774",
-      "last_hot_value": "3.5w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "【Linux网络】高性能 TCP 服务器：从多线程到线程池的架构演进与落地实践",
+      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/161750847",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "鸿蒙 App 集成 AI 助手：架构设计 + 实战代码",
@@ -37,9 +47,9 @@
       "last_hot_value": "789",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【QT】系统相关：QT文件",
@@ -52,14 +62,14 @@
       "is_new": false
     },
     {
-      "title": "鸿蒙 PC 文件共享：分布式机制 + Demo 实现",
-      "url": "https://blog.csdn.net/qq_36478920/article/details/161712441",
-      "last_hot_value": "2.2w",
-      "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "【Linux网络】深入理解传输层 UDP 协议：从底层原理到实战应用",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/161314037",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "gRPC 流式通信与背压控制：Go 微服务中的实时数据传输方案",
@@ -67,39 +77,19 @@
       "last_hot_value": "805",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
+      "consecutive_count": 0,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "AI Agent 的新战场：从会动手，到被允许动手",
+      "url": "https://blog.csdn.net/2301_81253185/article/details/161775819",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
       "consecutive_count": 1,
-      "peak_rank": 3,
+      "peak_rank": 4,
       "is_new": true
-    },
-    {
-      "title": "从 mysql 命令切到 ksql，第一步先把连接搞明白",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/161725772",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-07T23:55:13",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "把 RK3566 小主机变成 24h AI 管家：飞牛 NAS 部署 Hermes + 微信接入实战",
-      "url": "https://blog.csdn.net/2401_82648291/article/details/161725048",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-07T23:55:13",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "OpenClaw Canvas A2UI：AI驱动的交互式界面开发实战",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/161663195",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
     },
     {
       "title": "基于DNA算法的遥感图像加解密matlab仿真",
@@ -107,8 +97,18 @@
       "last_hot_value": "814",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "从 MySQL 到 KingbaseES：Database、Schema、User 一次讲透",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/161806150",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -117,9 +117,9 @@
       "last_hot_value": "835",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AtomGit Flutter鸿蒙客户端：Issue管理",
@@ -132,14 +132,14 @@
       "is_new": false
     },
     {
-      "title": "【Linux网络】一文吃透 TCP Socket 编程",
-      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/161681354",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "湖南高考天气查询：基于 HTML5 与百度天气 API 实现页面展示",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/161778892",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "AI API 调用优化实战：统一入口与超时处理指南",
@@ -147,9 +147,9 @@
       "last_hot_value": "844",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenClaw Nodes 设备管理深度解析：AI Agent的跨设备协作能力",
@@ -162,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "99.9%安全率：Java SSL加密如何守护交通数据的“黄金通道“",
-      "url": "https://blog.csdn.net/z_344791576/article/details/151898086",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-06T08:13:45",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "最新Codex 解决手机号验证码方案-亲测有效",
-      "url": "https://blog.csdn.net/Jack_num1/article/details/161649557",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "用30秒声音复刻自己的音色：Index-TTS远程部署与公网访问实践",
+      "url": "https://blog.csdn.net/2501_91062530/article/details/161836318",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "AI 驱动的轻量化创意产品从想法到发布",
@@ -187,9 +177,9 @@
       "last_hot_value": "848",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "手机里存了几千首歌却懒得打开听?我用飞牛NAS+Navidrome搭了个自己的音乐库",
@@ -202,24 +192,14 @@
       "is_new": false
     },
     {
-      "title": "2026 年再看 GUI Agent：会操作电脑已经不稀奇，能进企业流程才稀缺",
-      "url": "https://blog.csdn.net/baronbool/article/details/161717992",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "【ROS2 Humble 开发专栏】Ubuntu22.04 基于 OpenCV 实现颜色阈值分割与目标坐标定位｜附完整工程源码",
-      "url": "https://blog.csdn.net/weixin_61186812/article/details/161708452",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-05T21:42:17",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "PyTorch强化学习实战（12）——Double DQN（DDQN）",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/157941855",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "AI 自动化测试",
@@ -227,29 +207,19 @@
       "last_hot_value": "852",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
+      "consecutive_count": 0,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "大模型AI测评：GPT-4与Claude 3.5代码生成实测横评",
+      "url": "https://blog.csdn.net/2401_87342824/article/details/161724594",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
       "consecutive_count": 1,
-      "peak_rank": 8,
+      "peak_rank": 9,
       "is_new": true
-    },
-    {
-      "title": "JVM 内存模型深度解析：从原理到实战调优",
-      "url": "https://blog.csdn.net/2504_94294476/article/details/161729604",
-      "last_hot_value": "8888",
-      "first_seen_at": "2026-06-06T13:00:26",
-      "last_seen_at": "2026-06-07T23:55:13",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "04-【政务】某市政务云安全架构",
-      "url": "https://blog.csdn.net/weixin_42115157/article/details/161722230",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-06-06T08:13:45",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
     },
     {
       "title": "AI 时代还需要买课吗？我用 Skills + Markdown + HTML 搭了一套自学系统",
@@ -257,9 +227,9 @@
       "last_hot_value": "865",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "第21届全国大学生智能汽车竞赛第二次组委会扩大会议（2026）",
@@ -272,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "AtomGit Flutter鸿蒙客户端：通知系统",
+      "url": "https://blog.csdn.net/2302_80329073/article/details/161835347",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-09T23:43:16",
+      "last_seen_at": "2026-06-09T23:43:16",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "【别再只会 HTTP 了，JMeter 压测 WebSocket 才够硬核】",
       "url": "https://blog.csdn.net/DW_101/article/details/161773692",
       "last_hot_value": "870",
       "first_seen_at": "2026-06-08T11:53:15",
       "last_seen_at": "2026-06-08T11:53:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "ROS2 Humble 开发专栏Ubuntu22.04|基于OpenCV 实现机器视觉人脸检测实验指南",
@@ -287,26 +267,6 @@
       "last_hot_value": "8557",
       "first_seen_at": "2026-06-07T23:55:13",
       "last_seen_at": "2026-06-07T23:55:13",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "【LE Audio】CAP精讲[14]: BR/EDR传输连接实战，老设备兼容的核心流程解析",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/161634517",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-06T13:00:26",
-      "last_seen_at": "2026-06-06T13:00:26",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "SpringBoot+Vue3+Flowable 实现合同管理全生命周期：起草·审批·签署·履约·回款台账闭环设计",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/161707278",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-06-05T21:42:17",
-      "last_seen_at": "2026-06-05T21:42:17",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
