@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-08T02:07:18",
+  "update_time": "2026-06-09T01:29:07",
   "items": [
+    {
+      "title": "高考",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23",
+      "last_hot_value": "1476560",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "菲律宾群岛7.9级地震",
       "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BE%A4%E5%B2%9B7.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23",
       "last_hot_value": "1187217",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "真考琵琶行了",
@@ -52,24 +62,14 @@
       "is_new": false
     },
     {
-      "title": "红果3类短剧禁拍13类受限",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C3%E7%B1%BB%E7%9F%AD%E5%89%A7%E7%A6%81%E6%8B%8D13%E7%B1%BB%E5%8F%97%E9%99%90%23",
-      "last_hot_value": "1644452",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "DNA组太牛了",
-      "url": "https://s.weibo.com/weibo?q=%23DNA%E7%BB%84%E5%A4%AA%E7%89%9B%E4%BA%86%23",
-      "last_hot_value": "3029967",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "郑钦文止步女王杯首轮",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A2%E6%AD%A5%E5%A5%B3%E7%8E%8B%E6%9D%AF%E9%A6%96%E8%BD%AE%23",
+      "last_hot_value": "914723",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "高考物理",
@@ -77,9 +77,9 @@
       "last_hot_value": "982799",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "高考作文",
@@ -122,24 +122,14 @@
       "is_new": false
     },
     {
-      "title": "黄金",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23",
-      "last_hot_value": "1372992",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "浪姐直播",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD%23",
-      "last_hot_value": "1851401",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "平壤各界群众和少年儿童身着节日盛装",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%A3%A4%E5%90%84%E7%95%8C%E7%BE%A4%E4%BC%97%E5%92%8C%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E8%BA%AB%E7%9D%80%E8%8A%82%E6%97%A5%E7%9B%9B%E8%A3%85%23",
+      "last_hot_value": "720687",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "中国基建上新要编织六张网",
@@ -147,9 +137,9 @@
       "last_hot_value": "937113",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "静音护航就是最棒的高考应援",
@@ -192,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "卫星影像记录中国生态巨变",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E5%BD%B1%E5%83%8F%E8%AE%B0%E5%BD%95%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%80%81%E5%B7%A8%E5%8F%98%23",
-      "last_hot_value": "1364033",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "印度为何顶着高温也要限制中国空调",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%BA%E4%BD%95%E9%A1%B6%E7%9D%80%E9%AB%98%E6%B8%A9%E4%B9%9F%E8%A6%81%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83%23",
+      "last_hot_value": "698047",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "发现外星生命须立即通报联合国",
@@ -207,9 +197,9 @@
       "last_hot_value": "920451",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "高考语文默写",
@@ -252,24 +242,14 @@
       "is_new": false
     },
     {
-      "title": "李晨好大一个白眼",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E5%A5%BD%E5%A4%A7%E4%B8%80%E4%B8%AA%E7%99%BD%E7%9C%BC%23",
-      "last_hot_value": "1361799",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "高考期间有必要禁豆包吗",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E7%A6%81%E8%B1%86%E5%8C%85%E5%90%97%23",
-      "last_hot_value": "1602443",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "李小冉乘风下班哭了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B9%98%E9%A3%8E%E4%B8%8B%E7%8F%AD%E5%93%AD%E4%BA%86%23",
+      "last_hot_value": "663988",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "张月全程一直黑脸",
@@ -277,9 +257,9 @@
       "last_hot_value": "912331",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "高考 豆包",
@@ -322,34 +302,14 @@
       "is_new": false
     },
     {
-      "title": "男子胸痛挂号13分钟医生出现",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%B8%E7%97%9B%E6%8C%82%E5%8F%B713%E5%88%86%E9%92%9F%E5%8C%BB%E7%94%9F%E5%87%BA%E7%8E%B0%23",
-      "last_hot_value": "541563",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "黄灿灿发文道歉",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23",
-      "last_hot_value": "441550",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "窦靖童帮唱一句没唱",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%AA%A6%E9%9D%96%E7%AB%A5%E5%B8%AE%E5%94%B1%E4%B8%80%E5%8F%A5%E6%B2%A1%E5%94%B1%23",
-      "last_hot_value": "1582597",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "人在什么状态下学习效率最高",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81%E4%B8%8B%E5%AD%A6%E4%B9%A0%E6%95%88%E7%8E%87%E6%9C%80%E9%AB%98%23",
+      "last_hot_value": "635211",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "韩国股市",
@@ -357,9 +317,9 @@
       "last_hot_value": "902826",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "一卷作文 脑子里只有网络烂梗",
@@ -402,24 +362,14 @@
       "is_new": false
     },
     {
-      "title": "潇洒小姐排名第一",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%BD%87%E6%B4%92%E5%B0%8F%E5%A7%90%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23",
-      "last_hot_value": "135644",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T22:47:28",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "DNA组才838",
-      "url": "https://s.weibo.com/weibo?q=%23DNA%E7%BB%84%E6%89%8D838%23",
-      "last_hot_value": "1519893",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "韩剧迎来了它的四大战神",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E8%BF%8E%E6%9D%A5%E4%BA%86%E5%AE%83%E7%9A%84%E5%9B%9B%E5%A4%A7%E6%88%98%E7%A5%9E%23",
+      "last_hot_value": "626313",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "NBA",
@@ -427,9 +377,9 @@
       "last_hot_value": "715532",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "琵琶行原唱发文",
@@ -472,24 +422,14 @@
       "is_new": false
     },
     {
-      "title": "以后真要把细菌当衣服穿了",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%90%8E%E7%9C%9F%E8%A6%81%E6%8A%8A%E7%BB%86%E8%8F%8C%E5%BD%93%E8%A1%A3%E6%9C%8D%E7%A9%BF%E4%BA%86%23",
-      "last_hot_value": "274346",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "杭州非法试管婴儿事件最新通报",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%9D%9E%E6%B3%95%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5%23",
-      "last_hot_value": "1488332",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "郑钦文怎么了",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%80%8E%E4%B9%88%E4%BA%86%23",
+      "last_hot_value": "518011",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "浪姐四公个喜人气排名",
@@ -497,9 +437,9 @@
       "last_hot_value": "707437",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "翘楚热度",
@@ -532,24 +472,14 @@
       "is_new": false
     },
     {
-      "title": "完美解决了吃碳水会晕的问题",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3%E4%BA%86%E5%90%83%E7%A2%B3%E6%B0%B4%E4%BC%9A%E6%99%95%E7%9A%84%E9%97%AE%E9%A2%98%23",
-      "last_hot_value": "260242",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "母亲60g黄金藏水壶被女儿当废品卖了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B260g%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86%23",
-      "last_hot_value": "1389163",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "唐尚珺高考16次累计获30万补助",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B0%9A%E7%8F%BA%E9%AB%98%E8%80%8316%E6%AC%A1%E7%B4%AF%E8%AE%A1%E8%8E%B730%E4%B8%87%E8%A1%A5%E5%8A%A9%23",
+      "last_hot_value": "510299",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "记者刚开口安慰考生说我已经考上了",
@@ -557,9 +487,9 @@
       "last_hot_value": "692451",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "狼队转会公告",
@@ -602,34 +532,14 @@
       "is_new": false
     },
     {
-      "title": "看得出来老师是第一次带毕业班",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BE%97%E5%87%BA%E6%9D%A5%E8%80%81%E5%B8%88%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B8%A6%E6%AF%95%E4%B8%9A%E7%8F%AD%23",
-      "last_hot_value": "260031",
-      "first_seen_at": "2026-06-05T22:47:28",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "世界杯",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23",
-      "last_hot_value": "257647",
-      "first_seen_at": "2026-06-05T18:09:46",
-      "last_seen_at": "2026-06-05T23:51:09",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "抖音副总裁回应豆包误判蘑菇",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%23",
-      "last_hot_value": "1280002",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "奥利塞帽子戏法",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%88%A9%E5%A1%9E%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23",
+      "last_hot_value": "505316",
+      "first_seen_at": "2026-06-09T01:29:07",
+      "last_seen_at": "2026-06-09T01:29:07",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "高考历史",
@@ -637,9 +547,9 @@
       "last_hot_value": "684262",
       "first_seen_at": "2026-06-08T02:07:18",
       "last_seen_at": "2026-06-08T02:07:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我国乘用车12年胖了近400公斤",
@@ -677,16 +587,6 @@
       "last_hot_value": "665175",
       "first_seen_at": "2026-06-06T05:42:21",
       "last_seen_at": "2026-06-06T05:42:21",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "国足半场2比0新加坡",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%8D%8A%E5%9C%BA2%E6%AF%940%E6%96%B0%E5%8A%A0%E5%9D%A1%23",
-      "last_hot_value": "1236361",
-      "first_seen_at": "2026-06-05T13:25:48",
-      "last_seen_at": "2026-06-05T13:25:48",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
