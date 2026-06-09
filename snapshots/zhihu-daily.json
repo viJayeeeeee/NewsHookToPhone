@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-06-09T01:29:19",
+  "update_time": "2026-06-09T16:40:09",
   "items": [
     {
-      "title": "为什么桃代表长寿而不是其他水果？",
-      "url": "https://daily.zhihu.com/story/9790237",
+      "title": "为什么编程语言里的乘法符号是 * 而不是 × ，后者不应该更符合主流吗？",
+      "url": "https://daily.zhihu.com/story/9790302",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-06T05:42:34",
-      "last_seen_at": "2026-06-09T01:29:19",
-      "consecutive_count": 6,
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "为什么说「香蕉是浆果，草莓不是浆果」？",
+      "url": "https://daily.zhihu.com/story/9790284",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "普通人参观博物馆意义是什么？",
+      "url": "https://daily.zhihu.com/story/9790259",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "数学是人类发明的，还是宇宙本身的语言？",
@@ -17,9 +37,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-09T01:29:19",
       "last_seen_at": "2026-06-09T01:29:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么少数动物和植物能存活上千年，而人类却活不过二百岁呢？",
@@ -27,8 +47,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-09T01:29:19",
       "last_seen_at": "2026-06-09T01:29:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "如果让你推荐一件「有故事」的文物，你会推荐哪个？",
+      "url": "https://daily.zhihu.com/story/9790210",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -37,39 +67,59 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-09T01:29:19",
       "last_seen_at": "2026-06-09T01:29:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "为什么外国火腿可以生吃，中国火腿不行？",
+      "url": "https://daily.zhihu.com/story/9790303",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
-      "title": "怎么评价《杀死一只知更鸟》?",
-      "url": "https://daily.zhihu.com/story/9790239",
+      "title": "市场上的假羊肉串是用什么冒充的？",
+      "url": "https://daily.zhihu.com/story/9790306",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-06T05:42:34",
-      "last_seen_at": "2026-06-09T01:29:19",
-      "consecutive_count": 6,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "为什么梵高在生前没有被誉为天才，死后却声名鹊起？",
-      "url": "https://daily.zhihu.com/story/9790248",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-06T05:42:34",
-      "last_seen_at": "2026-06-09T01:29:19",
-      "consecutive_count": 6,
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "有哪些很诡异的画？",
-      "url": "https://daily.zhihu.com/story/9790256",
+      "title": "瞎扯 · 如何正确地吐槽",
+      "url": "https://daily.zhihu.com/story/9790308",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-06T05:42:34",
-      "last_seen_at": "2026-06-09T01:29:19",
-      "consecutive_count": 6,
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "人类真的想象不出从来没见过的东西吗？",
+      "url": "https://daily.zhihu.com/story/9790290",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "日本为什么几乎没有鸭肉和鸭蛋？",
+      "url": "https://daily.zhihu.com/story/9790298",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-09T16:40:09",
+      "last_seen_at": "2026-06-09T16:40:09",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
