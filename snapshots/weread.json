@@ -1,43 +1,63 @@
 {
-  "update_time": "2026-06-09T22:11:09",
+  "update_time": "2026-06-10T16:53:43",
   "items": [
+    {
+      "title": "我在深圳当市长",
+      "url": "",
+      "last_hot_value": "314人在读",
+      "first_seen_at": "2026-06-10T16:53:43",
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "等一切风平浪静（治愈散文）",
+      "url": "",
+      "last_hot_value": "7370人在读",
+      "first_seen_at": "2026-06-09T11:48:19",
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "荣枯鉴（全译全解）",
       "url": "",
       "last_hot_value": "870人在读",
       "first_seen_at": "2026-06-09T11:48:19",
       "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "等一切风平浪静（治愈散文）",
-      "url": "",
-      "last_hot_value": "6182人在读",
-      "first_seen_at": "2026-06-09T11:48:19",
-      "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "空腹力",
       "url": "",
-      "last_hot_value": "7692人在读",
+      "last_hot_value": "6078人在读",
       "first_seen_at": "2026-06-09T11:48:19",
-      "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
     {
+      "title": "你不可不知的人性",
+      "url": "",
+      "last_hot_value": "393人在读",
+      "first_seen_at": "2026-06-10T16:53:43",
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "金钱心理学 （全新增订版）",
       "url": "",
-      "last_hot_value": "2622人在读",
+      "last_hot_value": "3087人在读",
       "first_seen_at": "2026-06-09T11:48:19",
-      "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -47,7 +67,7 @@
       "last_hot_value": "2925人在读",
       "first_seen_at": "2026-06-09T11:48:19",
       "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,20 +76,30 @@
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-06-09T11:48:19",
-      "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "查拉图斯特拉如是说",
+      "url": "",
+      "last_hot_value": "324人在读",
+      "first_seen_at": "2026-06-10T16:53:43",
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "毛泽东选集（全四卷）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-06-09T22:11:09",
-      "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "牛奶可乐经济学（全新升级版）",
@@ -87,7 +117,7 @@
       "last_hot_value": "2177人在读",
       "first_seen_at": "2026-06-09T11:48:19",
       "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -97,19 +127,29 @@
       "last_hot_value": "1038人在读",
       "first_seen_at": "2026-06-09T11:48:19",
       "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "文化苦旅",
+      "url": "",
+      "last_hot_value": "738人在读",
+      "first_seen_at": "2026-06-10T16:53:43",
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "被讨厌的勇气：“自我启发之父”阿德勒的哲学课",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-06-09T22:11:09",
-      "last_seen_at": "2026-06-09T22:11:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T16:53:43",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "早点知道会幸福的那些事：百岁奶奶的人生建议",
