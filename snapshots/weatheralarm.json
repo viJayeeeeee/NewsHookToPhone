@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-06-10T16:53:44",
+  "update_time": "2026-06-10T21:33:49",
   "items": [
     {
       "title": "吉林省气象台发布大雾黄色预警",
       "url": "https://www.nmc.cn/publish/alarm/22000041600000_20260610221605.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "安徽省宣城市旌德县气象台发布大雾橙色预警信号",
@@ -46,10 +46,10 @@
       "url": "https://www.nmc.cn/publish/alarm/36078141600000_20260610221044.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "云南省普洱市江城哈尼族彝族自治县气象台发布暴雨黄色预警信号",
@@ -86,10 +86,10 @@
       "url": "https://www.nmc.cn/publish/alarm/13018341600000_20260610220754.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "河北省张家口市沽源县气象台发布雷电黄色预警信号",
@@ -126,10 +126,10 @@
       "url": "https://www.nmc.cn/publish/alarm/53252841600000_20260610220708.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "山东省威海市气象台发布大雾黄色预警信号",
@@ -166,10 +166,10 @@
       "url": "https://www.nmc.cn/publish/alarm/13063541600000_20260610220532.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "辽宁省营口市气象台发布大雾黄色预警信号",
@@ -206,10 +206,10 @@
       "url": "https://www.nmc.cn/publish/alarm/13013341600000_20260610215830.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "海南省万宁市气象台发布雷电黄色预警信号",
@@ -246,10 +246,10 @@
       "url": "https://www.nmc.cn/publish/alarm/65302241600000_20260610215747.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "安徽省池州市石台县气象台发布大雾黄色预警信号",
@@ -286,10 +286,10 @@
       "url": "https://www.nmc.cn/publish/alarm/13010941600000_20260610215547.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "海南省三沙市气象台发布雷雨大风黄色预警信号",
@@ -326,10 +326,10 @@
       "url": "https://www.nmc.cn/publish/alarm/22072341600000_20260610215458.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "安徽省黄山市黄山区气象台发布大雾黄色预警信号",
@@ -366,10 +366,10 @@
       "url": "https://www.nmc.cn/publish/alarm/51332341600000_20260610215259.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-06-10T16:53:44",
-      "last_seen_at": "2026-06-10T16:53:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:49",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "山东省威海市荣成市气象台发布大雾黄色预警信号",

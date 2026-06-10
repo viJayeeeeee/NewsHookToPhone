@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-06-10T16:53:46",
+  "update_time": "2026-06-10T21:33:51",
   "items": [
     {
       "title": "M3.3 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260610154023/summarize",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-06-10T16:53:46",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.8 新疆阿克苏地区拜城县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260610054346/summarize",
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-06-09T22:11:13",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260609190243/summarize",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-06-09T11:48:22",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,18 +36,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260610060915/summarize",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-06-10T16:53:46",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.6 新疆阿克苏地区温宿县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260609101715/summarize",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-06-09T11:48:22",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260609020026/summarize",
       "last_hot_value": "5.8级",
       "first_seen_at": "2026-06-09T11:48:22",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -66,8 +66,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260608213951/summarize",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-06-09T11:48:22",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260608212030/summarize",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-06-09T11:48:22",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260608185255/summarize",
       "last_hot_value": "4.3级",
       "first_seen_at": "2026-06-09T11:48:22",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -96,8 +96,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260608085512/summarize",
       "last_hot_value": "6.6级",
       "first_seen_at": "2026-06-09T11:48:22",
-      "last_seen_at": "2026-06-10T16:53:46",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-10T21:33:51",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
