@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-09T23:43:28",
+  "update_time": "2026-06-12T20:33:34",
   "items": [
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:186562 回复:2602",
-      "first_seen_at": "2026-06-08T06:58:50",
-      "last_seen_at": "2026-06-09T23:43:28",
-      "consecutive_count": 2,
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:594253 回复:1067",
+      "first_seen_at": "2026-06-12T20:33:34",
+      "last_seen_at": "2026-06-12T20:33:34",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "[新人看一看]老鸟请直接忽略",
+      "url": "https://www.nodeseek.com/post-348342-1",
+      "last_hot_value": "查看:19032 回复:369",
+      "first_seen_at": "2026-06-12T20:33:34",
+      "last_seen_at": "2026-06-12T20:33:34",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
@@ -17,19 +27,29 @@
       "last_hot_value": "查看:36401 回复:155",
       "first_seen_at": "2026-06-09T23:43:28",
       "last_seen_at": "2026-06-09T23:43:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "【NodeScriptKit No.2】CNIPblocker 封禁大陆IP访问特定端口工具",
+      "url": "https://www.nodeseek.com/post-320095-1",
+      "last_hot_value": "查看:3306 回复:34",
+      "first_seen_at": "2026-06-12T20:33:34",
+      "last_seen_at": "2026-06-12T20:33:34",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:194079 回复:1841",
-      "first_seen_at": "2026-06-08T06:58:50",
-      "last_seen_at": "2026-06-09T23:43:28",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "AWS更新规则后，水篇教程。",
+      "url": "https://www.nodeseek.com/post-408103-1",
+      "last_hot_value": "查看:7928 回复:152",
+      "first_seen_at": "2026-06-12T20:33:34",
+      "last_seen_at": "2026-06-12T20:33:34",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "关于 DDoS / CC 攻击你需要知道的一些基本知识",
@@ -37,8 +57,18 @@
       "last_hot_value": "查看:3698 回复:45",
       "first_seen_at": "2026-06-09T23:43:28",
       "last_seen_at": "2026-06-09T23:43:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "[6.11 更新/开源自荐]一款轻量化NAS媒体库管理服务器",
+      "url": "https://www.nodeseek.com/post-750908-1",
+      "last_hot_value": "查看:1563 回复:62",
+      "first_seen_at": "2026-06-12T20:33:34",
+      "last_seen_at": "2026-06-12T20:33:34",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -47,8 +77,18 @@
       "last_hot_value": "查看:3813 回复:76",
       "first_seen_at": "2026-06-09T23:43:28",
       "last_seen_at": "2026-06-09T23:43:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
+      "url": "https://www.nodeseek.com/post-373751-1",
+      "last_hot_value": "查看:191714 回复:477",
+      "first_seen_at": "2026-06-12T20:33:34",
+      "last_seen_at": "2026-06-12T20:33:34",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -57,8 +97,18 @@
       "last_hot_value": "查看:56528 回复:546",
       "first_seen_at": "2026-06-09T23:43:28",
       "last_seen_at": "2026-06-09T23:43:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
+      "url": "https://www.nodeseek.com/post-68572-1",
+      "last_hot_value": "查看:96056 回复:591",
+      "first_seen_at": "2026-06-12T20:33:34",
+      "last_seen_at": "2026-06-12T20:33:34",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -67,8 +117,18 @@
       "last_hot_value": "查看:8925 回复:36",
       "first_seen_at": "2026-06-09T23:43:28",
       "last_seen_at": "2026-06-09T23:43:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:80685 回复:736",
+      "first_seen_at": "2026-06-12T20:33:34",
+      "last_seen_at": "2026-06-12T20:33:34",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -77,9 +137,9 @@
       "last_hot_value": "查看:3392 回复:100",
       "first_seen_at": "2026-06-09T23:43:28",
       "last_seen_at": "2026-06-09T23:43:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
