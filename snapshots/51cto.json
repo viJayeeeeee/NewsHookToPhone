@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-06-12T20:33:23",
+  "update_time": "2026-06-13T16:25:05",
   "items": [
+    {
+      "title": "HDC 2026：HarmonyOS 6终端设备数突破6600万，HarmonyOS 7 Developer Beta正式发布",
+      "url": "https://www.51cto.com/article/846239.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T16:25:05",
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "Electron 慌了？Go 版 Electron 火了！打包体积直接缩小十倍",
       "url": "https://www.51cto.com/article/846010.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
       "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "警惕“AI 中转站”数据安全风险，国家安全部发布安全提示",
-      "url": "https://www.51cto.com/article/845609.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "Claude Fable 5 大解禁，我说三个大家没看到的点",
+      "url": "https://www.51cto.com/article/846112.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T16:25:05",
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "打造高效 mac 终端：oh-my-zsh 与插件配置",
@@ -27,19 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
       "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
-      "url": "https://www.51cto.com/article/845726.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
+      "url": "https://www.51cto.com/article/846183.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T16:25:05",
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "我的 Nginx 反向代理突然不生效，排查三小时结果是这个配置",
@@ -47,37 +57,27 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
       "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "钟楼剖面开始转动：用 ArkUI Canvas 搭一套可维护的齿轮场景",
-      "url": "https://ost.51cto.com/posts/44699#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "大模型应用：Qwen1.5+ChatGLM3联合评测：不同体量大模型意图识别差异验证.122",
+      "url": "https://blog.51cto.com/u_16380863/14681881",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T16:25:05",
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "大模型微调：监督微调（SFT）与强化微调（RFT）分析",
       "url": "https://blog.51cto.com/yuhaibao324/14679577",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "DeepSeek V4 实战：从自然语言到SQL，打造智能优化引擎",
-      "url": "https://blog.51cto.com/u_15469972/14670914",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
@@ -86,18 +86,8 @@
       "url": "https://blog.51cto.com/yuhaibao324/14679567",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "将NeMo模型转换为Triton兼容格式",
-      "url": "https://blog.51cto.com/yuhaibao324/14670658",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
@@ -106,18 +96,8 @@
       "url": "https://blog.51cto.com/51ctoblog/14679196",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "智能体多模态技术方案",
-      "url": "https://blog.51cto.com/yuhaibao324/14670252",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
@@ -126,18 +106,8 @@
       "url": "https://blog.51cto.com/u_15912723/14678847",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "如何用隐形字符给公司内部文档加盲水印?(抓内鬼神器?)",
-      "url": "https://blog.51cto.com/erpanomer/14670085",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
     },
@@ -147,16 +117,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
       "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "AI编程语言机器学习监督学习（分类、回归）",
-      "url": "https://blog.51cto.com/u_16970152/14670021",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
@@ -166,20 +126,20 @@
       "url": "https://ost.51cto.com/posts/45922#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "HarmonyOS6 Badge 角标实战：消息未读数、购物车角标、在线状态点与功能更新红点",
-      "url": "https://ost.51cto.com/posts/45024#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "ArkUI Chart 写共享雨伞站点页：折线、柱状和量规各管一件事",
+      "url": "https://ost.51cto.com/posts/46167#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T16:25:05",
+      "last_seen_at": "2026-06-13T16:25:05",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "用 HarmonyOS 做报价草稿柜：加密数据库从 Store 层开始收口",
@@ -187,16 +147,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
       "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "HarmonyOS 6.1.1 全栈实战录101：Camera Kit 物理可变光圈架构解析",
-      "url": "https://ost.51cto.com/posts/44541#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-09T23:43:19",
-      "last_seen_at": "2026-06-09T23:43:19",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
