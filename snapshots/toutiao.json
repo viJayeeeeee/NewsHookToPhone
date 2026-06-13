@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-13T17:49:51",
+  "update_time": "2026-06-13T18:59:50",
   "items": [
     {
       "title": "极限反超！张雪机车夺第6冠",
       "url": "https://www.toutiao.com/trending/7649741880432476211/",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T13:04:15",
-      "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -76,10 +76,10 @@
       "url": "https://www.toutiao.com/trending/7649930665865199658/",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T17:49:51",
-      "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "“中国不需要也不可能复制SpaceX”",
@@ -87,7 +87,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T09:31:59",
       "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -146,8 +146,8 @@
       "url": "https://www.toutiao.com/article/7650747280424845862",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T13:04:15",
-      "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -196,10 +196,10 @@
       "url": "https://www.toutiao.com/trending/7650818385496342569/",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T17:49:51",
-      "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "黑豹乐队前主唱张克芃去世",
@@ -286,18 +286,18 @@
       "url": "https://www.toutiao.com/trending/7650289698958868516/",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T17:49:51",
-      "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "于东来称满分100给员工打10分",
       "url": "https://www.toutiao.com/trending/7650427536291302931/",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T13:04:15",
-      "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -442,6 +442,16 @@
       "is_new": false
     },
     {
+      "title": "巴西已连续20届世界杯首战保持不败",
+      "url": "https://www.toutiao.com/trending/7650856464345710618/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T18:59:50",
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "女子穿汉服在长江“御剑飞行”",
       "url": "https://www.toutiao.com/trending/7650268964236738614/",
       "last_hot_value": "",
@@ -506,10 +516,10 @@
       "url": "https://www.toutiao.com/trending/7649341093314625577/",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T17:49:51",
-      "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "女子在医院旁摆摊盒饭从6元降到免费",
@@ -586,10 +596,10 @@
       "url": "https://www.toutiao.com/trending/7650145858994094107/",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T17:49:51",
-      "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "中国军人用匕首枪实弹射击",
@@ -597,7 +607,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T13:04:15",
       "last_seen_at": "2026-06-13T17:49:51",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -660,6 +670,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "外籍小女孩在济南机场哭闹不肯走",
+      "url": "https://www.toutiao.com/trending/7650827168875839530/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T18:59:50",
+      "last_seen_at": "2026-06-13T18:59:50",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "伊朗已故最高领袖将于7月9日下葬",
