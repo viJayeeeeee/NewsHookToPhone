@@ -1,93 +1,103 @@
 {
-  "update_time": "2026-06-13T16:25:12",
+  "update_time": "2026-06-14T12:16:45",
   "items": [
     {
       "title": "轻量级跨平台数据库桌面客户端",
       "url": "https://github.com/t8y2/dbx",
-      "last_hot_value": "3883",
+      "last_hot_value": "3982",
       "first_seen_at": "2026-06-13T16:25:12",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "帮你找到本地能跑的最佳大模型",
       "url": "https://github.com/Andyyyy64/whichllm",
-      "last_hot_value": "3421",
+      "last_hot_value": "3516",
       "first_seen_at": "2026-06-13T16:25:12",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 2,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "你的专属 AI 新闻雷达工具",
+      "url": "https://github.com/Thysrael/Horizon",
+      "last_hot_value": "10936",
+      "first_seen_at": "2026-06-14T12:16:45",
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
       "title": "从零开始学习 AI 工程",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "last_hot_value": "3022",
+      "last_hot_value": "3100",
       "first_seen_at": "2026-06-13T16:25:12",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "快速上手 Claude Code 的教程",
       "url": "https://github.com/luongnv89/claude-howto",
-      "last_hot_value": "5350",
+      "last_hot_value": "5402",
       "first_seen_at": "2026-06-12T20:33:32",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "用 AI 将文档转换为可编辑的 PPT",
       "url": "https://github.com/hugohe3/ppt-master",
-      "last_hot_value": "4937",
+      "last_hot_value": "4978",
       "first_seen_at": "2026-06-12T20:33:32",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "更好看的 Windows 媒体控制弹窗",
       "url": "https://github.com/unchihugo/FluentFlyout",
-      "last_hot_value": "1720",
+      "last_hot_value": "1763",
       "first_seen_at": "2026-06-13T16:25:12",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "把代码变成打字游戏的工具",
       "url": "https://github.com/unhappychoice/gittype",
-      "last_hot_value": "1131",
+      "last_hot_value": "1164",
       "first_seen_at": "2026-06-12T20:33:32",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "仅 2000 行的教学操作系统",
       "url": "https://github.com/yhzhang0128/egos-2000",
-      "last_hot_value": "1319",
+      "last_hot_value": "1348",
       "first_seen_at": "2026-06-13T16:25:12",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "越用越聪明的 AI 智能体",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "last_hot_value": "4593",
+      "last_hot_value": "4640",
       "first_seen_at": "2026-06-12T20:33:32",
-      "last_seen_at": "2026-06-13T16:25:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T12:16:45",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     }

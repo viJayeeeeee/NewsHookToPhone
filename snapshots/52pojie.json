@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-13T16:25:15",
+  "update_time": "2026-06-14T12:16:48",
   "items": [
+    {
+      "title": "贝格手机罗盘_2.8版本",
+      "url": "",
+      "last_hot_value": "回复:59 查看:1693",
+      "first_seen_at": "2026-06-14T12:16:48",
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "摇一摇禁用工具",
       "url": "",
       "last_hot_value": "回复:318 查看:9607",
       "first_seen_at": "2026-06-13T16:25:15",
       "last_seen_at": "2026-06-13T16:25:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "磁盘清理工具 Glary Disk Cleaner v6.0.1.44",
@@ -22,14 +32,34 @@
       "is_new": false
     },
     {
+      "title": "风水助手 Fengshui Assistant_1.3.4版本",
+      "url": "",
+      "last_hot_value": "回复:354 查看:11810",
+      "first_seen_at": "2026-06-12T20:33:35",
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "央视影音v6.0.5.0绿色版",
       "url": "",
-      "last_hot_value": "回复:238 查看:6431",
+      "last_hot_value": "回复:261 查看:7611",
       "first_seen_at": "2026-06-13T16:25:15",
-      "last_seen_at": "2026-06-13T16:25:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "开心电视助手-版本9.0",
+      "url": "",
+      "last_hot_value": "回复:130 查看:4806",
+      "first_seen_at": "2026-06-13T16:25:15",
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "LanFileShare — 局域网文件共享小工具（v2.2.0613.1520 更新大量功能）",
@@ -37,19 +67,29 @@
       "last_hot_value": "回复:73 查看:2139",
       "first_seen_at": "2026-06-13T16:25:15",
       "last_seen_at": "2026-06-13T16:25:15",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "风水助手 Fengshui Assistant_1.3.4版本",
-      "url": "",
-      "last_hot_value": "回复:315 查看:9833",
-      "first_seen_at": "2026-06-12T20:33:35",
-      "last_seen_at": "2026-06-13T16:25:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "广告跳过 GKD v1.12.1",
+      "url": "",
+      "last_hot_value": "回复:247 查看:7090",
+      "first_seen_at": "2026-06-12T20:33:35",
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "电脑速度优化助手V1.0",
+      "url": "",
+      "last_hot_value": "回复:75 查看:2325",
+      "first_seen_at": "2026-06-14T12:16:48",
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "PC单机版闲鱼麻将v1.0b，支持AI对战、多种难度、语音播报、番型计算~支持win10/11",
@@ -62,14 +102,24 @@
       "is_new": false
     },
     {
-      "title": "批量修改文件、文件夹时间戳工具 NewFileTime 8.28",
+      "title": "雷电模拟器 v14.0.8.2绿色版",
       "url": "",
-      "last_hot_value": "回复:70 查看:1357",
-      "first_seen_at": "2026-06-13T16:25:15",
-      "last_seen_at": "2026-06-13T16:25:15",
+      "last_hot_value": "回复:81 查看:2195",
+      "first_seen_at": "2026-06-14T12:16:48",
+      "last_seen_at": "2026-06-14T12:16:48",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
+    },
+    {
+      "title": "批量修改文件、文件夹时间戳工具 NewFileTime 8.28",
+      "url": "",
+      "last_hot_value": "回复:87 查看:2064",
+      "first_seen_at": "2026-06-13T16:25:15",
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "Windows 超级管理器 v9.54",
@@ -84,11 +134,21 @@
     {
       "title": "电脑管控工具-安心控 v1.0.2",
       "url": "",
-      "last_hot_value": "回复:58 查看:3026",
+      "last_hot_value": "回复:68 查看:3660",
       "first_seen_at": "2026-06-13T16:25:15",
-      "last_seen_at": "2026-06-13T16:25:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 2,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "千问天气 v1.2.30",
+      "url": "",
+      "last_hot_value": "回复:129 查看:6753",
+      "first_seen_at": "2026-06-14T12:16:48",
+      "last_seen_at": "2026-06-14T12:16:48",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -97,9 +157,9 @@
       "last_hot_value": "回复:174 查看:7941",
       "first_seen_at": "2026-06-13T16:25:15",
       "last_seen_at": "2026-06-13T16:25:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "迅雷2025【25.0.72.1250】绿色精简版",
@@ -107,9 +167,9 @@
       "last_hot_value": "回复:623 查看:14535",
       "first_seen_at": "2026-06-13T16:25:15",
       "last_seen_at": "2026-06-13T16:25:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Everything 1.5.0.1415b 简体中文完全汉化版",
@@ -119,26 +179,6 @@
       "last_seen_at": "2026-06-12T20:33:35",
       "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "开心电视助手-版本9.0",
-      "url": "",
-      "last_hot_value": "回复:76 查看:2930",
-      "first_seen_at": "2026-06-13T16:25:15",
-      "last_seen_at": "2026-06-13T16:25:15",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "广告跳过 GKD v1.12.1",
-      "url": "",
-      "last_hot_value": "回复:159 查看:4634",
-      "first_seen_at": "2026-06-12T20:33:35",
-      "last_seen_at": "2026-06-12T20:33:35",
-      "consecutive_count": 0,
-      "peak_rank": 10,
       "is_new": false
     }
   ]

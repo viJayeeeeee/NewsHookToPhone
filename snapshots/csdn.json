@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-13T16:25:04",
+  "update_time": "2026-06-14T12:16:38",
   "items": [
+    {
+      "title": "OpenCV-Python实战（28）——OpenCV计算摄影从HDR图像融合到全景拼接",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161490560",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-06-13T16:25:04",
+      "last_seen_at": "2026-06-14T12:16:38",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【Linux网络】深入理解 TCP 协议（一）：报头设计与可靠性基石",
       "url": "https://blog.csdn.net/2503_91389547/article/details/161343556",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-06-12T20:33:21",
       "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,23 +32,33 @@
       "is_new": false
     },
     {
-      "title": "DolphinDB机器学习函数：内置ML能力",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/161871403",
-      "last_hot_value": "9139",
-      "first_seen_at": "2026-06-12T20:33:21",
-      "last_seen_at": "2026-06-13T16:25:04",
+      "title": "【Agent 学习日记】我们来说说在长对话场景下，如何管理超长的对话历史？",
+      "url": "https://blog.csdn.net/2402_87298751/article/details/161931969",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-13T16:25:04",
+      "last_seen_at": "2026-06-14T12:16:38",
       "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "OpenCV-Python实战（28）——OpenCV计算摄影从HDR图像融合到全景拼接",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161490560",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-06-13T16:25:04",
+      "title": "DolphinDB机器学习函数：内置ML能力",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/161871403",
+      "last_hot_value": "9139",
+      "first_seen_at": "2026-06-12T20:33:21",
       "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "AI + 鸿蒙游戏：下一代游戏架构正在形成吗？",
+      "url": "https://blog.csdn.net/qq_36478920/article/details/161920422",
+      "last_hot_value": "8945",
+      "first_seen_at": "2026-06-14T12:16:38",
+      "last_seen_at": "2026-06-14T12:16:38",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -47,9 +67,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-12T20:33:21",
       "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "OpenClaw 节点命令执行：远程Shell与系统操作实战",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/161958115",
+      "last_hot_value": "8192",
+      "first_seen_at": "2026-06-14T12:16:38",
+      "last_seen_at": "2026-06-14T12:16:38",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "摒弃摆烂心态，让四年青春锋芒尽显",
@@ -57,29 +87,49 @@
       "last_hot_value": "9321",
       "first_seen_at": "2026-06-13T16:25:04",
       "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "【Qt】界面优化：绘图API",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/161802198",
+      "last_hot_value": "7886",
+      "first_seen_at": "2026-06-14T12:16:38",
+      "last_seen_at": "2026-06-14T12:16:38",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
       "title": "我以为仙剑只能活在回忆里，直到用Docker把它重新跑了起来",
       "url": "https://blog.csdn.net/2301_76297596/article/details/161925293",
-      "last_hot_value": "6159",
+      "last_hot_value": "6752",
       "first_seen_at": "2026-06-12T20:33:21",
-      "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T12:16:38",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "【AVRCP】规范精讲[28]：媒体源上电全流程，蓝牙音频控制启动就靠这一套",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/161809495",
-      "last_hot_value": "7049",
-      "first_seen_at": "2026-06-13T16:25:04",
-      "last_seen_at": "2026-06-13T16:25:04",
+      "title": "Spring Security- hasRole 与 hasAuthority 的区别与使用",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157618506",
+      "last_hot_value": "7823",
+      "first_seen_at": "2026-06-14T12:16:38",
+      "last_seen_at": "2026-06-14T12:16:38",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
+    },
+    {
+      "title": "【AVRCP】规范精讲[28]：媒体源上电全流程，蓝牙音频控制启动就靠这一套",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/161809495",
+      "last_hot_value": "6710",
+      "first_seen_at": "2026-06-13T16:25:04",
+      "last_seen_at": "2026-06-14T12:16:38",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "AI数字营销实测体验，营销组件体验",
@@ -87,27 +137,17 @@
       "last_hot_value": "6288",
       "first_seen_at": "2026-06-12T20:33:21",
       "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "【Agent 学习日记】我们来说说在长对话场景下，如何管理超长的对话历史？",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/161931969",
-      "last_hot_value": "6592",
-      "first_seen_at": "2026-06-13T16:25:04",
-      "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
       "title": "【HarmonyOS 6.0】MDM Kit 新增支持通过设备管理设置桌面壁纸能力详解",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/161729042",
-      "last_hot_value": "6440",
+      "last_hot_value": "6645",
       "first_seen_at": "2026-06-12T20:33:21",
-      "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T12:16:38",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -130,6 +170,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "2026年6月英语六级真题试卷及参考答案听力（含一、二、三套卷）PDF版下载",
+      "url": "https://blog.csdn.net/kaoshizhijia/article/details/161959992",
+      "last_hot_value": "6581",
+      "first_seen_at": "2026-06-14T12:16:38",
+      "last_seen_at": "2026-06-14T12:16:38",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【C++大型项目之高性能服务器框架 (一) 】一切物语的开始：日志系统&配置系统篇",

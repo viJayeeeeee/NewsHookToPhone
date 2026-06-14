@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-13T16:25:02",
+  "update_time": "2026-06-14T12:16:36",
   "items": [
     {
       "title": "《置身钉内》之后：普通前端的出路在哪里？",
       "url": "https://juejin.cn/post/7650089863865565219",
-      "last_hot_value": "热度:1485",
+      "last_hot_value": "热度:1890",
       "first_seen_at": "2026-06-12T20:33:19",
-      "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,12 +22,22 @@
       "is_new": false
     },
     {
+      "title": "Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。",
+      "url": "https://juejin.cn/post/7650052991786401832",
+      "last_hot_value": "热度:1161",
+      "first_seen_at": "2026-06-13T16:25:02",
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "把 GitNexus 接进 Codex：安装、索引、Web UI 和项目分析实操",
       "url": "https://juejin.cn/post/7649633479534182436",
       "last_hot_value": "热度:1278",
       "first_seen_at": "2026-06-12T20:33:19",
       "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,13 +52,33 @@
       "is_new": false
     },
     {
+      "title": "真多线程！Bun作者要给JS大手术",
+      "url": "https://juejin.cn/post/7649936611648700454",
+      "last_hot_value": "热度:585",
+      "first_seen_at": "2026-06-14T12:16:36",
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "Anthropic 为何限制中国大陆使用 Claude？",
       "url": "https://juejin.cn/post/7649977961550987314",
       "last_hot_value": "热度:1161",
       "first_seen_at": "2026-06-12T20:33:19",
       "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "上线只是一个产品的开始",
+      "url": "https://juejin.cn/post/7650065510063587370",
+      "last_hot_value": "热度:576",
+      "first_seen_at": "2026-06-12T20:33:19",
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -57,18 +87,28 @@
       "last_hot_value": "热度:873",
       "first_seen_at": "2026-06-12T20:33:19",
       "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。",
-      "url": "https://juejin.cn/post/7650052991786401832",
-      "last_hot_value": "热度:864",
-      "first_seen_at": "2026-06-13T16:25:02",
-      "last_seen_at": "2026-06-13T16:25:02",
+      "title": "瑞幸 skill 引发的一些思考",
+      "url": "https://juejin.cn/post/7650146543882518591",
+      "last_hot_value": "热度:486",
+      "first_seen_at": "2026-06-14T12:16:36",
+      "last_seen_at": "2026-06-14T12:16:36",
       "consecutive_count": 1,
       "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "小米版Claude Code正式发布，这次开源给到夯。",
+      "url": "https://juejin.cn/post/7650451521307770923",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-06-14T12:16:36",
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -77,9 +117,19 @@
       "last_hot_value": "热度:774",
       "first_seen_at": "2026-06-12T20:33:19",
       "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "Flutter 又为 AI 时代添砖加瓦：全新 ComponentLibrary 提议",
+      "url": "https://juejin.cn/post/7649666537947807780",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-06-14T12:16:36",
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "《Kingbase护城河》——数据库卡顿急救手册：会话状态深度解析与“僵尸进程”排查实战",
@@ -87,9 +137,19 @@
       "last_hot_value": "热度:756",
       "first_seen_at": "2026-06-12T20:33:19",
       "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "让 Claude Code 拥有自我进化和记忆系统｜得物技术",
+      "url": "https://juejin.cn/post/7649571695950856234",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-06-14T12:16:36",
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "老板：“你是怎么使用 AI 的，真能做到不手写代码？为什么 Codex 在我手里感觉是个智障。。”我：“这样，然后再这样。。”老板直接跪了。",
@@ -97,8 +157,18 @@
       "last_hot_value": "热度:576",
       "first_seen_at": "2026-06-13T16:25:02",
       "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "现代 Android 官方为什么更推荐 Repository 暴露 `suspend fun`，而不是在内部 `launch`",
+      "url": "https://juejin.cn/post/7650074080125599790",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-06-14T12:16:36",
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -107,19 +177,19 @@
       "last_hot_value": "热度:540",
       "first_seen_at": "2026-06-12T20:33:19",
       "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "上线只是一个产品的开始",
-      "url": "https://juejin.cn/post/7650065510063587370",
-      "last_hot_value": "热度:540",
-      "first_seen_at": "2026-06-12T20:33:19",
-      "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 2,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "MarkItDown 再次登顶GitHub榜",
+      "url": "https://juejin.cn/post/7649674172486090752",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-06-14T12:16:36",
+      "last_seen_at": "2026-06-14T12:16:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
