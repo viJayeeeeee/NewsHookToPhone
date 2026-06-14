@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-14T22:48:03",
+  "update_time": "2026-06-14T23:53:07",
   "items": [
+    {
+      "title": "RAG中文档预处理—内容提取的重要性和方法",
+      "url": "https://www.51cto.com/article/846175.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T23:53:07",
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HDC 2026：HarmonyOS 6终端设备数突破6600万，HarmonyOS 7 Developer Beta正式发布",
       "url": "https://www.51cto.com/article/846239.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.51cto.com/article/846112.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +57,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T16:25:05",
       "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -66,8 +76,8 @@
       "url": "https://blog.51cto.com/u_6813689/14683715",
       "last_hot_value": "",
       "first_seen_at": "2026-06-14T12:16:40",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://blog.51cto.com/u_16380863/14681881",
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -86,8 +96,8 @@
       "url": "https://blog.51cto.com/yuhaibao324/14679577",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,8 +106,8 @@
       "url": "https://blog.51cto.com/wds0/14683547",
       "last_hot_value": "",
       "first_seen_at": "2026-06-14T12:16:40",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -106,8 +116,8 @@
       "url": "https://blog.51cto.com/yuhaibao324/14679567",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,24 +152,34 @@
       "is_new": false
     },
     {
+      "title": "ArkUI Chart 写共享雨伞站点页：折线、柱状和量规各管一件事",
+      "url": "https://ost.51cto.com/posts/46167#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T16:25:05",
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 5,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "鸿蒙和我们",
       "url": "https://ost.51cto.com/posts/45922#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T20:33:23",
       "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "ArkUI Chart 写共享雨伞站点页：折线、柱状和量规各管一件事",
-      "url": "https://ost.51cto.com/posts/46167#24read",
+      "title": "ARM 交叉编译搭建，命令直接复制运行",
+      "url": "https://www.51cto.com/article/846262.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 4,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-06-14T23:53:07",
+      "last_seen_at": "2026-06-14T23:53:07",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "用 HarmonyOS 做报价草稿柜：加密数据库从 Store 层开始收口",
