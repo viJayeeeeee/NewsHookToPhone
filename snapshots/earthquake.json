@@ -1,33 +1,33 @@
 {
-  "update_time": "2026-06-13T11:29:45",
+  "update_time": "2026-06-14T18:53:46",
   "items": [
+    {
+      "title": "M4.1 陕西渭南市合阳县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260615011342/summarize",
+      "last_hot_value": "4.1级",
+      "first_seen_at": "2026-06-14T18:53:46",
+      "last_seen_at": "2026-06-14T18:53:46",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M3.4 新疆巴音郭楞州尉犁县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260613095446/summarize",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-06-13T11:29:45",
-      "last_seen_at": "2026-06-13T11:29:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-14T18:53:46",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.1 新疆巴音郭楞州若羌县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260611142926/summarize",
       "last_hot_value": "4.1级",
       "first_seen_at": "2026-06-12T10:55:17",
-      "last_seen_at": "2026-06-13T11:29:45",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M3.3 青海海西州直辖区",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260610154023/summarize",
-      "last_hot_value": "3.3级",
-      "first_seen_at": "2026-06-10T16:53:46",
-      "last_seen_at": "2026-06-13T11:29:45",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-14T18:53:46",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,18 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260611142444/summarize",
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-06-12T10:55:17",
-      "last_seen_at": "2026-06-13T11:29:45",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M3.6 新疆阿克苏地区库车市",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260610060915/summarize",
-      "last_hot_value": "3.6级",
-      "first_seen_at": "2026-06-10T16:53:46",
-      "last_seen_at": "2026-06-13T11:29:45",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-14T18:53:46",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260611063226/summarize",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-06-12T10:55:17",
-      "last_seen_at": "2026-06-13T11:29:45",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T18:53:46",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -66,10 +56,30 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260611051017/summarize",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-06-12T10:55:17",
-      "last_seen_at": "2026-06-13T11:29:45",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-14T18:53:46",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "M3.8 新疆阿克苏地区拜城县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260610054346/summarize",
+      "last_hot_value": "3.8级",
+      "first_seen_at": "2026-06-14T18:53:46",
+      "last_seen_at": "2026-06-14T18:53:46",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "M3.3 新疆阿克苏地区温宿县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260609190243/summarize",
+      "last_hot_value": "3.3级",
+      "first_seen_at": "2026-06-14T18:53:46",
+      "last_seen_at": "2026-06-14T18:53:46",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

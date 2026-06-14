@@ -1,15 +1,45 @@
 {
-  "update_time": "2026-06-13T11:29:41",
+  "update_time": "2026-06-14T18:53:42",
   "items": [
     {
-      "title": "为爱痴狂 (想要问问你敢不敢)",
-      "url": "https://y.qq.com/n/ryqq/songDetail/003B9SiE2rxoyd",
+      "title": "NIGHT DANCER",
+      "url": "https://y.qq.com/n/ryqq/songDetail/0030KTZ8141fsb",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-10T16:53:41",
-      "last_seen_at": "2026-06-13T11:29:41",
-      "consecutive_count": 4,
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "阴天",
+      "url": "https://y.qq.com/n/ryqq/songDetail/0031PqYN0sj8K3",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "恋人",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "雨爱",
+      "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "Crazy Love",
@@ -17,8 +47,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T11:29:41",
       "last_seen_at": "2026-06-13T11:29:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "ANGEL (天使)",
+      "url": "https://y.qq.com/n/ryqq/songDetail/004PjZLu3CjaYS",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -27,19 +67,59 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T11:29:41",
       "last_seen_at": "2026-06-13T11:29:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "雨过后的风景",
+      "url": "https://y.qq.com/n/ryqq/songDetail/004GEXe13HYtsE",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
-      "title": "渡",
-      "url": "https://y.qq.com/n/ryqq/songDetail/004XNL6L36CrFC",
+      "title": "我怀念的",
+      "url": "https://y.qq.com/n/ryqq/songDetail/000BO3xy4fd8BJ",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-10T16:53:41",
-      "last_seen_at": "2026-06-10T21:33:46",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "爱错",
+      "url": "https://y.qq.com/n/ryqq/songDetail/004fneUm24gD2c",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "巴拉莱卡 (The Rod) (Live)",
+      "url": "https://y.qq.com/n/ryqq/songDetail/002dB4xY3S3gCr",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "ICONIC BY MISTAKE",
+      "url": "https://y.qq.com/n/ryqq/songDetail/003oIRqk4a86ti",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-14T18:53:42",
+      "last_seen_at": "2026-06-14T18:53:42",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "不说再见",
@@ -47,16 +127,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-12T10:55:13",
       "last_seen_at": "2026-06-12T10:55:13",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "后来的我们",
-      "url": "https://y.qq.com/n/ryqq/songDetail/0022QuVR1LcRHN",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-10T16:53:41",
-      "last_seen_at": "2026-06-10T21:33:46",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

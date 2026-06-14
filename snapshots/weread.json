@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-13T11:29:42",
+  "update_time": "2026-06-14T18:53:43",
   "items": [
+    {
+      "title": "终身成长（全新修订版）",
+      "url": "",
+      "last_hot_value": "1492人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-14T18:53:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "七个被绞死的人",
       "url": "",
       "last_hot_value": "1037人在读",
       "first_seen_at": "2026-06-13T11:29:42",
       "last_seen_at": "2026-06-13T11:29:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "天色已晚",
@@ -17,29 +27,29 @@
       "last_hot_value": "1131人在读",
       "first_seen_at": "2026-06-12T10:55:14",
       "last_seen_at": "2026-06-13T11:29:42",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "我在深圳当市长",
-      "url": "",
-      "last_hot_value": "1133人在读",
-      "first_seen_at": "2026-06-10T16:53:43",
-      "last_seen_at": "2026-06-12T10:55:14",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "伊加利亚的女儿们",
+      "title": "马驹桥的时间：清华博士的日结手记",
       "url": "",
-      "last_hot_value": "1234人在读",
-      "first_seen_at": "2026-06-13T11:29:42",
-      "last_seen_at": "2026-06-13T11:29:42",
+      "last_hot_value": "1444人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-14T18:53:43",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "伊加利亚的女儿们",
+      "url": "",
+      "last_hot_value": "2009人在读",
+      "first_seen_at": "2026-06-13T11:29:42",
+      "last_seen_at": "2026-06-14T18:53:43",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "以日为镜：经济下行期穿越指南",
@@ -47,29 +57,39 @@
       "last_hot_value": "2996人在读",
       "first_seen_at": "2026-06-12T10:55:14",
       "last_seen_at": "2026-06-13T11:29:42",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "你不可不知的人性",
+      "title": "不朽：米兰·昆德拉作品系列（2022版）",
       "url": "",
-      "last_hot_value": "393人在读",
-      "first_seen_at": "2026-06-10T16:53:43",
-      "last_seen_at": "2026-06-10T21:33:47",
-      "consecutive_count": 0,
+      "last_hot_value": "355人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-14T18:53:43",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "查拉图斯特拉如是说",
+      "title": "鬼谷子：全本全译全析",
       "url": "",
-      "last_hot_value": "623人在读",
-      "first_seen_at": "2026-06-10T16:53:43",
-      "last_seen_at": "2026-06-13T11:29:42",
-      "consecutive_count": 4,
+      "last_hot_value": "679人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-14T18:53:43",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "等一切风平浪静（治愈散文）",
+      "url": "",
+      "last_hot_value": "5081人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-14T18:53:43",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "蛇结（果麦经典）",
@@ -77,9 +97,9 @@
       "last_hot_value": "1215人在读",
       "first_seen_at": "2026-06-13T11:29:42",
       "last_seen_at": "2026-06-13T11:29:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "开口就是机会",
@@ -92,14 +112,24 @@
       "is_new": false
     },
     {
+      "title": "凡人修仙传（杨洋主演同名电视剧原著）",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-06-13T11:29:42",
+      "last_seen_at": "2026-06-14T18:53:43",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "赚钱的艺术（微信读书定制版，蔡澜的理财之道）",
       "url": "",
       "last_hot_value": "724人在读",
       "first_seen_at": "2026-06-13T11:29:42",
       "last_seen_at": "2026-06-13T11:29:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "无界成长",
@@ -112,6 +142,16 @@
       "is_new": false
     },
     {
+      "title": "主角（张嘉益、刘浩存、秦海璐主演同名电视剧原著）",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-14T18:53:43",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
       "url": "",
       "last_hot_value": "2211人在读",
@@ -122,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "凡人修仙传（杨洋主演同名电视剧原著）",
+      "title": "毛泽东选集（全四卷）",
       "url": "",
-      "last_hot_value": "8713人在读",
-      "first_seen_at": "2026-06-13T11:29:42",
-      "last_seen_at": "2026-06-13T11:29:42",
+      "last_hot_value": "9749人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-14T18:53:43",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
-    },
-    {
-      "title": "文化苦旅",
-      "url": "",
-      "last_hot_value": "738人在读",
-      "first_seen_at": "2026-06-10T16:53:43",
-      "last_seen_at": "2026-06-10T21:33:47",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
     }
   ]
 }
