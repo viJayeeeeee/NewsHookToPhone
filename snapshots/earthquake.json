@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-06-15T13:34:34",
+  "update_time": "2026-06-15T18:12:10",
   "items": [
+    {
+      "title": "M5.3 菲律宾",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260615233025/summarize",
+      "last_hot_value": "5.3级",
+      "first_seen_at": "2026-06-15T18:12:10",
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M6.2 菲律宾群岛地区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260615171837/summarize",
       "last_hot_value": "6.2级",
       "first_seen_at": "2026-06-15T13:34:34",
-      "last_seen_at": "2026-06-15T13:34:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.1 陕西渭南市合阳县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260615011342/summarize",
       "last_hot_value": "4.1级",
       "first_seen_at": "2026-06-14T18:53:46",
-      "last_seen_at": "2026-06-15T13:34:34",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260613095446/summarize",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-06-13T11:29:45",
-      "last_seen_at": "2026-06-15T13:34:34",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,19 +46,49 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260615112438/summarize",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-06-15T13:34:34",
-      "last_seen_at": "2026-06-15T13:34:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.1 西藏昌都市洛隆县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260615102319/summarize",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-06-15T13:34:34",
-      "last_seen_at": "2026-06-15T13:34:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 2,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "M4.1 新疆巴音郭楞州若羌县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260611142926/summarize",
+      "last_hot_value": "4.1级",
+      "first_seen_at": "2026-06-15T18:12:10",
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "M3.7 内蒙古阿拉善盟阿拉善右旗",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260611142444/summarize",
+      "last_hot_value": "3.7级",
+      "first_seen_at": "2026-06-15T18:12:10",
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "M3.0 新疆吐鲁番市托克逊县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260611063226/summarize",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-06-15T18:12:10",
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -62,14 +102,24 @@
       "is_new": false
     },
     {
+      "title": "M3.0 青海玉树州囊谦县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260611051017/summarize",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-06-15T18:12:10",
+      "last_seen_at": "2026-06-15T18:12:10",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "M3.3 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260610154023/summarize",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-06-15T13:34:34",
       "last_seen_at": "2026-06-15T13:34:34",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.3 新疆阿克苏地区温宿县",

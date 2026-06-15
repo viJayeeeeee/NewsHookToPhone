@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-15T13:34:31",
+  "update_time": "2026-06-15T18:12:07",
   "items": [
+    {
+      "title": "鬼谷子：全本全译全析",
+      "url": "",
+      "last_hot_value": "1627人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "终身成长（全新修订版）",
       "url": "",
       "last_hot_value": "2625人在读",
       "first_seen_at": "2026-06-14T18:53:43",
       "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,22 +32,22 @@
       "is_new": false
     },
     {
-      "title": "不朽：米兰·昆德拉作品系列（2022版）",
+      "title": "马驹桥的时间：清华博士的日结手记",
       "url": "",
-      "last_hot_value": "617人在读",
+      "last_hot_value": "2014人在读",
       "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "马驹桥的时间：清华博士的日结手记",
+      "title": "不朽：米兰·昆德拉作品系列（2022版）",
       "url": "",
-      "last_hot_value": "2002人在读",
+      "last_hot_value": "679人在读",
       "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,34 +62,34 @@
       "is_new": false
     },
     {
-      "title": "鬼谷子：全本全译全析",
+      "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "1423人在读",
-      "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-15T13:34:31",
+      "last_hot_value": "846人在读",
+      "first_seen_at": "2026-06-15T13:34:31",
+      "last_seen_at": "2026-06-15T18:12:07",
       "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "查拉图斯特拉如是说",
-      "url": "",
-      "last_hot_value": "883人在读",
-      "first_seen_at": "2026-06-15T13:34:31",
-      "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
       "title": "等一切风平浪静（治愈散文）",
       "url": "",
-      "last_hot_value": "5316人在读",
+      "last_hot_value": "5114人在读",
       "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 2,
-      "peak_rank": 6,
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "图解Skill：AI提效实战指南",
+      "url": "",
+      "last_hot_value": "982人在读",
+      "first_seen_at": "2026-06-15T18:12:07",
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "蛇结（果麦经典）",
@@ -92,12 +102,22 @@
       "is_new": false
     },
     {
+      "title": "工作、消费主义和新穷人",
+      "url": "",
+      "last_hot_value": "1916人在读",
+      "first_seen_at": "2026-06-15T13:34:31",
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "凡人修仙传（杨洋主演同名电视剧原著）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-06-13T11:29:42",
-      "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -117,9 +137,9 @@
       "last_hot_value": "291人在读",
       "first_seen_at": "2026-06-15T13:34:31",
       "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "主角（张嘉益、刘浩存、秦海璐主演同名电视剧原著）",
@@ -132,24 +152,24 @@
       "is_new": false
     },
     {
-      "title": "工作、消费主义和新穷人",
-      "url": "",
-      "last_hot_value": "1796人在读",
-      "first_seen_at": "2026-06-15T13:34:31",
-      "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
       "title": "毛泽东选集（全四卷）",
       "url": "",
-      "last_hot_value": "9749人在读",
+      "last_hot_value": "1人在读",
       "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-14T18:53:43",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "夜晚的潜水艇",
+      "url": "",
+      "last_hot_value": "1269人在读",
+      "first_seen_at": "2026-06-15T18:12:07",
+      "last_seen_at": "2026-06-15T18:12:07",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "繁花",
@@ -157,9 +177,9 @@
       "last_hot_value": "467人在读",
       "first_seen_at": "2026-06-15T13:34:31",
       "last_seen_at": "2026-06-15T13:34:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
