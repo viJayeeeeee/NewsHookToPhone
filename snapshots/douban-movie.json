@@ -1,24 +1,24 @@
 {
-  "update_time": "2026-06-14T06:51:57",
+  "update_time": "2026-06-15T21:25:47",
   "items": [
-    {
-      "title": "后室",
-      "url": "https://movie.douban.com/subject/36235977/",
-      "last_hot_value": "0.0",
-      "first_seen_at": "2026-06-12T22:10:35",
-      "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "痴迷",
       "url": "https://movie.douban.com/subject/37450627/",
       "last_hot_value": "7.7",
       "first_seen_at": "2026-06-12T22:10:35",
-      "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
-      "peak_rank": 2,
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "后室",
+      "url": "https://movie.douban.com/subject/36235977/",
+      "last_hot_value": "6.6",
+      "first_seen_at": "2026-06-12T22:10:35",
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 5,
+      "peak_rank": 1,
       "is_new": false
     },
     {
@@ -26,18 +26,28 @@
       "url": "https://movie.douban.com/subject/36680492/",
       "last_hot_value": "8.0",
       "first_seen_at": "2026-06-12T22:10:35",
-      "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
-      "peak_rank": 3,
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 5,
+      "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "我的妈耶",
+      "url": "https://movie.douban.com/subject/36217763/",
+      "last_hot_value": "6.6",
+      "first_seen_at": "2026-06-15T21:25:47",
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "杀木池",
       "url": "https://movie.douban.com/subject/37233517/",
       "last_hot_value": "5.3",
       "first_seen_at": "2026-06-12T22:10:35",
-      "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -46,19 +56,9 @@
       "url": "https://movie.douban.com/subject/36396335/",
       "last_hot_value": "6.1",
       "first_seen_at": "2026-06-12T22:10:35",
-      "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 5,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "女士优先",
-      "url": "https://movie.douban.com/subject/37067461/",
-      "last_hot_value": "6.3",
-      "first_seen_at": "2026-06-12T22:10:35",
-      "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
-      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -66,9 +66,19 @@
       "url": "https://movie.douban.com/subject/37226826/",
       "last_hot_value": "6.1",
       "first_seen_at": "2026-06-12T22:10:35",
-      "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
-      "peak_rank": 7,
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 5,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "女士优先",
+      "url": "https://movie.douban.com/subject/37067461/",
+      "last_hot_value": "6.3",
+      "first_seen_at": "2026-06-12T22:10:35",
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 5,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -76,8 +86,8 @@
       "url": "https://movie.douban.com/subject/37116612/",
       "last_hot_value": "9.1",
       "first_seen_at": "2026-06-12T22:10:35",
-      "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
     },
@@ -87,9 +97,19 @@
       "last_hot_value": "6.4",
       "first_seen_at": "2026-06-12T22:10:35",
       "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "双喜",
+      "url": "https://movie.douban.com/subject/36576765/",
+      "last_hot_value": "7.5",
+      "first_seen_at": "2026-06-15T21:25:47",
+      "last_seen_at": "2026-06-15T21:25:47",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "爱情抓马",
@@ -97,7 +117,7 @@
       "last_hot_value": "6.9",
       "first_seen_at": "2026-06-12T22:10:35",
       "last_seen_at": "2026-06-14T06:51:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
