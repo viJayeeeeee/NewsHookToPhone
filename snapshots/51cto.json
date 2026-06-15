@@ -1,35 +1,35 @@
 {
-  "update_time": "2026-06-14T23:53:07",
+  "update_time": "2026-06-15T23:14:15",
   "items": [
+    {
+      "title": "HDC 2026：HarmonyOS 6终端设备数突破6600万，HarmonyOS 7 Developer Beta正式发布",
+      "url": "https://www.51cto.com/article/846239.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-13T16:25:05",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 6,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "RAG中文档预处理—内容提取的重要性和方法",
       "url": "https://www.51cto.com/article/846175.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-14T23:53:07",
       "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "HDC 2026：HarmonyOS 6终端设备数突破6600万，HarmonyOS 7 Developer Beta正式发布",
-      "url": "https://www.51cto.com/article/846239.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Electron 慌了？Go 版 Electron 火了！打包体积直接缩小十倍",
-      "url": "https://www.51cto.com/article/846010.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "HarmonyOS ArkTS 扇形命中判定和暗礁遮挡规则实现",
+      "url": "https://ost.51cto.com/posts/46628#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "Claude Fable 5 大解禁，我说三个大家没看到的点",
@@ -37,19 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T16:25:05",
       "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "打造高效 mac 终端：oh-my-zsh 与插件配置",
-      "url": "https://www.51cto.com/article/846070.html",
+      "title": "四步复活Claude Fable 5？",
+      "url": "https://www.51cto.com/article/846316.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
@@ -62,14 +62,14 @@
       "is_new": false
     },
     {
-      "title": "我的 Nginx 反向代理突然不生效，排查三小时结果是这个配置",
-      "url": "https://www.51cto.com/article/845941.html",
+      "title": "多模态设计 Agent：根据文案自动生成配图",
+      "url": "https://blog.51cto.com/chenfenglove/14685876",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "终于可以爽玩 Claude Code，免费 Token 随便烧！",
@@ -77,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-14T12:16:40",
       "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -87,19 +87,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T16:25:05",
       "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "大模型微调：监督微调（SFT）与强化微调（RFT）分析",
-      "url": "https://blog.51cto.com/yuhaibao324/14679577",
+      "title": "Prompt Engineering 实战——让 AI 输出可控的高质量代码",
+      "url": "https://blog.51cto.com/u_17475809/14685870",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 6,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "告别手动改代码：深度复盘 Cursor 如何攻克 90% 的工程级难题",
@@ -107,49 +107,49 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-14T12:16:40",
       "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 4,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "使用LangGraph技术栈构建智能体",
-      "url": "https://blog.51cto.com/yuhaibao324/14679567",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 6,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "零代码玩转小程序！体验阿里云秒悟 Meoo，赢定制手机支架！",
-      "url": "https://blog.51cto.com/51ctoblog/14679196",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-13T16:25:05",
       "consecutive_count": 0,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Codex 中文乱码完整解决方案（Windows 环境，根治 4 层编码不一致）",
+      "url": "https://blog.51cto.com/u_16866798/14685819",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "日程管理Agent：自动排期与冲突解决的逻辑设计",
-      "url": "https://blog.51cto.com/u_15912723/14678847",
+      "title": "LLM 应用中的 RAG 高级技术：从基础到生产级系统",
+      "url": "https://blog.51cto.com/u_12795311/14685803",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-13T16:25:05",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "深度解析 ReasonAlloc：浙大/清华联合团队如何用「分层预算分配」破解长文本推理的 KV Cache 噩梦",
-      "url": "https://blog.51cto.com/u_17517821/14676640",
+      "title": "大模型应用：MiniLM实战案例：基于MiniLM模型的多语言智能客服问答检索系统.124",
+      "url": "https://blog.51cto.com/u_16380863/14685721",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-12T20:33:23",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "ArkUI Swiper 实战：房源照片滑到哪张，不代表哪张已经通过",
+      "url": "https://ost.51cto.com/posts/46388#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "ArkUI Chart 写共享雨伞站点页：折线、柱状和量规各管一件事",
@@ -157,19 +157,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-13T16:25:05",
       "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "鸿蒙和我们",
-      "url": "https://ost.51cto.com/posts/45922#24read",
+      "title": "从调试工具到全场景底座：HDC 2026 新版技术落地与实战应用",
+      "url": "https://ost.51cto.com/posts/46624#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-14T22:48:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "ARM 交叉编译搭建，命令直接复制运行",
@@ -177,16 +177,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-14T23:53:07",
       "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "用 HarmonyOS 做报价草稿柜：加密数据库从 Store 层开始收口",
-      "url": "https://ost.51cto.com/posts/45920#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-12T20:33:23",
-      "last_seen_at": "2026-06-14T12:16:40",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
