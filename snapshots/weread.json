@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-15T18:12:07",
+  "update_time": "2026-06-16T07:07:22",
   "items": [
+    {
+      "title": "图解Skill：AI提效实战指南",
+      "url": "",
+      "last_hot_value": "1451人在读",
+      "first_seen_at": "2026-06-15T18:12:07",
+      "last_seen_at": "2026-06-16T07:07:22",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "鬼谷子：全本全译全析",
       "url": "",
-      "last_hot_value": "1627人在读",
+      "last_hot_value": "1932人在读",
       "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-15T18:12:07",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-16T07:07:22",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -34,10 +44,10 @@
     {
       "title": "马驹桥的时间：清华博士的日结手记",
       "url": "",
-      "last_hot_value": "2014人在读",
+      "last_hot_value": "2423人在读",
       "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-15T18:12:07",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-16T07:07:22",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +57,7 @@
       "last_hot_value": "679人在读",
       "first_seen_at": "2026-06-14T18:53:43",
       "last_seen_at": "2026-06-15T18:12:07",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,31 +72,31 @@
       "is_new": false
     },
     {
-      "title": "查拉图斯特拉如是说",
+      "title": "等一切风平浪静（治愈散文）",
       "url": "",
-      "last_hot_value": "846人在读",
-      "first_seen_at": "2026-06-15T13:34:31",
-      "last_seen_at": "2026-06-15T18:12:07",
-      "consecutive_count": 2,
+      "last_hot_value": "5173人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-16T07:07:22",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "等一切风平浪静（治愈散文）",
+      "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "5114人在读",
-      "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-15T18:12:07",
+      "last_hot_value": "856人在读",
+      "first_seen_at": "2026-06-15T13:34:31",
+      "last_seen_at": "2026-06-16T07:07:22",
       "consecutive_count": 3,
-      "peak_rank": 5,
+      "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "图解Skill：AI提效实战指南",
+      "title": "马斯克第一性原理(让普通人可以学会的方法)",
       "url": "",
-      "last_hot_value": "982人在读",
-      "first_seen_at": "2026-06-15T18:12:07",
-      "last_seen_at": "2026-06-15T18:12:07",
+      "last_hot_value": "272人在读",
+      "first_seen_at": "2026-06-16T07:07:22",
+      "last_seen_at": "2026-06-16T07:07:22",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -102,11 +112,11 @@
       "is_new": false
     },
     {
-      "title": "工作、消费主义和新穷人",
+      "title": "毛泽东选集（全四卷）",
       "url": "",
-      "last_hot_value": "1916人在读",
-      "first_seen_at": "2026-06-15T13:34:31",
-      "last_seen_at": "2026-06-15T18:12:07",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-06-14T18:53:43",
+      "last_seen_at": "2026-06-16T07:07:22",
       "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
@@ -116,8 +126,18 @@
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-06-13T11:29:42",
-      "last_seen_at": "2026-06-15T18:12:07",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-16T07:07:22",
+      "consecutive_count": 5,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "工作、消费主义和新穷人",
+      "url": "",
+      "last_hot_value": "2079人在读",
+      "first_seen_at": "2026-06-15T13:34:31",
+      "last_seen_at": "2026-06-16T07:07:22",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -152,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "毛泽东选集（全四卷）",
+      "title": "百万富翁快车道",
       "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-06-14T18:53:43",
-      "last_seen_at": "2026-06-15T18:12:07",
+      "last_hot_value": "646人在读",
+      "first_seen_at": "2026-06-16T07:07:22",
+      "last_seen_at": "2026-06-16T07:07:22",
       "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "夜晚的潜水艇",
@@ -167,9 +187,9 @@
       "last_hot_value": "1269人在读",
       "first_seen_at": "2026-06-15T18:12:07",
       "last_seen_at": "2026-06-15T18:12:07",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "繁花",
