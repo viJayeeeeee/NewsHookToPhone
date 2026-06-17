@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-06-17T20:27:10",
+  "update_time": "2026-06-17T23:52:04",
   "items": [
     {
       "title": "M6.6 中大西洋海岭中部",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260618025658/summarize",
       "last_hot_value": "6.6级",
       "first_seen_at": "2026-06-17T20:27:10",
-      "last_seen_at": "2026-06-17T20:27:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-17T23:52:04",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.3 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617232327/summarize",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-06-15T13:34:34",
-      "last_seen_at": "2026-06-17T20:27:10",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-17T23:52:04",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617222002/summarize",
       "last_hot_value": "4.5级",
       "first_seen_at": "2026-06-17T18:02:01",
-      "last_seen_at": "2026-06-17T20:27:10",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-17T23:52:04",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617221848/summarize",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-06-17T18:02:01",
-      "last_seen_at": "2026-06-17T20:27:10",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-17T23:52:04",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,8 +96,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617213328/summarize",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-06-17T18:02:01",
-      "last_seen_at": "2026-06-17T20:27:10",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-17T23:52:04",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -105,8 +105,8 @@
       "title": "M3.8 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617164434/summarize",
       "last_hot_value": "3.8级",
-      "first_seen_at": "2026-06-17T18:02:01",
-      "last_seen_at": "2026-06-17T20:27:10",
+      "first_seen_at": "2026-06-17T20:27:10",
+      "last_seen_at": "2026-06-17T23:52:04",
       "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
@@ -116,8 +116,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617152758/summarize",
       "last_hot_value": "4.0级",
       "first_seen_at": "2026-06-17T18:02:01",
-      "last_seen_at": "2026-06-17T20:27:10",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-17T23:52:04",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -135,8 +135,8 @@
       "title": "M3.6 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617144307/summarize",
       "last_hot_value": "3.6级",
-      "first_seen_at": "2026-06-17T18:02:01",
-      "last_seen_at": "2026-06-17T20:27:10",
+      "first_seen_at": "2026-06-17T20:27:10",
+      "last_seen_at": "2026-06-17T23:52:04",
       "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
@@ -155,8 +155,8 @@
       "title": "M3.8 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617142848/summarize",
       "last_hot_value": "3.8级",
-      "first_seen_at": "2026-06-17T20:27:10",
-      "last_seen_at": "2026-06-17T20:27:10",
+      "first_seen_at": "2026-06-17T23:52:04",
+      "last_seen_at": "2026-06-17T23:52:04",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -175,8 +175,8 @@
       "title": "M3.6 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260617131108/summarize",
       "last_hot_value": "3.6级",
-      "first_seen_at": "2026-06-17T20:27:10",
-      "last_seen_at": "2026-06-17T20:27:10",
+      "first_seen_at": "2026-06-17T23:52:04",
+      "last_seen_at": "2026-06-17T23:52:04",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
