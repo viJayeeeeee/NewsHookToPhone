@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-06-15T23:14:15",
+  "update_time": "2026-06-17T02:09:35",
   "items": [
     {
-      "title": "HDC 2026：HarmonyOS 6终端设备数突破6600万，HarmonyOS 7 Developer Beta正式发布",
-      "url": "https://www.51cto.com/article/846239.html",
+      "title": "97.6% cache 命中率：Claude Code 里感觉不到 Context Rot 的真正原因",
+      "url": "https://www.51cto.com/article/846487.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 6,
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "RAG中文档预处理—内容提取的重要性和方法",
@@ -22,24 +22,34 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS ArkTS 扇形命中判定和暗礁遮挡规则实现",
-      "url": "https://ost.51cto.com/posts/46628#24read",
+      "title": "志愿填报师要失业了？AI工具下场抢生意",
+      "url": "https://www.51cto.com/article/846451.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-15T23:14:15",
-      "last_seen_at": "2026-06-15T23:14:15",
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
     },
     {
-      "title": "Claude Fable 5 大解禁，我说三个大家没看到的点",
-      "url": "https://www.51cto.com/article/846112.html",
+      "title": "HarmonyOS ArkTS 扇形命中判定和暗礁遮挡规则实现",
+      "url": "https://ost.51cto.com/posts/46628#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T23:53:07",
+      "first_seen_at": "2026-06-15T23:14:15",
+      "last_seen_at": "2026-06-15T23:14:15",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "Kimi K2.7 Code 开源，代码能力全面提升，token 省30%",
+      "url": "https://www.51cto.com/article/846415.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "四步复活Claude Fable 5？",
@@ -47,19 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-15T23:14:15",
       "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-      "url": "https://www.51cto.com/article/846183.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T22:48:03",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "女娲日记——Java开发智能体 | Day 3：学会优雅的说话",
+      "url": "https://blog.51cto.com/u_15599203/14689065",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "多模态设计 Agent：根据文案自动生成配图",
@@ -67,9 +77,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-15T23:14:15",
       "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "终于可以爽玩 Claude Code，免费 Token 随便烧！",
@@ -82,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "大模型应用：Qwen1.5+ChatGLM3联合评测：不同体量大模型意图识别差异验证.122",
-      "url": "https://blog.51cto.com/u_16380863/14681881",
+      "title": "【Agentic RL / 强化学习框架】Uni-Agent 深度技术分析（1）--- 总体",
+      "url": "https://blog.51cto.com/u_15179348/14688749",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T23:53:07",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Prompt Engineering 实战——让 AI 输出可控的高质量代码",
@@ -97,9 +107,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-15T23:14:15",
       "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "告别手动改代码：深度复盘 Cursor 如何攻克 90% 的工程级难题",
@@ -112,13 +122,33 @@
       "is_new": false
     },
     {
+      "title": "【强化学习框架】Uni-Agent 深度技术分析（2）--- 关键技术",
+      "url": "https://blog.51cto.com/u_15179348/14688747",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Codex 中文乱码完整解决方案（Windows 环境，根治 4 层编码不一致）",
       "url": "https://blog.51cto.com/u_16866798/14685819",
       "last_hot_value": "",
       "first_seen_at": "2026-06-15T23:14:15",
       "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "把DeepSeek部署在你的电脑上",
+      "url": "https://blog.51cto.com/u_16077267/14688568",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -127,8 +157,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-15T23:14:15",
       "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "AIChatSDK：基于 C++ 的多模型统一接入框架设计与实现",
+      "url": "https://blog.51cto.com/u_16985197/14686988",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -137,8 +177,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-15T23:14:15",
       "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "国产模型，打平了Claude Fable 5！已上线OpenRouter",
+      "url": "https://www.51cto.com/article/846410.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-17T02:09:35",
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -147,16 +197,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-15T23:14:15",
       "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "ArkUI Chart 写共享雨伞站点页：折线、柱状和量规各管一件事",
-      "url": "https://ost.51cto.com/posts/46167#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-13T16:25:05",
-      "last_seen_at": "2026-06-14T23:53:07",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
@@ -166,10 +206,10 @@
       "url": "https://ost.51cto.com/posts/46624#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-15T23:14:15",
-      "last_seen_at": "2026-06-15T23:14:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-17T02:09:35",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "ARM 交叉编译搭建，命令直接复制运行",

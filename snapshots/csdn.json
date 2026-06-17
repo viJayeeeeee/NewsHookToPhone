@@ -1,25 +1,25 @@
 {
-  "update_time": "2026-06-15T23:14:13",
+  "update_time": "2026-06-17T02:09:34",
   "items": [
     {
       "title": "【MCP实战】从0写一个本地工具服务器：文件搜索、SQLite查询与安全边界",
       "url": "https://blog.csdn.net/2402_87731470/article/details/161899391",
-      "last_hot_value": "3.0w",
+      "last_hot_value": "2.8w",
       "first_seen_at": "2026-06-14T21:39:27",
-      "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "OpenCV-Python实战（28）——OpenCV计算摄影从HDR图像融合到全景拼接",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161490560",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-13T16:25:04",
-      "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "PyTorch强化学习实战（14）——优先经验回放机制",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159509738",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-06-17T02:09:34",
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "当 AI 接管 Workspace：鸿蒙 PC Agent 架构设计实践",
@@ -27,7 +27,7 @@
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-06-14T21:39:27",
       "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,13 +42,13 @@
       "is_new": false
     },
     {
-      "title": "【Agent 学习日记】我们来说说在长对话场景下，如何管理超长的对话历史？",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/161931969",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-13T16:25:04",
-      "last_seen_at": "2026-06-14T12:16:38",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "【AI智能体】Codex AI 辅助编程高级技能实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161601561",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-06-15T23:14:13",
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -57,19 +57,19 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-06-14T12:16:38",
       "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "【AI智能体】Codex AI 辅助编程高级技能实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161601561",
-      "last_hot_value": "1.5w",
+      "title": "用ChatGPT 5.5构建个人写作工作流：从大纲、初稿到风格润色的提示词链",
+      "url": "https://blog.csdn.net/2401_87342824/article/details/161976434",
+      "last_hot_value": "1.7w",
       "first_seen_at": "2026-06-15T23:14:13",
-      "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "2026年6月英语六级真题试卷及参考答案听力（含一、二、三套卷）PDF版下载",
@@ -77,7 +77,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-14T12:16:38",
       "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -92,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "摒弃摆烂心态，让四年青春锋芒尽显",
-      "url": "https://blog.csdn.net/CC1991_/article/details/161872331",
-      "last_hot_value": "9321",
-      "first_seen_at": "2026-06-13T16:25:04",
-      "last_seen_at": "2026-06-13T16:25:04",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "飞算JavaAI 智能引导背后的多 Agent 协作机制解析:从老旧 Java 后台升级到可运行工程",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/162035338",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-06-17T02:09:34",
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【AI】从文本到向量：理解Embedding的作用",
@@ -107,16 +107,16 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-15T23:14:13",
       "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "用ChatGPT 5.5构建个人写作工作流：从大纲、初稿到风格润色的提示词链",
-      "url": "https://blog.csdn.net/2401_87342824/article/details/161976434",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-06-15T23:14:13",
-      "last_seen_at": "2026-06-15T23:14:13",
+      "title": "AI 接管操作系统：鸿蒙 PC AI Native OS 架构揭秘",
+      "url": "https://blog.csdn.net/qq_36478920/article/details/162013384",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-06-17T02:09:34",
+      "last_seen_at": "2026-06-17T02:09:34",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -132,14 +132,14 @@
       "is_new": false
     },
     {
-      "title": "【AVRCP】规范精讲[28]：媒体源上电全流程，蓝牙音频控制启动就靠这一套",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/161809495",
-      "last_hot_value": "6710",
-      "first_seen_at": "2026-06-13T16:25:04",
-      "last_seen_at": "2026-06-14T12:16:38",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "轻规划鸿蒙开发实战8：AI 防窥保护，多面孔敏感视线追踪与秒级防窥屏阻断",
+      "url": "https://blog.csdn.net/sjw890821sjw/article/details/161971382",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-06-17T02:09:34",
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "Linux信号机制(中)",
@@ -152,6 +152,16 @@
       "is_new": false
     },
     {
+      "title": "Agent First：鸿蒙 App 的下一代 AI Runtime 架构",
+      "url": "https://blog.csdn.net/qq_36863796/article/details/162006356",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-17T02:09:34",
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "【Linux网络】深入拆解 TCP 协议：标志位、紧急机制与连接管理的底层真相",
       "url": "https://blog.csdn.net/2503_91389547/article/details/161439984",
       "last_hot_value": "9319",
@@ -162,13 +172,33 @@
       "is_new": false
     },
     {
+      "title": "《Kingbase护城河》——深度解密数据库行锁冲突与等待事件架构",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/162013820",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-17T02:09:34",
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "金仓数据库KES：内核级DISTINCT语句深度优化，破解数据去重性能难题",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/161971314",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-06-15T23:14:13",
       "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "GitHub 热榜项目 - 周榜(2026-06-14)",
+      "url": "https://blog.csdn.net/u014390502/article/details/161971879",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-17T02:09:34",
+      "last_seen_at": "2026-06-17T02:09:34",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -177,9 +207,9 @@
       "last_hot_value": "9448",
       "first_seen_at": "2026-06-15T23:14:13",
       "last_seen_at": "2026-06-15T23:14:13",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DolphinDB HTTP API接入：RESTful数据推送",

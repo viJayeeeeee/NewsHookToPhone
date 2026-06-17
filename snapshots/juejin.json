@@ -1,24 +1,34 @@
 {
-  "update_time": "2026-06-15T23:14:12",
+  "update_time": "2026-06-17T02:09:32",
   "items": [
     {
-      "title": "Fable 5 的系统提示词被人扒出来了，精彩，太精彩了。",
-      "url": "https://juejin.cn/post/7650052991786401832",
-      "last_hot_value": "热度:2988",
-      "first_seen_at": "2026-06-13T16:25:02",
-      "last_seen_at": "2026-06-15T23:14:12",
+      "title": "小米版Claude Code正式发布，这次开源给到夯。",
+      "url": "https://juejin.cn/post/7650451521307770923",
+      "last_hot_value": "热度:3006",
+      "first_seen_at": "2026-06-14T12:16:36",
+      "last_seen_at": "2026-06-17T02:09:32",
       "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "小米版Claude Code正式发布，这次开源给到夯。",
-      "url": "https://juejin.cn/post/7650451521307770923",
-      "last_hot_value": "热度:1710",
-      "first_seen_at": "2026-06-14T12:16:36",
-      "last_seen_at": "2026-06-15T23:14:12",
-      "consecutive_count": 5,
+      "title": "又是梁文锋，有点猛啊。",
+      "url": "https://juejin.cn/post/7651461757568811060",
+      "last_hot_value": "热度:1899",
+      "first_seen_at": "2026-06-17T02:09:32",
+      "last_seen_at": "2026-06-17T02:09:32",
+      "consecutive_count": 1,
       "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "Codex 怎么买、怎么充值？先把这两套计费搞清楚",
+      "url": "https://juejin.cn/post/7651176694349545506",
+      "last_hot_value": "热度:891",
+      "first_seen_at": "2026-06-15T23:14:12",
+      "last_seen_at": "2026-06-17T02:09:32",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -27,7 +37,7 @@
       "last_hot_value": "热度:972",
       "first_seen_at": "2026-06-14T12:16:36",
       "last_seen_at": "2026-06-15T23:14:12",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -44,12 +54,22 @@
     {
       "title": "从“生成一篇知识点”到“面对面讲清一道题”：我用魔珐星云改造 AI 教育助手的实践",
       "url": "https://juejin.cn/post/7651268339474202643",
-      "last_hot_value": "热度:612",
+      "last_hot_value": "热度:747",
       "first_seen_at": "2026-06-15T23:14:12",
-      "last_seen_at": "2026-06-15T23:14:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-17T02:09:32",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "解析华为 DevEco Code 和小米 MiMo Code，都基于 OpenCode ，有什么区别？",
+      "url": "https://juejin.cn/post/7650935690218209321",
+      "last_hot_value": "热度:738",
+      "first_seen_at": "2026-06-15T23:14:12",
+      "last_seen_at": "2026-06-17T02:09:32",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "现代 Android 官方为什么更推荐 Repository 暴露 `suspend fun`，而不是在内部 `launch`",
@@ -57,8 +77,18 @@
       "last_hot_value": "热度:549",
       "first_seen_at": "2026-06-14T12:16:36",
       "last_seen_at": "2026-06-15T23:14:12",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "面试官坏笑：“你用 AI 编程一年了，怎么保证 Claude Code 写出来的代码是对的？”我：“直接上 Claude Fable 5 啊！”",
+      "url": "https://juejin.cn/post/7650809417412509732",
+      "last_hot_value": "热度:630",
+      "first_seen_at": "2026-06-15T23:14:12",
+      "last_seen_at": "2026-06-17T02:09:32",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -67,8 +97,18 @@
       "last_hot_value": "热度:540",
       "first_seen_at": "2026-06-15T23:14:12",
       "last_seen_at": "2026-06-15T23:14:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "Harness 还没学会，又来了个 Loop Engineering ？",
+      "url": "https://juejin.cn/post/7651153611318460425",
+      "last_hot_value": "热度:522",
+      "first_seen_at": "2026-06-17T02:09:32",
+      "last_seen_at": "2026-06-17T02:09:32",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -77,9 +117,9 @@
       "last_hot_value": "热度:441",
       "first_seen_at": "2026-06-15T23:14:12",
       "last_seen_at": "2026-06-15T23:14:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Flutter 又为 AI 时代添砖加瓦：全新 ComponentLibrary 提议",
@@ -92,11 +132,11 @@
       "is_new": false
     },
     {
-      "title": "解析华为 DevEco Code 和小米 MiMo Code，都基于 OpenCode ，有什么区别？",
-      "url": "https://juejin.cn/post/7650935690218209321",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-06-15T23:14:12",
-      "last_seen_at": "2026-06-15T23:14:12",
+      "title": "白嫖DeepSeek V4 Pro！免费无限用，还能接入Claude-Code",
+      "url": "https://juejin.cn/post/7650882103059939337",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-06-17T02:09:32",
+      "last_seen_at": "2026-06-17T02:09:32",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -112,31 +152,21 @@
       "is_new": false
     },
     {
-      "title": "老板：“你是怎么使用 AI 的，真能做到不手写代码？为什么 Codex 在我手里感觉是个智障。。”我：“这样，然后再这样。。”老板直接跪了。",
-      "url": "https://juejin.cn/post/7649591353740460067",
-      "last_hot_value": "热度:576",
-      "first_seen_at": "2026-06-13T16:25:02",
-      "last_seen_at": "2026-06-13T16:25:02",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "Codex 怎么买、怎么充值？先把这两套计费搞清楚",
-      "url": "https://juejin.cn/post/7651176694349545506",
-      "last_hot_value": "热度:324",
-      "first_seen_at": "2026-06-15T23:14:12",
-      "last_seen_at": "2026-06-15T23:14:12",
+      "title": "腾讯云一键部署OpenClaw打造QQ机器人",
+      "url": "https://juejin.cn/post/7651145221669355571",
+      "last_hot_value": "热度:468",
+      "first_seen_at": "2026-06-17T02:09:32",
+      "last_seen_at": "2026-06-17T02:09:32",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "面试官坏笑：“你用 AI 编程一年了，怎么保证 Claude Code 写出来的代码是对的？”我：“直接上 Claude Fable 5 啊！”",
-      "url": "https://juejin.cn/post/7650809417412509732",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-06-15T23:14:12",
-      "last_seen_at": "2026-06-15T23:14:12",
+      "title": "分页别写太顺手，LIMIT 背后还有排序和边界",
+      "url": "https://juejin.cn/post/7651261115465924654",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-06-17T02:09:32",
+      "last_seen_at": "2026-06-17T02:09:32",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

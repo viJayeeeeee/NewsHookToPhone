@@ -1,26 +1,6 @@
 {
-  "update_time": "2026-06-15T23:14:22",
+  "update_time": "2026-06-17T02:09:53",
   "items": [
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:188647 回复:2627",
-      "first_seen_at": "2026-06-13T16:25:14",
-      "last_seen_at": "2026-06-15T23:14:22",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "NextTrace 官方出了个 GlobalTrace 全球路由追踪网站，欢迎大家试试",
-      "url": "https://www.nodeseek.com/post-774566-1",
-      "last_hot_value": "查看:1500 回复:46",
-      "first_seen_at": "2026-06-13T16:25:14",
-      "last_seen_at": "2026-06-15T23:14:22",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC管理项目",
       "url": "https://www.nodeseek.com/post-762899-1",
@@ -32,23 +12,53 @@
       "is_new": false
     },
     {
+      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
+      "url": "https://www.nodeseek.com/post-373751-1",
+      "last_hot_value": "查看:198597 回复:479",
+      "first_seen_at": "2026-06-17T02:09:53",
+      "last_seen_at": "2026-06-17T02:09:53",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "[依旧开源自荐] OxideTerm 更新到 1.4.2：34 天 400+ commits，SSH 工作区更懂你了",
       "url": "https://www.nodeseek.com/post-727075-1",
       "last_hot_value": "查看:1613 回复:28",
       "first_seen_at": "2026-06-14T12:16:47",
       "last_seen_at": "2026-06-15T23:14:22",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:197860 回复:1871",
-      "first_seen_at": "2026-06-13T16:25:14",
-      "last_seen_at": "2026-06-15T23:14:22",
-      "consecutive_count": 6,
-      "peak_rank": 2,
+      "title": "[6.16 更新/开源自荐]MediaStationGo-自建影视中心-EMBY一站式开服新方案",
+      "url": "https://www.nodeseek.com/post-750908-1",
+      "last_hot_value": "查看:2044 回复:69",
+      "first_seen_at": "2026-06-17T02:09:53",
+      "last_seen_at": "2026-06-17T02:09:53",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "komari探针主题 base on komari-next",
+      "url": "https://www.nodeseek.com/post-700524-1",
+      "last_hot_value": "查看:3890 回复:52",
+      "first_seen_at": "2026-06-17T02:09:53",
+      "last_seen_at": "2026-06-17T02:09:53",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "NAT机商家合集-置顶每月更新中",
+      "url": "https://www.nodeseek.com/post-54366-1",
+      "last_hot_value": "查看:130470 回复:349",
+      "first_seen_at": "2026-06-14T12:16:47",
+      "last_seen_at": "2026-06-17T02:09:53",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -57,16 +67,6 @@
       "last_hot_value": "查看:492 回复:8",
       "first_seen_at": "2026-06-15T23:14:22",
       "last_seen_at": "2026-06-15T23:14:22",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "NAT机商家合集-置顶每月更新中",
-      "url": "https://www.nodeseek.com/post-54366-1",
-      "last_hot_value": "查看:129858 回复:348",
-      "first_seen_at": "2026-06-14T12:16:47",
-      "last_seen_at": "2026-06-14T23:53:17",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -74,12 +74,12 @@
     {
       "title": "NS官方邮箱系统正式版(V2)",
       "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:57869 回复:550",
+      "last_hot_value": "查看:58188 回复:551",
       "first_seen_at": "2026-06-15T23:14:22",
-      "last_seen_at": "2026-06-15T23:14:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-17T02:09:53",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
@@ -87,29 +87,29 @@
       "last_hot_value": "查看:38874 回复:160",
       "first_seen_at": "2026-06-14T12:16:47",
       "last_seen_at": "2026-06-15T23:14:22",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
-      "url": "https://www.nodeseek.com/post-683468-1",
-      "last_hot_value": "查看:29047 回复:415",
-      "first_seen_at": "2026-06-13T16:25:14",
-      "last_seen_at": "2026-06-15T23:14:22",
+      "title": "【开源】OpenFlare 自建 CDN, 集反代 Tunnel Pages WAF 于一身的究极缝合怪",
+      "url": "https://www.nodeseek.com/post-760916-1",
+      "last_hot_value": "查看:2781 回复:57",
+      "first_seen_at": "2026-06-17T02:09:53",
+      "last_seen_at": "2026-06-17T02:09:53",
       "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": false
+      "peak_rank": 8,
+      "is_new": true
     },
     {
-      "title": "[6.13 更新/开源自荐]一款轻量化NAS媒体库管理服务器",
-      "url": "https://www.nodeseek.com/post-750908-1",
-      "last_hot_value": "查看:1685 回复:64",
-      "first_seen_at": "2026-06-13T16:25:14",
-      "last_seen_at": "2026-06-13T16:25:14",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "『重磅』NodeSeek社区的探针产品：NodeGet，公测！",
+      "url": "https://www.nodeseek.com/post-709258-1",
+      "last_hot_value": "查看:27773 回复:474",
+      "first_seen_at": "2026-06-17T02:09:53",
+      "last_seen_at": "2026-06-17T02:09:53",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "[6.13 更新/开源自荐]MediaStationGo-自建影视中心-EMBY一站式开服新方案",
@@ -122,21 +122,21 @@
       "is_new": false
     },
     {
+      "title": "[HE-IPV6隧道]Vir JP TYC33节点的V6挂掉，套用HE的V6隧道应急备忘录",
+      "url": "https://www.nodeseek.com/post-8827-1",
+      "last_hot_value": "查看:365 回复:14",
+      "first_seen_at": "2026-06-17T02:09:53",
+      "last_seen_at": "2026-06-17T02:09:53",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "【知识】简单教你鉴别假CN2GIA",
       "url": "https://www.nodeseek.com/post-754155-1",
       "last_hot_value": "查看:15254 回复:186",
       "first_seen_at": "2026-06-14T12:16:47",
       "last_seen_at": "2026-06-14T23:53:17",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "从零搭建 Obsidian 个人知识库：PARA + 中文目录 + Git 备份完整实战",
-      "url": "https://www.nodeseek.com/post-711247-1",
-      "last_hot_value": "查看:1772 回复:29",
-      "first_seen_at": "2026-06-13T16:25:14",
-      "last_seen_at": "2026-06-13T16:25:14",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
