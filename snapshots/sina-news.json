@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-16T23:52:47",
+  "update_time": "2026-06-18T14:23:10",
   "items": [
+    {
+      "title": "香港机场发生黄金大劫案",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%94%9F%E9%BB%84%E9%87%91%E5%A4%A7%E5%8A%AB%E6%A1%88",
+      "last_hot_value": "374万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "姆巴佩梅开二度",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
       "last_hot_value": "375万",
       "first_seen_at": "2026-06-16T23:52:47",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "前5个月国民经济延续向新向优发展态势",
@@ -17,7 +27,7 @@
       "last_hot_value": "358万",
       "first_seen_at": "2026-06-16T20:21:46",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,14 +52,24 @@
       "is_new": false
     },
     {
+      "title": "葡萄牙队回应C罗发文",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F%E5%9B%9E%E5%BA%94C%E7%BD%97%E5%8F%91%E6%96%87",
+      "last_hot_value": "365万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "伊拉克vs挪威",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%BC%8A%E6%8B%89%E5%85%8Bvs%E6%8C%AA%E5%A8%81",
       "last_hot_value": "362万",
       "first_seen_at": "2026-06-16T23:52:47",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "法国vs塞内加尔",
@@ -82,6 +102,16 @@
       "is_new": false
     },
     {
+      "title": "我国又一千亿级产业刷屏",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%88%91%E5%9B%BD%E5%8F%88%E4%B8%80%E5%8D%83%E4%BA%BF%E7%BA%A7%E4%BA%A7%E4%B8%9A%E5%88%B7%E5%B1%8F",
+      "last_hot_value": "361万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "佛得角门将说不让进就不让进",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E8%AF%B4%E4%B8%8D%E8%AE%A9%E8%BF%9B%E5%B0%B1%E4%B8%8D%E8%AE%A9%E8%BF%9B",
       "last_hot_value": "336万",
@@ -112,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "毒纸尿裤涉事品牌",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%B6%89%E4%BA%8B%E5%93%81%E7%89%8C",
+      "last_hot_value": "342万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "法国3比1塞内加尔",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%B3%95%E5%9B%BD3%E6%AF%941%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94",
       "last_hot_value": "349万",
       "first_seen_at": "2026-06-16T23:52:47",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "梅西姆巴佩哈兰德同一天登场",
@@ -152,12 +192,22 @@
       "is_new": false
     },
     {
+      "title": "甲酰胺 致癌",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%94%B2%E9%85%B0%E8%83%BA%20%E8%87%B4%E7%99%8C",
+      "last_hot_value": "339万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "100万存1年利息不到1万",
       "url": "https://so.sina.cn/search/list.d.html?keyword=100%E4%B8%87%E5%AD%981%E5%B9%B4%E5%88%A9%E6%81%AF%E4%B8%8D%E5%88%B01%E4%B8%87",
       "last_hot_value": "305万",
       "first_seen_at": "2026-06-16T20:21:46",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -182,14 +232,24 @@
       "is_new": false
     },
     {
+      "title": "ENC英雄联盟名单",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=ENC%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%90%8D%E5%8D%95",
+      "last_hot_value": "282万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "姆巴佩法国队史射手王",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B3%95%E5%9B%BD%E9%98%9F%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B",
       "last_hot_value": "295万",
       "first_seen_at": "2026-06-16T23:52:47",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "梅西阿根廷队进球分布",
@@ -222,14 +282,24 @@
       "is_new": false
     },
     {
+      "title": "小米空调10年免费加氟",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%8310%E5%B9%B4%E5%85%8D%E8%B4%B9%E5%8A%A0%E6%B0%9F",
+      "last_hot_value": "282万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "哈兰德进球",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E8%BF%9B%E7%90%83",
       "last_hot_value": "287万",
       "first_seen_at": "2026-06-16T23:52:47",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "曝电梯坠亡监控缺失",
@@ -237,7 +307,7 @@
       "last_hot_value": "266万",
       "first_seen_at": "2026-06-16T20:21:46",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -262,12 +332,22 @@
       "is_new": false
     },
     {
+      "title": "这些是“甲醛菜”？真相来了",
+      "url": "https://news.sina.com.cn/c/2026-06-17/doc-inictaet3856061.shtml",
+      "last_hot_value": "281万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "“韶山某公交站有人驾车抢女学生”为谣言",
       "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicqsxv4450860.shtml",
       "last_hot_value": "271万",
       "first_seen_at": "2026-06-16T12:19:37",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -280,6 +360,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "AI贡献最大的一道题出现了",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=AI%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E9%81%93%E9%A2%98%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "last_hot_value": "281万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "一个人在家洗澡千万不要锁门",
@@ -312,14 +402,24 @@
       "is_new": false
     },
     {
+      "title": "无人机撞向莫斯科高楼炼油厂",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%92%9E%E5%90%91%E8%8E%AB%E6%96%AF%E7%A7%91%E9%AB%98%E6%A5%BC%E7%82%BC%E6%B2%B9%E5%8E%82",
+      "last_hot_value": "280万",
+      "first_seen_at": "2026-06-18T14:23:10",
+      "last_seen_at": "2026-06-18T14:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "姆巴佩破门",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A0%B4%E9%97%A8",
       "last_hot_value": "262万",
       "first_seen_at": "2026-06-16T23:52:47",
       "last_seen_at": "2026-06-16T23:52:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "26岁游戏代练被母亲骗进戒网瘾机构",
