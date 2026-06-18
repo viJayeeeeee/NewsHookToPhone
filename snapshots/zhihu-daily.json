@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-06-18T07:03:21",
+  "update_time": "2026-06-18T17:38:19",
   "items": [
     {
       "title": "角速度为什么是个矢量？",
       "url": "https://daily.zhihu.com/story/9790490",
       "last_hot_value": "",
       "first_seen_at": "2026-06-18T07:03:21",
-      "last_seen_at": "2026-06-18T07:03:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "汉字中「零」实在过于复杂，没有 0 的样子，为什么不改呢？",
       "url": "https://daily.zhihu.com/story/9790453",
       "last_hot_value": "",
       "first_seen_at": "2026-06-16T22:25:50",
-      "last_seen_at": "2026-06-18T07:03:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,9 +26,29 @@
       "url": "https://daily.zhihu.com/story/9790472",
       "last_hot_value": "",
       "first_seen_at": "2026-06-18T07:03:21",
-      "last_seen_at": "2026-06-18T07:03:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 2,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "动物咬住幼崽后颈就会停止乱动，进入搬运模式，人类幼仔有同样的效果吗？",
+      "url": "https://daily.zhihu.com/story/9790427",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-18T17:38:19",
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "给孩子取名沐兮很傻吗?",
+      "url": "https://daily.zhihu.com/story/9790398",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-18T17:38:19",
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -36,10 +56,10 @@
       "url": "https://daily.zhihu.com/story/9790491",
       "last_hot_value": "",
       "first_seen_at": "2026-06-18T07:03:21",
-      "last_seen_at": "2026-06-18T07:03:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么当今世界解构主义盛行，甚至到了滥用的地步？",
@@ -56,10 +76,10 @@
       "url": "https://daily.zhihu.com/story/9790493",
       "last_hot_value": "",
       "first_seen_at": "2026-06-18T07:03:21",
-      "last_seen_at": "2026-06-18T07:03:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "如何评价 BBC 文章「尼古丁具有高度成瘾性，迷幻药物有助于戒烟」？",
@@ -72,24 +92,34 @@
       "is_new": false
     },
     {
+      "title": "瞎扯 · 如何正确地吐槽",
+      "url": "https://daily.zhihu.com/story/9790501",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-18T17:38:19",
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "为什么水浒 108 将不重姓但重名的人物这么多？",
       "url": "https://daily.zhihu.com/story/9790475",
       "last_hot_value": "",
       "first_seen_at": "2026-06-18T07:03:21",
-      "last_seen_at": "2026-06-18T07:03:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "输出 Token 的费率普遍比输入 Token 贵，背后的经济与技术逻辑是什么？",
       "url": "https://daily.zhihu.com/story/9790484",
       "last_hot_value": "",
       "first_seen_at": "2026-06-18T07:03:21",
-      "last_seen_at": "2026-06-18T07:03:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-18T17:38:19",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
