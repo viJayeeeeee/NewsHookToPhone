@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-18T19:52:14",
+  "update_time": "2026-06-18T23:26:32",
   "items": [
     {
       "title": "今天是端午节",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BB%8A%E5%A4%A9%E6%98%AF%E7%AB%AF%E5%8D%88%E8%8A%82",
-      "last_hot_value": "1,334.6万",
+      "last_hot_value": "1,342.5万",
       "first_seen_at": "2026-06-18T17:38:13",
-      "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,14 +32,24 @@
       "is_new": false
     },
     {
+      "title": "加拿大vs卡塔尔",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E5%8D%A1%E5%A1%94%E5%B0%94",
+      "last_hot_value": "1,342.2万",
+      "first_seen_at": "2026-06-18T23:26:32",
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "瑞士vs波黑",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%91%9E%E5%A3%ABvs%E6%B3%A2%E9%BB%91",
       "last_hot_value": "1,334.3万",
       "first_seen_at": "2026-06-18T19:52:14",
       "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "端午节藏了这么多冷知识",
@@ -47,7 +57,7 @@
       "last_hot_value": "1,044.4万",
       "first_seen_at": "2026-06-18T17:38:13",
       "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -74,10 +84,10 @@
     {
       "title": "平陆运河示范船试航成功",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E7%A4%BA%E8%8C%83%E8%88%B9%E8%AF%95%E8%88%AA%E6%88%90%E5%8A%9F",
-      "last_hot_value": "1,328万",
+      "last_hot_value": "1,289.5万",
       "first_seen_at": "2026-06-18T17:38:13",
-      "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -102,22 +112,32 @@
       "is_new": false
     },
     {
-      "title": "父亲节的存在感",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%88%B6%E4%BA%B2%E8%8A%82%E7%9A%84%E5%AD%98%E5%9C%A8%E6%84%9F",
-      "last_hot_value": "1,259.6万",
-      "first_seen_at": "2026-06-18T17:38:13",
-      "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 2,
+      "title": "海军潜艇部队成立72周年",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B5%B7%E5%86%9B%E6%BD%9C%E8%89%87%E9%83%A8%E9%98%9F%E6%88%90%E7%AB%8B72%E5%91%A8%E5%B9%B4",
+      "last_hot_value": "1,275.9万",
+      "first_seen_at": "2026-06-18T23:26:32",
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "男厨师半裸救女客人被质疑后回应",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%94%B7%E5%8E%A8%E5%B8%88%E5%8D%8A%E8%A3%B8%E6%95%91%E5%A5%B3%E5%AE%A2%E4%BA%BA%E8%A2%AB%E8%B4%A8%E7%96%91%E5%90%8E%E5%9B%9E%E5%BA%94",
-      "last_hot_value": "1,103万",
+      "last_hot_value": "1,167.5万",
       "first_seen_at": "2026-06-18T17:38:13",
-      "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "父亲节的存在感",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%88%B6%E4%BA%B2%E8%8A%82%E7%9A%84%E5%AD%98%E5%9C%A8%E6%84%9F",
+      "last_hot_value": "1,102.1万",
+      "first_seen_at": "2026-06-18T17:38:13",
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -142,12 +162,22 @@
       "is_new": false
     },
     {
+      "title": "蚌埠人的端午节仪式感",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%9A%8C%E5%9F%A0%E4%BA%BA%E7%9A%84%E7%AB%AF%E5%8D%88%E8%8A%82%E4%BB%AA%E5%BC%8F%E6%84%9F",
+      "last_hot_value": "1,189.4万",
+      "first_seen_at": "2026-06-18T23:26:32",
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "捷克vs南非",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%8D%B7%E5%85%8Bvs%E5%8D%97%E9%9D%9E",
       "last_hot_value": "1,179.3万",
       "first_seen_at": "2026-06-18T17:38:13",
       "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -177,9 +207,9 @@
       "last_hot_value": "1,156.4万",
       "first_seen_at": "2026-06-18T19:52:14",
       "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "吐粽子小厨师来也",
@@ -212,12 +242,22 @@
       "is_new": false
     },
     {
+      "title": "上海美影厂旧址焕新亮相",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%8A%E6%B5%B7%E7%BE%8E%E5%BD%B1%E5%8E%82%E6%97%A7%E5%9D%80%E7%84%95%E6%96%B0%E4%BA%AE%E7%9B%B8",
+      "last_hot_value": "1,146.3万",
+      "first_seen_at": "2026-06-18T23:26:32",
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "端午一定不要做的事",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AB%AF%E5%8D%88%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%A6%81%E5%81%9A%E7%9A%84%E4%BA%8B",
       "last_hot_value": "1,133.5万",
       "first_seen_at": "2026-06-18T17:38:13",
       "last_seen_at": "2026-06-18T19:52:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -272,14 +312,24 @@
       "is_new": false
     },
     {
-      "title": "江西两名大学生不幸溺亡",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B1%9F%E8%A5%BF%E4%B8%A4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1",
-      "last_hot_value": "1,065.8万",
-      "first_seen_at": "2026-06-18T19:52:14",
-      "last_seen_at": "2026-06-18T19:52:14",
+      "title": "女生被迫赴非洲参加邪教",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%BF%AB%E8%B5%B4%E9%9D%9E%E6%B4%B2%E5%8F%82%E5%8A%A0%E9%82%AA%E6%95%99",
+      "last_hot_value": "1,080.7万",
+      "first_seen_at": "2026-06-18T23:26:32",
+      "last_seen_at": "2026-06-18T23:26:32",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
+    },
+    {
+      "title": "江西两名大学生不幸溺亡",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%B1%9F%E8%A5%BF%E4%B8%A4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1",
+      "last_hot_value": "1,058.6万",
+      "first_seen_at": "2026-06-18T19:52:14",
+      "last_seen_at": "2026-06-18T23:26:32",
+      "consecutive_count": 2,
+      "peak_rank": 9,
+      "is_new": false
     },
     {
       "title": "慢慢就戒掉了你手势舞",
