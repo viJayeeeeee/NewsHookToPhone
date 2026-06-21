@@ -1,14 +1,44 @@
 {
-  "update_time": "2026-06-21T07:15:32",
+  "update_time": "2026-06-21T10:46:45",
   "items": [
     {
       "title": "略略略略略",
       "url": "https://y.qq.com/n/ryqq/songDetail/000QuvKj4aCfBU",
       "last_hot_value": "",
       "first_seen_at": "2026-06-21T07:15:32",
-      "last_seen_at": "2026-06-21T07:15:32",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 2,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "ANGEL (天使)",
+      "url": "https://y.qq.com/n/ryqq/songDetail/004PjZLu3CjaYS",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-21T10:46:45",
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "阴天",
+      "url": "https://y.qq.com/n/ryqq/songDetail/0031PqYN0sj8K3",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-21T10:46:45",
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "NIGHT DANCER",
+      "url": "https://y.qq.com/n/ryqq/songDetail/0030KTZ8141fsb",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-21T10:46:45",
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -20,6 +50,26 @@
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "恋人",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-21T10:46:45",
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "雨爱",
+      "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-21T10:46:45",
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "蚱蜢跃入星空",
@@ -46,28 +96,38 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000mR3og4D8x6Y",
       "last_hot_value": "",
       "first_seen_at": "2026-06-21T07:15:32",
-      "last_seen_at": "2026-06-21T07:15:32",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "抽离",
       "url": "https://y.qq.com/n/ryqq/songDetail/0018BYrF3ANbLX",
       "last_hot_value": "",
       "first_seen_at": "2026-06-19T07:28:32",
-      "last_seen_at": "2026-06-21T07:15:32",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 8,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "雨过后的风景",
+      "url": "https://y.qq.com/n/ryqq/songDetail/004GEXe13HYtsE",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-21T10:46:45",
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "爱错",
       "url": "https://y.qq.com/n/ryqq/songDetail/004fneUm24gD2c",
       "last_hot_value": "",
       "first_seen_at": "2026-06-19T07:28:32",
-      "last_seen_at": "2026-06-21T07:15:32",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-06-21T10:46:45",
+      "consecutive_count": 8,
       "peak_rank": 9,
       "is_new": false
     },
