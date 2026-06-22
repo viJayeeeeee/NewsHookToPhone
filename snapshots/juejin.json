@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-06-21T18:03:59",
+  "update_time": "2026-06-22T02:10:36",
   "items": [
     {
       "title": "《Kingbase护城河》——数据库存储空间全景探测与精细化瘦身实战",
       "url": "https://juejin.cn/post/7652513657561792563",
-      "last_hot_value": "热度:1224",
+      "last_hot_value": "热度:1242",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "KMP / CMP 鸿蒙版本 Beta 发布，他有什么特别之处？",
       "url": "https://juejin.cn/post/7651954728705212422",
-      "last_hot_value": "热度:576",
+      "last_hot_value": "热度:594",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我用 AI 一周写完了整个项目，上线第一天就崩了——这是我踩过最贵的 5 个坑",
       "url": "https://juejin.cn/post/7652581847890133018",
-      "last_hot_value": "热度:495",
+      "last_hot_value": "热度:585",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "老板：“请说出一个录用你的理由。”我脱口而出：“每个月 AI 支出都超过我的生活费了！”老板愣了一下，随即哈哈大笑：“好吧，你被录用了。”",
       "url": "https://juejin.cn/post/7652201148235382803",
-      "last_hot_value": "热度:477",
+      "last_hot_value": "热度:504",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS开发中错误处理策略：网络异常统一处理",
       "url": "https://juejin.cn/post/7652636952518754340",
-      "last_hot_value": "热度:297",
+      "last_hot_value": "热度:306",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "HarmonyOS开发中RESTful API封装：网络层架构设计",
-      "url": "https://juejin.cn/post/7652636952518721572",
-      "last_hot_value": "热度:288",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "HarmonyOS开发中请求拦截器链：日志、认证、重试",
-      "url": "https://juejin.cn/post/7652976567262675007",
-      "last_hot_value": "热度:270",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "一套 Spec-First 的 AI 编程工作流",
       "url": "https://juejin.cn/post/7652581847889330202",
-      "last_hot_value": "热度:261",
+      "last_hot_value": "热度:306",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "HarmonyOS开发中RESTful API封装：网络层架构设计",
+      "url": "https://juejin.cn/post/7652636952518721572",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-06-21T18:03:59",
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "HarmonyOS开发中请求拦截器链：日志、认证、重试",
+      "url": "https://juejin.cn/post/7652976567262675007",
+      "last_hot_value": "热度:288",
+      "first_seen_at": "2026-06-21T18:03:59",
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "HarmonyOS APP事件驱动大揭秘",
       "url": "https://juejin.cn/post/7652676128406306859",
-      "last_hot_value": "热度:243",
+      "last_hot_value": "热度:252",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Android 协程并发控制：别动线程池，控制好并发语义就够了",
       "url": "https://juejin.cn/post/7652257652502298662",
-      "last_hot_value": "热度:225",
+      "last_hot_value": "热度:234",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-21T18:03:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-22T02:10:36",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
