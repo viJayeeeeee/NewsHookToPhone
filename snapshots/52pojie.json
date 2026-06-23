@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-23T01:34:49",
+  "update_time": "2026-06-23T23:47:04",
   "items": [
+    {
+      "title": "央视影音v6.0.5.0绿色版",
+      "url": "",
+      "last_hot_value": "回复:387 查看:11946",
+      "first_seen_at": "2026-06-23T23:47:04",
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "《音乐音量管理器》统一音量调整，支持无损 V1.0.0 【2026-06-19】",
       "url": "",
       "last_hot_value": "回复:122 查看:4178",
       "first_seen_at": "2026-06-21T18:04:10",
       "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,17 +27,27 @@
       "last_hot_value": "回复:177 查看:8748",
       "first_seen_at": "2026-06-21T18:04:10",
       "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
+      "title": "野外生存工具APP：Trail Sense v8.0.2",
+      "url": "",
+      "last_hot_value": "回复:121 查看:4085",
+      "first_seen_at": "2026-06-23T23:47:04",
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "果核看图 GuoheView v3.0.6",
       "url": "",
-      "last_hot_value": "回复:137 查看:5713",
+      "last_hot_value": "回复:197 查看:8223",
       "first_seen_at": "2026-06-21T18:04:10",
-      "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,7 +57,7 @@
       "last_hot_value": "回复:487 查看:14111",
       "first_seen_at": "2026-06-22T02:10:49",
       "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +67,7 @@
       "last_hot_value": "回复:435 查看:13329",
       "first_seen_at": "2026-06-22T02:10:49",
       "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,14 +92,24 @@
       "is_new": false
     },
     {
+      "title": "酷狗概念第三方：KA Music v2.9.3",
+      "url": "",
+      "last_hot_value": "回复:174 查看:8921",
+      "first_seen_at": "2026-06-23T01:34:49",
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "格式大师 v1.0.0",
       "url": "",
-      "last_hot_value": "回复:73 查看:2439",
+      "last_hot_value": "回复:265 查看:6198",
       "first_seen_at": "2026-06-23T01:34:49",
-      "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "抖音无水印下载 抖印v1.1.0",
@@ -87,8 +117,18 @@
       "last_hot_value": "回复:195 查看:6347",
       "first_seen_at": "2026-06-22T02:10:49",
       "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "微软常用运行库合集 2026.06.07",
+      "url": "",
+      "last_hot_value": "回复:300 查看:8814",
+      "first_seen_at": "2026-06-22T02:10:49",
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -97,9 +137,9 @@
       "last_hot_value": "回复:112 查看:3602",
       "first_seen_at": "2026-06-23T01:34:49",
       "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【我的开源】 写公众号文章最烦的事，我终于找到了解法",
@@ -132,6 +172,26 @@
       "is_new": false
     },
     {
+      "title": "NET安装失败修复工具V1.0",
+      "url": "",
+      "last_hot_value": "回复:68 查看:2350",
+      "first_seen_at": "2026-06-23T23:47:04",
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "PDF小工具 V1.2版",
+      "url": "",
+      "last_hot_value": "回复:123 查看:6652",
+      "first_seen_at": "2026-06-21T18:04:10",
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "效率MP工具箱 v5.6.42",
       "url": "",
       "last_hot_value": "回复:101 查看:7423",
@@ -142,14 +202,14 @@
       "is_new": false
     },
     {
-      "title": "PDF小工具 V1.2版",
+      "title": "桌面便签：PaperTodo 一张纸 v2.0",
       "url": "",
-      "last_hot_value": "回复:61 查看:2507",
-      "first_seen_at": "2026-06-21T18:04:10",
-      "last_seen_at": "2026-06-21T18:04:10",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "last_hot_value": "回复:63 查看:2716",
+      "first_seen_at": "2026-06-23T23:47:04",
+      "last_seen_at": "2026-06-23T23:47:04",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "字幕翻译 妙幕SmartSub v2.16.0",
@@ -157,7 +217,7 @@
       "last_hot_value": "回复:109 查看:4808",
       "first_seen_at": "2026-06-21T18:04:10",
       "last_seen_at": "2026-06-23T01:34:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -172,23 +232,13 @@
       "is_new": false
     },
     {
-      "title": "微软常用运行库合集 2026.06.07",
+      "title": "图吧工具箱WinUI3 v1.2.2",
       "url": "",
-      "last_hot_value": "回复:294 查看:8367",
-      "first_seen_at": "2026-06-22T02:10:49",
-      "last_seen_at": "2026-06-22T02:10:49",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "酷狗概念第三方：KA Music v2.9.3",
-      "url": "",
-      "last_hot_value": "回复:127 查看:6092",
-      "first_seen_at": "2026-06-23T01:34:49",
-      "last_seen_at": "2026-06-23T01:34:49",
+      "last_hot_value": "回复:129 查看:5127",
+      "first_seen_at": "2026-06-23T23:47:04",
+      "last_seen_at": "2026-06-23T23:47:04",
       "consecutive_count": 1,
-      "peak_rank": 10,
+      "peak_rank": 9,
       "is_new": true
     },
     {

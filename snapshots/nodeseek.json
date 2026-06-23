@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-23T01:34:48",
+  "update_time": "2026-06-23T23:47:02",
   "items": [
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:202188 回复:1905",
+      "first_seen_at": "2026-06-21T18:04:09",
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【比“史上最强”更强】满屏讨论dd gcp居然没有人提到我的脚本😭",
       "url": "https://www.nodeseek.com/post-116193-1",
       "last_hot_value": "查看:28969 回复:241",
       "first_seen_at": "2026-06-23T01:34:48",
       "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
@@ -22,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:626842 回复:1084",
+      "first_seen_at": "2026-06-23T01:34:48",
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "『重磅』NodeSeek社区的探针产品：NodeGet，公测！",
       "url": "https://www.nodeseek.com/post-709258-1",
-      "last_hot_value": "查看:28860 回复:477",
+      "last_hot_value": "查看:29142 回复:482",
       "first_seen_at": "2026-06-22T02:10:48",
-      "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,14 +62,14 @@
       "is_new": false
     },
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:201669 回复:1897",
-      "first_seen_at": "2026-06-21T18:04:09",
-      "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 3,
+      "title": "[增加中文版]🔹 Node Information - 更美观的 Grafana 性能监控面板 (Prometheus + Node Exporter) & Grafana 安装教程",
+      "url": "https://www.nodeseek.com/post-209070-1",
+      "last_hot_value": "查看:22303 回复:198",
+      "first_seen_at": "2026-06-23T23:47:02",
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "[6.21 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
@@ -62,11 +82,11 @@
       "is_new": false
     },
     {
-      "title": "Komari 从入门到入土 (万字+77图)",
-      "url": "https://www.nodeseek.com/post-450934-1",
-      "last_hot_value": "查看:22878 回复:214",
-      "first_seen_at": "2026-06-23T01:34:48",
-      "last_seen_at": "2026-06-23T01:34:48",
+      "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
+      "url": "https://www.nodeseek.com/post-788832-1",
+      "last_hot_value": "查看:2280 回复:79",
+      "first_seen_at": "2026-06-23T23:47:02",
+      "last_seen_at": "2026-06-23T23:47:02",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -74,22 +94,22 @@
     {
       "title": "NextTrace 官方出了个 GlobalTrace 全球路由追踪网站，欢迎大家试试",
       "url": "https://www.nodeseek.com/post-774566-1",
-      "last_hot_value": "查看:1889 回复:49",
+      "last_hot_value": "查看:2111 回复:56",
       "first_seen_at": "2026-06-21T18:04:09",
-      "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
-      "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:623595 回复:1078",
+      "title": "Komari 从入门到入土 (万字+77图)",
+      "url": "https://www.nodeseek.com/post-450934-1",
+      "last_hot_value": "查看:22878 回复:214",
       "first_seen_at": "2026-06-23T01:34:48",
       "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
+      "consecutive_count": 0,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
@@ -97,17 +117,27 @@
       "last_hot_value": "查看:191138 回复:2650",
       "first_seen_at": "2026-06-21T18:04:09",
       "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
+      "url": "https://www.nodeseek.com/post-724033-1",
+      "last_hot_value": "查看:2025 回复:28",
+      "first_seen_at": "2026-06-21T18:04:09",
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "【开源】OpenFlare 自建 CDN, 集反代 Tunnel Pages WAF 于一身的究极缝合怪",
       "url": "https://www.nodeseek.com/post-760916-1",
-      "last_hot_value": "查看:3043 回复:59",
+      "last_hot_value": "查看:3144 回复:62",
       "first_seen_at": "2026-06-22T02:10:48",
-      "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -117,9 +147,9 @@
       "last_hot_value": "查看:11873 回复:185",
       "first_seen_at": "2026-06-23T01:34:48",
       "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【保姆级教程】20r一年！Termius土区从账号注册到订阅完整版教程！",
@@ -132,24 +162,34 @@
       "is_new": false
     },
     {
+      "title": "【知识】简单教你鉴别假CN2GIA",
+      "url": "https://www.nodeseek.com/post-754155-1",
+      "last_hot_value": "查看:16248 回复:188",
+      "first_seen_at": "2026-06-23T23:47:02",
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "NAT机商家合集-置顶每月更新中",
       "url": "https://www.nodeseek.com/post-54366-1",
       "last_hot_value": "查看:131951 回复:352",
       "first_seen_at": "2026-06-23T01:34:48",
       "last_seen_at": "2026-06-23T01:34:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
-      "url": "https://www.nodeseek.com/post-724033-1",
-      "last_hot_value": "查看:1944 回复:26",
-      "first_seen_at": "2026-06-21T18:04:09",
-      "last_seen_at": "2026-06-22T02:10:48",
-      "consecutive_count": 0,
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:82527 回复:742",
+      "first_seen_at": "2026-06-23T23:47:02",
+      "last_seen_at": "2026-06-23T23:47:02",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
