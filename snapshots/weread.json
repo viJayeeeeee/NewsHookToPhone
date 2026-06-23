@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-23T11:46:48",
+  "update_time": "2026-06-23T14:08:23",
   "items": [
     {
       "title": "等一切风平浪静（治愈散文）",
       "url": "",
-      "last_hot_value": "5236人在读",
+      "last_hot_value": "5453人在读",
       "first_seen_at": "2026-06-21T10:46:46",
-      "last_seen_at": "2026-06-23T11:46:48",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,14 +22,34 @@
       "is_new": false
     },
     {
-      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
+      "title": "上岸之后",
       "url": "",
-      "last_hot_value": "4257人在读",
-      "first_seen_at": "2026-06-22T07:41:20",
-      "last_seen_at": "2026-06-23T11:46:48",
+      "last_hot_value": "1258人在读",
+      "first_seen_at": "2026-06-23T11:46:48",
+      "last_seen_at": "2026-06-23T14:08:23",
       "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
+      "url": "",
+      "last_hot_value": "4326人在读",
+      "first_seen_at": "2026-06-22T07:41:20",
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "马斯克第一性原理(让普通人可以学会的方法)",
+      "url": "",
+      "last_hot_value": "3546人在读",
+      "first_seen_at": "2026-06-23T14:08:23",
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "数学觉醒：学会更清晰地思考",
@@ -52,34 +72,24 @@
       "is_new": false
     },
     {
-      "title": "上岸之后",
+      "title": "邻人之妻",
       "url": "",
-      "last_hot_value": "1147人在读",
+      "last_hot_value": "357人在读",
       "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-23T11:46:48",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "相信",
-      "url": "",
-      "last_hot_value": "1753人在读",
-      "first_seen_at": "2026-06-21T22:21:36",
-      "last_seen_at": "2026-06-23T11:46:48",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "邻人之妻",
+      "title": "相信",
       "url": "",
-      "last_hot_value": "302人在读",
-      "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-23T11:46:48",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
+      "last_hot_value": "1777人在读",
+      "first_seen_at": "2026-06-21T22:21:36",
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 4,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "凡人修仙传（杨洋主演同名电视剧原著）",
@@ -102,14 +112,34 @@
       "is_new": false
     },
     {
+      "title": "无悔追踪（雷佳音、胡歌主演电影《抓特务》原著）",
+      "url": "",
+      "last_hot_value": "1754人在读",
+      "first_seen_at": "2026-06-23T14:08:23",
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "查拉图斯特拉如是说",
+      "url": "",
+      "last_hot_value": "722人在读",
+      "first_seen_at": "2026-06-23T14:08:23",
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "向前一步",
       "url": "",
-      "last_hot_value": "289人在读",
+      "last_hot_value": "291人在读",
       "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-23T11:46:48",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "李诞工作手册（万字全新增订）",
@@ -126,10 +156,10 @@
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-23T11:46:48",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-23T14:08:23",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "工作、消费主义和新穷人",
