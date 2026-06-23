@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-06-22T02:10:36",
+  "update_time": "2026-06-23T01:34:37",
   "items": [
+    {
+      "title": "艹，维护AI写的代码，我心态崩了......",
+      "url": "https://juejin.cn/post/7653666093677314057",
+      "last_hot_value": "热度:1314",
+      "first_seen_at": "2026-06-23T01:34:37",
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "《Kingbase护城河》——数据库存储空间全景探测与精细化瘦身实战",
       "url": "https://juejin.cn/post/7652513657561792563",
       "last_hot_value": "热度:1242",
       "first_seen_at": "2026-06-21T18:03:59",
       "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "面试结束后，我反问：“就面个实习至于上这么大强度吗？”面试官：“你对 RAG、Agent、MCP、Skill 理解得很到位，所以要求高一点。”",
+      "url": "https://juejin.cn/post/7653108100300242987",
+      "last_hot_value": "热度:711",
+      "first_seen_at": "2026-06-23T01:34:37",
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "KMP / CMP 鸿蒙版本 Beta 发布，他有什么特别之处？",
@@ -17,9 +37,19 @@
       "last_hot_value": "热度:594",
       "first_seen_at": "2026-06-21T18:03:59",
       "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "我给 AI 搭了个法庭：一个前端仔的 LangGraph 实战全记录",
+      "url": "https://juejin.cn/post/7653442979387506726",
+      "last_hot_value": "热度:504",
+      "first_seen_at": "2026-06-23T01:34:37",
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "我用 AI 一周写完了整个项目，上线第一天就崩了——这是我踩过最贵的 5 个坑",
@@ -27,9 +57,19 @@
       "last_hot_value": "热度:585",
       "first_seen_at": "2026-06-21T18:03:59",
       "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "为什么AI 时代来临，大部分人吃不到红利",
+      "url": "https://juejin.cn/post/7653186491406073856",
+      "last_hot_value": "热度:432",
+      "first_seen_at": "2026-06-23T01:34:37",
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "老板：“请说出一个录用你的理由。”我脱口而出：“每个月 AI 支出都超过我的生活费了！”老板愣了一下，随即哈哈大笑：“好吧，你被录用了。”",
@@ -37,9 +77,19 @@
       "last_hot_value": "热度:504",
       "first_seen_at": "2026-06-21T18:03:59",
       "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "Qoder 越来越猛了，Browser Use 让 Agent 的联网能力拉满。",
+      "url": "https://juejin.cn/post/7653331314107809846",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-06-23T01:34:37",
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "HarmonyOS开发中错误处理策略：网络异常统一处理",
@@ -47,9 +97,19 @@
       "last_hot_value": "热度:306",
       "first_seen_at": "2026-06-21T18:03:59",
       "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "分享一个横向滚动案例，带悬停暂停，通用性很强",
+      "url": "https://juejin.cn/post/7652606969636503595",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-06-23T01:34:37",
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "一套 Spec-First 的 AI 编程工作流",
@@ -57,7 +117,7 @@
       "last_hot_value": "热度:306",
       "first_seen_at": "2026-06-21T18:03:59",
       "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -67,27 +127,47 @@
       "last_hot_value": "热度:297",
       "first_seen_at": "2026-06-21T18:03:59",
       "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
+      "title": "AI Agent 开发究竟是啥？如何用 AI 开发 Agent ？深入浅出给你一套概念",
+      "url": "https://juejin.cn/post/7653293019979661355",
+      "last_hot_value": "热度:324",
+      "first_seen_at": "2026-06-23T01:34:37",
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS开发中请求拦截器链：日志、认证、重试",
       "url": "https://juejin.cn/post/7652976567262675007",
-      "last_hot_value": "热度:288",
+      "last_hot_value": "热度:315",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
     {
+      "title": "我开发 AI Agent 项目踩过的 5个坑",
+      "url": "https://juejin.cn/post/7653660327263666176",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-06-23T01:34:37",
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS APP事件驱动大揭秘",
       "url": "https://juejin.cn/post/7652676128406306859",
-      "last_hot_value": "热度:252",
+      "last_hot_value": "热度:297",
       "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:37",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -97,7 +177,7 @@
       "last_hot_value": "热度:234",
       "first_seen_at": "2026-06-21T18:03:59",
       "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

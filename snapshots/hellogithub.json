@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-06-22T02:10:46",
+  "update_time": "2026-06-23T01:34:46",
   "items": [
     {
       "title": "轻量级跨平台数据库桌面客户端",
       "url": "https://github.com/t8y2/dbx",
-      "last_hot_value": "5245",
+      "last_hot_value": "5420",
       "first_seen_at": "2026-06-21T18:04:08",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "从零开始学习 AI 工程",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "last_hot_value": "4316",
+      "last_hot_value": "4488",
       "first_seen_at": "2026-06-21T18:04:08",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "帮你找到本地能跑的最佳大模型",
       "url": "https://github.com/Andyyyy64/whichllm",
-      "last_hot_value": "4365",
+      "last_hot_value": "4484",
       "first_seen_at": "2026-06-21T18:04:08",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "你的专属 AI 新闻雷达工具",
       "url": "https://github.com/Thysrael/Horizon",
-      "last_hot_value": "11933",
+      "last_hot_value": "12072",
       "first_seen_at": "2026-06-22T02:10:46",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "快速上手 Claude Code 的教程",
       "url": "https://github.com/luongnv89/claude-howto",
-      "last_hot_value": "6068",
+      "last_hot_value": "6154",
       "first_seen_at": "2026-06-22T02:10:46",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "更好看的 Windows 媒体控制弹窗",
-      "url": "https://github.com/unchihugo/FluentFlyout",
-      "last_hot_value": "2196",
-      "first_seen_at": "2026-06-21T18:04:08",
-      "last_seen_at": "2026-06-22T02:10:46",
+      "last_seen_at": "2026-06-23T01:34:46",
       "consecutive_count": 2,
-      "peak_rank": 6,
+      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "用 AI 将文档转换为可编辑的 PPT",
       "url": "https://github.com/hugohe3/ppt-master",
-      "last_hot_value": "5528",
+      "last_hot_value": "5628",
       "first_seen_at": "2026-06-22T02:10:46",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "更好看的 Windows 媒体控制弹窗",
+      "url": "https://github.com/unchihugo/FluentFlyout",
+      "last_hot_value": "2271",
+      "first_seen_at": "2026-06-21T18:04:08",
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 3,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "让 AI 编程工具告别瞎写的技能包",
       "url": "https://github.com/mattpocock/skills",
-      "last_hot_value": "2429",
+      "last_hot_value": "2524",
       "first_seen_at": "2026-06-22T02:10:46",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "把代码变成打字游戏的工具",
       "url": "https://github.com/unhappychoice/gittype",
-      "last_hot_value": "1511",
+      "last_hot_value": "1566",
       "first_seen_at": "2026-06-22T02:10:46",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "免费开源的磁盘清理工具",
       "url": "https://github.com/bleachbit/bleachbit",
-      "last_hot_value": "2329",
+      "last_hot_value": "2407",
       "first_seen_at": "2026-06-22T02:10:46",
-      "last_seen_at": "2026-06-22T02:10:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-23T01:34:46",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

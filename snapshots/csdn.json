@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-22T02:10:38",
+  "update_time": "2026-06-23T01:34:38",
   "items": [
+    {
+      "title": "【AI智能体】Codex 基于Git 实现项目管理实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161745462",
+      "last_hot_value": "2.8w",
+      "first_seen_at": "2026-06-21T18:04:01",
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "用网页采集 API 简化数据提取：从传统爬虫到结构化 JSON",
       "url": "https://blog.csdn.net/weixin_51484460/article/details/162164989",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-06-21T18:04:01",
-      "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,10 +34,10 @@
     {
       "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从MNIST到自定义神经网络框架:把PyTorch2.0的训练流程真正拆开)",
       "url": "https://blog.csdn.net/2401_87629362/article/details/161960094",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-06-21T18:04:01",
-      "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,9 +47,29 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-06-21T18:04:01",
       "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "OpenCV-Python实战（30）——基于支持向量机的交通标志识别模型",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161597065",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-06-23T01:34:38",
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "【金仓数据库产品体验官】KingbaseES 新版MySQL 兼容版体验：旧版迁移 + 功能实测",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/162188670",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-23T01:34:38",
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【Linux网络】深入理解TCP协议：滑动窗口、拥塞控制与性能优化全解析",
@@ -47,9 +77,19 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-21T18:04:01",
       "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "Modular RAG 深度解析：像搭乐高一样构建灵活的 RAG 系统",
+      "url": "https://blog.csdn.net/qq_41840843/article/details/162208495",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-23T01:34:38",
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "DolphinDB工业数据清洗：缺失值与异常值处理",
@@ -57,9 +97,9 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-22T02:10:38",
       "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenClaw ACP模式：代理通信协议深度解析",
@@ -77,19 +117,19 @@
       "last_hot_value": "9340",
       "first_seen_at": "2026-06-21T18:04:01",
       "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "【AI智能体】Codex 基于Git 实现项目管理实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161745462",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-06-21T18:04:01",
-      "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "Oracle - 存储过程的创建与调用，实现代码复用",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157584293",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-23T01:34:38",
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "HarmonyOS 游戏 ECS 架构详解：为什么 Entity 不应该拥有逻辑？",
@@ -97,9 +137,29 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-21T18:04:01",
       "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "一条“Hi“是怎么“跑“完AI算力帝国8层架构，变成“你好“的？",
+      "url": "https://blog.csdn.net/wuzhenben/article/details/162176970",
+      "last_hot_value": "9273",
+      "first_seen_at": "2026-06-23T01:34:38",
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "【同济线性代数第五版】第二章 矩阵及其运算",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/161895873",
+      "last_hot_value": "9181",
+      "first_seen_at": "2026-06-23T01:34:38",
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "LAC容器化授权困境（下篇）：K8s环境下的授权锚定实战",
@@ -107,9 +167,19 @@
       "last_hot_value": "9177",
       "first_seen_at": "2026-06-21T18:04:01",
       "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【Linux排障实战】Docker容器启动失败怎么查：端口、日志、权限与网络",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/161899433",
+      "last_hot_value": "8789",
+      "first_seen_at": "2026-06-23T01:34:38",
+      "last_seen_at": "2026-06-23T01:34:38",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "AI 写作、智能问答、数据分析在 OA 系统中的应用前景",
@@ -117,9 +187,9 @@
       "last_hot_value": "7630",
       "first_seen_at": "2026-06-22T02:10:38",
       "last_seen_at": "2026-06-22T02:10:38",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

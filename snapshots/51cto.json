@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-22T02:10:40",
+  "update_time": "2026-06-23T01:34:40",
   "items": [
+    {
+      "title": "盘点五起导致生产环境崩溃的AI安全事件及共性分析",
+      "url": "https://www.51cto.com/article/846905.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T01:34:40",
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "谷歌CEO罕见承认落后了！Gemini 3.5 Pro被曝难产",
       "url": "https://www.51cto.com/article/846925.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +26,8 @@
       "url": "https://ost.51cto.com/posts/47972#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -27,9 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-21T18:04:02",
       "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "AI 写代码越快，为什么 Code Review 越不能省？",
+      "url": "https://blog.51cto.com/erpanomer/14708443",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T01:34:40",
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "别再只拿 Elasticsearch 存日志了，它已经进化成 AI 向量数据库！",
@@ -37,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-21T18:04:02",
       "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "还在手敲XMind测试点？试试 Codex 自定义 Skill 一键生成",
+      "url": "https://blog.51cto.com/u_11780953/14708408",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T01:34:40",
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "代码写得溜，论文写不出？分享一个理工科通用的论文辅助解决方案",
@@ -47,9 +77,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-21T18:04:02",
       "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "OpenAI 发布 o3‑Pro，ChatGPT 迎来「深思时代」：一次把宣传语、定价单、与能力边界全部拆开的解读",
+      "url": "https://blog.51cto.com/u_17459294/14708256",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T01:34:40",
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "如何利用AI将Harness Engineering在项目中落地？",
@@ -57,9 +97,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-21T18:04:02",
       "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "从零搭建：CodeMirror 6 项目中的 ESLint 与 Prettier 代码规范实战",
+      "url": "https://blog.51cto.com/u_15469972/14707721",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T01:34:40",
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "一个开源 Skill，把 AI Agent 真正变成了内容工厂",
@@ -72,6 +122,16 @@
       "is_new": false
     },
     {
+      "title": "设计 Agent 工作流：Figma + Agent 的自动化协作",
+      "url": "https://blog.51cto.com/chenfenglove/14707710",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T01:34:40",
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "90%的人不知道！MiMo Code 凭什么免费开放百万 Token 大模型？深度拆解来了",
       "url": "https://blog.51cto.com/u_17704776/14702195",
       "last_hot_value": "",
@@ -82,6 +142,16 @@
       "is_new": false
     },
     {
+      "title": "#码上鸿蒙•智绘未来# AI 会议助手体验",
+      "url": "https://ost.51cto.com/posts/48360#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T01:34:40",
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "# 码上鸿蒙•智绘未来#用 DevEco Code 写记账 App，AI 辅助开发到底好不好使",
       "url": "https://ost.51cto.com/posts/48089#24read",
       "last_hot_value": "",
@@ -90,6 +160,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "# 码上鸿蒙•智绘未来# HarmonyOS 7.0 学习系列 17 小步练习册的复盘卡片别一上来就摊开",
+      "url": "https://ost.51cto.com/posts/48332#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T01:34:40",
+      "last_seen_at": "2026-06-23T01:34:40",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
