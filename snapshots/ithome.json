@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-23T23:46:56",
+  "update_time": "2026-06-24T11:29:50",
   "items": [
+    {
+      "title": "“开屏广告没了”登顶热搜",
+      "url": "https://www.ithome.com/0/967/657.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T23:46:56",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "阿里管理层集体下田插秧团建，马云、吴泳铭、周靖人等现身",
       "url": "https://www.ithome.com/0/967/258.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米徐洁云回应“雷军过早被质疑摆拍”：我们的世界，还是少点阴暗好",
@@ -32,14 +42,24 @@
       "is_new": false
     },
     {
+      "title": "小米首款 NAS：Xiaomi 智能存储官宣，众筹到手价 2299 元起",
+      "url": "https://www.ithome.com/0/967/760.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "金山办公 WPS 回应 C 盘占用问题：已成立专项组核查，优化正在推进",
       "url": "https://www.ithome.com/0/967/361.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "周星驰导演新电影《功夫女足》官宣 7 月上映",
@@ -62,14 +82,24 @@
       "is_new": false
     },
     {
+      "title": "豆包正式推出专业版，连续包月 68 元起、最高 500 元",
+      "url": "https://www.ithome.com/0/967/743.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "美团员工发长文《置身团内》谈公司困境：不是没有执行力，而是形成了路径依赖",
       "url": "https://www.ithome.com/0/967/284.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "机型定位“降档”：消息称苹果 iPhone Air 2 手机仅采用 A20 标准版芯片",
@@ -92,11 +122,11 @@
       "is_new": false
     },
     {
-      "title": "“开屏广告没了”登顶热搜",
-      "url": "https://www.ithome.com/0/967/657.htm",
+      "title": "小米 REDMI K90 至尊版手机官宣 6 月 30 日发布：风冷主动散热、3K 档游戏性能旗舰",
+      "url": "https://www.ithome.com/0/967/740.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:56",
-      "last_seen_at": "2026-06-23T23:46:56",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -122,14 +152,24 @@
       "is_new": false
     },
     {
+      "title": "小米：电池升级服务预计今年第四季度新增小米 14、14 Pro 手机支持",
+      "url": "https://www.ithome.com/0/967/773.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "苹果 iOS 27 Beta 2 更新汇总：洞察支出、升级 AI 写作、增强 RCS 聊天",
       "url": "https://www.ithome.com/0/967/252.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "iPhone 17 全系国补再来：17 Pro Max 京东 8499 元，换新折后再降价",
@@ -152,14 +192,24 @@
       "is_new": false
     },
     {
+      "title": "全新理想 L8 正式上市：行业唯一标配 4 零重力座椅，限时 35.98 万-41.98 万元",
+      "url": "https://www.ithome.com/0/967/675.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "小鹏 MONA L03“乌梅子酱”官图公布，系列首款 SUV",
       "url": "https://www.ithome.com/0/967/334.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "华为鸿蒙 HarmonyOS 7.0 开发者 Beta 1 将相机拍照默认格式从 JPG 切换为 HEIF",
@@ -192,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "iQOO 15/15 Ultra 手机新一轮涨价，最高涨 700 元",
+      "url": "https://www.ithome.com/0/967/866.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "小米 REDMI 17C 手机上架：6.88 英寸 120Hz 大屏、5160mAh 电池，799 元起",
       "url": "https://www.ithome.com/0/967/326.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "10 分 29 秒 483，小米 YU7 GT 达成全球首个纽北自动驾驶圈速纪录",
@@ -232,14 +292,24 @@
       "is_new": false
     },
     {
+      "title": "酷态科 CP 桌面模块风扇发布：有线 / 无线双供电模式，99 元",
+      "url": "https://www.ithome.com/0/967/840.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "Model 3 撞穿民宅致一死，特斯拉高管称驾驶员全程深踩油门",
       "url": "https://www.ithome.com/0/967/254.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "荣耀 X80 Pro Max 手机发布：第五代骁龙 6 移动平台、11000mAh 电池，1999 元起",
@@ -262,14 +332,24 @@
       "is_new": false
     },
     {
+      "title": "天涯社区重启超半月热度消退，创始人邢明回应称习惯了被唱衰、但这次失败概率很低",
+      "url": "https://www.ithome.com/0/967/779.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "SpaceX 股价大跌近 17%，已跌破 IPO 首日收盘价",
       "url": "https://www.ithome.com/0/967/248.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "告别停车 61 分钟按 2 小时收费，全国多地推行精准计时计费",
@@ -292,14 +372,24 @@
       "is_new": false
     },
     {
+      "title": "小鹏 MONA L03 设计团队公布：前法拉利设计师胡安马 · 洛佩兹带队",
+      "url": "https://www.ithome.com/0/967/752.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-24T11:29:50",
+      "last_seen_at": "2026-06-24T11:29:50",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "何小鹏称 MONA 首款 SUV 车型 L03 对标 30 万级开发：价格当然不会超 30 万",
       "url": "https://www.ithome.com/0/967/358.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:56",
       "last_seen_at": "2026-06-23T23:46:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "南派三叔控诉网剧被盗版、热度甚至倒挂，多家网盘客服回应",

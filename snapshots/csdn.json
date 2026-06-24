@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-23T23:46:53",
+  "update_time": "2026-06-24T11:29:46",
   "items": [
+    {
+      "title": "【金仓数据库产品体验官】KingbaseES 新版MySQL 兼容版体验：旧版迁移 + 功能实测",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/162188670",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-06-23T01:34:38",
+      "last_seen_at": "2026-06-24T11:29:46",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【AI智能体】Codex 基于Git 实现项目管理实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/161745462",
-      "last_hot_value": "2.1w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-06-21T18:04:01",
-      "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-24T11:29:46",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -34,10 +44,10 @@
     {
       "title": "【Linux排障实战】Docker容器启动失败怎么查：端口、日志、权限与网络",
       "url": "https://blog.csdn.net/2402_87731470/article/details/161899433",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-23T01:34:38",
-      "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-24T11:29:46",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,11 +72,11 @@
       "is_new": false
     },
     {
-      "title": "【金仓数据库产品体验官】KingbaseES 新版MySQL 兼容版体验：旧版迁移 + 功能实测",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/162188670",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-06-23T01:34:38",
-      "last_seen_at": "2026-06-23T23:46:53",
+      "title": "21 天烧 37TB，OpenAI 一年不修——Codex 日志 Bug 背后的 AI 工具信任危机深度解读",
+      "url": "https://blog.csdn.net/interpromotion/article/details/162209273",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-06-23T23:46:53",
+      "last_seen_at": "2026-06-24T11:29:46",
       "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
@@ -82,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "Vue3 + SpringBoot3 全栈学习路线 2026：从 0 到企业级项目实战清单",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/162260529",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-06-24T11:29:46",
+      "last_seen_at": "2026-06-24T11:29:46",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "一条“Hi“是怎么“跑“完AI算力帝国8层架构，变成“你好“的？",
       "url": "https://blog.csdn.net/wuzhenben/article/details/162176970",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-06-23T01:34:38",
       "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,24 +122,24 @@
       "is_new": false
     },
     {
-      "title": "Modular RAG 深度解析：像搭乐高一样构建灵活的 RAG 系统",
-      "url": "https://blog.csdn.net/qq_41840843/article/details/162208495",
-      "last_hot_value": "8605",
-      "first_seen_at": "2026-06-23T01:34:38",
-      "last_seen_at": "2026-06-23T23:46:53",
+      "title": "2026年文档解析工具横测：xParse、PaddleOCR、MinerU 三层标准深度对比",
+      "url": "https://blog.csdn.net/m0_63947499/article/details/162230299",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-23T23:46:53",
+      "last_seen_at": "2026-06-24T11:29:46",
       "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "2026年文档解析工具横测：xParse、PaddleOCR、MinerU 三层标准深度对比",
-      "url": "https://blog.csdn.net/m0_63947499/article/details/162230299",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-06-23T23:46:53",
+      "title": "Modular RAG 深度解析：像搭乐高一样构建灵活的 RAG 系统",
+      "url": "https://blog.csdn.net/qq_41840843/article/details/162208495",
+      "last_hot_value": "8605",
+      "first_seen_at": "2026-06-23T01:34:38",
       "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DolphinDB工业数据清洗：缺失值与异常值处理",
@@ -142,11 +162,11 @@
       "is_new": false
     },
     {
-      "title": "21 天烧 37TB，OpenAI 一年不修——Codex 日志 Bug 背后的 AI 工具信任危机深度解读",
-      "url": "https://blog.csdn.net/interpromotion/article/details/162209273",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-23T23:46:53",
-      "last_seen_at": "2026-06-23T23:46:53",
+      "title": "Codex 史诗级bug在后台疯狂写盘，我的 SSD 差点被它磨穿",
+      "url": "https://blog.csdn.net/chen695969/article/details/162230776",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-06-24T11:29:46",
+      "last_seen_at": "2026-06-24T11:29:46",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -162,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "Vibe Coding 实战：30分钟打造你的专属具身智能数字人",
+      "url": "https://blog.csdn.net/user340/article/details/162243550",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-24T11:29:46",
+      "last_seen_at": "2026-06-24T11:29:46",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "Oracle - 存储过程的创建与调用，实现代码复用",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157584293",
       "last_hot_value": "8471",
       "first_seen_at": "2026-06-23T01:34:38",
       "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -177,9 +207,9 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-06-23T23:46:53",
       "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 游戏 ECS 架构详解：为什么 Entity 不应该拥有逻辑？",
@@ -192,14 +222,24 @@
       "is_new": false
     },
     {
+      "title": "《 Agent 的大脑：长短期记忆架构设计——从 RAG 到 Memory Graph 的工程演进》",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/162259667",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-24T11:29:46",
+      "last_seen_at": "2026-06-24T11:29:46",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "【HarmonyOS 6.0】MDM Kit：面向PC/2in1设备的重启自动解锁能力解析",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/161962304",
       "last_hot_value": "8538",
       "first_seen_at": "2026-06-23T23:46:53",
       "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【同济线性代数第五版】第二章 矩阵及其运算",
@@ -220,6 +260,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "全栈项目如何临时分享？Vue、Spring Boot与cpolar公网访问实践",
+      "url": "https://blog.csdn.net/2501_91062530/article/details/162259690",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-24T11:29:46",
+      "last_seen_at": "2026-06-24T11:29:46",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "AI 写作、智能问答、数据分析在 OA 系统中的应用前景",

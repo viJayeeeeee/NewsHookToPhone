@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-23T23:47:04",
+  "update_time": "2026-06-24T11:30:19",
   "items": [
+    {
+      "title": "雷电模拟器 v14.0.9绿色版",
+      "url": "",
+      "last_hot_value": "回复:395 查看:10379",
+      "first_seen_at": "2026-06-24T11:30:19",
+      "last_seen_at": "2026-06-24T11:30:19",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "央视影音v6.0.5.0绿色版",
       "url": "",
       "last_hot_value": "回复:387 查看:11946",
       "first_seen_at": "2026-06-23T23:47:04",
       "last_seen_at": "2026-06-23T23:47:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "《音乐音量管理器》统一音量调整，支持无损 V1.0.0 【2026-06-19】",
@@ -32,14 +42,24 @@
       "is_new": false
     },
     {
-      "title": "野外生存工具APP：Trail Sense v8.0.2",
+      "title": "ADB 管理工具：sky adb v1.1.1",
       "url": "",
-      "last_hot_value": "回复:121 查看:4085",
-      "first_seen_at": "2026-06-23T23:47:04",
-      "last_seen_at": "2026-06-23T23:47:04",
+      "last_hot_value": "回复:39 查看:2161",
+      "first_seen_at": "2026-06-24T11:30:19",
+      "last_seen_at": "2026-06-24T11:30:19",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "野外生存工具APP：Trail Sense v8.0.2",
+      "url": "",
+      "last_hot_value": "回复:161 查看:5132",
+      "first_seen_at": "2026-06-23T23:47:04",
+      "last_seen_at": "2026-06-24T11:30:19",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "果核看图 GuoheView v3.0.6",
@@ -47,7 +67,7 @@
       "last_hot_value": "回复:197 查看:8223",
       "first_seen_at": "2026-06-21T18:04:10",
       "last_seen_at": "2026-06-23T23:47:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -59,6 +79,16 @@
       "last_seen_at": "2026-06-23T01:34:49",
       "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "格式大师 v1.0.0",
+      "url": "",
+      "last_hot_value": "回复:373 查看:7987",
+      "first_seen_at": "2026-06-23T01:34:49",
+      "last_seen_at": "2026-06-24T11:30:19",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -92,22 +122,22 @@
       "is_new": false
     },
     {
-      "title": "酷狗概念第三方：KA Music v2.9.3",
+      "title": "NET安装失败修复工具V1.0",
       "url": "",
-      "last_hot_value": "回复:174 查看:8921",
-      "first_seen_at": "2026-06-23T01:34:49",
-      "last_seen_at": "2026-06-23T23:47:04",
+      "last_hot_value": "回复:83 查看:2987",
+      "first_seen_at": "2026-06-23T23:47:04",
+      "last_seen_at": "2026-06-24T11:30:19",
       "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "格式大师 v1.0.0",
+      "title": "酷狗概念第三方：KA Music v2.9.3",
       "url": "",
-      "last_hot_value": "回复:265 查看:6198",
+      "last_hot_value": "回复:200 查看:10079",
       "first_seen_at": "2026-06-23T01:34:49",
-      "last_seen_at": "2026-06-23T23:47:04",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-24T11:30:19",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -122,12 +152,22 @@
       "is_new": false
     },
     {
+      "title": "自建 一健运行 Rustdesk 远程控制中继服务端 v1.0 更新工程文件",
+      "url": "",
+      "last_hot_value": "回复:59 查看:2481",
+      "first_seen_at": "2026-06-24T11:30:19",
+      "last_seen_at": "2026-06-24T11:30:19",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "微软常用运行库合集 2026.06.07",
       "url": "",
       "last_hot_value": "回复:300 查看:8814",
       "first_seen_at": "2026-06-22T02:10:49",
       "last_seen_at": "2026-06-23T23:47:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -172,22 +212,12 @@
       "is_new": false
     },
     {
-      "title": "NET安装失败修复工具V1.0",
-      "url": "",
-      "last_hot_value": "回复:68 查看:2350",
-      "first_seen_at": "2026-06-23T23:47:04",
-      "last_seen_at": "2026-06-23T23:47:04",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
       "title": "PDF小工具 V1.2版",
       "url": "",
-      "last_hot_value": "回复:123 查看:6652",
+      "last_hot_value": "回复:142 查看:7656",
       "first_seen_at": "2026-06-21T18:04:10",
-      "last_seen_at": "2026-06-23T23:47:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-24T11:30:19",
+      "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
     },
@@ -207,9 +237,9 @@
       "last_hot_value": "回复:63 查看:2716",
       "first_seen_at": "2026-06-23T23:47:04",
       "last_seen_at": "2026-06-23T23:47:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "字幕翻译 妙幕SmartSub v2.16.0",
@@ -232,13 +262,33 @@
       "is_new": false
     },
     {
+      "title": "图吧工具箱WinUI3 v1.3.2",
+      "url": "",
+      "last_hot_value": "回复:159 查看:6521",
+      "first_seen_at": "2026-06-24T11:30:19",
+      "last_seen_at": "2026-06-24T11:30:19",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "图吧工具箱WinUI3 v1.2.2",
       "url": "",
       "last_hot_value": "回复:129 查看:5127",
       "first_seen_at": "2026-06-23T23:47:04",
       "last_seen_at": "2026-06-23T23:47:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "电脑桌面右键管理软件 ContextMenuManager v3.3.3.1",
+      "url": "",
+      "last_hot_value": "回复:136 查看:6382",
+      "first_seen_at": "2026-06-24T11:30:19",
+      "last_seen_at": "2026-06-24T11:30:19",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
