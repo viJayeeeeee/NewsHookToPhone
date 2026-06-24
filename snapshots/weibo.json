@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-24T13:35:30",
+  "update_time": "2026-06-24T15:55:19",
   "items": [
+    {
+      "title": "1点点 背刺",
+      "url": "https://s.weibo.com/weibo?q=%231%E7%82%B9%E7%82%B9+%E8%83%8C%E5%88%BA%23",
+      "last_hot_value": "4063366",
+      "first_seen_at": "2026-06-24T15:55:19",
+      "last_seen_at": "2026-06-24T15:55:19",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "中国银行回应涉税违规问题",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%B6%89%E7%A8%8E%E8%BF%9D%E8%A7%84%E9%97%AE%E9%A2%98%23",
       "last_hot_value": "2991872",
       "first_seen_at": "2026-06-24T13:35:30",
       "last_seen_at": "2026-06-24T13:35:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "葡萄牙首发",
@@ -32,14 +42,24 @@
       "is_new": false
     },
     {
-      "title": "河南高考分数线",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23",
-      "last_hot_value": "1288311",
-      "first_seen_at": "2026-06-24T13:35:30",
-      "last_seen_at": "2026-06-24T13:35:30",
+      "title": "鹅今天官宣了120部大剧",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%B9%85%E4%BB%8A%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%BA%86120%E9%83%A8%E5%A4%A7%E5%89%A7%23",
+      "last_hot_value": "1225853",
+      "first_seen_at": "2026-06-24T15:55:19",
+      "last_seen_at": "2026-06-24T15:55:19",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "河南高考分数线",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23",
+      "last_hot_value": "868157",
+      "first_seen_at": "2026-06-24T13:35:30",
+      "last_seen_at": "2026-06-24T15:55:19",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "理想L8价格",
@@ -62,14 +82,24 @@
       "is_new": false
     },
     {
+      "title": "世界最快高铁跑出中国创新加速度",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9C%80%E5%BF%AB%E9%AB%98%E9%93%81%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%8A%A0%E9%80%9F%E5%BA%A6%23",
+      "last_hot_value": "1137831",
+      "first_seen_at": "2026-06-24T15:55:19",
+      "last_seen_at": "2026-06-24T15:55:19",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "暴雨模式避险指南",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%A8%A1%E5%BC%8F%E9%81%BF%E9%99%A9%E6%8C%87%E5%8D%97%23",
       "last_hot_value": "1247993",
       "first_seen_at": "2026-06-24T13:35:30",
       "last_seen_at": "2026-06-24T13:35:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "万千气象看重庆",
@@ -92,14 +122,24 @@
       "is_new": false
     },
     {
+      "title": "毛晓彤吓到我了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23",
+      "last_hot_value": "1117142",
+      "first_seen_at": "2026-06-24T13:35:30",
+      "last_seen_at": "2026-06-24T15:55:19",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "黄金",
       "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23",
       "last_hot_value": "1237978",
       "first_seen_at": "2026-06-24T13:35:30",
       "last_seen_at": "2026-06-24T13:35:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你要知道我很少站老一辈这边的",
@@ -122,11 +162,11 @@
       "is_new": false
     },
     {
-      "title": "毛晓彤吓到我了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23",
-      "last_hot_value": "1232650",
-      "first_seen_at": "2026-06-24T13:35:30",
-      "last_seen_at": "2026-06-24T13:35:30",
+      "title": "恋与深空 狼兔",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA+%E7%8B%BC%E5%85%94%23",
+      "last_hot_value": "1094909",
+      "first_seen_at": "2026-06-24T15:55:19",
+      "last_seen_at": "2026-06-24T15:55:19",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -152,14 +192,24 @@
       "is_new": false
     },
     {
-      "title": "剑来全阵容正式官宣",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%E5%85%A8%E9%98%B5%E5%AE%B9%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%23",
-      "last_hot_value": "1226552",
-      "first_seen_at": "2026-06-24T13:35:30",
-      "last_seen_at": "2026-06-24T13:35:30",
+      "title": "王者荣耀婉拒逆水寒",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%A9%89%E6%8B%92%E9%80%86%E6%B0%B4%E5%AF%92%23",
+      "last_hot_value": "1057542",
+      "first_seen_at": "2026-06-24T15:55:19",
+      "last_seen_at": "2026-06-24T15:55:19",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
+    },
+    {
+      "title": "剑来全阵容正式官宣",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%E5%85%A8%E9%98%B5%E5%AE%B9%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%23",
+      "last_hot_value": "741379",
+      "first_seen_at": "2026-06-24T13:35:30",
+      "last_seen_at": "2026-06-24T15:55:19",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "美股",
@@ -182,14 +232,24 @@
       "is_new": false
     },
     {
+      "title": "故意不接领导电话事情反而解决了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%95%85%E6%84%8F%E4%B8%8D%E6%8E%A5%E9%A2%86%E5%AF%BC%E7%94%B5%E8%AF%9D%E4%BA%8B%E6%83%85%E5%8F%8D%E8%80%8C%E8%A7%A3%E5%86%B3%E4%BA%86%23",
+      "last_hot_value": "956829",
+      "first_seen_at": "2026-06-24T15:55:19",
+      "last_seen_at": "2026-06-24T15:55:19",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "原来游泳减肥容易变成带鱼身材",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B8%B8%E6%B3%B3%E5%87%8F%E8%82%A5%E5%AE%B9%E6%98%93%E5%8F%98%E6%88%90%E5%B8%A6%E9%B1%BC%E8%BA%AB%E6%9D%90%23",
       "last_hot_value": "533450",
       "first_seen_at": "2026-06-24T13:35:30",
       "last_seen_at": "2026-06-24T13:35:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "C罗首发",
@@ -217,9 +277,9 @@
       "last_hot_value": "531596",
       "first_seen_at": "2026-06-24T13:35:30",
       "last_seen_at": "2026-06-24T13:35:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "南部档案 三个结局",
@@ -242,14 +302,24 @@
       "is_new": false
     },
     {
+      "title": "37岁教师身体不适坚持上课心梗去世",
+      "url": "https://s.weibo.com/weibo?q=%2337%E5%B2%81%E6%95%99%E5%B8%88%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E5%9D%9A%E6%8C%81%E4%B8%8A%E8%AF%BE%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23",
+      "last_hot_value": "754348",
+      "first_seen_at": "2026-06-24T15:55:19",
+      "last_seen_at": "2026-06-24T15:55:19",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "审计署点名多家银行",
       "url": "https://s.weibo.com/weibo?q=%23%E5%AE%A1%E8%AE%A1%E7%BD%B2%E7%82%B9%E5%90%8D%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%23",
       "last_hot_value": "507502",
       "first_seen_at": "2026-06-24T13:35:30",
       "last_seen_at": "2026-06-24T13:35:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "2025T1冠军皮肤",
@@ -277,9 +347,9 @@
       "last_hot_value": "449123",
       "first_seen_at": "2026-06-24T13:35:30",
       "last_seen_at": "2026-06-24T13:35:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "檀健次直播迟到39分钟",
