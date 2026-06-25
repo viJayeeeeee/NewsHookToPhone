@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-24T19:18:26",
+  "update_time": "2026-06-25T05:47:14",
   "items": [
+    {
+      "title": "等一切风平浪静（治愈散文）",
+      "url": "",
+      "last_hot_value": "5800人在读",
+      "first_seen_at": "2026-06-25T05:47:14",
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "马斯克第一性原理(让普通人可以学会的方法)",
       "url": "",
-      "last_hot_value": "3197人在读",
+      "last_hot_value": "3167人在读",
       "first_seen_at": "2026-06-23T14:08:23",
-      "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -32,62 +42,42 @@
       "is_new": false
     },
     {
-      "title": "无悔追踪（雷佳音、胡歌主演电影《抓特务》原著）",
+      "title": "山茶文具店",
       "url": "",
-      "last_hot_value": "1552人在读",
-      "first_seen_at": "2026-06-23T14:08:23",
-      "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 3,
+      "last_hot_value": "583人在读",
+      "first_seen_at": "2026-06-24T19:18:26",
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "数学觉醒：学会更清晰地思考",
+      "title": "无悔追踪（雷佳音、胡歌主演电影《抓特务》原著）",
       "url": "",
-      "last_hot_value": "927人在读",
-      "first_seen_at": "2026-06-21T22:21:36",
-      "last_seen_at": "2026-06-22T07:41:20",
-      "consecutive_count": 0,
+      "last_hot_value": "1578人在读",
+      "first_seen_at": "2026-06-23T14:08:23",
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "油炸绿番茄",
       "url": "",
-      "last_hot_value": "2779人在读",
+      "last_hot_value": "3098人在读",
       "first_seen_at": "2026-06-24T19:18:26",
-      "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "相信",
-      "url": "",
-      "last_hot_value": "2959人在读",
-      "first_seen_at": "2026-06-21T22:21:36",
-      "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "山茶文具店",
-      "url": "",
-      "last_hot_value": "432人在读",
-      "first_seen_at": "2026-06-24T19:18:26",
-      "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
       "title": "其中一个是谎言",
       "url": "",
-      "last_hot_value": "1742人在读",
+      "last_hot_value": "1816人在读",
       "first_seen_at": "2026-06-24T08:44:39",
-      "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -104,10 +94,10 @@
     {
       "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "729人在读",
+      "last_hot_value": "752人在读",
       "first_seen_at": "2026-06-23T14:08:23",
-      "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -122,6 +112,16 @@
       "is_new": false
     },
     {
+      "title": "东京八平米",
+      "url": "",
+      "last_hot_value": "1508人在读",
+      "first_seen_at": "2026-06-24T19:18:26",
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "听听那冷雨（轻经典）",
       "url": "",
       "last_hot_value": "247人在读",
@@ -130,16 +130,6 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
-    },
-    {
-      "title": "东京八平米",
-      "url": "",
-      "last_hot_value": "1401人在读",
-      "first_seen_at": "2026-06-24T19:18:26",
-      "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
     },
     {
       "title": "向前一步",
@@ -162,21 +152,21 @@
       "is_new": false
     },
     {
+      "title": "毛泽东选集（全四卷）",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-06-23T11:46:48",
+      "last_seen_at": "2026-06-25T05:47:14",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": false
+    },
+    {
       "title": "最后一个道士（全七册）",
       "url": "",
       "last_hot_value": "396人在读",
       "first_seen_at": "2026-06-24T19:18:26",
       "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "毛泽东选集（全四卷）",
-      "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-23T14:08:23",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
@@ -187,16 +177,6 @@
       "last_hot_value": "1993人在读",
       "first_seen_at": "2026-06-22T07:41:20",
       "last_seen_at": "2026-06-22T07:41:20",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "奇点更近：未来20年的人工智能神预测",
-      "url": "",
-      "last_hot_value": "322人在读",
-      "first_seen_at": "2026-06-21T22:21:36",
-      "last_seen_at": "2026-06-21T22:21:36",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
