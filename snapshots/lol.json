@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-06-24T01:33:04",
+  "update_time": "2026-06-25T21:54:36",
   "items": [
+    {
+      "title": "6月25日凌晨1点停机版本更新公告",
+      "url": "https://lol.qq.com/gicp/news/410/37089201.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-25T21:54:36",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "海克斯大乱斗迎来热补丁",
       "url": "https://lol.qq.com/v/v2/detail.shtml?docid=3790394938903150123",
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T05:48:57",
       "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "英雄联盟智能助手已支持海斗及峡谷模式！",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=7990353454630637480",
+      "title": "2026云顶之弈公开赛夏季赛线下观赛指引来啦！",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=14450564023947656189",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-22T20:26:25",
-      "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-06-25T21:54:36",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【英雄联盟】胜利诸神 雷恩加尔皮肤原画",
@@ -27,9 +37,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T01:33:04",
       "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【云顶之弈】不朽 阿狸 局内预览",
@@ -37,19 +47,39 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T05:48:57",
       "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "【云顶之弈】胖胖龙好运乐园官宣",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=11510516795095704789",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-25T21:54:36",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【英雄联盟】胜利诸神 雷恩加尔皮肤揭晓",
       "url": "https://lol.qq.com/v/v2/detail.shtml?docid=7279854350569622661",
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T01:33:04",
-      "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "璀璨臻彩召唤活动上新",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=12561508568894502378",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-23T05:48:57",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "【英雄联盟】T1全球总决赛皮肤原画",
@@ -57,19 +87,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T01:33:04",
       "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "璀璨臻彩召唤活动上新",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=15089116292125051326",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T05:48:57",
-      "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "【英雄联盟】灰烬驱魔人 洛克英雄宣传片",
+      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=3240240540238524169",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-25T21:54:36",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【英雄联盟】T1全球总决赛皮肤揭晓",
@@ -77,8 +107,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T01:33:04",
       "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "新英雄洛克&绝息圣堂(2026)&西部魔影(2026)系列皮肤即将上线",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=12763740850781071203",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-25T21:54:36",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -87,9 +127,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T01:33:04",
       "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "《英雄联盟：云顶之弈》将在第18赛季使用虚幻引擎",
@@ -100,6 +140,36 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "【云顶之弈】灵能特工不朽雷恩加尔限时销售公告",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=9086380557296469366",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-25T21:54:36",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "17.6云顶之弈版本更新公告",
+      "url": "https://lol.qq.com/gicp/news/662/37089199.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-25T21:54:36",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "【英雄联盟】2025 全球总决赛 T1皮肤 幕后故事",
+      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=14749139856460909805",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-25T21:54:36",
+      "last_seen_at": "2026-06-25T21:54:36",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "世人畏惧黑暗，黑暗畏惧着他",
@@ -117,9 +187,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T01:33:04",
       "last_seen_at": "2026-06-24T01:33:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "敦煌秘境臻彩抖音直播专场",
