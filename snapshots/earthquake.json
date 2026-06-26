@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-06-25T05:47:18",
+  "update_time": "2026-06-26T15:34:16",
   "items": [
+    {
+      "title": "M5.1 日本本州岛",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260626212858/summarize",
+      "last_hot_value": "5.1级",
+      "first_seen_at": "2026-06-26T15:34:16",
+      "last_seen_at": "2026-06-26T15:34:16",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M6.9 日本本州东部附近海域",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260625063014/summarize",
       "last_hot_value": "6.9级",
       "first_seen_at": "2026-06-25T05:47:18",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-26T15:34:16",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.8 新疆阿克苏地区沙雅县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260625012256/summarize",
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-06-24T19:18:29",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-26T15:34:16",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,48 +36,38 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260624114403/summarize",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-06-24T08:44:45",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-26T15:34:16",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "M3.4 四川宜宾市珙县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260623175606/summarize",
-      "last_hot_value": "3.4级",
-      "first_seen_at": "2026-06-23T11:46:51",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "M6.5 苏拉威西海",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260626193439/summarize",
+      "last_hot_value": "6.5级",
+      "first_seen_at": "2026-06-26T15:34:16",
+      "last_seen_at": "2026-06-26T15:34:16",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M7.1 委内瑞拉",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260625060431/summarize",
       "last_hot_value": "7.1级",
       "first_seen_at": "2026-06-25T05:47:18",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-26T15:34:16",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.6 云南昆明市东川区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260624105345/summarize",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-06-24T08:44:45",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M3.6 青海海西州直辖区",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260623152718/summarize",
-      "last_hot_value": "3.6级",
-      "first_seen_at": "2026-06-23T11:46:51",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-26T15:34:16",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,18 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260623235634/summarize",
       "last_hot_value": "4.2级",
       "first_seen_at": "2026-06-24T08:44:45",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "M5.2 阿富汗",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260622182223/summarize",
-      "last_hot_value": "5.2级",
-      "first_seen_at": "2026-06-23T11:46:51",
-      "last_seen_at": "2026-06-24T19:18:29",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-26T15:34:16",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -96,29 +86,9 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260623232901/summarize",
       "last_hot_value": "5.2级",
       "first_seen_at": "2026-06-24T08:44:45",
-      "last_seen_at": "2026-06-25T05:47:18",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "M3.1 青海海西州直辖区",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260623195754/summarize",
-      "last_hot_value": "3.1级",
-      "first_seen_at": "2026-06-23T14:08:27",
-      "last_seen_at": "2026-06-25T05:47:18",
+      "last_seen_at": "2026-06-26T15:34:16",
       "consecutive_count": 4,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "M3.2 青海海西州直辖区",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260621001057/summarize",
-      "last_hot_value": "3.2级",
-      "first_seen_at": "2026-06-22T07:41:23",
-      "last_seen_at": "2026-06-22T07:41:23",
-      "consecutive_count": 0,
-      "peak_rank": 10,
+      "peak_rank": 4,
       "is_new": false
     }
   ]

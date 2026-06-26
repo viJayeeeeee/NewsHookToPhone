@@ -1,44 +1,14 @@
 {
-  "update_time": "2026-06-25T05:47:14",
+  "update_time": "2026-06-26T15:34:13",
   "items": [
     {
       "title": "等一切风平浪静（治愈散文）",
       "url": "",
-      "last_hot_value": "5800人在读",
+      "last_hot_value": "5401人在读",
       "first_seen_at": "2026-06-25T05:47:14",
-      "last_seen_at": "2026-06-25T05:47:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-26T15:34:13",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "马斯克第一性原理(让普通人可以学会的方法)",
-      "url": "",
-      "last_hot_value": "3167人在读",
-      "first_seen_at": "2026-06-23T14:08:23",
-      "last_seen_at": "2026-06-25T05:47:14",
-      "consecutive_count": 4,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
-      "url": "",
-      "last_hot_value": "3950人在读",
-      "first_seen_at": "2026-06-22T07:41:20",
-      "last_seen_at": "2026-06-24T08:44:39",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "上岸之后",
-      "url": "",
-      "last_hot_value": "1258人在读",
-      "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-23T14:08:23",
-      "consecutive_count": 0,
-      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -47,19 +17,19 @@
       "last_hot_value": "583人在读",
       "first_seen_at": "2026-06-24T19:18:26",
       "last_seen_at": "2026-06-25T05:47:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "无悔追踪（雷佳音、胡歌主演电影《抓特务》原著）",
+      "title": "人生十年，不可辜负的20岁到30岁",
       "url": "",
-      "last_hot_value": "1578人在读",
-      "first_seen_at": "2026-06-23T14:08:23",
-      "last_seen_at": "2026-06-25T05:47:14",
-      "consecutive_count": 4,
-      "peak_rank": 3,
-      "is_new": false
+      "last_hot_value": "452人在读",
+      "first_seen_at": "2026-06-26T15:34:13",
+      "last_seen_at": "2026-06-26T15:34:13",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "油炸绿番茄",
@@ -67,7 +37,7 @@
       "last_hot_value": "3098人在读",
       "first_seen_at": "2026-06-24T19:18:26",
       "last_seen_at": "2026-06-25T05:47:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -77,29 +47,19 @@
       "last_hot_value": "1816人在读",
       "first_seen_at": "2026-06-24T08:44:39",
       "last_seen_at": "2026-06-25T05:47:14",
-      "consecutive_count": 3,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "邻人之妻",
-      "url": "",
-      "last_hot_value": "1362人在读",
-      "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-24T08:44:39",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "查拉图斯特拉如是说",
+      "title": "相信",
       "url": "",
-      "last_hot_value": "752人在读",
-      "first_seen_at": "2026-06-23T14:08:23",
-      "last_seen_at": "2026-06-25T05:47:14",
-      "consecutive_count": 4,
+      "last_hot_value": "2338人在读",
+      "first_seen_at": "2026-06-26T15:34:13",
+      "last_seen_at": "2026-06-26T15:34:13",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "开口就是机会",
@@ -112,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "图解Skill：AI提效实战指南",
+      "url": "",
+      "last_hot_value": "1440人在读",
+      "first_seen_at": "2026-06-26T15:34:13",
+      "last_seen_at": "2026-06-26T15:34:13",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "东京八平米",
       "url": "",
       "last_hot_value": "1508人在读",
       "first_seen_at": "2026-06-24T19:18:26",
       "last_seen_at": "2026-06-25T05:47:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -132,34 +102,24 @@
       "is_new": false
     },
     {
-      "title": "向前一步",
+      "title": "置身事内：中国政府与经济发展",
       "url": "",
-      "last_hot_value": "291人在读",
-      "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-23T14:08:23",
-      "consecutive_count": 0,
+      "last_hot_value": "5715人在读",
+      "first_seen_at": "2026-06-26T15:34:13",
+      "last_seen_at": "2026-06-26T15:34:13",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "李诞工作手册（万字全新增订）",
+      "title": "伊加利亚的女儿们",
       "url": "",
-      "last_hot_value": "2012人在读",
-      "first_seen_at": "2026-06-22T07:41:20",
-      "last_seen_at": "2026-06-22T07:41:20",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "毛泽东选集（全四卷）",
-      "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-06-23T11:46:48",
-      "last_seen_at": "2026-06-25T05:47:14",
+      "last_hot_value": "1616人在读",
+      "first_seen_at": "2026-06-26T15:34:13",
+      "last_seen_at": "2026-06-26T15:34:13",
       "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "最后一个道士（全七册）",
@@ -167,16 +127,6 @@
       "last_hot_value": "396人在读",
       "first_seen_at": "2026-06-24T19:18:26",
       "last_seen_at": "2026-06-24T19:18:26",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "工作、消费主义和新穷人",
-      "url": "",
-      "last_hot_value": "1993人在读",
-      "first_seen_at": "2026-06-22T07:41:20",
-      "last_seen_at": "2026-06-22T07:41:20",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
