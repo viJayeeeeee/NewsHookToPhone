@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-06-24T11:29:48",
+  "update_time": "2026-06-26T11:19:15",
   "items": [
     {
-      "title": "一夜之间，Claude成我同事了",
-      "url": "https://www.51cto.com/article/847272.html",
+      "title": "Fable 5即将复活，代码已曝光？Anthropic CEO被白宫踢出来了！",
+      "url": "https://www.51cto.com/article/847459.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-24T11:29:48",
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
     },
     {
-      "title": "盘点五起导致生产环境崩溃的AI安全事件及共性分析",
-      "url": "https://www.51cto.com/article/846905.html",
+      "title": "一夜之间，Claude成我同事了",
+      "url": "https://www.51cto.com/article/847272.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T01:34:40",
-      "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-06-24T11:29:48",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,24 +32,14 @@
       "is_new": false
     },
     {
-      "title": "谷歌CEO罕见承认落后了！Gemini 3.5 Pro被曝难产",
-      "url": "https://www.51cto.com/article/846925.html",
+      "title": "AI智能体拥有独立身份，企业该如何做好安全管控",
+      "url": "https://www.51cto.com/article/847532.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-23T01:34:40",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "点亮那颗星——我用 HarmonyOS 的 Rating 组件给每件小事打分",
-      "url": "https://ost.51cto.com/posts/47972#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-23T01:34:40",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Claude下一代神级模型秘密出炉！Sonnet-5被曝下周上线",
@@ -57,19 +47,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-23T23:46:55",
       "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "# 码上鸿蒙•智绘未来#HarmonyOS7更新亮点实录13：Core Vision Kit 深度实践，端侧图像超分辨率重建与文本",
-      "url": "https://ost.51cto.com/posts/47882#24read",
+      "title": "用 Codex 创建一个可复用的算法流程图 Skill",
+      "url": "https://blog.51cto.com/u_12805695/14719018",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "女娲日记——Java开发智能体 | 女娲百宝箱：Prompt提示词工程",
@@ -77,9 +67,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T11:29:48",
       "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "同样是DeepSeek，接入OpenWebUI之后体验直接提升一个档次",
@@ -92,24 +82,14 @@
       "is_new": false
     },
     {
-      "title": "AI 写代码越快，为什么 Code Review 越不能省？",
-      "url": "https://blog.51cto.com/erpanomer/14708443",
+      "title": "女娲日记——Java开发智能体 | 女娲百宝箱：大模型消息与角色机制详解",
+      "url": "https://blog.51cto.com/u_15599203/14718918",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T01:34:40",
-      "last_seen_at": "2026-06-23T01:34:40",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "别再只拿 Elasticsearch 存日志了，它已经进化成 AI 向量数据库！",
-      "url": "https://blog.51cto.com/u_16237826/14705464",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "基于LangChain 实现提示词链、工具调用与多轮对话记忆系统",
@@ -117,9 +97,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T11:29:48",
       "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "7个资深工程师的编码模式",
@@ -132,24 +112,14 @@
       "is_new": false
     },
     {
-      "title": "还在手敲XMind测试点？试试 Codex 自定义 Skill 一键生成",
-      "url": "https://blog.51cto.com/u_11780953/14708408",
+      "title": "在线CAD的命令行驱动与参数化绘图使用教程",
+      "url": "https://blog.51cto.com/u_10455293/14718891",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T01:34:40",
-      "last_seen_at": "2026-06-23T01:34:40",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "代码写得溜，论文写不出？分享一个理工科通用的论文辅助解决方案",
-      "url": "https://blog.51cto.com/u_17734921/14703681",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "多模态 RAG 实战：让模型同时检索图片、PDF 和视频片段",
@@ -157,9 +127,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T11:29:48",
       "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSpeed ZeRO-3 参数详解 结合4张16g显卡微调14b模型",
@@ -172,24 +142,14 @@
       "is_new": false
     },
     {
-      "title": "OpenAI 发布 o3‑Pro，ChatGPT 迎来「深思时代」：一次把宣传语、定价单、与能力边界全部拆开的解读",
-      "url": "https://blog.51cto.com/u_17459294/14708256",
+      "title": "CodeBuddy Craft 智能体实战：从需求文档到可运行微服务的全链路开发",
+      "url": "https://blog.51cto.com/dickeryang/14718880",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T01:34:40",
-      "last_seen_at": "2026-06-23T01:34:40",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "如何利用AI将Harness Engineering在项目中落地？",
-      "url": "https://blog.51cto.com/u_6813689/14703522",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-22T02:10:40",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "设计稿版本对比 Agent：自动识别视觉差异",
@@ -197,9 +157,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T11:29:48",
       "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Shell脚本十大经典实用运维自动化完整实战代码案例",
@@ -212,24 +172,14 @@
       "is_new": false
     },
     {
-      "title": "从零搭建：CodeMirror 6 项目中的 ESLint 与 Prettier 代码规范实战",
-      "url": "https://blog.51cto.com/u_15469972/14707721",
+      "title": "设计 Agent 的视觉理解模块：CLIP 与扩散模型的应用 引言 设计 Agent 的核心能力是“理解”视觉内容——不仅仅是识别图片里有什么物体，更要理解构图、风格、色彩搭配、情感基调等设计层面",
+      "url": "https://blog.51cto.com/chenfenglove/14718423",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T01:34:40",
-      "last_seen_at": "2026-06-23T01:34:40",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "一个开源 Skill，把 AI Agent 真正变成了内容工厂",
-      "url": "https://blog.51cto.com/u_17681090/14702302",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-21T18:04:02",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "从API到生产：大模型应用的工程化实践",
@@ -237,9 +187,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T11:29:48",
       "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "文档理解新范式：多模态模型如何彻底改变 OCR 与表格识别？",
@@ -252,24 +202,14 @@
       "is_new": false
     },
     {
-      "title": "设计 Agent 工作流：Figma + Agent 的自动化协作",
-      "url": "https://blog.51cto.com/chenfenglove/14707710",
+      "title": "#码上鸿蒙•智绘未来# 从详情页确认到桌面卡片刷新：HarmonyOS 元服务状态一致性实践",
+      "url": "https://ost.51cto.com/posts/49667#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T01:34:40",
-      "last_seen_at": "2026-06-23T01:34:40",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "90%的人不知道！MiMo Code 凭什么免费开放百万 Token 大模型？深度拆解来了",
-      "url": "https://blog.51cto.com/u_17704776/14702195",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-21T18:04:02",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "# 码上鸿蒙•智绘未来# uni-app x 与原生鸿蒙应用深度集成：Harmony API 通信实战指南",
@@ -277,9 +217,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T11:29:48",
       "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "# 码上鸿蒙•智绘未来# HarmonyOS 7.0 学习系列 21 小步练习册做提醒时我先忍住了权限弹窗",
@@ -292,24 +232,14 @@
       "is_new": false
     },
     {
-      "title": "#码上鸿蒙•智绘未来# AI 会议助手体验",
-      "url": "https://ost.51cto.com/posts/48360#24read",
+      "title": "# 码上鸿蒙•智绘未来#HarmonyOS7更新亮点实录23：地图渲染管线深度解析与个性化呈现定制引擎",
+      "url": "https://ost.51cto.com/posts/49331#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T01:34:40",
-      "last_seen_at": "2026-06-23T01:34:40",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "# 码上鸿蒙•智绘未来#用 DevEco Code 写记账 App，AI 辅助开发到底好不好使",
-      "url": "https://ost.51cto.com/posts/48089#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-21T18:04:02",
-      "last_seen_at": "2026-06-21T18:04:02",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "# 码上鸿蒙•智绘未来#轻规划鸿蒙开发实战26：桌面万能卡片（Today Widget）架构设计，Form Kit 2x2 与 2x4",
@@ -317,16 +247,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-24T11:29:48",
       "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "# 码上鸿蒙•智绘未来# HarmonyOS 7.0 学习系列 17 小步练习册的复盘卡片别一上来就摊开",
-      "url": "https://ost.51cto.com/posts/48332#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T01:34:40",
-      "last_seen_at": "2026-06-23T23:46:55",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

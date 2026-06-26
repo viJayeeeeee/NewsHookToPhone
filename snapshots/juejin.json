@@ -1,35 +1,25 @@
 {
-  "update_time": "2026-06-24T11:29:44",
+  "update_time": "2026-06-26T11:19:12",
   "items": [
     {
-      "title": "为什么AI 时代来临，大部分人吃不到红利",
-      "url": "https://juejin.cn/post/7653186491406073856",
-      "last_hot_value": "热度:1755",
-      "first_seen_at": "2026-06-23T01:34:37",
-      "last_seen_at": "2026-06-24T11:29:44",
-      "consecutive_count": 3,
+      "title": "Node.js 还能再战十年？给你一个不换引擎的理由",
+      "url": "https://juejin.cn/post/7654166345454026803",
+      "last_hot_value": "热度:1323",
+      "first_seen_at": "2026-06-24T11:29:44",
+      "last_seen_at": "2026-06-26T11:19:12",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "艹，维护AI写的代码，我心态崩了......",
-      "url": "https://juejin.cn/post/7653666093677314057",
-      "last_hot_value": "热度:2997",
-      "first_seen_at": "2026-06-23T01:34:37",
-      "last_seen_at": "2026-06-23T23:46:52",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "《Kingbase护城河》——数据库存储空间全景探测与精细化瘦身实战",
-      "url": "https://juejin.cn/post/7652513657561792563",
-      "last_hot_value": "热度:1242",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "鸿蒙激励金8000元到手，但我决定不再参加了",
+      "url": "https://juejin.cn/post/7654531180474597395",
+      "last_hot_value": "热度:1152",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "无限期免费，Token 随便用，舒服啊！",
@@ -37,79 +27,39 @@
       "last_hot_value": "热度:1134",
       "first_seen_at": "2026-06-23T23:46:52",
       "last_seen_at": "2026-06-24T11:29:44",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "面试结束后，我反问：“就面个实习至于上这么大强度吗？”面试官：“你对 RAG、Agent、MCP、Skill 理解得很到位，所以要求高一点。”",
-      "url": "https://juejin.cn/post/7653108100300242987",
-      "last_hot_value": "热度:1512",
-      "first_seen_at": "2026-06-23T01:34:37",
-      "last_seen_at": "2026-06-23T23:46:52",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "KMP / CMP 鸿蒙版本 Beta 发布，他有什么特别之处？",
-      "url": "https://juejin.cn/post/7651954728705212422",
-      "last_hot_value": "热度:594",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "AI Agent 开发究竟是啥？如何用 AI 开发 Agent ？深入浅出给你一套概念",
-      "url": "https://juejin.cn/post/7653293019979661355",
-      "last_hot_value": "热度:945",
-      "first_seen_at": "2026-06-23T01:34:37",
-      "last_seen_at": "2026-06-24T11:29:44",
-      "consecutive_count": 3,
+      "title": "用了半年 Claude Code 后，我尝试关掉它写了一周代码——结果比想象中严重",
+      "url": "https://juejin.cn/post/7654807811400450086",
+      "last_hot_value": "热度:774",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "我给 AI 搭了个法庭：一个前端仔的 LangGraph 实战全记录",
-      "url": "https://juejin.cn/post/7653442979387506726",
-      "last_hot_value": "热度:855",
-      "first_seen_at": "2026-06-23T01:34:37",
-      "last_seen_at": "2026-06-23T23:46:52",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "我用 AI 一周写完了整个项目，上线第一天就崩了——这是我踩过最贵的 5 个坑",
-      "url": "https://juejin.cn/post/7652581847890133018",
-      "last_hot_value": "热度:585",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "我开发 AI Agent 项目踩过的 5个坑",
-      "url": "https://juejin.cn/post/7653660327263666176",
-      "last_hot_value": "热度:621",
-      "first_seen_at": "2026-06-23T01:34:37",
-      "last_seen_at": "2026-06-24T11:29:44",
-      "consecutive_count": 3,
+      "title": "从一个传文件的破需求,到一个能挂公网的\"瞬传\":我用 WorkBuddy 把它从 HTML 一路做到了 Java",
+      "url": "https://juejin.cn/post/7654808985048416290",
+      "last_hot_value": "热度:711",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "老板：“请说出一个录用你的理由。”我脱口而出：“每个月 AI 支出都超过我的生活费了！”老板愣了一下，随即哈哈大笑：“好吧，你被录用了。”",
-      "url": "https://juejin.cn/post/7652201148235382803",
-      "last_hot_value": "热度:504",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "别再 console.log 了：5 个 Chrome DevTools 调试技巧，用过就回不去了",
+      "url": "https://juejin.cn/post/7654473428947795994",
+      "last_hot_value": "热度:666",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "我开源了一个开发者专属的智能 JSON 工具，得到了媳妇高度认可",
@@ -117,29 +67,19 @@
       "last_hot_value": "热度:531",
       "first_seen_at": "2026-06-23T23:46:52",
       "last_seen_at": "2026-06-24T11:29:44",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "Qoder 越来越猛了，Browser Use 让 Agent 的联网能力拉满。",
-      "url": "https://juejin.cn/post/7653331314107809846",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-06-23T01:34:37",
-      "last_seen_at": "2026-06-23T01:34:37",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "HarmonyOS开发中错误处理策略：网络异常统一处理",
-      "url": "https://juejin.cn/post/7652636952518754340",
-      "last_hot_value": "热度:306",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "他俩只靠写代码，登上了胡润财富榜！",
+      "url": "https://juejin.cn/post/7655235192538873865",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "GLM-5.2能打了，但还不能替代GPT",
@@ -147,39 +87,19 @@
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-06-23T23:46:52",
       "last_seen_at": "2026-06-24T11:29:44",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "分享一个横向滚动案例，带悬停暂停，通用性很强",
-      "url": "https://juejin.cn/post/7652606969636503595",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-06-23T01:34:37",
-      "last_seen_at": "2026-06-23T01:34:37",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "一套 Spec-First 的 AI 编程工作流",
-      "url": "https://juejin.cn/post/7652581847889330202",
-      "last_hot_value": "热度:306",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "HarmonyOS开发中RESTful API封装：网络层架构设计",
-      "url": "https://juejin.cn/post/7652636952518721572",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "推荐一个牛逼的智能代码审查系统",
+      "url": "https://juejin.cn/post/7654122741077753898",
+      "last_hot_value": "热度:486",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "😭测试小姐姐终于不骂我了！这个提BUG神器太香了...",
@@ -187,26 +107,16 @@
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-06-24T11:29:44",
       "last_seen_at": "2026-06-24T11:29:44",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "HarmonyOS开发中请求拦截器链：日志、认证、重试",
-      "url": "https://juejin.cn/post/7652976567262675007",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-23T01:34:37",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "Node.js 还能再战十年？给你一个不换引擎的理由",
-      "url": "https://juejin.cn/post/7654166345454026803",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-06-24T11:29:44",
-      "last_seen_at": "2026-06-24T11:29:44",
+      "title": "苹果 AirPods 协议，Android 也可以使用完整版 AirPods 能力",
+      "url": "https://juejin.cn/post/7654471531117379590",
+      "last_hot_value": "热度:468",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -222,24 +132,34 @@
       "is_new": false
     },
     {
-      "title": "解读 Android 17 全新内存限制，有没有“豁免”后门？",
-      "url": "https://juejin.cn/post/7653533398468542473",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-06-24T11:29:44",
-      "last_seen_at": "2026-06-24T11:29:44",
+      "title": "那不是我的黑历史，那是我的来时路啊！😭😭",
+      "url": "https://juejin.cn/post/7654522836775436298",
+      "last_hot_value": "热度:387",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "HarmonyOS APP事件驱动大揭秘",
-      "url": "https://juejin.cn/post/7652676128406306859",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-23T01:34:37",
+      "title": "解读 Android 17 全新内存限制，有没有“豁免”后门？",
+      "url": "https://juejin.cn/post/7653533398468542473",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-06-24T11:29:44",
+      "last_seen_at": "2026-06-24T11:29:44",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "Claude Code 准确率从 41% 升到 89%，这个 CLAUDE.md 只做了一件事",
+      "url": "https://juejin.cn/post/7654519145632743475",
+      "last_hot_value": "热度:369",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-26T11:19:12",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "全网爆火的Loop到底是什么？",
@@ -247,16 +167,6 @@
       "last_hot_value": "热度:351",
       "first_seen_at": "2026-06-24T11:29:44",
       "last_seen_at": "2026-06-24T11:29:44",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "Android 协程并发控制：别动线程池，控制好并发语义就够了",
-      "url": "https://juejin.cn/post/7652257652502298662",
-      "last_hot_value": "热度:234",
-      "first_seen_at": "2026-06-21T18:03:59",
-      "last_seen_at": "2026-06-22T02:10:36",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
