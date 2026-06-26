@@ -1,14 +1,24 @@
 {
-  "update_time": "2026-06-25T18:08:19",
+  "update_time": "2026-06-26T20:51:01",
   "items": [
     {
       "title": "雷军吃面，小女孩拆台",
       "url": "https://www.huxiu.com/article/4868800.html",
       "last_hot_value": "收藏:0 评论:0",
       "first_seen_at": "2026-06-23T22:56:10",
-      "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 5,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "曾被认为越老越吃香的职业，正在经历大规模贬值",
+      "url": "https://www.huxiu.com/article/4869791.html",
+      "last_hot_value": "收藏:0 评论:0",
+      "first_seen_at": "2026-06-25T18:08:19",
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -16,8 +26,8 @@
       "url": "https://www.huxiu.com/article/4869147.html",
       "last_hot_value": "收藏:0 评论:0",
       "first_seen_at": "2026-06-23T22:56:10",
-      "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -32,14 +42,14 @@
       "is_new": false
     },
     {
-      "title": "曾被认为越老越吃香的职业，正在经历大规模贬值",
-      "url": "https://www.huxiu.com/article/4869791.html",
+      "title": "承认自己是“老登”之后，比格赵志强一年“卖”了20亿",
+      "url": "https://www.huxiu.com/article/4867888.html",
       "last_hot_value": "收藏:0 评论:0",
-      "first_seen_at": "2026-06-25T18:08:19",
-      "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
+      "first_seen_at": "2026-06-23T22:56:10",
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 5,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "推特是全世界人民的弱智吧",
@@ -47,18 +57,8 @@
       "last_hot_value": "收藏:0 评论:0",
       "first_seen_at": "2026-06-25T13:28:27",
       "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "承认自己是“老登”之后，比格赵志强一年“卖”了20亿",
-      "url": "https://www.huxiu.com/article/4867888.html",
-      "last_hot_value": "收藏:0 评论:0",
-      "first_seen_at": "2026-06-23T22:56:10",
-      "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 4,
-      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -66,8 +66,18 @@
       "url": "https://www.huxiu.com/article/4869686.html",
       "last_hot_value": "收藏:0 评论:0",
       "first_seen_at": "2026-06-24T22:14:27",
-      "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 4,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "这次，微信赌上了一切",
+      "url": "https://www.huxiu.com/article/4869561.html",
+      "last_hot_value": "收藏:0 评论:0",
+      "first_seen_at": "2026-06-25T18:08:19",
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
@@ -76,28 +86,18 @@
       "url": "https://www.huxiu.com/article/4860037.html",
       "last_hot_value": "收藏:0 评论:0",
       "first_seen_at": "2026-06-23T22:56:10",
-      "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
-    },
-    {
-      "title": "这次，微信赌上了一切",
-      "url": "https://www.huxiu.com/article/4869561.html",
-      "last_hot_value": "收藏:0 评论:0",
-      "first_seen_at": "2026-06-25T18:08:19",
-      "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
     },
     {
       "title": "半年20余倍增长，一个中国Token工厂的生意飞轮",
       "url": "https://www.huxiu.com/article/4867715.html",
       "last_hot_value": "收藏:0 评论:0",
       "first_seen_at": "2026-06-24T22:14:27",
-      "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
@@ -122,6 +122,16 @@
       "is_new": false
     },
     {
+      "title": "一门贩卖“全球排名”的暴利生意，精准收割中产的钱包与肉体",
+      "url": "https://www.huxiu.com/article/4869409.html",
+      "last_hot_value": "收藏:0 评论:0",
+      "first_seen_at": "2026-06-26T20:51:01",
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "方便面行业，拐点来了",
       "url": "https://www.huxiu.com/article/4868758.html",
       "last_hot_value": "收藏:0 评论:0",
@@ -132,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "韩国闪崩了，还好没去接盘",
+      "url": "https://www.huxiu.com/article/4869664.html",
+      "last_hot_value": "收藏:0 评论:0",
+      "first_seen_at": "2026-06-26T20:51:01",
+      "last_seen_at": "2026-06-26T20:51:01",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "央视查了一个成人漫画站，我看到的是AI 把色情做成了流水线",
       "url": "https://www.huxiu.com/article/4868705.html",
       "last_hot_value": "收藏:0 评论:0",
       "first_seen_at": "2026-06-25T18:08:19",
       "last_seen_at": "2026-06-25T18:08:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "卖爆了，这一次中国电摩要掀翻日系老大哥？",
