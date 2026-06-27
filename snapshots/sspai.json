@@ -1,33 +1,33 @@
 {
-  "update_time": "2026-06-27T14:09:06",
+  "update_time": "2026-06-27T22:15:59",
   "items": [
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
       "url": "https://sspai.com/post/111562",
       "last_hot_value": "评论:2 点赞:15",
       "first_seen_at": "2026-06-27T14:09:06",
-      "last_seen_at": "2026-06-27T14:09:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "新玩意 245｜少数派的编辑们最近买了啥？",
       "url": "https://sspai.com/post/111518",
-      "last_hot_value": "评论:32 点赞:40",
+      "last_hot_value": "评论:34 点赞:41",
       "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T14:09:06",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
       "url": "https://sspai.com/post/111421",
-      "last_hot_value": "评论:25 点赞:38",
+      "last_hot_value": "评论:25 点赞:39",
       "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T14:09:06",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://sspai.com/post/111483",
       "last_hot_value": "评论:10 点赞:22",
       "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T14:09:06",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "https://sspai.com/post/111289",
       "last_hot_value": "评论:9 点赞:18",
       "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T14:09:06",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,10 +56,20 @@
       "url": "https://sspai.com/post/111428",
       "last_hot_value": "评论:1 点赞:32",
       "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T14:09:06",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+      "url": "https://sspai.com/post/111410",
+      "last_hot_value": "评论:7 点赞:14",
+      "first_seen_at": "2026-06-27T22:15:59",
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "台前调度救不了我，所以我做了个 Dock——钨极 Tungsten Edge",
@@ -67,8 +77,28 @@
       "last_hot_value": "评论:2 点赞:4",
       "first_seen_at": "2026-06-27T14:09:06",
       "last_seen_at": "2026-06-27T14:09:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/111360",
+      "last_hot_value": "评论:25 点赞:15",
+      "first_seen_at": "2026-06-27T22:15:59",
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源",
+      "url": "https://sspai.com/post/111261",
+      "last_hot_value": "评论:26 点赞:68",
+      "first_seen_at": "2026-06-27T22:15:59",
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -80,6 +110,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
+      "url": "https://sspai.com/post/111349",
+      "last_hot_value": "评论:7 点赞:30",
+      "first_seen_at": "2026-06-27T22:15:59",
+      "last_seen_at": "2026-06-27T22:15:59",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "在格鲁吉亚的大地上：徒步篇",

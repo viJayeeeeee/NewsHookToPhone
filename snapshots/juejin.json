@@ -1,13 +1,33 @@
 {
-  "update_time": "2026-06-27T14:09:00",
+  "update_time": "2026-06-27T22:15:53",
   "items": [
+    {
+      "title": "从一个传文件的破需求,到一个能挂公网的\"瞬传\":我用 WorkBuddy 把它从 HTML 一路做到了 Java",
+      "url": "https://juejin.cn/post/7654808985048416290",
+      "last_hot_value": "热度:1098",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-27T22:15:53",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "他俩只靠写代码，登上了胡润财富榜！",
+      "url": "https://juejin.cn/post/7655235192538873865",
+      "last_hot_value": "热度:837",
+      "first_seen_at": "2026-06-26T11:19:12",
+      "last_seen_at": "2026-06-27T22:15:53",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
     {
       "title": "用了半年 Claude Code 后，我尝试关掉它写了一周代码——结果比想象中严重",
       "url": "https://juejin.cn/post/7654807811400450086",
       "last_hot_value": "热度:1017",
       "first_seen_at": "2026-06-26T11:19:12",
       "last_seen_at": "2026-06-27T14:09:00",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -22,13 +42,23 @@
       "is_new": false
     },
     {
-      "title": "从一个传文件的破需求,到一个能挂公网的\"瞬传\":我用 WorkBuddy 把它从 HTML 一路做到了 Java",
-      "url": "https://juejin.cn/post/7654808985048416290",
-      "last_hot_value": "热度:972",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-27T14:09:00",
-      "consecutive_count": 2,
+      "title": "WorkBuddy 上手实战：打造一个可用的本地 AI 工作台",
+      "url": "https://juejin.cn/post/7655157905101062178",
+      "last_hot_value": "热度:675",
+      "first_seen_at": "2026-06-27T22:15:53",
+      "last_seen_at": "2026-06-27T22:15:53",
+      "consecutive_count": 1,
       "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？”",
+      "url": "https://juejin.cn/post/7655245911811784750",
+      "last_hot_value": "热度:630",
+      "first_seen_at": "2026-06-27T14:09:00",
+      "last_seen_at": "2026-06-27T22:15:53",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -37,39 +67,39 @@
       "last_hot_value": "热度:810",
       "first_seen_at": "2026-06-26T11:19:12",
       "last_seen_at": "2026-06-27T14:09:00",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "他俩只靠写代码，登上了胡润财富榜！",
-      "url": "https://juejin.cn/post/7655235192538873865",
-      "last_hot_value": "热度:747",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-27T14:09:00",
-      "consecutive_count": 2,
-      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "苹果 AirPods 协议，Android 也可以使用完整版 AirPods 能力",
       "url": "https://juejin.cn/post/7654471531117379590",
-      "last_hot_value": "热度:531",
+      "last_hot_value": "热度:567",
       "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-27T14:09:00",
+      "last_seen_at": "2026-06-27T22:15:53",
+      "consecutive_count": 3,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "WHERE 条件别凭习惯写，常用查询先跑一遍",
+      "url": "https://juejin.cn/post/7655235192540102665",
+      "last_hot_value": "热度:522",
+      "first_seen_at": "2026-06-27T14:09:00",
+      "last_seen_at": "2026-06-27T22:15:53",
       "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？”",
-      "url": "https://juejin.cn/post/7655245911811784750",
-      "last_hot_value": "热度:468",
+      "title": "白宫直接给 OpenAI 下了限制令，GPT-5.6 不能随便放出来了",
+      "url": "https://juejin.cn/post/7655516046731788314",
+      "last_hot_value": "热度:486",
       "first_seen_at": "2026-06-27T14:09:00",
-      "last_seen_at": "2026-06-27T14:09:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:15:53",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "推荐一个牛逼的智能代码审查系统",
@@ -82,21 +112,21 @@
       "is_new": false
     },
     {
-      "title": "白宫直接给 OpenAI 下了限制令，GPT-5.6 不能随便放出来了",
-      "url": "https://juejin.cn/post/7655516046731788314",
-      "last_hot_value": "热度:432",
+      "title": "Vue 3 里被严重低估的 API：InjectionKey",
+      "url": "https://juejin.cn/post/7654840513968537641",
+      "last_hot_value": "热度:387",
       "first_seen_at": "2026-06-27T14:09:00",
-      "last_seen_at": "2026-06-27T14:09:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:15:53",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "WHERE 条件别凭习惯写，常用查询先跑一遍",
-      "url": "https://juejin.cn/post/7655235192540102665",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-06-27T14:09:00",
-      "last_seen_at": "2026-06-27T14:09:00",
+      "title": "Agent 实战: 智语 + baoyu-skills 自动发布文章到公众号",
+      "url": "https://juejin.cn/post/7654867618023817216",
+      "last_hot_value": "热度:360",
+      "first_seen_at": "2026-06-27T22:15:53",
+      "last_seen_at": "2026-06-27T22:15:53",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -112,11 +142,11 @@
       "is_new": false
     },
     {
-      "title": "Vue 3 里被严重低估的 API：InjectionKey",
-      "url": "https://juejin.cn/post/7654840513968537641",
-      "last_hot_value": "热度:351",
-      "first_seen_at": "2026-06-27T14:09:00",
-      "last_seen_at": "2026-06-27T14:09:00",
+      "title": "Flutter Patchwork，不用 Fork 改依赖包源码的第三方工具",
+      "url": "https://juejin.cn/post/7654481202876301375",
+      "last_hot_value": "热度:324",
+      "first_seen_at": "2026-06-27T22:15:53",
+      "last_seen_at": "2026-06-27T22:15:53",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

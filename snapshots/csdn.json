@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-27T14:09:02",
+  "update_time": "2026-06-27T22:15:54",
   "items": [
+    {
+      "title": "鸿蒙 App 如何设计 Memory Center？一文讲透 Agent 的长期记忆架构",
+      "url": "https://blog.csdn.net/qq_36478920/article/details/162306679",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-06-27T22:15:54",
+      "last_seen_at": "2026-06-27T22:15:54",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "高考志愿填报，能不能交给一台「智能体设备」？看看它的价值与边界",
       "url": "https://blog.csdn.net/JHXL_/article/details/162282272",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-26T11:19:13",
       "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,12 +34,22 @@
     {
       "title": "【MySQL 筑基篇】从零掌握 CRUD 核心操作：详解增删改查、聚合过滤与实战避坑指南",
       "url": "https://blog.csdn.net/yhrxh_ymq/article/details/162259007",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "8431",
       "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:15:54",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "《如何通过Ansible解决：多节点人工采集Node Exporter采集Linux主机的CPU、内存、磁盘和网络指标自动化》",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/162334133",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-06-26T11:19:13",
+      "last_seen_at": "2026-06-27T22:15:54",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "MySQL性能怎么看?mysqld_exporter采集、告警与远程监控指南",
@@ -42,13 +62,23 @@
       "is_new": false
     },
     {
-      "title": "《如何通过Ansible解决：多节点人工采集Node Exporter采集Linux主机的CPU、内存、磁盘和网络指标自动化》",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/162334133",
-      "last_hot_value": "1.0w",
+      "title": "【LangChain-AI】：宏观认知",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/162333983",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-06-26T11:19:13",
-      "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:15:54",
+      "consecutive_count": 3,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "WorkBuddy 上手实战：打造一个可用的本地 AI 工作台",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/162316523",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-06-27T14:09:02",
+      "last_seen_at": "2026-06-27T22:15:54",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -57,16 +87,16 @@
       "last_hot_value": "9061",
       "first_seen_at": "2026-06-27T14:09:02",
       "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "【LangChain-AI】：宏观认知",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/162333983",
-      "last_hot_value": "8901",
-      "first_seen_at": "2026-06-26T11:19:13",
-      "last_seen_at": "2026-06-27T14:09:02",
+      "title": "OpenClaw Docker 部署：从开发到生产的容器化实战",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162362583",
+      "last_hot_value": "9436",
+      "first_seen_at": "2026-06-27T14:09:02",
+      "last_seen_at": "2026-06-27T22:15:54",
       "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
@@ -82,11 +112,11 @@
       "is_new": false
     },
     {
-      "title": "OpenClaw Docker 部署：从开发到生产的容器化实战",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162362583",
-      "last_hot_value": "8867",
-      "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-27T14:09:02",
+      "title": "Ansible批量部署Nginx：从主机清单到Playbook自动化执行",
+      "url": "https://blog.csdn.net/weixin_62765017/article/details/162298328",
+      "last_hot_value": "9207",
+      "first_seen_at": "2026-06-27T22:15:54",
+      "last_seen_at": "2026-06-27T22:15:54",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -102,21 +132,31 @@
       "is_new": false
     },
     {
+      "title": "【AI智能体】飞书 AI 智能客服机器人搭建与使用实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161460618",
+      "last_hot_value": "8792",
+      "first_seen_at": "2026-06-26T11:19:13",
+      "last_seen_at": "2026-06-27T22:15:54",
+      "consecutive_count": 3,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "【同济线性代数第五版】第三章 矩阵的初版变换与线性方程组",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/161949346",
+      "last_hot_value": "7910",
+      "first_seen_at": "2026-06-26T11:19:13",
+      "last_seen_at": "2026-06-27T22:15:54",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "视觉Transformer实战 | Pyramid Vision Transformer（PVT）详解与实现",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/161871208",
       "last_hot_value": "8845",
       "first_seen_at": "2026-06-27T14:09:02",
       "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "【同济线性代数第五版】第三章 矩阵的初版变换与线性方程组",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/161949346",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-06-26T11:19:13",
-      "last_seen_at": "2026-06-26T11:19:13",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -127,9 +167,9 @@
       "last_hot_value": "8822",
       "first_seen_at": "2026-06-27T14:09:02",
       "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从一个传文件的破需求,到一个能挂公网的“瞬传“:我用 WorkBuddy 把它从 HTML 一路做到了 Java",
@@ -142,24 +182,14 @@
       "is_new": false
     },
     {
-      "title": "WorkBuddy 上手实战：打造一个可用的本地 AI 工作台",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/162316523",
-      "last_hot_value": "8728",
-      "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-27T14:09:02",
+      "title": "社交媒体舆情监控实战：基于 Bright Data AI Studio 的比亚迪品牌口碑追踪方案",
+      "url": "https://blog.csdn.net/m0_64336780/article/details/162265313",
+      "last_hot_value": "8143",
+      "first_seen_at": "2026-06-27T22:15:54",
+      "last_seen_at": "2026-06-27T22:15:54",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
-    },
-    {
-      "title": "【AI智能体】飞书 AI 智能客服机器人搭建与使用实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161460618",
-      "last_hot_value": "8728",
-      "first_seen_at": "2026-06-26T11:19:13",
-      "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 2,
-      "peak_rank": 10,
-      "is_new": false
     }
   ]
 }

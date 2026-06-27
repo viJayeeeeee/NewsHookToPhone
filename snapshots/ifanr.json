@@ -1,43 +1,53 @@
 {
-  "update_time": "2026-06-27T14:09:08",
+  "update_time": "2026-06-27T22:16:00",
   "items": [
     {
       "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
       "url": "https://www.ifanr.com/1670225",
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:08",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我在 MWC 上找到了折叠屏最该有的样子",
       "url": "https://www.ifanr.com/1670141",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:19",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "早报｜GPT-5.6正式亮相，但你可能还用不了/微软将上调Xbox主机价格/大疆回应Pocket 4P开售秒空",
+      "url": "https://www.ifanr.com/1670246",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-27T22:16:00",
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "对话网翎 CEO 刘宇：《镖人》剧组用的卫星通讯，我希望多数人也用得到丨多样性公司",
       "url": "https://www.ifanr.com/1670070",
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:08",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你的Codex 可能只解锁了1%，大神让它一天肝 71小时",
       "url": "https://www.ifanr.com/1670118",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:19",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -46,8 +56,8 @@
       "url": "https://www.ifanr.com/1670054",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:19",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -56,8 +66,8 @@
       "url": "https://www.ifanr.com/1670032",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:19",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -66,8 +76,8 @@
       "url": "https://www.ifanr.com/1670014",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:19",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://www.ifanr.com/1670010",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:19",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -86,8 +96,8 @@
       "url": "https://www.ifanr.com/1670000",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:19",
-      "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:00",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -97,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:19",
       "last_seen_at": "2026-06-27T14:09:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },

@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-06-27T14:09:12",
+  "update_time": "2026-06-27T22:16:05",
   "items": [
     {
       "title": "7-zip-crypto 压缩软件 v26.02 加密算法增强版",
       "url": "",
-      "last_hot_value": "回复:509 查看:3593",
+      "last_hot_value": "回复:622 查看:4380",
       "first_seen_at": "2026-06-26T11:19:42",
-      "last_seen_at": "2026-06-27T14:09:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "离线OCR识别工具（更新表格识别）",
       "url": "",
-      "last_hot_value": "回复:374 查看:8503",
+      "last_hot_value": "回复:409 查看:9315",
       "first_seen_at": "2026-06-26T11:19:42",
-      "last_seen_at": "2026-06-27T14:09:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "C盘清理工具 | LightC (v2.9.1)",
+      "url": "",
+      "last_hot_value": "回复:214 查看:4855",
+      "first_seen_at": "2026-06-27T22:16:05",
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "腾讯版龙虾 Marvis V1.60.13.18",
@@ -27,9 +37,9 @@
       "last_hot_value": "回复:368 查看:24752",
       "first_seen_at": "2026-06-27T14:09:12",
       "last_seen_at": "2026-06-27T14:09:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "向日葵v13.1.0.48900官方低版本没有内置广告",
@@ -37,19 +47,59 @@
       "last_hot_value": "回复:173 查看:5301",
       "first_seen_at": "2026-06-26T11:19:42",
       "last_seen_at": "2026-06-27T14:09:12",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
+      "title": "格式大师 v1.0.0",
+      "url": "",
+      "last_hot_value": "回复:671 查看:14887",
+      "first_seen_at": "2026-06-27T22:16:05",
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "字幕翻译 妙幕SmartSub v3.1.0",
+      "url": "",
+      "last_hot_value": "回复:184 查看:8239",
+      "first_seen_at": "2026-06-27T22:16:05",
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "启动U盘开源制作工具 Ventoy 1.1.16",
       "url": "",
-      "last_hot_value": "回复:152 查看:4510",
+      "last_hot_value": "回复:169 查看:5114",
       "first_seen_at": "2026-06-26T11:19:42",
-      "last_seen_at": "2026-06-27T14:09:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "千问输入法 CosyVoice v1.1.0",
+      "url": "",
+      "last_hot_value": "回复:88 查看:3247",
+      "first_seen_at": "2026-06-27T22:16:05",
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "自建 一健运行 Rustdesk 远程控制中继服务端 v1.0 更新工程文件",
+      "url": "",
+      "last_hot_value": "回复:98 查看:4691",
+      "first_seen_at": "2026-06-27T22:16:05",
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "任意形状截图与裁剪工具-矩形、圆角矩形、圆形、三角形、六边形、任意多边形",
@@ -57,9 +107,9 @@
       "last_hot_value": "回复:61 查看:1617",
       "first_seen_at": "2026-06-27T14:09:12",
       "last_seen_at": "2026-06-27T14:09:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "电脑速度优化助手V1.1",
@@ -67,9 +117,9 @@
       "last_hot_value": "回复:586 查看:25014",
       "first_seen_at": "2026-06-27T14:09:12",
       "last_seen_at": "2026-06-27T14:09:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "破解 Trae CN 加密协议",
@@ -82,14 +132,34 @@
       "is_new": false
     },
     {
+      "title": "分享一个自用的 PDF 拆分/合并小工具，简洁实用，打包后仅1.1MB左右",
+      "url": "",
+      "last_hot_value": "回复:70 查看:2111",
+      "first_seen_at": "2026-06-27T22:16:05",
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "鸿易通：HOA Harmony on Android 26.6.13.1",
       "url": "",
       "last_hot_value": "回复:77 查看:4488",
       "first_seen_at": "2026-06-26T11:19:42",
       "last_seen_at": "2026-06-27T14:09:12",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "桌面股票实时盯盘工具：StockWidget v1.2.2修改版",
+      "url": "",
+      "last_hot_value": "回复:67 查看:4155",
+      "first_seen_at": "2026-06-27T22:16:05",
+      "last_seen_at": "2026-06-27T22:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

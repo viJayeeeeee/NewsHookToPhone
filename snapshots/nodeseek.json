@@ -1,22 +1,32 @@
 {
-  "update_time": "2026-06-27T14:09:10",
+  "update_time": "2026-06-27T22:16:03",
   "items": [
     {
-      "title": "PayIncus：一个面向真实运营的开源 Incus VPS 销售与管理面板",
-      "url": "https://www.nodeseek.com/post-794525-1",
-      "last_hot_value": "查看:441 回复:14",
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:193120 回复:2675",
       "first_seen_at": "2026-06-27T14:09:10",
-      "last_seen_at": "2026-06-27T14:09:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:16:03",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NS官方邮箱系统正式版(V2)",
       "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:60753 回复:561",
+      "last_hot_value": "查看:61287 回复:563",
       "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T22:16:03",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "PayIncus：一个面向真实运营的开源 Incus VPS 销售与管理面板",
+      "url": "https://www.nodeseek.com/post-794525-1",
+      "last_hot_value": "查看:778 回复:18",
+      "first_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T22:16:03",
       "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
@@ -24,32 +34,32 @@
     {
       "title": "【开源】ForwardX：一个好看又能打的多主机端口/隧道转发管理面板",
       "url": "https://www.nodeseek.com/post-792082-1",
-      "last_hot_value": "查看:2084 回复:68",
+      "last_hot_value": "查看:2483 回复:73",
       "first_seen_at": "2026-06-27T14:09:10",
-      "last_seen_at": "2026-06-27T14:09:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:16:03",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:192864 回复:2670",
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:204005 回复:1924",
       "first_seen_at": "2026-06-27T14:09:10",
-      "last_seen_at": "2026-06-27T14:09:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:16:03",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:636421 回复:1096",
+      "last_hot_value": "查看:639305 回复:1097",
       "first_seen_at": "2026-06-27T14:09:10",
-      "last_seen_at": "2026-06-27T14:09:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T22:16:03",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[6.25 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
@@ -62,14 +72,24 @@
       "is_new": false
     },
     {
+      "title": "[6.27 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
+      "url": "https://www.nodeseek.com/post-750908-1",
+      "last_hot_value": "查看:3099 回复:94",
+      "first_seen_at": "2026-06-27T22:16:03",
+      "last_seen_at": "2026-06-27T22:16:03",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
       "url": "https://www.nodeseek.com/post-683468-1",
       "last_hot_value": "查看:30138 回复:418",
       "first_seen_at": "2026-06-27T14:09:10",
       "last_seen_at": "2026-06-27T14:09:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【一个轻量级skill】可以让AI接管你所有vps/或者搭配各种skill使用",
@@ -82,11 +102,11 @@
       "is_new": false
     },
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:203593 回复:1918",
-      "first_seen_at": "2026-06-27T14:09:10",
-      "last_seen_at": "2026-06-27T14:09:10",
+      "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
+      "url": "https://www.nodeseek.com/post-718774-1",
+      "last_hot_value": "查看:14030 回复:178",
+      "first_seen_at": "2026-06-27T22:16:03",
+      "last_seen_at": "2026-06-27T22:16:03",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -97,9 +117,29 @@
       "last_hot_value": "查看:215832 回复:486",
       "first_seen_at": "2026-06-26T11:19:41",
       "last_seen_at": "2026-06-27T14:09:10",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "[新人看一看]老鸟请直接忽略",
+      "url": "https://www.nodeseek.com/post-348342-1",
+      "last_hot_value": "查看:19537 回复:376",
+      "first_seen_at": "2026-06-26T11:19:41",
+      "last_seen_at": "2026-06-27T22:16:03",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "【开源】OpenFlare 自建 CDN, 集反代 Tunnel Pages WAF 于一身的究极缝合怪",
+      "url": "https://www.nodeseek.com/post-760916-1",
+      "last_hot_value": "查看:3315 回复:65",
+      "first_seen_at": "2026-06-27T22:16:03",
+      "last_seen_at": "2026-06-27T22:16:03",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Yanami —— 一个 Komari 安卓客户端",
@@ -107,18 +147,8 @@
       "last_hot_value": "查看:5798 回复:96",
       "first_seen_at": "2026-06-27T14:09:10",
       "last_seen_at": "2026-06-27T14:09:10",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "[新人看一看]老鸟请直接忽略",
-      "url": "https://www.nodeseek.com/post-348342-1",
-      "last_hot_value": "查看:19426 回复:374",
-      "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-26T11:19:41",
       "consecutive_count": 0,
-      "peak_rank": 10,
+      "peak_rank": 9,
       "is_new": false
     }
   ]
