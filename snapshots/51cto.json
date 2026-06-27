@@ -1,33 +1,23 @@
 {
-  "update_time": "2026-06-26T11:19:15",
+  "update_time": "2026-06-27T14:09:03",
   "items": [
     {
-      "title": "Fable 5即将复活，代码已曝光？Anthropic CEO被白宫踢出来了！",
-      "url": "https://www.51cto.com/article/847459.html",
+      "title": "Claude Code 创始人说：90% 的人把 AI 编程工具用成了聊天框",
+      "url": "https://www.51cto.com/article/847591.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-26T11:19:15",
+      "first_seen_at": "2026-06-27T14:09:03",
+      "last_seen_at": "2026-06-27T14:09:03",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
     },
     {
-      "title": "一夜之间，Claude成我同事了",
-      "url": "https://www.51cto.com/article/847272.html",
+      "title": "Fable 5即将复活，代码已曝光？Anthropic CEO被白宫踢出来了！",
+      "url": "https://www.51cto.com/article/847459.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-26T11:19:15",
+      "first_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-27T14:09:03",
       "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "字节面试官：别再直接让 AI 写代码了，去学习一下 SDD 规格驱动开发",
-      "url": "https://www.51cto.com/article/847135.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:55",
-      "last_seen_at": "2026-06-23T23:46:55",
-      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,50 +26,40 @@
       "url": "https://www.51cto.com/article/847532.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-26T11:19:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-27T14:09:03",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Claude下一代神级模型秘密出炉！Sonnet-5被曝下周上线",
-      "url": "https://www.51cto.com/article/847009.html",
+      "title": "多模态模型在自动驾驶中的应用：视觉推理与决策",
+      "url": "https://blog.51cto.com/u_17465092/14720739",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:55",
-      "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-06-27T14:09:03",
+      "last_seen_at": "2026-06-27T14:09:03",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "用 Codex 创建一个可复用的算法流程图 Skill",
       "url": "https://blog.51cto.com/u_12805695/14719018",
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-26T11:19:15",
+      "last_seen_at": "2026-06-27T14:09:03",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "设计 Agent 的反馈循环：如何让 AI 理解“再改一版”",
+      "url": "https://blog.51cto.com/chenfenglove/14720735",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-27T14:09:03",
+      "last_seen_at": "2026-06-27T14:09:03",
       "consecutive_count": 1,
-      "peak_rank": 4,
+      "peak_rank": 5,
       "is_new": true
-    },
-    {
-      "title": "女娲日记——Java开发智能体 | 女娲百宝箱：Prompt提示词工程",
-      "url": "https://blog.51cto.com/u_15599203/14713789",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "同样是DeepSeek，接入OpenWebUI之后体验直接提升一个档次",
-      "url": "https://blog.51cto.com/u_17700160/14710943",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:55",
-      "last_seen_at": "2026-06-23T23:46:55",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
     },
     {
       "title": "女娲日记——Java开发智能体 | 女娲百宝箱：大模型消息与角色机制详解",
@@ -87,29 +67,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:15",
       "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 0,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "大模型应用：AI智能体高并发实战：Redis缓存+负载均衡协同解决推理超时难题.133",
+      "url": "https://blog.51cto.com/u_16380863/14719230",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-27T14:09:03",
+      "last_seen_at": "2026-06-27T14:09:03",
       "consecutive_count": 1,
-      "peak_rank": 5,
+      "peak_rank": 6,
       "is_new": true
-    },
-    {
-      "title": "基于LangChain 实现提示词链、工具调用与多轮对话记忆系统",
-      "url": "https://blog.51cto.com/u_13859040/14713731",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "7个资深工程师的编码模式",
-      "url": "https://blog.51cto.com/u_14602932/14710928",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:55",
-      "last_seen_at": "2026-06-23T23:46:55",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
     },
     {
       "title": "在线CAD的命令行驱动与参数化绘图使用教程",
@@ -117,29 +87,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:15",
       "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 0,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "PowerShell 脚本创建",
+      "url": "https://blog.51cto.com/joyhan/14719107",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-27T14:09:03",
+      "last_seen_at": "2026-06-27T14:09:03",
       "consecutive_count": 1,
-      "peak_rank": 6,
+      "peak_rank": 7,
       "is_new": true
-    },
-    {
-      "title": "多模态 RAG 实战：让模型同时检索图片、PDF 和视频片段",
-      "url": "https://blog.51cto.com/u_17465092/14713014",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "DeepSpeed ZeRO-3 参数详解 结合4张16g显卡微调14b模型",
-      "url": "https://blog.51cto.com/u_16120231/14710379",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:55",
-      "last_seen_at": "2026-06-23T23:46:55",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
     },
     {
       "title": "CodeBuddy Craft 智能体实战：从需求文档到可运行微服务的全链路开发",
@@ -147,26 +107,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:15",
       "last_seen_at": "2026-06-26T11:19:15",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "设计稿版本对比 Agent：自动识别视觉差异",
-      "url": "https://blog.51cto.com/chenfenglove/14712991",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "Shell脚本十大经典实用运维自动化完整实战代码案例",
-      "url": "https://blog.51cto.com/u_16161880/14710359",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:55",
-      "last_seen_at": "2026-06-23T23:46:55",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -177,29 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:15",
       "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 0,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "#码上鸿蒙•智绘未来# 多语言工单页切换：ResourceManager 与页面重建边界怎么处理",
+      "url": "https://ost.51cto.com/posts/49893#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-27T14:09:03",
+      "last_seen_at": "2026-06-27T14:09:03",
       "consecutive_count": 1,
-      "peak_rank": 8,
+      "peak_rank": 9,
       "is_new": true
-    },
-    {
-      "title": "从API到生产：大模型应用的工程化实践",
-      "url": "https://blog.51cto.com/u_15266301/14711550",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "文档理解新范式：多模态模型如何彻底改变 OCR 与表格识别？",
-      "url": "https://blog.51cto.com/u_17465092/14710354",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:55",
-      "last_seen_at": "2026-06-23T23:46:55",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
     },
     {
       "title": "#码上鸿蒙•智绘未来# 从详情页确认到桌面卡片刷新：HarmonyOS 元服务状态一致性实践",
@@ -207,29 +137,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:15",
       "last_seen_at": "2026-06-26T11:19:15",
+      "consecutive_count": 0,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "#码上鸿蒙•智绘未来# Location Kit 接入门店巡检：经纬度不是签到结论，精度和距离要先过候选态",
+      "url": "https://ost.51cto.com/posts/49923#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-27T14:09:03",
+      "last_seen_at": "2026-06-27T14:09:03",
       "consecutive_count": 1,
-      "peak_rank": 9,
+      "peak_rank": 10,
       "is_new": true
-    },
-    {
-      "title": "# 码上鸿蒙•智绘未来# uni-app x 与原生鸿蒙应用深度集成：Harmony API 通信实战指南",
-      "url": "https://ost.51cto.com/posts/48962#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-24T11:29:48",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "# 码上鸿蒙•智绘未来# HarmonyOS 7.0 学习系列 21 小步练习册做提醒时我先忍住了权限弹窗",
-      "url": "https://ost.51cto.com/posts/48340#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-23T23:46:55",
-      "last_seen_at": "2026-06-23T23:46:55",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
     },
     {
       "title": "# 码上鸿蒙•智绘未来#HarmonyOS7更新亮点实录23：地图渲染管线深度解析与个性化呈现定制引擎",
@@ -237,16 +157,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-26T11:19:15",
       "last_seen_at": "2026-06-26T11:19:15",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "# 码上鸿蒙•智绘未来#轻规划鸿蒙开发实战26：桌面万能卡片（Today Widget）架构设计，Form Kit 2x2 与 2x4",
-      "url": "https://ost.51cto.com/posts/48763#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-24T11:29:48",
-      "last_seen_at": "2026-06-24T11:29:48",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

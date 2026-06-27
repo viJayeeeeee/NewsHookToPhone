@@ -1,25 +1,55 @@
 {
-  "update_time": "2026-06-26T11:19:41",
+  "update_time": "2026-06-27T14:09:10",
   "items": [
     {
-      "title": "NS官方邮箱系统正式版(V2)",
-      "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:60516 回复:561",
-      "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-26T11:19:41",
+      "title": "PayIncus：一个面向真实运营的开源 Incus VPS 销售与管理面板",
+      "url": "https://www.nodeseek.com/post-794525-1",
+      "last_hot_value": "查看:441 回复:14",
+      "first_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T14:09:10",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
     },
     {
-      "title": "[增加中文版]🔹 Node Information - 更美观的 Grafana 性能监控面板 (Prometheus + Node Exporter) & Grafana 安装教程",
-      "url": "https://www.nodeseek.com/post-209070-1",
-      "last_hot_value": "查看:22303 回复:198",
-      "first_seen_at": "2026-06-23T23:47:02",
-      "last_seen_at": "2026-06-24T11:30:08",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:60753 回复:561",
+      "first_seen_at": "2026-06-26T11:19:41",
+      "last_seen_at": "2026-06-27T14:09:10",
+      "consecutive_count": 2,
+      "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "【开源】ForwardX：一个好看又能打的多主机端口/隧道转发管理面板",
+      "url": "https://www.nodeseek.com/post-792082-1",
+      "last_hot_value": "查看:2084 回复:68",
+      "first_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T14:09:10",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:192864 回复:2670",
+      "first_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T14:09:10",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:636421 回复:1096",
+      "first_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T14:09:10",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "[6.25 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
@@ -27,19 +57,19 @@
       "last_hot_value": "查看:2820 回复:84",
       "first_seen_at": "2026-06-26T11:19:41",
       "last_seen_at": "2026-06-26T11:19:41",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
-      "url": "https://www.nodeseek.com/post-788832-1",
-      "last_hot_value": "查看:2280 回复:79",
-      "first_seen_at": "2026-06-23T23:47:02",
-      "last_seen_at": "2026-06-24T11:30:08",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
+      "url": "https://www.nodeseek.com/post-683468-1",
+      "last_hot_value": "查看:30138 回复:418",
+      "first_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T14:09:10",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【一个轻量级skill】可以让AI接管你所有vps/或者搭配各种skill使用",
@@ -47,39 +77,39 @@
       "last_hot_value": "查看:1766 回复:57",
       "first_seen_at": "2026-06-26T11:19:41",
       "last_seen_at": "2026-06-26T11:19:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
-      "url": "https://www.nodeseek.com/post-373751-1",
-      "last_hot_value": "查看:214162 回复:484",
-      "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-26T11:19:41",
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:203593 回复:1918",
+      "first_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T14:09:10",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
     },
     {
-      "title": "【知识】简单教你鉴别假CN2GIA",
-      "url": "https://www.nodeseek.com/post-754155-1",
-      "last_hot_value": "查看:16248 回复:188",
-      "first_seen_at": "2026-06-23T23:47:02",
-      "last_seen_at": "2026-06-24T11:30:08",
-      "consecutive_count": 0,
-      "peak_rank": 8,
+      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
+      "url": "https://www.nodeseek.com/post-373751-1",
+      "last_hot_value": "查看:215832 回复:486",
+      "first_seen_at": "2026-06-26T11:19:41",
+      "last_seen_at": "2026-06-27T14:09:10",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:82994 回复:747",
-      "first_seen_at": "2026-06-23T23:47:02",
-      "last_seen_at": "2026-06-26T11:19:41",
-      "consecutive_count": 3,
+      "title": "Yanami —— 一个 Komari 安卓客户端",
+      "url": "https://www.nodeseek.com/post-640534-1",
+      "last_hot_value": "查看:5798 回复:96",
+      "first_seen_at": "2026-06-27T14:09:10",
+      "last_seen_at": "2026-06-27T14:09:10",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "[新人看一看]老鸟请直接忽略",
@@ -87,9 +117,9 @@
       "last_hot_value": "查看:19426 回复:374",
       "first_seen_at": "2026-06-26T11:19:41",
       "last_seen_at": "2026-06-26T11:19:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

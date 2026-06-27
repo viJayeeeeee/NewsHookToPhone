@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-06-26T11:19:13",
+  "update_time": "2026-06-27T14:09:02",
   "items": [
+    {
+      "title": "高考志愿填报，能不能交给一台「智能体设备」？看看它的价值与边界",
+      "url": "https://blog.csdn.net/JHXL_/article/details/162282272",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-06-26T11:19:13",
+      "last_seen_at": "2026-06-27T14:09:02",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "数据挖掘-关联分析、聚类分析与分类",
       "url": "https://blog.csdn.net/DrLuffy/article/details/162311835",
       "last_hot_value": "2.7w",
       "first_seen_at": "2026-06-26T11:19:13",
       "last_seen_at": "2026-06-26T11:19:13",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【MySQL 筑基篇】从零掌握 CRUD 核心操作：详解增删改查、聚合过滤与实战避坑指南",
+      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/162259007",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-06-27T14:09:02",
+      "last_seen_at": "2026-06-27T14:09:02",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,48 +37,38 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-06-26T11:19:13",
       "last_seen_at": "2026-06-26T11:19:13",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "高考志愿填报，能不能交给一台「智能体设备」？看看它的价值与边界",
-      "url": "https://blog.csdn.net/JHXL_/article/details/162282272",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-06-26T11:19:13",
-      "last_seen_at": "2026-06-26T11:19:13",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "21 天烧 37TB，OpenAI 一年不修——Codex 日志 Bug 背后的 AI 工具信任危机深度解读",
-      "url": "https://blog.csdn.net/interpromotion/article/details/162209273",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-06-23T23:46:53",
-      "last_seen_at": "2026-06-24T11:29:46",
       "consecutive_count": 0,
-      "peak_rank": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "《如何通过Ansible解决：多节点人工采集Node Exporter采集Linux主机的CPU、内存、磁盘和网络指标自动化》",
       "url": "https://blog.csdn.net/Dovis5884/article/details/162334133",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-06-26T11:19:13",
-      "last_seen_at": "2026-06-26T11:19:13",
+      "last_seen_at": "2026-06-27T14:09:02",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "数据库视图和MyBatis XML到底怎么选？一个真实项目的对比",
+      "url": "https://blog.csdn.net/2401_87961121/article/details/162280290",
+      "last_hot_value": "9061",
+      "first_seen_at": "2026-06-27T14:09:02",
+      "last_seen_at": "2026-06-27T14:09:02",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
     },
     {
-      "title": "Vue3 + SpringBoot3 全栈学习路线 2026：从 0 到企业级项目实战清单",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/162260529",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-06-24T11:29:46",
-      "last_seen_at": "2026-06-24T11:29:46",
-      "consecutive_count": 0,
-      "peak_rank": 4,
+      "title": "【LangChain-AI】：宏观认知",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/162333983",
+      "last_hot_value": "8901",
+      "first_seen_at": "2026-06-26T11:19:13",
+      "last_seen_at": "2026-06-27T14:09:02",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -67,19 +77,19 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-26T11:19:13",
       "last_seen_at": "2026-06-26T11:19:13",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "2026年文档解析工具横测：xParse、PaddleOCR、MinerU 三层标准深度对比",
-      "url": "https://blog.csdn.net/m0_63947499/article/details/162230299",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-23T23:46:53",
-      "last_seen_at": "2026-06-24T11:29:46",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "OpenClaw Docker 部署：从开发到生产的容器化实战",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162362583",
+      "last_hot_value": "8867",
+      "first_seen_at": "2026-06-27T14:09:02",
+      "last_seen_at": "2026-06-27T14:09:02",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "【Linux网络】深入理解网络层协议：IP（一）—— 互联网的基石",
@@ -87,19 +97,19 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-26T11:19:13",
       "last_seen_at": "2026-06-26T11:19:13",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "Codex 史诗级bug在后台疯狂写盘，我的 SSD 差点被它磨穿",
-      "url": "https://blog.csdn.net/chen695969/article/details/162230776",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-06-24T11:29:46",
-      "last_seen_at": "2026-06-24T11:29:46",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "视觉Transformer实战 | Pyramid Vision Transformer（PVT）详解与实现",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161871208",
+      "last_hot_value": "8845",
+      "first_seen_at": "2026-06-27T14:09:02",
+      "last_seen_at": "2026-06-27T14:09:02",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【同济线性代数第五版】第三章 矩阵的初版变换与线性方程组",
@@ -107,29 +117,19 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-06-26T11:19:13",
       "last_seen_at": "2026-06-26T11:19:13",
+      "consecutive_count": 0,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "出海 KOL 筛选：用 Bright Data 批量采集 Instagram + TikTok 网红数据",
+      "url": "https://blog.csdn.net/m0_63947499/article/details/162348205",
+      "last_hot_value": "8822",
+      "first_seen_at": "2026-06-27T14:09:02",
+      "last_seen_at": "2026-06-27T14:09:02",
       "consecutive_count": 1,
-      "peak_rank": 7,
+      "peak_rank": 8,
       "is_new": true
-    },
-    {
-      "title": "Vibe Coding 实战：30分钟打造你的专属具身智能数字人",
-      "url": "https://blog.csdn.net/user340/article/details/162243550",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-06-24T11:29:46",
-      "last_seen_at": "2026-06-24T11:29:46",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "新一代 AI Agent 架构：PDA 记忆反思闭环落地指南",
-      "url": "https://blog.csdn.net/2602_94956987/article/details/162205208",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-23T23:46:53",
-      "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
     },
     {
       "title": "从一个传文件的破需求,到一个能挂公网的“瞬传“:我用 WorkBuddy 把它从 HTML 一路做到了 Java",
@@ -137,57 +137,27 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-26T11:19:13",
       "last_seen_at": "2026-06-26T11:19:13",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "《 Agent 的大脑：长短期记忆架构设计——从 RAG 到 Memory Graph 的工程演进》",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/162259667",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-06-24T11:29:46",
-      "last_seen_at": "2026-06-24T11:29:46",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "【LangChain-AI】：宏观认知",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/162333983",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-26T11:19:13",
-      "last_seen_at": "2026-06-26T11:19:13",
+      "title": "WorkBuddy 上手实战：打造一个可用的本地 AI 工作台",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/162316523",
+      "last_hot_value": "8728",
+      "first_seen_at": "2026-06-27T14:09:02",
+      "last_seen_at": "2026-06-27T14:09:02",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
-    },
-    {
-      "title": "【HarmonyOS 6.0】MDM Kit：面向PC/2in1设备的重启自动解锁能力解析",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/161962304",
-      "last_hot_value": "8538",
-      "first_seen_at": "2026-06-23T23:46:53",
-      "last_seen_at": "2026-06-23T23:46:53",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
     },
     {
       "title": "【AI智能体】飞书 AI 智能客服机器人搭建与使用实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/161460618",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "8728",
       "first_seen_at": "2026-06-26T11:19:13",
-      "last_seen_at": "2026-06-26T11:19:13",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "全栈项目如何临时分享？Vue、Spring Boot与cpolar公网访问实践",
-      "url": "https://blog.csdn.net/2501_91062530/article/details/162259690",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-24T11:29:46",
-      "last_seen_at": "2026-06-24T11:29:46",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-27T14:09:02",
+      "consecutive_count": 2,
       "peak_rank": 10,
       "is_new": false
     }
