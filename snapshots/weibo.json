@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-28T15:36:30",
+  "update_time": "2026-06-28T16:44:51",
   "items": [
+    {
+      "title": "四川宜宾地震",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%23",
+      "last_hot_value": "34680645",
+      "first_seen_at": "2026-06-28T16:44:51",
+      "last_seen_at": "2026-06-28T16:44:51",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "女子被骗500万丈夫自杀骗子获刑",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AA%97500%E4%B8%87%E4%B8%88%E5%A4%AB%E8%87%AA%E6%9D%80%E9%AA%97%E5%AD%90%E8%8E%B7%E5%88%91%23",
       "last_hot_value": "1103377",
       "first_seen_at": "2026-06-28T15:36:30",
       "last_seen_at": "2026-06-28T15:36:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "国乒男单资格赛全军覆没",
@@ -42,14 +52,24 @@
       "is_new": false
     },
     {
-      "title": "伊朗队队长怒斥国际足联",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23",
-      "last_hot_value": "802354",
-      "first_seen_at": "2026-06-28T15:36:30",
-      "last_seen_at": "2026-06-28T15:36:30",
+      "title": "成都震感",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23",
+      "last_hot_value": "5082395",
+      "first_seen_at": "2026-06-28T16:44:51",
+      "last_seen_at": "2026-06-28T16:44:51",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "伊朗队队长怒斥国际足联",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23",
+      "last_hot_value": "388920",
+      "first_seen_at": "2026-06-28T15:36:30",
+      "last_seen_at": "2026-06-28T16:44:51",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "立陶宛为挑衅中国付出代价",
@@ -84,12 +104,12 @@
     {
       "title": "国产高性能碳纤维再迎产能重大突破",
       "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E9%AB%98%E6%80%A7%E8%83%BD%E7%A2%B3%E7%BA%A4%E7%BB%B4%E5%86%8D%E8%BF%8E%E4%BA%A7%E8%83%BD%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23",
-      "last_hot_value": "710625",
+      "last_hot_value": "1765652",
       "first_seen_at": "2026-06-28T15:36:30",
-      "last_seen_at": "2026-06-28T15:36:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-28T16:44:51",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "多领域亮眼成果筑牢经济增长底气",
@@ -122,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "白玉兰下沉市场",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA%23",
+      "last_hot_value": "775684",
+      "first_seen_at": "2026-06-28T16:44:51",
+      "last_seen_at": "2026-06-28T16:44:51",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "江苏一小区发生亡人事件",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E4%BA%A1%E4%BA%BA%E4%BA%8B%E4%BB%B6%23",
       "last_hot_value": "691813",
       "first_seen_at": "2026-06-28T15:36:30",
       "last_seen_at": "2026-06-28T15:36:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "豆包和DeepSeek的博弈",
@@ -162,14 +192,24 @@
       "is_new": false
     },
     {
-      "title": "原来衣着打扮会影响对自己的感知",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A1%A3%E7%9D%80%E6%89%93%E6%89%AE%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E6%84%9F%E7%9F%A5%23",
-      "last_hot_value": "626785",
-      "first_seen_at": "2026-06-28T15:36:30",
-      "last_seen_at": "2026-06-28T15:36:30",
+      "title": "白桃星座一周运势",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%E4%B8%80%E5%91%A8%E8%BF%90%E5%8A%BF%23",
+      "last_hot_value": "552683",
+      "first_seen_at": "2026-06-28T16:44:51",
+      "last_seen_at": "2026-06-28T16:44:51",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
+    },
+    {
+      "title": "原来衣着打扮会影响对自己的感知",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A1%A3%E7%9D%80%E6%89%93%E6%89%AE%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E6%84%9F%E7%9F%A5%23",
+      "last_hot_value": "509165",
+      "first_seen_at": "2026-06-28T15:36:30",
+      "last_seen_at": "2026-06-28T16:44:51",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "抖音通报网红诋毁袁隆平",
@@ -207,9 +247,9 @@
       "last_hot_value": "547857",
       "first_seen_at": "2026-06-28T15:36:30",
       "last_seen_at": "2026-06-28T15:36:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "穿和搭一分开就这样",
@@ -242,14 +282,24 @@
       "is_new": false
     },
     {
+      "title": "艾米人生第一次看演唱会",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%B1%B3%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23",
+      "last_hot_value": "446649",
+      "first_seen_at": "2026-06-28T16:44:51",
+      "last_seen_at": "2026-06-28T16:44:51",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "3000块街舞课狗狗学了2900",
       "url": "https://s.weibo.com/weibo?q=%233000%E5%9D%97%E8%A1%97%E8%88%9E%E8%AF%BE%E7%8B%97%E7%8B%97%E5%AD%A6%E4%BA%862900%23",
       "last_hot_value": "459255",
       "first_seen_at": "2026-06-28T15:36:30",
       "last_seen_at": "2026-06-28T15:36:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "九尾感谢李九和北笙老师的鞭策",
@@ -282,14 +332,24 @@
       "is_new": false
     },
     {
+      "title": "立陶宛生变",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%94%9F%E5%8F%98%23",
+      "last_hot_value": "389905",
+      "first_seen_at": "2026-06-28T16:44:51",
+      "last_seen_at": "2026-06-28T16:44:51",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "女子被骗500万丈夫自杀身亡",
       "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%AA%97500%E4%B8%87%E4%B8%88%E5%A4%AB%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1%23",
       "last_hot_value": "432222",
       "first_seen_at": "2026-06-28T15:36:30",
       "last_seen_at": "2026-06-28T15:36:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "韩国队回国没有接机",
@@ -327,9 +387,9 @@
       "last_hot_value": "329842",
       "first_seen_at": "2026-06-28T15:36:30",
       "last_seen_at": "2026-06-28T15:36:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "真正厉害的都是长期主义",
@@ -362,14 +422,24 @@
       "is_new": false
     },
     {
+      "title": "加纳巫师预测佛得角淘汰阿根廷",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E5%B7%AB%E5%B8%88%E9%A2%84%E6%B5%8B%E4%BD%9B%E5%BE%97%E8%A7%92%E6%B7%98%E6%B1%B0%E9%98%BF%E6%A0%B9%E5%BB%B7%23",
+      "last_hot_value": "378472",
+      "first_seen_at": "2026-06-28T16:44:51",
+      "last_seen_at": "2026-06-28T16:44:51",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "周杰伦北京演唱会中餐厅团建",
       "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E9%A4%90%E5%8E%85%E5%9B%A2%E5%BB%BA%23",
       "last_hot_value": "307464",
       "first_seen_at": "2026-06-28T15:36:30",
       "last_seen_at": "2026-06-28T15:36:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "世界杯32强全名单",
