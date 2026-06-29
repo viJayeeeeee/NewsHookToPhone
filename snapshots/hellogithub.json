@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-29T20:58:27",
+  "update_time": "2026-06-29T22:06:19",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "402",
+      "last_hot_value": "403",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://github.com/ggbond268/MacTools",
       "last_hot_value": "214",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
       "last_hot_value": "123",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -66,8 +66,8 @@
       "url": "https://github.com/luanti-org/luanti",
       "last_hot_value": "180",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://github.com/V-IOLE-T/tab-harbor",
       "last_hot_value": "251",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -96,8 +96,8 @@
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "last_hot_value": "175",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -116,8 +116,8 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "last_hot_value": "229",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -146,8 +146,8 @@
       "url": "https://github.com/snownico0722/PaperTodo",
       "last_hot_value": "331",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -156,10 +156,10 @@
       "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
       "last_hot_value": "88",
       "first_seen_at": "2026-06-29T20:58:27",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "更好看的 Windows 媒体控制弹窗",
@@ -196,10 +196,10 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "last_hot_value": "150",
       "first_seen_at": "2026-06-29T20:58:27",
-      "last_seen_at": "2026-06-29T20:58:27",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T22:06:19",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "开箱即用的中国古诗词 API 服务",

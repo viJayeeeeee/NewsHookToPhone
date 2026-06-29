@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-29T20:58:20",
+  "update_time": "2026-06-29T22:06:12",
   "items": [
     {
       "title": "OpenClaw Docker 部署：从开发到生产的容器化实战",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/162362583",
       "last_hot_value": "3.4w",
       "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/157907236",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://blog.csdn.net/u014390502/article/details/162362859",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -54,10 +54,10 @@
     {
       "title": "【AI】向量数据库的原理与选型详解",
       "url": "https://blog.csdn.net/weixin_62043600/article/details/162397873",
-      "last_hot_value": "8916",
+      "last_hot_value": "8821",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -66,10 +66,10 @@
       "url": "https://blog.csdn.net/Z2314246476/article/details/162129975",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-06-29T20:58:20",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "WorkBuddy 上手实战：打造一个可用的本地 AI 工作台",
@@ -94,10 +94,10 @@
     {
       "title": "硬核攻坚：西门子 840D sl 激光对刀 10 组 GUD 全局变量配置与全流程调试指南",
       "url": "https://blog.csdn.net/msdzzh/article/details/162348081",
-      "last_hot_value": "7462",
+      "last_hot_value": "7428",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -106,18 +106,18 @@
       "url": "https://blog.csdn.net/he_zhidan/article/details/162000803",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "Dataify 静态 ISP 独享代理高并发实测",
       "url": "https://blog.csdn.net/m0_63947499/article/details/162390390",
-      "last_hot_value": "7482",
+      "last_hot_value": "7447",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -134,12 +134,12 @@
     {
       "title": "CsvHelper：3个技巧，5倍性能，为什么你的CSV处理还在用传统方法？",
       "url": "https://blog.csdn.net/z_344791576/article/details/151895967",
-      "last_hot_value": "7523",
+      "last_hot_value": "7476",
       "first_seen_at": "2026-06-29T20:58:20",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【LE Audio】CSIP精讲[2]：蓝牙协同集的配置骨架与组网规则",
@@ -182,6 +182,16 @@
       "is_new": false
     },
     {
+      "title": "【AI智能体】Cursor 全能AI编程助手从部署到实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161807979",
+      "last_hot_value": "7438",
+      "first_seen_at": "2026-06-29T17:27:08",
+      "last_seen_at": "2026-06-29T22:06:12",
+      "consecutive_count": 3,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "社交媒体舆情监控实战：基于 Bright Data AI Studio 的比亚迪品牌口碑追踪方案",
       "url": "https://blog.csdn.net/m0_64336780/article/details/162265313",
       "last_hot_value": "8143",
@@ -189,16 +199,6 @@
       "last_seen_at": "2026-06-27T22:15:54",
       "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】Cursor 全能AI编程助手从部署到实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161807979",
-      "last_hot_value": "7369",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T20:58:20",
-      "consecutive_count": 2,
-      "peak_rank": 10,
       "is_new": false
     }
   ]
