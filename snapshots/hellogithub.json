@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-29T22:06:19",
+  "update_time": "2026-06-29T23:11:00",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "403",
+      "last_hot_value": "405",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,10 +24,10 @@
     {
       "title": "住在菜单栏里的 macOS 工具集合",
       "url": "https://github.com/ggbond268/MacTools",
-      "last_hot_value": "214",
+      "last_hot_value": "215",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -44,10 +44,10 @@
     {
       "title": "极简的 Android 课程表",
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
-      "last_hot_value": "123",
+      "last_hot_value": "124",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -64,10 +64,10 @@
     {
       "title": "开源体素游戏创作平台",
       "url": "https://github.com/luanti-org/luanti",
-      "last_hot_value": "180",
+      "last_hot_value": "182",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -84,20 +84,20 @@
     {
       "title": "安静的新标签页工作台",
       "url": "https://github.com/V-IOLE-T/tab-harbor",
-      "last_hot_value": "251",
+      "last_hot_value": "252",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "从零开始训练大语言模型",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "last_hot_value": "175",
+      "last_hot_value": "178",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -114,10 +114,10 @@
     {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "229",
+      "last_hot_value": "232",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -144,20 +144,20 @@
     {
       "title": "极简的 Windows 桌面便签工具",
       "url": "https://github.com/snownico0722/PaperTodo",
-      "last_hot_value": "331",
+      "last_hot_value": "332",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "超低延迟的离线语音输入工具",
       "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
-      "last_hot_value": "88",
+      "last_hot_value": "92",
       "first_seen_at": "2026-06-29T20:58:27",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -194,10 +194,10 @@
     {
       "title": "让 AI 编程助手少写代码",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "last_hot_value": "150",
+      "last_hot_value": "153",
       "first_seen_at": "2026-06-29T20:58:27",
-      "last_seen_at": "2026-06-29T22:06:19",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T23:11:00",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },

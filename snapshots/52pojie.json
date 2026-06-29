@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-06-29T22:06:21",
+  "update_time": "2026-06-29T23:11:03",
   "items": [
+    {
+      "title": "TTS语音合成器 v1.0 2026.6.29",
+      "url": "",
+      "last_hot_value": "回复:36 查看:980",
+      "first_seen_at": "2026-06-29T23:11:03",
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "抖音无水印下载 抖印v1.1.0",
       "url": "",
       "last_hot_value": "回复:276 查看:9641",
       "first_seen_at": "2026-06-29T22:06:21",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "经典本地影音播放器MPC-BE.1.9.0",
       "url": "",
       "last_hot_value": "回复:75 查看:2841",
       "first_seen_at": "2026-06-29T20:58:30",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,8 +37,18 @@
       "last_hot_value": "回复:177 查看:5067",
       "first_seen_at": "2026-06-29T17:27:18",
       "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "千问输入法 CosyVoice v1.1.0",
+      "url": "",
+      "last_hot_value": "回复:163 查看:6778",
+      "first_seen_at": "2026-06-27T22:16:05",
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -36,8 +56,8 @@
       "url": "",
       "last_hot_value": "回复:109 查看:5338",
       "first_seen_at": "2026-06-29T17:27:18",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -46,8 +66,8 @@
       "url": "",
       "last_hot_value": "回复:327 查看:10099",
       "first_seen_at": "2026-06-29T20:58:30",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,8 +96,8 @@
       "url": "",
       "last_hot_value": "回复:696 查看:15661",
       "first_seen_at": "2026-06-27T22:16:05",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -96,8 +116,8 @@
       "url": "",
       "last_hot_value": "回复:236 查看:12538",
       "first_seen_at": "2026-06-29T20:58:30",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -109,16 +129,6 @@
       "last_seen_at": "2026-06-29T17:27:18",
       "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "千问输入法 CosyVoice v1.1.0",
-      "url": "",
-      "last_hot_value": "回复:162 查看:6755",
-      "first_seen_at": "2026-06-27T22:16:05",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 2,
-      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -136,8 +146,8 @@
       "url": "",
       "last_hot_value": "回复:244 查看:8060",
       "first_seen_at": "2026-06-29T20:58:30",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -146,8 +156,8 @@
       "url": "",
       "last_hot_value": "回复:122 查看:4581",
       "first_seen_at": "2026-06-27T22:16:05",
-      "last_seen_at": "2026-06-29T22:06:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T23:11:03",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
