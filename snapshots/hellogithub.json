@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-06-29T17:27:15",
+  "update_time": "2026-06-29T20:58:27",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "393",
+      "last_hot_value": "402",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "轻量级跨平台数据库桌面客户端",
@@ -24,12 +24,12 @@
     {
       "title": "住在菜单栏里的 macOS 工具集合",
       "url": "https://github.com/ggbond268/MacTools",
-      "last_hot_value": "208",
+      "last_hot_value": "214",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从零开始学习 AI 工程",
@@ -44,12 +44,12 @@
     {
       "title": "极简的 Android 课程表",
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
-      "last_hot_value": "118",
+      "last_hot_value": "123",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "帮你找到本地能跑的最佳大模型",
@@ -64,12 +64,12 @@
     {
       "title": "开源体素游戏创作平台",
       "url": "https://github.com/luanti-org/luanti",
-      "last_hot_value": "174",
+      "last_hot_value": "180",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你的专属 AI 新闻雷达工具",
@@ -84,12 +84,22 @@
     {
       "title": "安静的新标签页工作台",
       "url": "https://github.com/V-IOLE-T/tab-harbor",
-      "last_hot_value": "247",
+      "last_hot_value": "251",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "从零开始训练大语言模型",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "last_hot_value": "175",
+      "first_seen_at": "2026-06-29T17:27:15",
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "让 AI 编程工具告别瞎写的技能包",
@@ -104,12 +114,12 @@
     {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "225",
+      "last_hot_value": "229",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "快速上手 Claude Code 的教程",
@@ -120,16 +130,6 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
-    },
-    {
-      "title": "从零开始训练大语言模型",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "last_hot_value": "167",
-      "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
     },
     {
       "title": "用 AI 将文档转换为可编辑的 PPT",
@@ -144,9 +144,19 @@
     {
       "title": "极简的 Windows 桌面便签工具",
       "url": "https://github.com/snownico0722/PaperTodo",
-      "last_hot_value": "328",
+      "last_hot_value": "331",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "超低延迟的离线语音输入工具",
+      "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
+      "last_hot_value": "88",
+      "first_seen_at": "2026-06-29T20:58:27",
+      "last_seen_at": "2026-06-29T20:58:27",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -167,9 +177,9 @@
       "last_hot_value": "125",
       "first_seen_at": "2026-06-29T17:27:15",
       "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "把代码变成打字游戏的工具",
@@ -182,14 +192,24 @@
       "is_new": false
     },
     {
+      "title": "让 AI 编程助手少写代码",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "last_hot_value": "150",
+      "first_seen_at": "2026-06-29T20:58:27",
+      "last_seen_at": "2026-06-29T20:58:27",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "开箱即用的中国古诗词 API 服务",
       "url": "https://github.com/palemoky/chinese-poetry-api",
       "last_hot_value": "233",
       "first_seen_at": "2026-06-29T17:27:15",
       "last_seen_at": "2026-06-29T17:27:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "免费开源的磁盘清理工具",

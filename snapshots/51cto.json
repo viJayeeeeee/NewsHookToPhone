@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-06-29T17:27:09",
+  "update_time": "2026-06-29T20:58:21",
   "items": [
+    {
+      "title": "「开源Claude时刻」，智谱GLM5.2与Mythos被放在一起了",
+      "url": "https://www.51cto.com/article/847803.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-29T20:58:21",
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "怎么用Deepagent实现一个Harness智能体？",
       "url": "https://www.51cto.com/article/847293.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Claude Code 创始人说：90% 的人把 AI 编程工具用成了聊天框",
@@ -26,10 +36,10 @@
       "url": "https://ost.51cto.com/posts/50218#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "鸿蒙 React Native 调用小艺智能体：Agent Framework Kit 桥接实践",
@@ -37,19 +47,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
       "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "粒子思维：基于随机动力系统的连续语言模型",
       "url": "https://blog.51cto.com/u_15177056/14725199",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大模型应用：大模型业务落地规避低效陷阱：直击5大高频误区深度拆解与整改指南.134",
@@ -76,10 +86,10 @@
       "url": "https://blog.51cto.com/willmiao/14725150",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "设计 Agent 的反馈循环：如何让 AI 理解“再改一版”",
@@ -96,10 +106,10 @@
       "url": "https://blog.51cto.com/u_15686031/14724810",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大模型应用：AI智能体高并发实战：Redis缓存+负载均衡协同解决推理超时难题.133",
@@ -116,10 +126,10 @@
       "url": "https://blog.51cto.com/u_16380863/14724787",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "PowerShell 脚本创建",
@@ -136,9 +146,19 @@
       "url": "https://blog.51cto.com/u_11780953/14724703",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 2,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "【Jack实战】如何按时间、地点快速分类图片让APP快速导入",
+      "url": "https://ost.51cto.com/posts/50462#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-29T20:58:21",
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -147,9 +167,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
       "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "#码上鸿蒙•智绘未来# 多语言工单页切换：ResourceManager 与页面重建边界怎么处理",
@@ -160,6 +180,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "如何让大模型“吐字”更快？解析DeepSeek最新推理加速方案DSpark",
+      "url": "https://www.51cto.com/article/847733.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-29T20:58:21",
+      "last_seen_at": "2026-06-29T20:58:21",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "#码上鸿蒙•智绘未来# Location Kit 接入门店巡检：经纬度不是签到结论，精度和距离要先过候选态",
