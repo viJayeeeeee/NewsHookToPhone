@@ -1,75 +1,35 @@
 {
-  "update_time": "2026-06-27T22:15:59",
+  "update_time": "2026-06-29T17:27:12",
   "items": [
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
       "url": "https://sspai.com/post/111562",
-      "last_hot_value": "评论:2 点赞:15",
+      "last_hot_value": "评论:6 点赞:20",
       "first_seen_at": "2026-06-27T14:09:06",
-      "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "新玩意 245｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/111518",
-      "last_hot_value": "评论:34 点赞:41",
-      "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T22:15:59",
+      "last_seen_at": "2026-06-29T17:27:12",
       "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
-      "url": "https://sspai.com/post/111421",
-      "last_hot_value": "评论:25 点赞:39",
-      "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
-      "url": "https://sspai.com/post/111483",
-      "last_hot_value": "评论:10 点赞:22",
-      "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验",
-      "url": "https://sspai.com/post/111289",
-      "last_hot_value": "评论:9 点赞:18",
-      "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "从观众到志愿者：加入 TEDxShenzhen 需要做些什么？",
-      "url": "https://sspai.com/post/111428",
-      "last_hot_value": "评论:1 点赞:32",
-      "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 3,
+      "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
+      "url": "https://sspai.com/post/111347",
+      "last_hot_value": "评论:6 点赞:28",
+      "first_seen_at": "2026-06-29T17:27:12",
+      "last_seen_at": "2026-06-29T17:27:12",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
       "url": "https://sspai.com/post/111410",
       "last_hot_value": "评论:7 点赞:14",
       "first_seen_at": "2026-06-27T22:15:59",
-      "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T17:27:12",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "台前调度救不了我，所以我做了个 Dock——钨极 Tungsten Edge",
@@ -82,14 +42,24 @@
       "is_new": false
     },
     {
+      "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
+      "url": "https://sspai.com/post/111349",
+      "last_hot_value": "评论:10 点赞:36",
+      "first_seen_at": "2026-06-27T22:15:59",
+      "last_seen_at": "2026-06-29T17:27:12",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "派评 | 近期值得关注的 App",
       "url": "https://sspai.com/post/111360",
       "last_hot_value": "评论:25 点赞:15",
       "first_seen_at": "2026-06-27T22:15:59",
-      "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T17:27:12",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源",
@@ -97,38 +67,8 @@
       "last_hot_value": "评论:26 点赞:68",
       "first_seen_at": "2026-06-27T22:15:59",
       "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
-      "url": "https://sspai.com/post/111223",
-      "last_hot_value": "评论:9 点赞:37",
-      "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-26T11:19:17",
       "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
-      "url": "https://sspai.com/post/111349",
-      "last_hot_value": "评论:7 点赞:30",
-      "first_seen_at": "2026-06-27T22:15:59",
-      "last_seen_at": "2026-06-27T22:15:59",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "在格鲁吉亚的大地上：徒步篇",
-      "url": "https://sspai.com/post/111369",
-      "last_hot_value": "评论:1 点赞:1",
-      "first_seen_at": "2026-06-26T11:19:17",
-      "last_seen_at": "2026-06-26T11:19:17",
-      "consecutive_count": 0,
-      "peak_rank": 10,
       "is_new": false
     }
   ]

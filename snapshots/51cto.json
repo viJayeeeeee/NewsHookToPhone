@@ -1,35 +1,55 @@
 {
-  "update_time": "2026-06-27T22:15:56",
+  "update_time": "2026-06-29T17:27:09",
   "items": [
+    {
+      "title": "怎么用Deepagent实现一个Harness智能体？",
+      "url": "https://www.51cto.com/article/847293.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "Claude Code 创始人说：90% 的人把 AI 编程工具用成了聊天框",
       "url": "https://www.51cto.com/article/847591.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:03",
       "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "Fable 5即将复活，代码已曝光？Anthropic CEO被白宫踢出来了！",
-      "url": "https://www.51cto.com/article/847459.html",
+      "title": "【Jack实战】如何让《时光旅记》适配华为数据克隆迁移",
+      "url": "https://ost.51cto.com/posts/50218#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "AI智能体拥有独立身份，企业该如何做好安全管控",
-      "url": "https://www.51cto.com/article/847532.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "鸿蒙 React Native 调用小艺智能体：Agent Framework Kit 桥接实践",
+      "url": "https://ost.51cto.com/posts/50216#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "粒子思维：基于随机动力系统的连续语言模型",
+      "url": "https://blog.51cto.com/u_15177056/14725199",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "大模型应用：大模型业务落地规避低效陷阱：直击5大高频误区深度拆解与整改指南.134",
@@ -37,9 +57,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T22:15:56",
       "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "多模态模型在自动驾驶中的应用：视觉推理与决策",
@@ -47,19 +67,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:03",
       "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "用 Codex 创建一个可复用的算法流程图 Skill",
-      "url": "https://blog.51cto.com/u_12805695/14719018",
+      "title": "世界杯进行中，用 Access 做一张赛后分析页",
+      "url": "https://blog.51cto.com/willmiao/14725150",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-27T14:09:03",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "设计 Agent 的反馈循环：如何让 AI 理解“再改一版”",
@@ -67,19 +87,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:03",
       "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "女娲日记——Java开发智能体 | 女娲百宝箱：大模型消息与角色机制详解",
-      "url": "https://blog.51cto.com/u_15599203/14718918",
+      "title": "通过引入大模型来处理图片文件",
+      "url": "https://blog.51cto.com/u_15686031/14724810",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-26T11:19:15",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "大模型应用：AI智能体高并发实战：Redis缓存+负载均衡协同解决推理超时难题.133",
@@ -87,19 +107,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:03",
       "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "在线CAD的命令行驱动与参数化绘图使用教程",
-      "url": "https://blog.51cto.com/u_10455293/14718891",
+      "title": "智能体构建：基于SKILL的AI智能体构建：模块化能力编排+实时交互系统全实现.136",
+      "url": "https://blog.51cto.com/u_16380863/14724787",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-26T11:19:15",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "PowerShell 脚本创建",
@@ -107,39 +127,29 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:03",
       "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 2,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "CodeBuddy Craft 智能体实战：从需求文档到可运行微服务的全链路开发",
-      "url": "https://blog.51cto.com/dickeryang/14718880",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-26T11:19:15",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "设计 Agent 的视觉理解模块：CLIP 与扩散模型的应用 引言 设计 Agent 的核心能力是“理解”视觉内容——不仅仅是识别图片里有什么物体，更要理解构图、风格、色彩搭配、情感基调等设计层面",
-      "url": "https://blog.51cto.com/chenfenglove/14718423",
+      "title": "10 倍速接口测试：Claude + Skills 自动生成 Postman 集合，文档进去脚本出来",
+      "url": "https://blog.51cto.com/u_11780953/14724703",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-26T11:19:15",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "#码上鸿蒙•智绘未来# 从详情页确认到桌面卡片刷新：HarmonyOS 元服务状态一致性实践",
-      "url": "https://ost.51cto.com/posts/49667#24read",
+      "title": "# 码上鸿蒙•智绘未来#HarmonyOS7更新亮点实录37：基于 C API 的文件加速前置扫描可用性查询机制",
+      "url": "https://ost.51cto.com/posts/50121#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-27T22:15:56",
+      "first_seen_at": "2026-06-29T17:27:09",
+      "last_seen_at": "2026-06-29T17:27:09",
       "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "#码上鸿蒙•智绘未来# 多语言工单页切换：ResourceManager 与页面重建边界怎么处理",
@@ -147,7 +157,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:03",
       "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -157,16 +167,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T14:09:03",
       "last_seen_at": "2026-06-27T14:09:03",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "# 码上鸿蒙•智绘未来#HarmonyOS7更新亮点实录23：地图渲染管线深度解析与个性化呈现定制引擎",
-      "url": "https://ost.51cto.com/posts/49331#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-26T11:19:15",
-      "last_seen_at": "2026-06-26T11:19:15",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

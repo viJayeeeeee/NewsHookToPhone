@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-06-27T22:16:03",
+  "update_time": "2026-06-29T17:27:17",
   "items": [
+    {
+      "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
+      "url": "https://www.nodeseek.com/post-724033-1",
+      "last_hot_value": "查看:2227 回复:30",
+      "first_seen_at": "2026-06-29T17:27:17",
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:193120 回复:2675",
       "first_seen_at": "2026-06-27T14:09:10",
       "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "NS官方邮箱系统正式版(V2)",
-      "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:61287 回复:563",
-      "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,19 +27,39 @@
       "last_hot_value": "查看:778 回复:18",
       "first_seen_at": "2026-06-27T14:09:10",
       "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
+      "title": "【onefile】完全开源。一行docker命令搭建自己的聚合图床",
+      "url": "https://www.nodeseek.com/post-752197-1",
+      "last_hot_value": "查看:739 回复:13",
+      "first_seen_at": "2026-06-29T17:27:17",
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "【开源】ForwardX：一个好看又能打的多主机端口/隧道转发管理面板",
       "url": "https://www.nodeseek.com/post-792082-1",
-      "last_hot_value": "查看:2483 回复:73",
+      "last_hot_value": "查看:2845 回复:77",
       "first_seen_at": "2026-06-27T14:09:10",
-      "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "探针仙人的收官之作！探针的究极形态！燃尽了",
+      "url": "https://www.nodeseek.com/post-798692-1",
+      "last_hot_value": "查看:2777 回复:87",
+      "first_seen_at": "2026-06-29T17:27:17",
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【合集】常用VPS脚本",
@@ -47,9 +67,19 @@
       "last_hot_value": "查看:204005 回复:1924",
       "first_seen_at": "2026-06-27T14:09:10",
       "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "【开源】Kaloscope：一站式自动追番+弹幕播放+漫画轻小说聚合工具（6/29更新支持外挂+内封字幕）",
+      "url": "https://www.nodeseek.com/post-766657-1",
+      "last_hot_value": "查看:699 回复:10",
+      "first_seen_at": "2026-06-29T17:27:17",
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
@@ -57,16 +87,6 @@
       "last_hot_value": "查看:639305 回复:1097",
       "first_seen_at": "2026-06-27T14:09:10",
       "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "[6.25 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
-      "url": "https://www.nodeseek.com/post-750908-1",
-      "last_hot_value": "查看:2820 回复:84",
-      "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-26T11:19:41",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -74,12 +94,12 @@
     {
       "title": "[6.27 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
       "url": "https://www.nodeseek.com/post-750908-1",
-      "last_hot_value": "查看:3099 回复:94",
+      "last_hot_value": "查看:3491 回复:104",
       "first_seen_at": "2026-06-27T22:16:03",
-      "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
@@ -92,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "【一个轻量级skill】可以让AI接管你所有vps/或者搭配各种skill使用",
-      "url": "https://www.nodeseek.com/post-790391-1",
-      "last_hot_value": "查看:1766 回复:57",
-      "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-26T11:19:41",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
+      "url": "https://www.nodeseek.com/post-762899-1",
+      "last_hot_value": "查看:2658 回复:83",
+      "first_seen_at": "2026-06-29T17:27:17",
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
@@ -107,29 +127,29 @@
       "last_hot_value": "查看:14030 回复:178",
       "first_seen_at": "2026-06-27T22:16:03",
       "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
-      "url": "https://www.nodeseek.com/post-373751-1",
-      "last_hot_value": "查看:215832 回复:486",
-      "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-27T14:09:10",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "[新人看一看]老鸟请直接忽略",
-      "url": "https://www.nodeseek.com/post-348342-1",
-      "last_hot_value": "查看:19537 回复:376",
-      "first_seen_at": "2026-06-26T11:19:41",
-      "last_seen_at": "2026-06-27T22:16:03",
+      "title": "NAT机商家合集-置顶每月更新中",
+      "url": "https://www.nodeseek.com/post-54366-1",
+      "last_hot_value": "查看:134090 回复:363",
+      "first_seen_at": "2026-06-29T17:27:17",
+      "last_seen_at": "2026-06-29T17:27:17",
       "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
+      "url": "https://www.nodeseek.com/post-786238-1",
+      "last_hot_value": "查看:964 回复:21",
+      "first_seen_at": "2026-06-29T17:27:17",
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "【开源】OpenFlare 自建 CDN, 集反代 Tunnel Pages WAF 于一身的究极缝合怪",
@@ -137,9 +157,9 @@
       "last_hot_value": "查看:3315 回复:65",
       "first_seen_at": "2026-06-27T22:16:03",
       "last_seen_at": "2026-06-27T22:16:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Yanami —— 一个 Komari 安卓客户端",
@@ -150,6 +170,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【手摸手教学】终于学会使用 USDT-TRC20 付款了",
+      "url": "https://www.nodeseek.com/post-109792-1",
+      "last_hot_value": "查看:33229 回复:97",
+      "first_seen_at": "2026-06-29T17:27:17",
+      "last_seen_at": "2026-06-29T17:27:17",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

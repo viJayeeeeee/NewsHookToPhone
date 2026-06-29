@@ -1,45 +1,35 @@
 {
-  "update_time": "2026-06-27T22:15:53",
+  "update_time": "2026-06-29T17:27:06",
   "items": [
     {
-      "title": "从一个传文件的破需求,到一个能挂公网的\"瞬传\":我用 WorkBuddy 把它从 HTML 一路做到了 Java",
-      "url": "https://juejin.cn/post/7654808985048416290",
-      "last_hot_value": "热度:1098",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 3,
+      "title": "React Renderer 分离的多平台架构",
+      "url": "https://juejin.cn/post/7656342465024540718",
+      "last_hot_value": "热度:1116",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "他俩只靠写代码，登上了胡润财富榜！",
-      "url": "https://juejin.cn/post/7655235192538873865",
-      "last_hot_value": "热度:837",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 3,
+      "title": "我把祖传项目的构建时间砍了90%，领导以为我只是在\"优化了一下\"，结果隔壁组的CI都崩了来问我配置",
+      "url": "https://juejin.cn/post/7655348005602361363",
+      "last_hot_value": "热度:585",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "用了半年 Claude Code 后，我尝试关掉它写了一周代码——结果比想象中严重",
-      "url": "https://juejin.cn/post/7654807811400450086",
-      "last_hot_value": "热度:1017",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-27T14:09:00",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "鸿蒙激励金8000元到手，但我决定不再参加了",
-      "url": "https://juejin.cn/post/7654531180474597395",
-      "last_hot_value": "热度:1152",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-26T11:19:12",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "白宫前脚下了限制令，OpenAI 后脚就把 GPT-5.6 发了",
+      "url": "https://juejin.cn/post/7655594666130554921",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "WorkBuddy 上手实战：打造一个可用的本地 AI 工作台",
@@ -47,8 +37,18 @@
       "last_hot_value": "热度:675",
       "first_seen_at": "2026-06-27T22:15:53",
       "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "DeepSeek这次招得太猛了，36个岗位，80%都要会Agent！",
+      "url": "https://juejin.cn/post/7656300675647373321",
+      "last_hot_value": "热度:432",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -57,29 +57,29 @@
       "last_hot_value": "热度:630",
       "first_seen_at": "2026-06-27T14:09:00",
       "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "别再 console.log 了：5 个 Chrome DevTools 调试技巧，用过就回不去了",
-      "url": "https://juejin.cn/post/7654473428947795994",
-      "last_hot_value": "热度:810",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-27T14:09:00",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "苹果 AirPods 协议，Android 也可以使用完整版 AirPods 能力",
-      "url": "https://juejin.cn/post/7654471531117379590",
-      "last_hot_value": "热度:567",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 3,
+      "title": "`??` 和 `||` 搞混，线上用户头像全挂了",
+      "url": "https://juejin.cn/post/7655657102968438811",
+      "last_hot_value": "热度:423",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "我偷偷把公司的祖传 jQuery 项目改成了 Vue3，CTO 没发现，但全组都来抄我的代码了",
+      "url": "https://juejin.cn/post/7655631091143704595",
+      "last_hot_value": "热度:405",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "WHERE 条件别凭习惯写，常用查询先跑一遍",
@@ -87,9 +87,19 @@
       "last_hot_value": "热度:522",
       "first_seen_at": "2026-06-27T14:09:00",
       "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "学不动了，入门 Compose Styles API",
+      "url": "https://juejin.cn/post/7655245911813128238",
+      "last_hot_value": "热度:405",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "白宫直接给 OpenAI 下了限制令，GPT-5.6 不能随便放出来了",
@@ -97,19 +107,19 @@
       "last_hot_value": "热度:486",
       "first_seen_at": "2026-06-27T14:09:00",
       "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "推荐一个牛逼的智能代码审查系统",
-      "url": "https://juejin.cn/post/7654122741077753898",
-      "last_hot_value": "热度:486",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-26T11:19:12",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
+      "url": "https://juejin.cn/post/7656050265523372032",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "Vue 3 里被严重低估的 API：InjectionKey",
@@ -117,9 +127,19 @@
       "last_hot_value": "热度:387",
       "first_seen_at": "2026-06-27T14:09:00",
       "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "AI 乱改代码？试试这套 SDD 规范驱动工作流",
+      "url": "https://juejin.cn/post/7656050265522913280",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Agent 实战: 智语 + baoyu-skills 自动发布文章到公众号",
@@ -127,19 +147,19 @@
       "last_hot_value": "热度:360",
       "first_seen_at": "2026-06-27T22:15:53",
       "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "那不是我的黑历史，那是我的来时路啊！😭😭",
-      "url": "https://juejin.cn/post/7654522836775436298",
-      "last_hot_value": "热度:387",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-26T11:19:12",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "Rspack 2.1 发布：React Compiler 提速 10 倍！",
+      "url": "https://juejin.cn/post/7655529019282571291",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-29T17:27:06",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "Flutter Patchwork，不用 Fork 改依赖包源码的第三方工具",
@@ -147,16 +167,6 @@
       "last_hot_value": "热度:324",
       "first_seen_at": "2026-06-27T22:15:53",
       "last_seen_at": "2026-06-27T22:15:53",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "Claude Code 准确率从 41% 升到 89%，这个 CLAUDE.md 只做了一件事",
-      "url": "https://juejin.cn/post/7654519145632743475",
-      "last_hot_value": "热度:369",
-      "first_seen_at": "2026-06-26T11:19:12",
-      "last_seen_at": "2026-06-26T11:19:12",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
