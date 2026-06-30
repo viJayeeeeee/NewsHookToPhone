@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-06-29T23:10:53",
+  "update_time": "2026-06-30T13:16:51",
   "items": [
+    {
+      "title": "【Linux网络】深入理解网络层IP协议：从公网路由到IP分片与组装",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/161706429",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-06-30T13:16:51",
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "OpenClaw Docker 部署：从开发到生产的容器化实战",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/162362583",
       "last_hot_value": "3.4w",
       "first_seen_at": "2026-06-27T14:09:02",
       "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "Execution Graph：HarmonyOS PC 如何组织整个 AI Runtime？",
+      "url": "https://blog.csdn.net/qq_36863796/article/details/162412211",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-06-30T13:16:51",
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "PyTorch强化学习实战（18）——强化学习训练加速",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/157907236",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,7 +57,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-06-29T17:27:08",
       "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,22 +72,32 @@
       "is_new": false
     },
     {
+      "title": "Dataify 静态 ISP 独享代理高并发实测",
+      "url": "https://blog.csdn.net/m0_63947499/article/details/162390390",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-06-29T17:27:08",
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 5,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "【AI】向量数据库的原理与选型详解",
       "url": "https://blog.csdn.net/weixin_62043600/article/details/162397873",
-      "last_hot_value": "8826",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "Re：Linux系统篇（四十）通信篇·五：SystemV标准三部曲其之一：共享内存",
       "url": "https://blog.csdn.net/Z2314246476/article/details/162129975",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-29T20:58:20",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -94,10 +124,10 @@
     {
       "title": "【同济线性代数第五版】第五章 相似矩阵及二次型",
       "url": "https://blog.csdn.net/he_zhidan/article/details/162000803",
-      "last_hot_value": "9466",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -107,19 +137,19 @@
       "last_hot_value": "7373",
       "first_seen_at": "2026-06-29T17:27:08",
       "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "Dataify 静态 ISP 独享代理高并发实测",
-      "url": "https://blog.csdn.net/m0_63947499/article/details/162390390",
-      "last_hot_value": "7380",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 4,
+      "title": "【HarmonyOS 6.0】CANN Kit：PC端大语言模型推理API与计算加速机制解析",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162282369",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-06-30T13:16:51",
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Ansible批量部署Nginx：从主机清单到Playbook自动化执行",
@@ -137,7 +167,7 @@
       "last_hot_value": "7399",
       "first_seen_at": "2026-06-29T20:58:20",
       "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -184,10 +214,10 @@
     {
       "title": "【AI智能体】Cursor 全能AI编程助手从部署到实战详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/161807979",
-      "last_hot_value": "7377",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 5,
       "peak_rank": 9,
       "is_new": false
     },
@@ -200,6 +230,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "物化视图、Query Mapping、函数结果缓存：能让 SQL 性能提升数量级的“杀手锏“",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/162432890",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-06-30T13:16:51",
+      "last_seen_at": "2026-06-30T13:16:51",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-29T23:11:00",
+  "update_time": "2026-06-30T13:16:58",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "405",
+      "last_hot_value": "746",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,10 +24,10 @@
     {
       "title": "住在菜单栏里的 macOS 工具集合",
       "url": "https://github.com/ggbond268/MacTools",
-      "last_hot_value": "215",
+      "last_hot_value": "393",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "开源体素游戏创作平台",
+      "url": "https://github.com/luanti-org/luanti",
+      "last_hot_value": "343",
+      "first_seen_at": "2026-06-29T17:27:15",
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 5,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "极简的 Android 课程表",
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
-      "last_hot_value": "124",
+      "last_hot_value": "227",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -62,14 +72,14 @@
       "is_new": false
     },
     {
-      "title": "开源体素游戏创作平台",
-      "url": "https://github.com/luanti-org/luanti",
-      "last_hot_value": "182",
-      "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 4,
+      "title": "把英语音频变成听说训练的应用",
+      "url": "https://github.com/echo-loop/Echo-Loop",
+      "last_hot_value": "284",
+      "first_seen_at": "2026-06-30T13:16:58",
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "你的专属 AI 新闻雷达工具",
@@ -84,20 +94,20 @@
     {
       "title": "安静的新标签页工作台",
       "url": "https://github.com/V-IOLE-T/tab-harbor",
-      "last_hot_value": "252",
+      "last_hot_value": "374",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "从零开始训练大语言模型",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "last_hot_value": "178",
+      "last_hot_value": "306",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -114,10 +124,10 @@
     {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "232",
+      "last_hot_value": "359",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -147,7 +157,7 @@
       "last_hot_value": "332",
       "first_seen_at": "2026-06-29T17:27:15",
       "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -157,7 +167,7 @@
       "last_hot_value": "92",
       "first_seen_at": "2026-06-29T20:58:27",
       "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -170,6 +180,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "用于学术研究的 Claude Code 技能包",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "last_hot_value": "168",
+      "first_seen_at": "2026-06-30T13:16:58",
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "把视频变成字符流的引擎",
@@ -192,21 +212,21 @@
       "is_new": false
     },
     {
+      "title": "开箱即用的中国古诗词 API 服务",
+      "url": "https://github.com/palemoky/chinese-poetry-api",
+      "last_hot_value": "319",
+      "first_seen_at": "2026-06-29T17:27:15",
+      "last_seen_at": "2026-06-30T13:16:58",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": false
+    },
+    {
       "title": "让 AI 编程助手少写代码",
       "url": "https://github.com/DietrichGebert/ponytail",
       "last_hot_value": "153",
       "first_seen_at": "2026-06-29T20:58:27",
       "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 3,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "开箱即用的中国古诗词 API 服务",
-      "url": "https://github.com/palemoky/chinese-poetry-api",
-      "last_hot_value": "233",
-      "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-29T17:27:15",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

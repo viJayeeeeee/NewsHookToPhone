@@ -1,14 +1,24 @@
 {
-  "update_time": "2026-06-29T23:10:51",
+  "update_time": "2026-06-30T13:16:50",
   "items": [
     {
       "title": "React Renderer 分离的多平台架构",
       "url": "https://juejin.cn/post/7656342465024540718",
-      "last_hot_value": "热度:1134",
+      "last_hot_value": "热度:1395",
       "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 5,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "DeepSeek这次招得太猛了，36个岗位，80%都要会Agent！",
+      "url": "https://juejin.cn/post/7656300675647373321",
+      "last_hot_value": "热度:846",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 5,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,8 +27,18 @@
       "last_hot_value": "热度:594",
       "first_seen_at": "2026-06-29T17:27:06",
       "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "我偷偷把公司的祖传 jQuery 项目改成了 Vue3，CTO 没发现，但全组都来抄我的代码了",
+      "url": "https://juejin.cn/post/7655631091143704595",
+      "last_hot_value": "热度:693",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 5,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -27,7 +47,7 @@
       "last_hot_value": "热度:468",
       "first_seen_at": "2026-06-29T17:27:06",
       "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -42,12 +62,12 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek这次招得太猛了，36个岗位，80%都要会Agent！",
-      "url": "https://juejin.cn/post/7656300675647373321",
-      "last_hot_value": "热度:450",
+      "title": "AI 乱改代码？试试这套 SDD 规范驱动工作流",
+      "url": "https://juejin.cn/post/7656050265522913280",
+      "last_hot_value": "热度:522",
       "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -62,24 +82,34 @@
       "is_new": false
     },
     {
+      "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
+      "url": "https://juejin.cn/post/7656050265523372032",
+      "last_hot_value": "热度:513",
+      "first_seen_at": "2026-06-29T17:27:06",
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 5,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "`??` 和 `||` 搞混，线上用户头像全挂了",
       "url": "https://juejin.cn/post/7655657102968438811",
       "last_hot_value": "热度:441",
       "first_seen_at": "2026-06-29T17:27:06",
       "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "我偷偷把公司的祖传 jQuery 项目改成了 Vue3，CTO 没发现，但全组都来抄我的代码了",
-      "url": "https://juejin.cn/post/7655631091143704595",
-      "last_hot_value": "热度:405",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "title": "为什么越来越多的人使用FastAPI?",
+      "url": "https://juejin.cn/post/7656613897318907958",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-06-30T13:16:50",
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "WHERE 条件别凭习惯写，常用查询先跑一遍",
@@ -92,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。",
+      "url": "https://juejin.cn/post/7656055019972722731",
+      "last_hot_value": "热度:441",
+      "first_seen_at": "2026-06-29T23:10:51",
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "学不动了，入门 Compose Styles API",
       "url": "https://juejin.cn/post/7655245911813128238",
       "last_hot_value": "热度:405",
       "first_seen_at": "2026-06-29T17:27:06",
       "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -112,14 +152,14 @@
       "is_new": false
     },
     {
-      "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
-      "url": "https://juejin.cn/post/7656050265523372032",
-      "last_hot_value": "热度:342",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "title": "DeepSeek正式官宣摇人，夯！",
+      "url": "https://juejin.cn/post/7656721849944064010",
+      "last_hot_value": "热度:423",
+      "first_seen_at": "2026-06-30T13:16:50",
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Vue 3 里被严重低估的 API：InjectionKey",
@@ -132,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "AI 乱改代码？试试这套 SDD 规范驱动工作流",
-      "url": "https://juejin.cn/post/7656050265522913280",
-      "last_hot_value": "热度:324",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 4,
+      "title": "虽迟但到！GPT-5.6 终于来了！",
+      "url": "https://juejin.cn/post/7655631091143917587",
+      "last_hot_value": "热度:369",
+      "first_seen_at": "2026-06-30T13:16:50",
+      "last_seen_at": "2026-06-30T13:16:50",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Agent 实战: 智语 + baoyu-skills 自动发布文章到公众号",
@@ -152,11 +192,11 @@
       "is_new": false
     },
     {
-      "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。",
-      "url": "https://juejin.cn/post/7656055019972722731",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-06-29T23:10:51",
-      "last_seen_at": "2026-06-29T23:10:51",
+      "title": "DSpark 讲透：DeepSeek 不换模型，硬把 V4 提速 85%，是怎么做到的？",
+      "url": "https://juejin.cn/post/7655691054172700718",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-06-30T13:16:50",
+      "last_seen_at": "2026-06-30T13:16:50",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
