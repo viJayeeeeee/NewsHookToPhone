@@ -1,155 +1,95 @@
 {
-  "update_time": "2026-06-30T13:16:58",
+  "update_time": "2026-06-30T23:41:51",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "746",
+      "last_hot_value": "790",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "轻量级跨平台数据库桌面客户端",
-      "url": "https://github.com/t8y2/dbx",
-      "last_hot_value": "6364",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "住在菜单栏里的 macOS 工具集合",
       "url": "https://github.com/ggbond268/MacTools",
-      "last_hot_value": "393",
+      "last_hot_value": "427",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 5,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "从零开始学习 AI 工程",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "last_hot_value": "5373",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "开源体素游戏创作平台",
       "url": "https://github.com/luanti-org/luanti",
-      "last_hot_value": "343",
+      "last_hot_value": "380",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "极简的 Android 课程表",
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
-      "last_hot_value": "227",
+      "last_hot_value": "253",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "帮你找到本地能跑的最佳大模型",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "last_hot_value": "5077",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "从零开始训练大语言模型",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "last_hot_value": "335",
+      "first_seen_at": "2026-06-29T17:27:15",
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 6,
+      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "把英语音频变成听说训练的应用",
       "url": "https://github.com/echo-loop/Echo-Loop",
-      "last_hot_value": "284",
+      "last_hot_value": "306",
       "first_seen_at": "2026-06-30T13:16:58",
-      "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "你的专属 AI 新闻雷达工具",
-      "url": "https://github.com/Thysrael/Horizon",
-      "last_hot_value": "12782",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "安静的新标签页工作台",
       "url": "https://github.com/V-IOLE-T/tab-harbor",
-      "last_hot_value": "374",
+      "last_hot_value": "396",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "从零开始训练大语言模型",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "last_hot_value": "306",
-      "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "让 AI 编程工具告别瞎写的技能包",
-      "url": "https://github.com/mattpocock/skills",
-      "last_hot_value": "2992",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "359",
+      "last_hot_value": "389",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 6,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "快速上手 Claude Code 的教程",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "last_hot_value": "6611",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "用 AI 将文档转换为可编辑的 PPT",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "last_hot_value": "6017",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "自适应网页改版的 Python 爬虫框架",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "last_hot_value": "189",
+      "first_seen_at": "2026-06-30T23:41:51",
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "极简的 Windows 桌面便签工具",
@@ -172,13 +112,13 @@
       "is_new": false
     },
     {
-      "title": "更好看的 Windows 媒体控制弹窗",
-      "url": "https://github.com/unchihugo/FluentFlyout",
-      "last_hot_value": "2594",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
-      "peak_rank": 8,
+      "title": "让 AI 编程助手少写代码",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "last_hot_value": "257",
+      "first_seen_at": "2026-06-29T20:58:27",
+      "last_seen_at": "2026-06-30T23:41:51",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -187,9 +127,9 @@
       "last_hot_value": "168",
       "first_seen_at": "2026-06-30T13:16:58",
       "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "把视频变成字符流的引擎",
@@ -202,41 +142,11 @@
       "is_new": false
     },
     {
-      "title": "把代码变成打字游戏的工具",
-      "url": "https://github.com/unhappychoice/gittype",
-      "last_hot_value": "1810",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "开箱即用的中国古诗词 API 服务",
       "url": "https://github.com/palemoky/chinese-poetry-api",
       "last_hot_value": "319",
       "first_seen_at": "2026-06-29T17:27:15",
       "last_seen_at": "2026-06-30T13:16:58",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "让 AI 编程助手少写代码",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "last_hot_value": "153",
-      "first_seen_at": "2026-06-29T20:58:27",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "免费开源的磁盘清理工具",
-      "url": "https://github.com/bleachbit/bleachbit",
-      "last_hot_value": "2743",
-      "first_seen_at": "2026-06-27T14:09:09",
-      "last_seen_at": "2026-06-27T22:16:02",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

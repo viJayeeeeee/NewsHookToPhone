@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-30T13:16:53",
+  "update_time": "2026-06-30T23:41:43",
   "items": [
     {
       "title": "怎么用Deepagent实现一个Harness智能体？",
       "url": "https://www.51cto.com/article/847293.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,18 +16,8 @@
       "url": "https://www.51cto.com/article/847803.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T20:58:21",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Claude Code 创始人说：90% 的人把 AI 编程工具用成了聊天框",
-      "url": "https://www.51cto.com/article/847591.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-27T14:09:03",
-      "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -37,8 +27,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
       "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "刚刚，OpenClaw和Cursor杀入手机！Agent从此塞进口袋",
+      "url": "https://www.51cto.com/article/847910.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-30T13:16:53",
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -56,38 +56,18 @@
       "url": "https://blog.51cto.com/u_16077267/14727103",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "粒子思维：基于随机动力系统的连续语言模型",
       "url": "https://blog.51cto.com/u_15177056/14725199",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 5,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "大模型应用：大模型业务落地规避低效陷阱：直击5大高频误区深度拆解与整改指南.134",
-      "url": "https://blog.51cto.com/u_16380863/14720889",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-27T22:15:56",
-      "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "多模态模型在自动驾驶中的应用：视觉推理与决策",
-      "url": "https://blog.51cto.com/u_17465092/14720739",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-27T14:09:03",
-      "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,10 +76,10 @@
       "url": "https://blog.51cto.com/dickeryang/14726814",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "世界杯进行中，用 Access 做一张赛后分析页",
@@ -112,24 +92,14 @@
       "is_new": false
     },
     {
-      "title": "设计 Agent 的反馈循环：如何让 AI 理解“再改一版”",
-      "url": "https://blog.51cto.com/chenfenglove/14720735",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-27T14:09:03",
-      "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "运维实战：RES 1.2GB 但堆只有 256MB——Netty DirectByteBuffer 泄漏排障全记录",
       "url": "https://blog.51cto.com/u_13530694/14725604",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "通过引入大模型来处理图片文件",
@@ -142,24 +112,14 @@
       "is_new": false
     },
     {
-      "title": "大模型应用：AI智能体高并发实战：Redis缓存+负载均衡协同解决推理超时难题.133",
-      "url": "https://blog.51cto.com/u_16380863/14719230",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-27T14:09:03",
-      "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "女娲日记——Java开发智能体 | Day 4：张开嘴巴，发出声音",
       "url": "https://blog.51cto.com/u_15599203/14725447",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "智能体构建：基于SKILL的AI智能体构建：模块化能力编排+实时交互系统全实现.136",
@@ -167,16 +127,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
       "last_seen_at": "2026-06-29T23:10:54",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "PowerShell 脚本创建",
-      "url": "https://blog.51cto.com/joyhan/14719107",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-27T14:09:03",
-      "last_seen_at": "2026-06-27T22:15:56",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -192,22 +142,12 @@
       "is_new": false
     },
     {
-      "title": "刚刚，OpenClaw和Cursor杀入手机！Agent从此塞进口袋",
-      "url": "https://www.51cto.com/article/847910.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
       "title": "【Jack实战】如何按时间、地点快速分类图片让APP快速导入",
       "url": "https://ost.51cto.com/posts/50462#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T20:58:21",
-      "last_seen_at": "2026-06-29T23:10:54",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": false
     },
@@ -222,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "#码上鸿蒙•智绘未来# 多语言工单页切换：ResourceManager 与页面重建边界怎么处理",
-      "url": "https://ost.51cto.com/posts/49893#24read",
+      "title": "【Jack实战】如何在时光旅记中用 ArkUI WaterFlow 做发现页瀑布流",
+      "url": "https://ost.51cto.com/posts/50460#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-27T14:09:03",
-      "last_seen_at": "2026-06-27T22:15:56",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-06-30T23:41:43",
+      "last_seen_at": "2026-06-30T23:41:43",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "如何让大模型“吐字”更快？解析DeepSeek最新推理加速方案DSpark",
@@ -237,16 +177,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T20:58:21",
       "last_seen_at": "2026-06-29T23:10:54",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "#码上鸿蒙•智绘未来# Location Kit 接入门店巡检：经纬度不是签到结论，精度和距离要先过候选态",
-      "url": "https://ost.51cto.com/posts/49923#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-27T14:09:03",
-      "last_seen_at": "2026-06-27T14:09:03",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

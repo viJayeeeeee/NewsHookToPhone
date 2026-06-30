@@ -1,53 +1,43 @@
 {
-  "update_time": "2026-06-30T13:16:51",
+  "update_time": "2026-06-30T23:41:42",
   "items": [
     {
       "title": "【Linux网络】深入理解网络层IP协议：从公网路由到IP分片与组装",
       "url": "https://blog.csdn.net/2503_91389547/article/details/161706429",
       "last_hot_value": "2.4w",
       "first_seen_at": "2026-06-30T13:16:51",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "OpenClaw Docker 部署：从开发到生产的容器化实战",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162362583",
-      "last_hot_value": "3.4w",
-      "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "鸿蒙 App 如何设计 Memory Center？一文讲透 Agent 的长期记忆架构",
-      "url": "https://blog.csdn.net/qq_36478920/article/details/162306679",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-06-27T22:15:54",
-      "last_seen_at": "2026-06-27T22:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "【HarmonyOS 6.0】CANN Kit：PC端大语言模型推理API与计算加速机制解析",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162282369",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-06-30T13:16:51",
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "PyTorch强化学习实战（18）——强化学习训练加速",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/157907236",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-06-29T17:27:08",
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 6,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "Execution Graph：HarmonyOS PC 如何组织整个 AI Runtime？",
       "url": "https://blog.csdn.net/qq_36863796/article/details/162412211",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-06-30T13:16:51",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "PyTorch强化学习实战（18）——强化学习训练加速",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/157907236",
       "last_hot_value": "1.4w",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 5,
+      "first_seen_at": "2026-06-30T13:16:51",
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,32 +52,32 @@
       "is_new": false
     },
     {
-      "title": "【MySQL 筑基篇】从零掌握 CRUD 核心操作：详解增删改查、聚合过滤与实战避坑指南",
-      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/162259007",
-      "last_hot_value": "8431",
-      "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-27T22:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "【AI智能体】Cursor 全能AI编程助手从部署到实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161807979",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-06-29T17:27:08",
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 6,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "Dataify 静态 ISP 独享代理高并发实测",
       "url": "https://blog.csdn.net/m0_63947499/article/details/162390390",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "8775",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "【AI】向量数据库的原理与选型详解",
       "url": "https://blog.csdn.net/weixin_62043600/article/details/162397873",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -97,26 +87,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-06-29T20:58:20",
       "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 4,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "WorkBuddy 上手实战：打造一个可用的本地 AI 工作台",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/162316523",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-27T22:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "数据库视图和MyBatis XML到底怎么选？一个真实项目的对比",
-      "url": "https://blog.csdn.net/2401_87961121/article/details/162280290",
-      "last_hot_value": "9061",
-      "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-27T14:09:02",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -124,10 +94,10 @@
     {
       "title": "【同济线性代数第五版】第五章 相似矩阵及二次型",
       "url": "https://blog.csdn.net/he_zhidan/article/details/162000803",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "9225",
       "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,23 +112,13 @@
       "is_new": false
     },
     {
-      "title": "【HarmonyOS 6.0】CANN Kit：PC端大语言模型推理API与计算加速机制解析",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162282369",
-      "last_hot_value": "1.1w",
+      "title": "物化视图、Query Mapping、函数结果缓存：能让 SQL 性能提升数量级的“杀手锏“",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/162432890",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-06-30T13:16:51",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "Ansible批量部署Nginx：从主机清单到Playbook自动化执行",
-      "url": "https://blog.csdn.net/weixin_62765017/article/details/162298328",
-      "last_hot_value": "9207",
-      "first_seen_at": "2026-06-27T22:15:54",
-      "last_seen_at": "2026-06-27T22:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 6,
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 2,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -182,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "视觉Transformer实战 | Pyramid Vision Transformer（PVT）详解与实现",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161871208",
-      "last_hot_value": "8845",
-      "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "基于 Trae + DeepSeek 的 Vibe Coding 实践指南（二）：高效搭建 SpringBoot 自动化开发环境",
+      "url": "https://blog.csdn.net/2502_91499791/article/details/162405385",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-06-30T23:41:42",
+      "last_seen_at": "2026-06-30T23:41:42",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "Oracle - 分区索引的创建与使用，与分区表的配合优化",
@@ -200,46 +160,6 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
-    },
-    {
-      "title": "出海 KOL 筛选：用 Bright Data 批量采集 Instagram + TikTok 网红数据",
-      "url": "https://blog.csdn.net/m0_63947499/article/details/162348205",
-      "last_hot_value": "8822",
-      "first_seen_at": "2026-06-27T14:09:02",
-      "last_seen_at": "2026-06-27T14:09:02",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】Cursor 全能AI编程助手从部署到实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161807979",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 5,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "社交媒体舆情监控实战：基于 Bright Data AI Studio 的比亚迪品牌口碑追踪方案",
-      "url": "https://blog.csdn.net/m0_64336780/article/details/162265313",
-      "last_hot_value": "8143",
-      "first_seen_at": "2026-06-27T22:15:54",
-      "last_seen_at": "2026-06-27T22:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "物化视图、Query Mapping、函数结果缓存：能让 SQL 性能提升数量级的“杀手锏“",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/162432890",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-06-30T13:16:51",
-      "last_seen_at": "2026-06-30T13:16:51",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     }
   ]
 }
