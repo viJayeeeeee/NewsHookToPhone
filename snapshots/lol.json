@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-06-29T19:19:39",
+  "update_time": "2026-06-30T04:36:24",
   "items": [
     {
       "title": "【英雄联盟】历经200年……",
       "url": "https://lol.qq.com/v/v2/detail.shtml?docid=8450808253923649356",
       "last_hot_value": "",
       "first_seen_at": "2026-06-27T11:12:38",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "幸运之门·召唤 限时开启",
+      "url": "https://lol.qq.com/news/detail.shtml?docid=12853273566447679023",
+      "last_hot_value": "",
+      "first_seen_at": "2026-06-30T04:36:24",
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "2026云顶之弈公开赛夏季赛线下观赛指引来啦！",
       "url": "https://lol.qq.com/news/detail.shtml?docid=14450564023947656189",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T06:20:36",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -26,19 +36,9 @@
       "url": "https://lol.qq.com/news/detail.shtml?docid=11510516795095704789",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T06:20:36",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 3,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "璀璨臻彩召唤活动上新",
-      "url": "https://lol.qq.com/news/detail.shtml?docid=12561508568894502378",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-27T04:18:04",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 8,
-      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://lol.qq.com/v/v2/detail.shtml?docid=3240240540238524169",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T06:20:36",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://lol.qq.com/news/detail.shtml?docid=12763740850781071203",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T06:20:36",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -66,8 +66,8 @@
       "url": "https://lol.qq.com/gicp/news/410/37089201.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T06:20:36",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "https://lol.qq.com/news/detail.shtml?docid=9086380557296469366",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T06:20:36",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://lol.qq.com/gicp/news/662/37089199.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T06:20:36",
-      "last_seen_at": "2026-06-29T19:19:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-06-30T04:36:24",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     }
