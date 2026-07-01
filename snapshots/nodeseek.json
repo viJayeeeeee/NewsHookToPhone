@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-06-30T23:41:52",
+  "update_time": "2026-07-01T10:16:08",
   "items": [
     {
       "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
       "url": "https://www.nodeseek.com/post-105666-1",
       "last_hot_value": "查看:99703 回复:262",
       "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-06-30T23:41:52",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
       "url": "https://www.nodeseek.com/post-724033-1",
       "last_hot_value": "查看:2280 回复:31",
       "first_seen_at": "2026-06-29T17:27:17",
-      "last_seen_at": "2026-06-30T23:41:52",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,20 +36,30 @@
       "url": "https://www.nodeseek.com/post-788832-1",
       "last_hot_value": "查看:2962 回复:84",
       "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-06-30T23:41:52",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "探针仙人的收官之作！探针的究极形态！燃尽了",
       "url": "https://www.nodeseek.com/post-798692-1",
       "last_hot_value": "查看:4185 回复:116",
       "first_seen_at": "2026-06-29T17:27:17",
-      "last_seen_at": "2026-06-30T23:41:52",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:205371 回复:1933",
+      "first_seen_at": "2026-07-01T10:16:08",
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【开源】Kaloscope：一站式自动追番+弹幕播放+漫画轻小说聚合工具（6/29更新支持外挂+内封字幕）",
@@ -60,6 +70,16 @@
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:194235 回复:2686",
+      "first_seen_at": "2026-07-01T10:16:08",
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
@@ -76,10 +96,10 @@
       "url": "https://www.nodeseek.com/post-572284-1",
       "last_hot_value": "查看:42250 回复:164",
       "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-06-30T23:41:52",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NAT机商家合集-置顶每月更新中",
@@ -92,6 +112,16 @@
       "is_new": false
     },
     {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:648628 回复:1107",
+      "first_seen_at": "2026-07-01T10:16:08",
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
       "url": "https://www.nodeseek.com/post-786238-1",
       "last_hot_value": "查看:964 回复:21",
@@ -102,14 +132,24 @@
       "is_new": false
     },
     {
+      "title": "[6.27 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
+      "url": "https://www.nodeseek.com/post-750908-1",
+      "last_hot_value": "查看:3588 回复:105",
+      "first_seen_at": "2026-07-01T10:16:08",
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "[科普/教程]关于\"送中\"，你所要知道的一切！——什么是送中？如何判断是否送中？为什么会送中？如何预防/解决送中？还有完全免费且可以立马拉回去正确归属地的方法？还能“焊死”？？？",
       "url": "https://www.nodeseek.com/post-485530-1",
       "last_hot_value": "查看:13116 回复:195",
       "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-06-30T23:41:52",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-01T10:16:08",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【手摸手教学】终于学会使用 USDT-TRC20 付款了",

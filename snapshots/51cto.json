@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-06-30T23:41:43",
+  "update_time": "2026-07-01T10:16:01",
   "items": [
     {
       "title": "怎么用Deepagent实现一个Harness智能体？",
       "url": "https://www.51cto.com/article/847293.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,9 +17,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T20:58:21",
       "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "退钱！Claude 4.8连夜大降智，GPT-5.6算力遭「腰斩」",
+      "url": "https://www.51cto.com/article/848057.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T10:16:01",
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【Jack实战】如何让《时光旅记》适配华为数据克隆迁移",
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "DeepSeek点燃大模型效率之争，阶跃火速接棒：JetSpec让大模型解码速度最高提升近10倍",
+      "url": "https://www.51cto.com/article/847951.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T10:16:01",
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "刚刚，OpenClaw和Cursor杀入手机！Agent从此塞进口袋",
       "url": "https://www.51cto.com/article/847910.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
       "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "Hermes Agent 接入飞书钉钉 WeCom：一个网关进程搞定三大平台，跨平台记忆无缝续聊",
+      "url": "https://blog.51cto.com/dickeryang/14729862",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T10:16:01",
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "用 Skill 自动化服务器巡检",
       "url": "https://blog.51cto.com/u_16077267/14727103",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -67,17 +97,27 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
       "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "生产排障：HikariCP 连接泄漏检测触发的三种场景及线程级定位方法",
+      "url": "https://blog.51cto.com/u_13530694/14729720",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T10:16:01",
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "DeepSeek 公共服务智能化实战：政策咨询×材料预审×工单分类×公文写作",
       "url": "https://blog.51cto.com/dickeryang/14726814",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -92,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "生产排障：HikariCP 默认连接池配置导致 order-service 接口超时及调优方案",
+      "url": "https://blog.51cto.com/u_13530694/14729717",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T10:16:01",
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "运维实战：RES 1.2GB 但堆只有 256MB——Netty DirectByteBuffer 泄漏排障全记录",
       "url": "https://blog.51cto.com/u_13530694/14725604",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
       "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -117,7 +167,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
       "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -142,12 +192,22 @@
       "is_new": false
     },
     {
+      "title": "# 码上鸿蒙•智绘未来# HarmonyOS Navigation 组件完全指南：从入门到精通",
+      "url": "https://ost.51cto.com/posts/50515#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T10:16:01",
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "【Jack实战】如何按时间、地点快速分类图片让APP快速导入",
       "url": "https://ost.51cto.com/posts/50462#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T20:58:21",
       "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -162,14 +222,24 @@
       "is_new": false
     },
     {
+      "title": "朋友圈文案 App 全栈实战03-CloudDB端云协同与4角色权限",
+      "url": "https://ost.51cto.com/posts/50704#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T10:16:01",
+      "last_seen_at": "2026-07-01T10:16:01",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "【Jack实战】如何在时光旅记中用 ArkUI WaterFlow 做发现页瀑布流",
       "url": "https://ost.51cto.com/posts/50460#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T23:41:43",
       "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "如何让大模型“吐字”更快？解析DeepSeek最新推理加速方案DSpark",

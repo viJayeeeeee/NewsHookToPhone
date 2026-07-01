@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-06-30T23:41:40",
+  "update_time": "2026-07-01T10:15:58",
   "items": [
     {
       "title": "React Renderer 分离的多平台架构",
       "url": "https://juejin.cn/post/7656342465024540718",
-      "last_hot_value": "热度:1602",
+      "last_hot_value": "热度:1827",
       "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "DeepSeek这次招得太猛了，36个岗位，80%都要会Agent！",
       "url": "https://juejin.cn/post/7656300675647373321",
-      "last_hot_value": "热度:1179",
+      "last_hot_value": "热度:1665",
       "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
@@ -34,10 +34,10 @@
     {
       "title": "DeepSeek正式官宣摇人，夯！",
       "url": "https://juejin.cn/post/7656721849944064010",
-      "last_hot_value": "热度:1035",
+      "last_hot_value": "热度:1638",
       "first_seen_at": "2026-06-30T13:16:50",
-      "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -47,7 +47,7 @@
       "last_hot_value": "热度:891",
       "first_seen_at": "2026-06-29T17:27:06",
       "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -64,20 +64,30 @@
     {
       "title": "AI 乱改代码？试试这套 SDD 规范驱动工作流",
       "url": "https://juejin.cn/post/7656050265522913280",
-      "last_hot_value": "热度:756",
+      "last_hot_value": "热度:1053",
       "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 7,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。",
+      "url": "https://juejin.cn/post/7656055019972722731",
+      "last_hot_value": "热度:828",
+      "first_seen_at": "2026-06-29T23:10:51",
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 4,
+      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
       "url": "https://juejin.cn/post/7656050265523372032",
-      "last_hot_value": "热度:639",
+      "last_hot_value": "热度:756",
       "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 7,
       "peak_rank": 5,
       "is_new": false
     },
@@ -92,33 +102,23 @@
       "is_new": false
     },
     {
+      "title": "为什么越来越多的人使用FastAPI?",
+      "url": "https://juejin.cn/post/7656613897318907958",
+      "last_hot_value": "热度:792",
+      "first_seen_at": "2026-06-30T13:16:50",
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 3,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "急招！前端｜测试｜后端｜产品（名额多，速来）",
       "url": "https://juejin.cn/post/7656751882111991835",
       "last_hot_value": "热度:657",
       "first_seen_at": "2026-06-30T23:41:40",
       "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "为什么越来越多的人使用FastAPI?",
-      "url": "https://juejin.cn/post/7656613897318907958",
-      "last_hot_value": "热度:594",
-      "first_seen_at": "2026-06-30T13:16:50",
-      "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。",
-      "url": "https://juejin.cn/post/7656055019972722731",
-      "last_hot_value": "热度:603",
-      "first_seen_at": "2026-06-29T23:10:51",
-      "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 3,
-      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -132,6 +132,26 @@
       "is_new": false
     },
     {
+      "title": "Main-safe：现代Android 架构真正的分水岭",
+      "url": "https://juejin.cn/post/7656080006646497307",
+      "last_hot_value": "热度:513",
+      "first_seen_at": "2026-06-30T23:41:40",
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "AI 时代，最危险的不是被替代，而是努力不沉淀",
+      "url": "https://juejin.cn/post/7656467869551722537",
+      "last_hot_value": "热度:468",
+      "first_seen_at": "2026-07-01T10:15:58",
+      "last_seen_at": "2026-07-01T10:15:58",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "虽迟但到！GPT-5.6 终于来了！",
       "url": "https://juejin.cn/post/7655631091143917587",
       "last_hot_value": "热度:369",
@@ -142,11 +162,11 @@
       "is_new": false
     },
     {
-      "title": "Main-safe：现代Android 架构真正的分水岭",
-      "url": "https://juejin.cn/post/7656080006646497307",
-      "last_hot_value": "热度:405",
-      "first_seen_at": "2026-06-30T23:41:40",
-      "last_seen_at": "2026-06-30T23:41:40",
+      "title": "闲聊几句，Android老哥们，你们多久没做技改需求了",
+      "url": "https://juejin.cn/post/7656473537566375976",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-07-01T10:15:58",
+      "last_seen_at": "2026-07-01T10:15:58",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

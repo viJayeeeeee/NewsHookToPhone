@@ -1,63 +1,63 @@
 {
-  "update_time": "2026-06-30T23:41:51",
+  "update_time": "2026-07-01T10:16:07",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "790",
+      "last_hot_value": "1009",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 7,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "住在菜单栏里的 macOS 工具集合",
-      "url": "https://github.com/ggbond268/MacTools",
-      "last_hot_value": "427",
-      "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 6,
-      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "开源体素游戏创作平台",
       "url": "https://github.com/luanti-org/luanti",
-      "last_hot_value": "380",
+      "last_hot_value": "505",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 7,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "住在菜单栏里的 macOS 工具集合",
+      "url": "https://github.com/ggbond268/MacTools",
+      "last_hot_value": "503",
+      "first_seen_at": "2026-06-29T17:27:15",
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 7,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "把英语音频变成听说训练的应用",
+      "url": "https://github.com/echo-loop/Echo-Loop",
+      "last_hot_value": "406",
+      "first_seen_at": "2026-06-30T13:16:58",
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "极简的 Android 课程表",
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
-      "last_hot_value": "253",
+      "last_hot_value": "319",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "从零开始训练大语言模型",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "last_hot_value": "335",
+      "last_hot_value": "438",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 6,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "把英语音频变成听说训练的应用",
-      "url": "https://github.com/echo-loop/Echo-Loop",
-      "last_hot_value": "306",
-      "first_seen_at": "2026-06-30T13:16:58",
-      "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 7,
       "peak_rank": 4,
       "is_new": false
     },
@@ -67,29 +67,39 @@
       "last_hot_value": "396",
       "first_seen_at": "2026-06-29T17:27:15",
       "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "389",
+      "last_hot_value": "493",
       "first_seen_at": "2026-06-29T17:27:15",
-      "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 7,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "自适应网页改版的 Python 爬虫框架",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "last_hot_value": "189",
+      "last_hot_value": "275",
       "first_seen_at": "2026-06-30T23:41:51",
-      "last_seen_at": "2026-06-30T23:41:51",
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "超低延迟的离线语音输入工具",
+      "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
+      "last_hot_value": "244",
+      "first_seen_at": "2026-06-29T20:58:27",
+      "last_seen_at": "2026-07-01T10:16:07",
       "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "极简的 Windows 桌面便签工具",
@@ -102,13 +112,13 @@
       "is_new": false
     },
     {
-      "title": "超低延迟的离线语音输入工具",
-      "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
-      "last_hot_value": "92",
-      "first_seen_at": "2026-06-29T20:58:27",
-      "last_seen_at": "2026-06-29T23:11:00",
-      "consecutive_count": 0,
-      "peak_rank": 8,
+      "title": "用于学术研究的 Claude Code 技能包",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "last_hot_value": "221",
+      "first_seen_at": "2026-06-30T13:16:58",
+      "last_seen_at": "2026-07-01T10:16:07",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -117,16 +127,6 @@
       "last_hot_value": "257",
       "first_seen_at": "2026-06-29T20:58:27",
       "last_seen_at": "2026-06-30T23:41:51",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "用于学术研究的 Claude Code 技能包",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "last_hot_value": "168",
-      "first_seen_at": "2026-06-30T13:16:58",
-      "last_seen_at": "2026-06-30T13:16:58",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
