@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-30T21:06:40",
+  "update_time": "2026-07-01T19:16:27",
   "items": [
     {
       "title": "相思锁",
@@ -7,28 +7,8 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T21:06:40",
       "last_seen_at": "2026-06-30T21:06:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "ANGEL (天使)",
-      "url": "https://y.qq.com/n/ryqq/songDetail/004PjZLu3CjaYS",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-28T18:53:25",
-      "last_seen_at": "2026-06-30T21:06:40",
-      "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "阴天",
-      "url": "https://y.qq.com/n/ryqq/songDetail/0031PqYN0sj8K3",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-28T18:53:25",
-      "last_seen_at": "2026-06-30T21:06:40",
-      "consecutive_count": 4,
-      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -36,30 +16,60 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/003NyZSD2d3zPD",
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T21:06:40",
-      "last_seen_at": "2026-06-30T21:06:40",
+      "last_seen_at": "2026-07-01T19:16:27",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "恋人",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T19:16:27",
+      "last_seen_at": "2026-07-01T19:16:27",
       "consecutive_count": 1,
-      "peak_rank": 3,
+      "peak_rank": 4,
       "is_new": true
     },
     {
-      "title": "雨爱",
-      "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
+      "title": "雨过后的风景",
+      "url": "https://y.qq.com/n/ryqq/songDetail/004GEXe13HYtsE",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-28T00:15:30",
-      "last_seen_at": "2026-06-30T21:06:40",
-      "consecutive_count": 7,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-07-01T19:16:27",
+      "last_seen_at": "2026-07-01T19:16:27",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
-      "title": "写故事的人",
-      "url": "https://y.qq.com/n/ryqq/songDetail/0028t0n12nBn9U",
+      "title": "一见如故",
+      "url": "https://y.qq.com/n/ryqq/songDetail/002ioSAK2ftAqy",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-28T04:51:44",
-      "last_seen_at": "2026-06-28T21:13:34",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-07-01T19:16:27",
+      "last_seen_at": "2026-07-01T19:16:27",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "抽离",
+      "url": "https://y.qq.com/n/ryqq/songDetail/0018BYrF3ANbLX",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T19:16:27",
+      "last_seen_at": "2026-07-01T19:16:27",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "情歌",
+      "url": "https://y.qq.com/n/ryqq/songDetail/0010BrWk2SucQr",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-01T19:16:27",
+      "last_seen_at": "2026-07-01T19:16:27",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "singasong",
@@ -67,19 +77,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T21:06:40",
       "last_seen_at": "2026-06-30T21:06:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "我怀念的",
-      "url": "https://y.qq.com/n/ryqq/songDetail/000BO3xy4fd8BJ",
+      "title": "离开我的依赖",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001GOlCd2HImcY",
       "last_hot_value": "",
-      "first_seen_at": "2026-06-28T04:51:44",
-      "last_seen_at": "2026-06-28T21:13:34",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-07-01T19:16:27",
+      "last_seen_at": "2026-07-01T19:16:27",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
