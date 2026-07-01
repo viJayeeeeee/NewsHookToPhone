@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-01T20:54:49",
+  "update_time": "2026-07-01T22:09:45",
   "items": [
+    {
+      "title": "英格兰被漏判点球",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%A2%AB%E6%BC%8F%E5%88%A4%E7%82%B9%E7%90%83",
+      "last_hot_value": "374万",
+      "first_seen_at": "2026-07-01T22:09:45",
+      "last_seen_at": "2026-07-01T22:09:45",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "英格兰 不是点球",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%B8%8D%E6%98%AF%E7%82%B9%E7%90%83",
       "last_hot_value": "367万",
       "first_seen_at": "2026-07-01T20:54:49",
       "last_seen_at": "2026-07-01T20:54:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "英格兰vs民主刚果",
@@ -52,22 +62,32 @@
       "is_new": false
     },
     {
-      "title": "英格兰2比1民主刚果",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B02%E6%AF%941%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C",
-      "last_hot_value": "365万",
-      "first_seen_at": "2026-07-01T20:54:49",
-      "last_seen_at": "2026-07-01T20:54:49",
+      "title": "比利时vs塞内加尔",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%AF%94%E5%88%A9%E6%97%B6vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94",
+      "last_hot_value": "371万",
+      "first_seen_at": "2026-07-01T22:09:45",
+      "last_seen_at": "2026-07-01T22:09:45",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
     },
     {
+      "title": "英格兰2比1民主刚果",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B02%E6%AF%941%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C",
+      "last_hot_value": "369万",
+      "first_seen_at": "2026-07-01T20:54:49",
+      "last_seen_at": "2026-07-01T22:09:45",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "8位七一勋章获得者",
       "url": "https://so.sina.cn/search/list.d.html?keyword=8%E4%BD%8D%E4%B8%83%E4%B8%80%E5%8B%8B%E7%AB%A0%E8%8E%B7%E5%BE%97%E8%80%85",
-      "last_hot_value": "303万",
+      "last_hot_value": "366万",
       "first_seen_at": "2026-07-01T17:28:20",
-      "last_seen_at": "2026-07-01T20:54:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-01T22:09:45",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -104,12 +124,12 @@
     {
       "title": "凯恩梅开二度",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%87%AF%E6%81%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6",
-      "last_hot_value": "312万",
+      "last_hot_value": "289万",
       "first_seen_at": "2026-07-01T20:54:49",
-      "last_seen_at": "2026-07-01T20:54:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-01T22:09:45",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "美联储沃什表示通胀风险已经下降",
@@ -192,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "英格兰逆转晋级16强",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%80%86%E8%BD%AC%E6%99%8B%E7%BA%A716%E5%BC%BA",
+      "last_hot_value": "346万",
+      "first_seen_at": "2026-07-01T22:09:45",
+      "last_seen_at": "2026-07-01T22:09:45",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "赖斯燃尽了",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%B5%96%E6%96%AF%E7%87%83%E5%B0%BD%E4%BA%86",
       "last_hot_value": "292万",
       "first_seen_at": "2026-07-01T20:54:49",
       "last_seen_at": "2026-07-01T20:54:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "湖人交易得到凯斯勒",
@@ -242,21 +272,21 @@
       "is_new": false
     },
     {
-      "title": "图赫尔 给凯恩磕一个",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%9B%BE%E8%B5%AB%E5%B0%94%20%E7%BB%99%E5%87%AF%E6%81%A9%E7%A3%95%E4%B8%80%E4%B8%AA",
-      "last_hot_value": "285万",
-      "first_seen_at": "2026-07-01T20:54:49",
-      "last_seen_at": "2026-07-01T20:54:49",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
       "title": "人工智能冲击婚纱影楼",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC",
-      "last_hot_value": "278万",
+      "last_hot_value": "306万",
       "first_seen_at": "2026-07-01T17:28:20",
-      "last_seen_at": "2026-07-01T20:54:49",
+      "last_seen_at": "2026-07-01T22:09:45",
+      "consecutive_count": 3,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "图赫尔 给凯恩磕一个",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%9B%BE%E8%B5%AB%E5%B0%94%20%E7%BB%99%E5%87%AF%E6%81%A9%E7%A3%95%E4%B8%80%E4%B8%AA",
+      "last_hot_value": "287万",
+      "first_seen_at": "2026-07-01T20:54:49",
+      "last_seen_at": "2026-07-01T22:09:45",
       "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
@@ -294,12 +324,12 @@
     {
       "title": "拉什福德在干什么",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%8B%89%E4%BB%80%E7%A6%8F%E5%BE%B7%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88",
-      "last_hot_value": "283万",
+      "last_hot_value": "281万",
       "first_seen_at": "2026-07-01T20:54:49",
-      "last_seen_at": "2026-07-01T20:54:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-01T22:09:45",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "英格兰落后",
@@ -344,10 +374,10 @@
     {
       "title": "“绵阳考生高考估分715查分299”系谣言",
       "url": "https://news.sina.com.cn/c/2026-07-01/doc-iniffytk3150659.shtml",
-      "last_hot_value": "279万",
+      "last_hot_value": "288万",
       "first_seen_at": "2026-07-01T12:48:05",
-      "last_seen_at": "2026-07-01T20:54:49",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-01T22:09:45",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
@@ -367,9 +397,9 @@
       "last_hot_value": "278万",
       "first_seen_at": "2026-07-01T20:54:49",
       "last_seen_at": "2026-07-01T20:54:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "真实的乡镇公务员是这样的",
