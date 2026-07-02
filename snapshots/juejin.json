@@ -1,33 +1,43 @@
 {
-  "update_time": "2026-07-02T20:08:45",
+  "update_time": "2026-07-02T23:38:59",
   "items": [
     {
       "title": "DeepSeek正式官宣摇人，夯！",
       "url": "https://juejin.cn/post/7656721849944064010",
       "last_hot_value": "热度:2745",
       "first_seen_at": "2026-06-30T13:16:50",
-      "last_seen_at": "2026-07-02T20:08:45",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。",
-      "url": "https://juejin.cn/post/7656055019972722731",
-      "last_hot_value": "热度:1422",
-      "first_seen_at": "2026-06-29T23:10:51",
-      "last_seen_at": "2026-07-02T20:08:45",
-      "consecutive_count": 7,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "React Renderer 分离的多平台架构",
+      "url": "https://juejin.cn/post/7656342465024540718",
+      "last_hot_value": "热度:2205",
+      "first_seen_at": "2026-07-02T23:38:59",
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
+      "url": "https://juejin.cn/post/7656050265523372032",
+      "last_hot_value": "热度:1026",
+      "first_seen_at": "2026-07-02T23:38:59",
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "阿里一面，我霸气反问：你说你们在做Agent项目，说说langchain、muti-agent、a2a这些你们都是怎么做的？面试官一直在擦汗。。",
       "url": "https://juejin.cn/post/7657453685375369267",
       "last_hot_value": "热度:846",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T20:08:45",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -36,8 +46,8 @@
       "url": "https://juejin.cn/post/7657201270935519266",
       "last_hot_value": "热度:747",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T20:08:45",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -66,8 +76,8 @@
       "url": "https://juejin.cn/post/7657392618506764326",
       "last_hot_value": "热度:657",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T20:08:45",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://juejin.cn/post/7656202263124082730",
       "last_hot_value": "热度:576",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T20:08:45",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -96,8 +106,8 @@
       "url": "https://juejin.cn/post/7656681358269825067",
       "last_hot_value": "热度:387",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T20:08:45",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
@@ -106,8 +116,8 @@
       "url": "https://juejin.cn/post/7657366002275614754",
       "last_hot_value": "热度:369",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T20:08:45",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-02T23:38:59",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
