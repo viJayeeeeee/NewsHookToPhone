@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-01T10:16:01",
+  "update_time": "2026-07-02T13:07:01",
   "items": [
+    {
+      "title": "基于Obsidian搭建\"自己会重写自己\"的LLM Wiki知识库",
+      "url": "https://www.51cto.com/article/847971.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "怎么用Deepagent实现一个Harness智能体？",
       "url": "https://www.51cto.com/article/847293.html",
       "last_hot_value": "",
       "first_seen_at": "2026-06-29T17:27:09",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,14 +32,24 @@
       "is_new": false
     },
     {
+      "title": "Karpathy又封神！掀翻RAG，把你的笔记变成第二大脑",
+      "url": "https://www.51cto.com/article/848069.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "退钱！Claude 4.8连夜大降智，GPT-5.6算力遭「腰斩」",
       "url": "https://www.51cto.com/article/848057.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Jack实战】如何让《时光旅记》适配华为数据克隆迁移",
@@ -46,10 +66,10 @@
       "url": "https://www.51cto.com/article/847951.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
-      "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刚刚，OpenClaw和Cursor杀入手机！Agent从此塞进口袋",
@@ -72,14 +92,24 @@
       "is_new": false
     },
     {
+      "title": "2026年Python开发最容易涨薪的5个技术点，学会直接跳出脚本小子的职业瓶颈",
+      "url": "https://blog.51cto.com/u_17740264/14733017",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "Hermes Agent 接入飞书钉钉 WeCom：一个网关进程搞定三大平台，跨平台记忆无缝续聊",
       "url": "https://blog.51cto.com/dickeryang/14729862",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "用 Skill 自动化服务器巡检",
@@ -87,7 +117,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,14 +132,24 @@
       "is_new": false
     },
     {
+      "title": "GraphRAG、Agentic RAG 值不值得用?9 种方案实测说了大实话",
+      "url": "https://blog.51cto.com/u_16116809/14732727",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "生产排障：HikariCP 连接泄漏检测触发的三种场景及线程级定位方法",
       "url": "https://blog.51cto.com/u_13530694/14729720",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek 公共服务智能化实战：政策咨询×材料预审×工单分类×公文写作",
@@ -117,7 +157,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-06-30T13:16:53",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -132,14 +172,24 @@
       "is_new": false
     },
     {
+      "title": "基于 WorkBuddy+CodeBuddy 集成 drawio-skill：自然语言文本一键生成可编辑 Draw.io 图表实战",
+      "url": "https://blog.51cto.com/yelangking/14732723",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "生产排障：HikariCP 默认连接池配置导致 order-service 接口超时及调优方案",
       "url": "https://blog.51cto.com/u_13530694/14729717",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "运维实战：RES 1.2GB 但堆只有 256MB——Netty DirectByteBuffer 泄漏排障全记录",
@@ -162,6 +212,16 @@
       "is_new": false
     },
     {
+      "title": "微调LocateAnything-3B 实现超高密度的目标检测",
+      "url": "https://blog.51cto.com/deephub/14732720",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "女娲日记——Java开发智能体 | Day 4：张开嘴巴，发出声音",
       "url": "https://blog.51cto.com/u_15599203/14725447",
       "last_hot_value": "",
@@ -182,6 +242,16 @@
       "is_new": false
     },
     {
+      "title": "让人头疼的正则表达式？用实时匹配、查找替换、常用规则库和语法速查全搞定",
+      "url": "https://blog.51cto.com/u_17695815/14732495",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "10 倍速接口测试：Claude + Skills 自动生成 Postman 集合，文档进去脚本出来",
       "url": "https://blog.51cto.com/u_11780953/14724703",
       "last_hot_value": "",
@@ -192,14 +262,24 @@
       "is_new": false
     },
     {
+      "title": "react-native 鸿蒙 NativeEventEmitter 详解 — 监听原生事件的正确姿势",
+      "url": "https://ost.51cto.com/posts/50740#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "# 码上鸿蒙•智绘未来# HarmonyOS Navigation 组件完全指南：从入门到精通",
       "url": "https://ost.51cto.com/posts/50515#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Jack实战】如何按时间、地点快速分类图片让APP快速导入",
@@ -222,14 +302,24 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS7 ArkUI给二维码中间塞个头像：看着简单，搞不好就扫不出来",
+      "url": "https://ost.51cto.com/posts/51066#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T13:07:01",
+      "last_seen_at": "2026-07-02T13:07:01",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "朋友圈文案 App 全栈实战03-CloudDB端云协同与4角色权限",
       "url": "https://ost.51cto.com/posts/50704#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
       "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Jack实战】如何在时光旅记中用 ArkUI WaterFlow 做发现页瀑布流",
