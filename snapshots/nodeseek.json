@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-02T13:07:09",
+  "update_time": "2026-07-02T15:27:57",
   "items": [
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:206430 回复:1943",
+      "first_seen_at": "2026-07-01T10:16:08",
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:651915 回复:1110",
+      "last_hot_value": "查看:655168 回复:1111",
       "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "查看:2381 回复:32",
       "first_seen_at": "2026-06-29T17:27:17",
       "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,12 @@
       "is_new": false
     },
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:205922 回复:1937",
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:195137 回复:2691",
       "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,22 +62,32 @@
       "is_new": false
     },
     {
-      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
-      "url": "https://www.nodeseek.com/post-572284-1",
-      "last_hot_value": "查看:42741 回复:168",
-      "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 3,
+      "title": "【开源】OpenFlare 自建 CDN, 集反代 Tunnel Pages WAF 于一身的究极缝合怪",
+      "url": "https://www.nodeseek.com/post-760916-1",
+      "last_hot_value": "查看:3757 回复:74",
+      "first_seen_at": "2026-07-02T15:27:57",
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "探针仙人的收官之作！探针的究极形态！燃尽了",
       "url": "https://www.nodeseek.com/post-798692-1",
-      "last_hot_value": "查看:4534 回复:120",
+      "last_hot_value": "查看:4767 回复:122",
       "first_seen_at": "2026-06-29T17:27:17",
-      "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 9,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
+      "url": "https://www.nodeseek.com/post-572284-1",
+      "last_hot_value": "查看:43108 回复:170",
+      "first_seen_at": "2026-06-30T23:41:52",
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -77,9 +97,19 @@
       "last_hot_value": "查看:3233 回复:88",
       "first_seen_at": "2026-06-30T23:41:52",
       "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "MJJ常用脚本合集",
+      "url": "https://www.nodeseek.com/post-528874-1",
+      "last_hot_value": "查看:6126 回复:121",
+      "first_seen_at": "2026-07-02T15:27:57",
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
@@ -87,9 +117,9 @@
       "last_hot_value": "查看:30683 回复:422",
       "first_seen_at": "2026-07-02T13:07:09",
       "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源】Kaloscope：一站式自动追番+弹幕播放+漫画轻小说聚合工具（6/29更新支持外挂+内封字幕）",
@@ -102,24 +132,24 @@
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:194235 回复:2686",
-      "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-01T10:16:08",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "常见各种线路和网络的科普",
+      "url": "https://www.nodeseek.com/post-523722-1",
+      "last_hot_value": "查看:15999 回复:208",
+      "first_seen_at": "2026-07-02T15:27:57",
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
       "url": "https://www.nodeseek.com/post-718774-1",
-      "last_hot_value": "查看:14368 回复:180",
+      "last_hot_value": "查看:14497 回复:181",
       "first_seen_at": "2026-07-02T13:07:09",
-      "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
@@ -142,14 +172,24 @@
       "is_new": false
     },
     {
+      "title": "Anubis 网站防护工具配置教程",
+      "url": "https://www.nodeseek.com/post-429695-1",
+      "last_hot_value": "查看:2554 回复:31",
+      "first_seen_at": "2026-07-02T15:27:57",
+      "last_seen_at": "2026-07-02T15:27:57",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "[新人看一看]老鸟请直接忽略",
       "url": "https://www.nodeseek.com/post-348342-1",
       "last_hot_value": "查看:19916 回复:381",
       "first_seen_at": "2026-07-02T13:07:09",
       "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
@@ -177,9 +217,9 @@
       "last_hot_value": "查看:3643 回复:106",
       "first_seen_at": "2026-07-02T13:07:09",
       "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[科普/教程]关于\"送中\"，你所要知道的一切！——什么是送中？如何判断是否送中？为什么会送中？如何预防/解决送中？还有完全免费且可以立马拉回去正确归属地的方法？还能“焊死”？？？",
