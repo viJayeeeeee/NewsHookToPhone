@@ -1,123 +1,43 @@
 {
-  "update_time": "2026-07-02T15:27:43",
+  "update_time": "2026-07-02T20:08:45",
   "items": [
     {
       "title": "DeepSeek正式官宣摇人，夯！",
       "url": "https://juejin.cn/post/7656721849944064010",
-      "last_hot_value": "热度:2727",
+      "last_hot_value": "热度:2745",
       "first_seen_at": "2026-06-30T13:16:50",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-02T20:08:45",
+      "consecutive_count": 6,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "React Renderer 分离的多平台架构",
-      "url": "https://juejin.cn/post/7656342465024540718",
-      "last_hot_value": "热度:2196",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 9,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek这次招得太猛了，36个岗位，80%都要会Agent！",
-      "url": "https://juejin.cn/post/7656300675647373321",
-      "last_hot_value": "热度:1665",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-07-01T10:15:58",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "我把祖传项目的构建时间砍了90%，领导以为我只是在\"优化了一下\"，结果隔壁组的CI都崩了来问我配置",
-      "url": "https://juejin.cn/post/7655348005602361363",
-      "last_hot_value": "热度:594",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 0,
-      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。",
       "url": "https://juejin.cn/post/7656055019972722731",
-      "last_hot_value": "热度:1413",
+      "last_hot_value": "热度:1422",
       "first_seen_at": "2026-06-29T23:10:51",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-02T20:08:45",
+      "consecutive_count": 7,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "我偷偷把公司的祖传 jQuery 项目改成了 Vue3，CTO 没发现，但全组都来抄我的代码了",
-      "url": "https://juejin.cn/post/7655631091143704595",
-      "last_hot_value": "热度:891",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-30T23:41:40",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "白宫前脚下了限制令，OpenAI 后脚就把 GPT-5.6 发了",
-      "url": "https://juejin.cn/post/7655594666130554921",
-      "last_hot_value": "热度:468",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
-      "url": "https://juejin.cn/post/7656050265523372032",
-      "last_hot_value": "热度:999",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 9,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "AI 乱改代码？试试这套 SDD 规范驱动工作流",
-      "url": "https://juejin.cn/post/7656050265522913280",
-      "last_hot_value": "热度:1053",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-07-01T10:15:58",
-      "consecutive_count": 0,
-      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "阿里一面，我霸气反问：你说你们在做Agent项目，说说langchain、muti-agent、a2a这些你们都是怎么做的？面试官一直在擦汗。。",
       "url": "https://juejin.cn/post/7657453685375369267",
-      "last_hot_value": "热度:819",
+      "last_hot_value": "热度:846",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "`??` 和 `||` 搞混，线上用户头像全挂了",
-      "url": "https://juejin.cn/post/7655657102968438811",
-      "last_hot_value": "热度:441",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-02T20:08:45",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "26k Star 开源内网穿透神器 NetBird，一分钟实现全球设备互联！",
       "url": "https://juejin.cn/post/7657201270935519266",
-      "last_hot_value": "热度:738",
+      "last_hot_value": "热度:747",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:45",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -144,30 +64,20 @@
     {
       "title": "我用 Codex 重写了同事维护三年的代码，他没说谢谢——而是找了领导",
       "url": "https://juejin.cn/post/7657392618506764326",
-      "last_hot_value": "热度:630",
+      "last_hot_value": "热度:657",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:45",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
       "url": "https://juejin.cn/post/7656202263124082730",
-      "last_hot_value": "热度:567",
+      "last_hot_value": "热度:576",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 2,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "学不动了，入门 Compose Styles API",
-      "url": "https://juejin.cn/post/7655245911813128238",
-      "last_hot_value": "热度:405",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T23:10:51",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-02T20:08:45",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -184,10 +94,10 @@
     {
       "title": "我把 Claude Code 搬到网页！自研高颜值 Web 交互工作台",
       "url": "https://juejin.cn/post/7656681358269825067",
-      "last_hot_value": "热度:378",
+      "last_hot_value": "热度:387",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:45",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -196,8 +106,8 @@
       "url": "https://juejin.cn/post/7657366002275614754",
       "last_hot_value": "热度:369",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T15:27:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:45",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -237,16 +147,6 @@
       "last_hot_value": "热度:342",
       "first_seen_at": "2026-06-30T13:16:50",
       "last_seen_at": "2026-06-30T13:16:50",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Rspack 2.1 发布：React Compiler 提速 10 倍！",
-      "url": "https://juejin.cn/post/7655529019282571291",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-06-29T17:27:06",
-      "last_seen_at": "2026-06-29T22:06:10",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

@@ -1,22 +1,22 @@
 {
-  "update_time": "2026-07-02T15:27:44",
+  "update_time": "2026-07-02T20:08:47",
   "items": [
+    {
+      "title": "从 0 到 1 构建企业级 RAG：一个中小企业可落地版本的完整架构",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162525807",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-07-02T20:08:47",
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【Linux网络】深入理解网络层IP协议：从公网路由到IP分片与组装",
       "url": "https://blog.csdn.net/2503_91389547/article/details/161706429",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-06-30T13:16:51",
       "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】Cursor 全能AI编程助手从部署到实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161807979",
-      "last_hot_value": "2.8w",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-07-02T13:06:59",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -24,10 +24,20 @@
     {
       "title": "232个AI专家随叫随到：Agency Agents 打造自己的“AI梦之队“",
       "url": "https://blog.csdn.net/zhangay1998/article/details/162431513",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "8493",
       "first_seen_at": "2026-07-02T13:06:59",
-      "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/162495319",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-07-02T13:06:59",
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,16 +47,6 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-06-30T13:16:51",
       "last_seen_at": "2026-07-01T10:15:59",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "PyTorch强化学习实战（18）——强化学习训练加速",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/157907236",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-30T23:41:42",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -62,14 +62,14 @@
       "is_new": false
     },
     {
-      "title": "GitHub 热榜项目 - 周榜(2026-06-27)",
-      "url": "https://blog.csdn.net/u014390502/article/details/162362859",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "给 Agent 装一个真正能用的记忆层：2026 年工程实战",
+      "url": "https://blog.csdn.net/iamentiam/article/details/162495495",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-02T20:08:47",
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "从零搭建电影数据爬虫：Python实战TMDB热门榜单抓取",
@@ -77,7 +77,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-02T13:06:59",
       "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -92,41 +92,21 @@
       "is_new": false
     },
     {
+      "title": "让闲置手机重新上线:Typecho博客部署、公网访问与主题配置",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/162425270",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-01T10:15:59",
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 4,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "基于 Trae + DeepSeek 的 Vibe Coding 实践指南（一）：高效搭建 SpringBoot 自动化开发环境",
       "url": "https://blog.csdn.net/2502_91499791/article/details/162463398",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-02T13:06:59",
       "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "让闲置手机重新上线:Typecho博客部署、公网访问与主题配置",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/162425270",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-01T10:15:59",
-      "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【AI】向量数据库的原理与选型详解",
-      "url": "https://blog.csdn.net/weixin_62043600/article/details/162397873",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-07-01T10:15:59",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Dataify 静态 ISP 独享代理高并发实测",
-      "url": "https://blog.csdn.net/m0_63947499/article/details/162390390",
-      "last_hot_value": "8775",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-30T23:41:42",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -142,52 +122,32 @@
       "is_new": false
     },
     {
-      "title": "【同济线性代数第五版】第五章 相似矩阵及二次型",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/162000803",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-07-01T10:15:59",
-      "consecutive_count": 0,
+      "title": "CMake 035：target作用域权限流转与构建参数精细化管控全解",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/162506282",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-02T20:08:47",
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "硬核攻坚：西门子 840D sl 激光对刀 10 组 GUD 全局变量配置与全流程调试指南",
-      "url": "https://blog.csdn.net/msdzzh/article/details/162348081",
-      "last_hot_value": "7373",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T23:10:53",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/162495319",
-      "last_hot_value": "8853",
-      "first_seen_at": "2026-07-02T13:06:59",
-      "last_seen_at": "2026-07-02T15:27:44",
+      "title": "【LE Audio】CSIP精讲[4]：Set Coordinator全流程管控与实现精要",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/162432376",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-02T15:27:44",
+      "last_seen_at": "2026-07-02T20:08:47",
       "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "【LE Audio】CSIP精讲[4]：Set Coordinator全流程管控与实现精要",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/162432376",
-      "last_hot_value": "8252",
-      "first_seen_at": "2026-07-02T15:27:44",
-      "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
       "title": "【Linux】nginx:alpine国内下载这个镜像无法顺畅下载，有什么好办法呢",
       "url": "https://blog.csdn.net/lmy_520/article/details/162483099",
-      "last_hot_value": "7531",
+      "last_hot_value": "9367",
       "first_seen_at": "2026-07-01T10:15:59",
-      "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -197,7 +157,7 @@
       "last_hot_value": "7040",
       "first_seen_at": "2026-06-30T13:16:51",
       "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -212,34 +172,24 @@
       "is_new": false
     },
     {
-      "title": "【LE Audio】CSIP精讲[2]：蓝牙协同集的配置骨架与组网规则",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/162349658",
-      "last_hot_value": "8812",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T17:27:08",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "Oracle - RAC集群搭建，核心步骤与配置要点",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157584943",
       "last_hot_value": "8251",
       "first_seen_at": "2026-07-02T13:06:59",
       "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "Oracle - 分区索引的创建与使用，与分区表的配合优化",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157584818",
-      "last_hot_value": "8807",
-      "first_seen_at": "2026-06-29T17:27:08",
-      "last_seen_at": "2026-06-29T17:27:08",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "【HarmonyOS 6.0】ArkUI Swiper组件模拟拖拽功能深度解析",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162282327",
+      "last_hot_value": "8077",
+      "first_seen_at": "2026-07-02T20:08:47",
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "【Linux 指南】文件系统系列（四）：路径解析与挂载机制 —— 从 dentry 缓存到分区挂载实战全解析",
@@ -250,6 +200,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【花雕动手做】行空板 K10 系列实验之语音识别TT马达双路差速智能小车方案一",
+      "url": "https://blog.csdn.net/weixin_41659040/article/details/162425907",
+      "last_hot_value": "7916",
+      "first_seen_at": "2026-07-02T20:08:47",
+      "last_seen_at": "2026-07-02T20:08:47",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "从纯文本 Agent 到具身交互智能：魔珐星云让大模型拥有 3D 拟人化表达层",

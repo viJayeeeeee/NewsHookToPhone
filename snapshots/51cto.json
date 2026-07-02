@@ -1,23 +1,13 @@
 {
-  "update_time": "2026-07-02T15:27:49",
+  "update_time": "2026-07-02T20:08:48",
   "items": [
     {
       "title": "基于Obsidian搭建\"自己会重写自己\"的LLM Wiki知识库",
       "url": "https://www.51cto.com/article/847971.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "怎么用Deepagent实现一个Harness智能体？",
-      "url": "https://www.51cto.com/article/847293.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +26,8 @@
       "url": "https://www.51cto.com/article/848069.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,22 +42,12 @@
       "is_new": false
     },
     {
-      "title": "【Jack实战】如何让《时光旅记》适配华为数据克隆迁移",
-      "url": "https://ost.51cto.com/posts/50218#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-30T13:16:53",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "DeepSeek点燃大模型效率之争，阶跃火速接棒：JetSpec让大模型解码速度最高提升近10倍",
       "url": "https://www.51cto.com/article/847951.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,22 +62,12 @@
       "is_new": false
     },
     {
-      "title": "鸿蒙 React Native 调用小艺智能体：Agent Framework Kit 桥接实践",
-      "url": "https://ost.51cto.com/posts/50216#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "2026年Python开发最容易涨薪的5个技术点，学会直接跳出脚本小子的职业瓶颈",
       "url": "https://blog.51cto.com/u_17740264/14733017",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -122,22 +92,12 @@
       "is_new": false
     },
     {
-      "title": "粒子思维：基于随机动力系统的连续语言模型",
-      "url": "https://blog.51cto.com/u_15177056/14725199",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "GraphRAG、Agentic RAG 值不值得用?9 种方案实测说了大实话",
       "url": "https://blog.51cto.com/u_16116809/14732727",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -162,22 +122,12 @@
       "is_new": false
     },
     {
-      "title": "世界杯进行中，用 Access 做一张赛后分析页",
-      "url": "https://blog.51cto.com/willmiao/14725150",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T23:10:54",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "基于 WorkBuddy+CodeBuddy 集成 drawio-skill：自然语言文本一键生成可编辑 Draw.io 图表实战",
       "url": "https://blog.51cto.com/yelangking/14732723",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -202,22 +152,12 @@
       "is_new": false
     },
     {
-      "title": "通过引入大模型来处理图片文件",
-      "url": "https://blog.51cto.com/u_15686031/14724810",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T23:10:54",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "微调LocateAnything-3B 实现超高密度的目标检测",
       "url": "https://blog.51cto.com/deephub/14732720",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -232,32 +172,12 @@
       "is_new": false
     },
     {
-      "title": "智能体构建：基于SKILL的AI智能体构建：模块化能力编排+实时交互系统全实现.136",
-      "url": "https://blog.51cto.com/u_16380863/14724787",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T23:10:54",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "让人头疼的正则表达式？用实时匹配、查找替换、常用规则库和语法速查全搞定",
       "url": "https://blog.51cto.com/u_17695815/14732495",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "10 倍速接口测试：Claude + Skills 自动生成 Postman 集合，文档进去脚本出来",
-      "url": "https://blog.51cto.com/u_11780953/14724703",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T23:10:54",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -266,8 +186,8 @@
       "url": "https://ost.51cto.com/posts/50740#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -292,22 +212,12 @@
       "is_new": false
     },
     {
-      "title": "# 码上鸿蒙•智绘未来#HarmonyOS7更新亮点实录37：基于 C API 的文件加速前置扫描可用性查询机制",
-      "url": "https://ost.51cto.com/posts/50121#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T17:27:09",
-      "last_seen_at": "2026-06-29T17:27:09",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "HarmonyOS7 ArkUI给二维码中间塞个头像：看着简单，搞不好就扫不出来",
       "url": "https://ost.51cto.com/posts/51066#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T15:27:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-02T20:08:48",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },
