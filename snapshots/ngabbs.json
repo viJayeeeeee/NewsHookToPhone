@@ -1,24 +1,44 @@
 {
-  "update_time": "2026-07-01T23:39:45",
+  "update_time": "2026-07-02T11:12:07",
   "items": [
     {
       "title": "《斯普拉遁 涂击队》直播",
       "url": "https://bbs.nga.cn/read.php?tid=47074009",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T23:39:45",
-      "last_seen_at": "2026-07-01T23:39:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-02T11:12:07",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "《007 初露锋芒》游戏评测",
       "url": "https://bbs.nga.cn/read.php?tid=47067892",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T23:39:45",
-      "last_seen_at": "2026-07-01T23:39:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-02T11:12:07",
+      "consecutive_count": 2,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "使命召唤无人区搜打撤模式",
+      "url": "https://bbs.nga.cn/read.php?tid=46964706",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T11:12:07",
+      "last_seen_at": "2026-07-02T11:12:07",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "任天堂直面会",
+      "url": "https://bbs.nga.cn/read.php?tid=46949032",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T11:12:07",
+      "last_seen_at": "2026-07-02T11:12:07",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -26,17 +46,7 @@
       "url": "https://bbs.nga.cn/read.php?tid=47054330",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T23:39:45",
-      "last_seen_at": "2026-07-01T23:39:45",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "即将到来的S2大秘境改动",
-      "url": "https://bbs.nga.cn/read.php?tid=47046804",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T01:33:21",
-      "last_seen_at": "2026-07-01T23:39:45",
+      "last_seen_at": "2026-07-02T11:12:07",
       "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
@@ -46,20 +56,20 @@
       "url": "https://bbs.nga.cn/read.php?tid=47075685",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T23:39:45",
-      "last_seen_at": "2026-07-01T23:39:45",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "绝地反击将于6月25日开启",
-      "url": "https://bbs.nga.cn/read.php?tid=47032078",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-29T01:33:21",
-      "last_seen_at": "2026-07-01T23:39:45",
+      "last_seen_at": "2026-07-02T11:12:07",
       "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "2026动画评选Season2投票评选",
+      "url": "https://bbs.nga.cn/read.php?tid=47082755",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T11:12:07",
+      "last_seen_at": "2026-07-02T11:12:07",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "&amp;#8203;2026动画评选Season2投票评选",
@@ -67,8 +77,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T23:39:45",
       "last_seen_at": "2026-07-01T23:39:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "网友爱吃的零食互推",
+      "url": "https://bbs.nga.cn/read.php?tid=46867223",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-02T11:12:07",
+      "last_seen_at": "2026-07-02T11:12:07",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     }
   ]
