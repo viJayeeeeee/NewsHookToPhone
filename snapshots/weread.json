@@ -1,35 +1,55 @@
 {
-  "update_time": "2026-07-01T19:16:29",
+  "update_time": "2026-07-03T05:00:44",
   "items": [
+    {
+      "title": "世上为什么要有图书馆（微信读书特别版）",
+      "url": "",
+      "last_hot_value": "1376人在读",
+      "first_seen_at": "2026-07-03T05:00:44",
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "持续买入",
       "url": "",
-      "last_hot_value": "2422人在读",
+      "last_hot_value": "2668人在读",
       "first_seen_at": "2026-06-30T21:06:42",
-      "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "记一忘三二（不开心就读李娟！）",
+      "url": "",
+      "last_hot_value": "2865人在读",
+      "first_seen_at": "2026-07-03T05:00:44",
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "毛泽东选集（全四卷）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-07-01T19:16:29",
-      "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "红星照耀中国",
       "url": "",
-      "last_hot_value": "1527人在读",
+      "last_hot_value": "1801人在读",
       "first_seen_at": "2026-07-01T19:16:29",
-      "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "外婆的道歉信",
@@ -44,32 +64,32 @@
     {
       "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "975人在读",
+      "last_hot_value": "1020人在读",
       "first_seen_at": "2026-07-01T19:16:29",
-      "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "次第花开（2017修订新版）",
       "url": "",
-      "last_hot_value": "1390人在读",
+      "last_hot_value": "1233人在读",
       "first_seen_at": "2026-06-30T21:06:42",
-      "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "相信",
       "url": "",
-      "last_hot_value": "2830人在读",
+      "last_hot_value": "2471人在读",
       "first_seen_at": "2026-07-01T19:16:29",
-      "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "八字命理学教程（全三册）：手把手教你从入门到精通",
@@ -84,12 +104,12 @@
     {
       "title": "置身事内：中国政府与经济发展",
       "url": "",
-      "last_hot_value": "9853人在读",
+      "last_hot_value": "8707人在读",
       "first_seen_at": "2026-07-01T19:16:29",
-      "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "古代汉语（校订重排本）（第1册）",
@@ -97,9 +117,9 @@
       "last_hot_value": "331人在读",
       "first_seen_at": "2026-07-01T19:16:29",
       "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "日本式衰退：不增长时代的全景避坑指南",
@@ -112,14 +132,24 @@
       "is_new": false
     },
     {
+      "title": "等一切风平浪静（治愈散文）",
+      "url": "",
+      "last_hot_value": "3998人在读",
+      "first_seen_at": "2026-07-03T05:00:44",
+      "last_seen_at": "2026-07-03T05:00:44",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "大地上我们转瞬即逝的绚烂",
       "url": "",
       "last_hot_value": "378人在读",
       "first_seen_at": "2026-07-01T19:16:29",
       "last_seen_at": "2026-07-01T19:16:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
