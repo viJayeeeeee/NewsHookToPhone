@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-07-02T23:39:01",
+  "update_time": "2026-07-03T12:26:37",
   "items": [
+    {
+      "title": "Linux 怎么复制文件和目录？cp 命令详解",
+      "url": "https://www.51cto.com/article/848149.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-03T12:26:37",
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "基于Obsidian搭建\"自己会重写自己\"的LLM Wiki知识库",
       "url": "https://www.51cto.com/article/847971.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
       "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "SpringBoot 中 AOP 实现权限校验（角色/权限）",
+      "url": "https://www.51cto.com/article/848159.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-03T12:26:37",
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "Karpathy又封神！掀翻RAG，把你的笔记变成第二大脑",
@@ -17,7 +37,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
       "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -32,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "CodeGraph 使用指南：把代码库转化为 AI Agent 可查询的知识图谱",
+      "url": "https://www.51cto.com/article/848259.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-03T12:26:37",
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "DeepSeek点燃大模型效率之争，阶跃火速接棒：JetSpec让大模型解码速度最高提升近10倍",
       "url": "https://www.51cto.com/article/847951.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-01T10:16:01",
       "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "大模型微调实战：从数据到部署",
+      "url": "https://blog.51cto.com/qian5201314/14735292",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-03T12:26:37",
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "2026年Python开发最容易涨薪的5个技术点，学会直接跳出脚本小子的职业瓶颈",
       "url": "https://blog.51cto.com/u_17740264/14733017",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -82,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "设计 Agent 的工具调用：如何让 AI 操作 Figma API？",
+      "url": "https://blog.51cto.com/chenfenglove/14735105",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-03T12:26:37",
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "GraphRAG、Agentic RAG 值不值得用?9 种方案实测说了大实话",
       "url": "https://blog.51cto.com/u_16116809/14732727",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,12 +162,22 @@
       "is_new": false
     },
     {
+      "title": "用 AI 大模型重写运维脚本：5 个真实场景的提效实录",
+      "url": "https://blog.51cto.com/dickeryang/14734533",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-03T12:26:37",
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "基于 WorkBuddy+CodeBuddy 集成 drawio-skill：自然语言文本一键生成可编辑 Draw.io 图表实战",
       "url": "https://blog.51cto.com/yelangking/14732723",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
       "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -147,7 +207,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
       "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -167,9 +227,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
       "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "从报销附件审核页看 ImageSource 解码尺寸和缓存边界",
+      "url": "https://ost.51cto.com/posts/51186#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-03T12:26:37",
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "react-native 鸿蒙 NativeEventEmitter 详解 — 监听原生事件的正确姿势",
@@ -177,7 +247,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
       "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -196,8 +266,8 @@
       "url": "https://ost.51cto.com/posts/51066#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-03T12:26:37",
+      "consecutive_count": 5,
       "peak_rank": 10,
       "is_new": false
     },

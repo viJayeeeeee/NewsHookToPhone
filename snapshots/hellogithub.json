@@ -1,84 +1,104 @@
 {
-  "update_time": "2026-07-02T23:39:07",
+  "update_time": "2026-07-03T12:26:43",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "1399",
+      "last_hot_value": "1624",
       "first_seen_at": "2026-07-02T23:39:07",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "把英语音频变成听说训练的应用",
       "url": "https://github.com/echo-loop/Echo-Loop",
-      "last_hot_value": "609",
+      "last_hot_value": "732",
       "first_seen_at": "2026-06-30T13:16:58",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 8,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "开源体素游戏创作平台",
       "url": "https://github.com/luanti-org/luanti",
-      "last_hot_value": "687",
+      "last_hot_value": "779",
       "first_seen_at": "2026-07-02T23:39:07",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "AI 智能体小镇",
+      "url": "https://github.com/XiaoLuoLYG/GOD",
+      "last_hot_value": "682",
+      "first_seen_at": "2026-07-02T15:27:55",
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 4,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "自适应网页改版的 Python 爬虫框架",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "last_hot_value": "419",
+      "last_hot_value": "511",
       "first_seen_at": "2026-06-30T23:41:51",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 7,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "从零开始训练大语言模型",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "last_hot_value": "605",
+      "last_hot_value": "696",
       "first_seen_at": "2026-07-02T23:39:07",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "住在菜单栏里的 macOS 工具集合",
       "url": "https://github.com/ggbond268/MacTools",
-      "last_hot_value": "630",
+      "last_hot_value": "698",
       "first_seen_at": "2026-07-02T23:39:07",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "极简的 Android 课程表",
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
-      "last_hot_value": "408",
+      "last_hot_value": "467",
       "first_seen_at": "2026-07-02T23:39:07",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "659",
+      "last_hot_value": "739",
       "first_seen_at": "2026-07-02T23:39:07",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 2,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "超低延迟的离线语音输入工具",
+      "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
+      "last_hot_value": "388",
+      "first_seen_at": "2026-07-03T12:26:43",
+      "last_seen_at": "2026-07-03T12:26:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,7 +107,7 @@
       "last_hot_value": "271",
       "first_seen_at": "2026-07-02T13:07:07",
       "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -99,16 +119,6 @@
       "last_seen_at": "2026-07-02T13:07:07",
       "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "AI 智能体小镇",
-      "url": "https://github.com/XiaoLuoLYG/GOD",
-      "last_hot_value": "481",
-      "first_seen_at": "2026-07-02T15:27:55",
-      "last_seen_at": "2026-07-02T23:39:07",
-      "consecutive_count": 3,
-      "peak_rank": 10,
       "is_new": false
     }
   ]

@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-07-02T23:38:59",
+  "update_time": "2026-07-03T12:26:34",
   "items": [
+    {
+      "title": "我用 Codex 重写了同事维护三年的代码，他没说谢谢——而是找了领导",
+      "url": "https://juejin.cn/post/7657392618506764326",
+      "last_hot_value": "热度:1746",
+      "first_seen_at": "2026-07-02T13:06:57",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "DeepSeek正式官宣摇人，夯！",
       "url": "https://juejin.cn/post/7656721849944064010",
       "last_hot_value": "热度:2745",
       "first_seen_at": "2026-06-30T13:16:50",
       "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "26k Star 开源内网穿透神器 NetBird，一分钟实现全球设备互联！",
+      "url": "https://juejin.cn/post/7657201270935519266",
+      "last_hot_value": "热度:1071",
+      "first_seen_at": "2026-07-02T13:06:57",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 5,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,9 +37,29 @@
       "last_hot_value": "热度:2205",
       "first_seen_at": "2026-07-02T23:38:59",
       "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "Anthropic 大面积封号，连大 V 都忍不了开喷了。",
+      "url": "https://juejin.cn/post/7657477469919494185",
+      "last_hot_value": "热度:909",
+      "first_seen_at": "2026-07-03T12:26:34",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
+    },
+    {
+      "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
+      "url": "https://juejin.cn/post/7656202263124082730",
+      "last_hot_value": "热度:711",
+      "first_seen_at": "2026-07-02T13:06:57",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 5,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "AI具身交互：实现一个会说话的3D虚拟伴侣",
@@ -27,8 +67,18 @@
       "last_hot_value": "热度:1026",
       "first_seen_at": "2026-07-02T23:38:59",
       "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "213000星的Superpowers，90%的人只用了它10%的功能",
+      "url": "https://juejin.cn/post/7657074612481523747",
+      "last_hot_value": "热度:486",
+      "first_seen_at": "2026-07-03T12:26:34",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -37,19 +87,19 @@
       "last_hot_value": "热度:846",
       "first_seen_at": "2026-07-02T13:06:57",
       "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "26k Star 开源内网穿透神器 NetBird，一分钟实现全球设备互联！",
-      "url": "https://juejin.cn/post/7657201270935519266",
-      "last_hot_value": "热度:747",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 4,
+      "title": "干了这么多年前端，聊聊 2026 年我们到底还值不值钱",
+      "url": "https://juejin.cn/post/7657147946866753545",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-07-03T12:26:34",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "为什么越来越多的人使用FastAPI?",
@@ -72,24 +122,24 @@
       "is_new": false
     },
     {
-      "title": "我用 Codex 重写了同事维护三年的代码，他没说谢谢——而是找了领导",
-      "url": "https://juejin.cn/post/7657392618506764326",
-      "last_hot_value": "热度:657",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 4,
+      "title": "国产版Codex？阿里QoderWork有点东西，设计出来的Codex+Claude Code学习网站好看啊（附教程，超简单）",
+      "url": "https://juejin.cn/post/7657075968750829622",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-07-03T12:26:34",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
-      "url": "https://juejin.cn/post/7656202263124082730",
-      "last_hot_value": "热度:576",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 4,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
+      "url": "https://juejin.cn/post/7658119907389554738",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-07-03T12:26:34",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "Main-safe：现代Android 架构真正的分水岭",
@@ -102,22 +152,22 @@
       "is_new": false
     },
     {
+      "title": "《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战",
+      "url": "https://juejin.cn/post/7657366002275614754",
+      "last_hot_value": "热度:405",
+      "first_seen_at": "2026-07-02T13:06:57",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 5,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "我把 Claude Code 搬到网页！自研高颜值 Web 交互工作台",
       "url": "https://juejin.cn/post/7656681358269825067",
       "last_hot_value": "热度:387",
       "first_seen_at": "2026-07-02T13:06:57",
       "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 4,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战",
-      "url": "https://juejin.cn/post/7657366002275614754",
-      "last_hot_value": "热度:369",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -140,6 +190,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "可视化大屏设计器脚手架：从设计到交付的一站式方案",
+      "url": "https://juejin.cn/post/7657067589738463282",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-07-03T12:26:34",
+      "last_seen_at": "2026-07-03T12:26:34",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "闲聊几句，Android老哥们，你们多久没做技改需求了",
