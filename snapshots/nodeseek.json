@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-03T12:26:44",
+  "update_time": "2026-07-03T14:40:44",
   "items": [
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:206430 回复:1943",
+      "last_hot_value": "查看:207036 回复:1946",
       "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:655168 回复:1111",
+      "last_hot_value": "查看:658585 回复:1114",
       "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "[记录]一次从头到尾配置小鸡ddns的过程",
+      "url": "https://www.nodeseek.com/post-651938-1",
+      "last_hot_value": "查看:1008 回复:22",
+      "first_seen_at": "2026-07-03T14:40:44",
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:195137 回复:2691",
+      "last_hot_value": "查看:195659 回复:2697",
       "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +57,7 @@
       "last_hot_value": "查看:3757 回复:74",
       "first_seen_at": "2026-07-02T15:27:57",
       "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -57,7 +67,7 @@
       "last_hot_value": "查看:43108 回复:170",
       "first_seen_at": "2026-06-30T23:41:52",
       "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,24 +82,44 @@
       "is_new": false
     },
     {
+      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
+      "url": "https://www.nodeseek.com/post-373751-1",
+      "last_hot_value": "查看:228310 回复:491",
+      "first_seen_at": "2026-07-03T14:40:44",
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
+      "url": "https://www.nodeseek.com/post-683468-1",
+      "last_hot_value": "查看:30911 回复:423",
+      "first_seen_at": "2026-07-02T13:07:09",
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "MJJ常用脚本合集",
       "url": "https://www.nodeseek.com/post-528874-1",
       "last_hot_value": "查看:6126 回复:121",
       "first_seen_at": "2026-07-02T15:27:57",
       "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
-      "url": "https://www.nodeseek.com/post-683468-1",
-      "last_hot_value": "查看:30683 回复:422",
-      "first_seen_at": "2026-07-02T13:07:09",
-      "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "eSIM 折腾留存记+一点补充心得",
+      "url": "https://www.nodeseek.com/post-783926-1",
+      "last_hot_value": "查看:4312 回复:77",
+      "first_seen_at": "2026-07-03T14:40:44",
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "探针仙人的收官之作！探针的究极形态！燃尽了",
@@ -97,7 +127,7 @@
       "last_hot_value": "查看:4767 回复:122",
       "first_seen_at": "2026-07-02T23:39:08",
       "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -107,7 +137,7 @@
       "last_hot_value": "查看:15999 回复:208",
       "first_seen_at": "2026-07-02T15:27:57",
       "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -117,9 +147,19 @@
       "last_hot_value": "查看:14497 回复:181",
       "first_seen_at": "2026-07-02T13:07:09",
       "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "📢 Claude Code 是如何知道你在中国大陆的？",
+      "url": "https://www.nodeseek.com/post-804404-1",
+      "last_hot_value": "查看:1777 回复:26",
+      "first_seen_at": "2026-07-03T14:40:44",
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "Anubis 网站防护工具配置教程",
@@ -127,7 +167,7 @@
       "last_hot_value": "查看:2554 回复:31",
       "first_seen_at": "2026-07-02T15:27:57",
       "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -142,6 +182,16 @@
       "is_new": false
     },
     {
+      "title": "[7.30 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
+      "url": "https://www.nodeseek.com/post-750908-1",
+      "last_hot_value": "查看:3756 回复:107",
+      "first_seen_at": "2026-07-03T14:40:44",
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "[6.27 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
       "url": "https://www.nodeseek.com/post-750908-1",
       "last_hot_value": "查看:3588 回复:105",
@@ -150,6 +200,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "[分享] 基于Cloudflare Pro和 Snippets 的WAF防护规则",
+      "url": "https://www.nodeseek.com/post-221850-1",
+      "last_hot_value": "查看:7377 回复:66",
+      "first_seen_at": "2026-07-03T14:40:44",
+      "last_seen_at": "2026-07-03T14:40:44",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "[6.30 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",

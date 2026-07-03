@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-07-03T12:26:37",
+  "update_time": "2026-07-03T14:40:35",
   "items": [
     {
       "title": "Linux 怎么复制文件和目录？cp 命令详解",
       "url": "https://www.51cto.com/article/848149.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "基于Obsidian搭建\"自己会重写自己\"的LLM Wiki知识库",
@@ -26,10 +26,10 @@
       "url": "https://www.51cto.com/article/848159.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Karpathy又封神！掀翻RAG，把你的笔记变成第二大脑",
@@ -56,10 +56,10 @@
       "url": "https://www.51cto.com/article/848259.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek点燃大模型效率之争，阶跃火速接棒：JetSpec让大模型解码速度最高提升近10倍",
@@ -72,32 +72,22 @@
       "is_new": false
     },
     {
-      "title": "刚刚，OpenClaw和Cursor杀入手机！Agent从此塞进口袋",
-      "url": "https://www.51cto.com/article/847910.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "大模型微调实战：从数据到部署",
       "url": "https://blog.51cto.com/qian5201314/14735292",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "2026年Python开发最容易涨薪的5个技术点，学会直接跳出脚本小子的职业瓶颈",
       "url": "https://blog.51cto.com/u_17740264/14733017",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -112,32 +102,22 @@
       "is_new": false
     },
     {
-      "title": "用 Skill 自动化服务器巡检",
-      "url": "https://blog.51cto.com/u_16077267/14727103",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "设计 Agent 的工具调用：如何让 AI 操作 Figma API？",
       "url": "https://blog.51cto.com/chenfenglove/14735105",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GraphRAG、Agentic RAG 值不值得用?9 种方案实测说了大实话",
       "url": "https://blog.51cto.com/u_16116809/14732727",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -152,24 +132,14 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek 公共服务智能化实战：政策咨询×材料预审×工单分类×公文写作",
-      "url": "https://blog.51cto.com/dickeryang/14726814",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-07-01T10:16:01",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "用 AI 大模型重写运维脚本：5 个真实场景的提效实录",
       "url": "https://blog.51cto.com/dickeryang/14734533",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "基于 WorkBuddy+CodeBuddy 集成 drawio-skill：自然语言文本一键生成可编辑 Draw.io 图表实战",
@@ -192,31 +162,11 @@
       "is_new": false
     },
     {
-      "title": "运维实战：RES 1.2GB 但堆只有 256MB——Netty DirectByteBuffer 泄漏排障全记录",
-      "url": "https://blog.51cto.com/u_13530694/14725604",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T23:41:43",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "微调LocateAnything-3B 实现超高密度的目标检测",
       "url": "https://blog.51cto.com/deephub/14732720",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
       "last_seen_at": "2026-07-02T23:39:01",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "女娲日记——Java开发智能体 | Day 4：张开嘴巴，发出声音",
-      "url": "https://blog.51cto.com/u_15599203/14725447",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T13:16:53",
-      "last_seen_at": "2026-06-30T23:41:43",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -236,10 +186,10 @@
       "url": "https://ost.51cto.com/posts/51186#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "react-native 鸿蒙 NativeEventEmitter 详解 — 监听原生事件的正确姿势",
@@ -266,8 +216,8 @@
       "url": "https://ost.51cto.com/posts/51066#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:01",
-      "last_seen_at": "2026-07-03T12:26:37",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-03T14:40:35",
+      "consecutive_count": 6,
       "peak_rank": 10,
       "is_new": false
     },

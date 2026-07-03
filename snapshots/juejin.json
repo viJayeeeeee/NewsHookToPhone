@@ -1,23 +1,13 @@
 {
-  "update_time": "2026-07-03T12:26:34",
+  "update_time": "2026-07-03T14:40:31",
   "items": [
     {
       "title": "我用 Codex 重写了同事维护三年的代码，他没说谢谢——而是找了领导",
       "url": "https://juejin.cn/post/7657392618506764326",
-      "last_hot_value": "热度:1746",
+      "last_hot_value": "热度:1773",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek正式官宣摇人，夯！",
-      "url": "https://juejin.cn/post/7656721849944064010",
-      "last_hot_value": "热度:2745",
-      "first_seen_at": "2026-06-30T13:16:50",
-      "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +16,8 @@
       "url": "https://juejin.cn/post/7657201270935519266",
       "last_hot_value": "热度:1071",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -44,20 +34,20 @@
     {
       "title": "Anthropic 大面积封号，连大 V 都忍不了开喷了。",
       "url": "https://juejin.cn/post/7657477469919494185",
-      "last_hot_value": "热度:909",
+      "last_hot_value": "热度:927",
       "first_seen_at": "2026-07-03T12:26:34",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
       "url": "https://juejin.cn/post/7656202263124082730",
       "last_hot_value": "热度:711",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -74,12 +64,12 @@
     {
       "title": "213000星的Superpowers，90%的人只用了它10%的功能",
       "url": "https://juejin.cn/post/7657074612481523747",
-      "last_hot_value": "热度:486",
+      "last_hot_value": "热度:504",
       "first_seen_at": "2026-07-03T12:26:34",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "阿里一面，我霸气反问：你说你们在做Agent项目，说说langchain、muti-agent、a2a这些你们都是怎么做的？面试官一直在擦汗。。",
@@ -94,20 +84,10 @@
     {
       "title": "干了这么多年前端，聊聊 2026 年我们到底还值不值钱",
       "url": "https://juejin.cn/post/7657147946866753545",
-      "last_hot_value": "热度:477",
+      "last_hot_value": "热度:486",
       "first_seen_at": "2026-07-03T12:26:34",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "为什么越来越多的人使用FastAPI?",
-      "url": "https://juejin.cn/post/7656613897318907958",
-      "last_hot_value": "热度:792",
-      "first_seen_at": "2026-06-30T13:16:50",
-      "last_seen_at": "2026-07-01T10:15:58",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
@@ -122,24 +102,24 @@
       "is_new": false
     },
     {
-      "title": "国产版Codex？阿里QoderWork有点东西，设计出来的Codex+Claude Code学习网站好看啊（附教程，超简单）",
-      "url": "https://juejin.cn/post/7657075968750829622",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-07-03T12:26:34",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
       "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
       "url": "https://juejin.cn/post/7658119907389554738",
-      "last_hot_value": "热度:414",
+      "last_hot_value": "热度:423",
       "first_seen_at": "2026-07-03T12:26:34",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "国产版Codex？阿里QoderWork有点东西，设计出来的Codex+Claude Code学习网站好看啊（附教程，超简单）",
+      "url": "https://juejin.cn/post/7657075968750829622",
+      "last_hot_value": "热度:423",
+      "first_seen_at": "2026-07-03T12:26:34",
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "Main-safe：现代Android 架构真正的分水岭",
@@ -154,10 +134,10 @@
     {
       "title": "《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战",
       "url": "https://juejin.cn/post/7657366002275614754",
-      "last_hot_value": "热度:405",
+      "last_hot_value": "热度:414",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 6,
       "peak_rank": 9,
       "is_new": false
     },
@@ -182,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "虽迟但到！GPT-5.6 终于来了！",
-      "url": "https://juejin.cn/post/7655631091143917587",
-      "last_hot_value": "热度:369",
-      "first_seen_at": "2026-06-30T13:16:50",
-      "last_seen_at": "2026-06-30T13:16:50",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "可视化大屏设计器脚手架：从设计到交付的一站式方案",
       "url": "https://juejin.cn/post/7657067589738463282",
-      "last_hot_value": "热度:396",
+      "last_hot_value": "热度:405",
       "first_seen_at": "2026-07-03T12:26:34",
-      "last_seen_at": "2026-07-03T12:26:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-03T14:40:31",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "闲聊几句，Android老哥们，你们多久没做技改需求了",
@@ -207,16 +177,6 @@
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-07-01T10:15:58",
       "last_seen_at": "2026-07-01T10:15:58",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "DSpark 讲透：DeepSeek 不换模型，硬把 V4 提速 85%，是怎么做到的？",
-      "url": "https://juejin.cn/post/7655691054172700718",
-      "last_hot_value": "热度:342",
-      "first_seen_at": "2026-06-30T13:16:50",
-      "last_seen_at": "2026-06-30T13:16:50",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
