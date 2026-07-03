@@ -1,12 +1,12 @@
 {
-  "update_time": "2026-07-03T05:00:44",
+  "update_time": "2026-07-03T20:10:27",
   "items": [
     {
-      "title": "世上为什么要有图书馆（微信读书特别版）",
+      "title": "夜晚的潜水艇",
       "url": "",
-      "last_hot_value": "1376人在读",
-      "first_seen_at": "2026-07-03T05:00:44",
-      "last_seen_at": "2026-07-03T05:00:44",
+      "last_hot_value": "1674人在读",
+      "first_seen_at": "2026-07-03T20:10:27",
+      "last_seen_at": "2026-07-03T20:10:27",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
@@ -14,40 +14,60 @@
     {
       "title": "持续买入",
       "url": "",
-      "last_hot_value": "2668人在读",
+      "last_hot_value": "2464人在读",
       "first_seen_at": "2026-06-30T21:06:42",
-      "last_seen_at": "2026-07-03T05:00:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-03T20:10:27",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "记一忘三二（不开心就读李娟！）",
+      "title": "世上为什么要有图书馆（微信读书特别版）",
       "url": "",
-      "last_hot_value": "2865人在读",
+      "last_hot_value": "1427人在读",
       "first_seen_at": "2026-07-03T05:00:44",
-      "last_seen_at": "2026-07-03T05:00:44",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
+      "last_seen_at": "2026-07-03T20:10:27",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
     },
     {
       "title": "毛泽东选集（全四卷）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-07-01T19:16:29",
-      "last_seen_at": "2026-07-03T05:00:44",
+      "last_seen_at": "2026-07-03T20:10:27",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "记一忘三二（不开心就读李娟！）",
+      "url": "",
+      "last_hot_value": "2924人在读",
+      "first_seen_at": "2026-07-03T05:00:44",
+      "last_seen_at": "2026-07-03T20:10:27",
       "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
     {
+      "title": "金钱心理学 （全新增订版）",
+      "url": "",
+      "last_hot_value": "3233人在读",
+      "first_seen_at": "2026-07-03T20:10:27",
+      "last_seen_at": "2026-07-03T20:10:27",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "红星照耀中国",
       "url": "",
-      "last_hot_value": "1801人在读",
+      "last_hot_value": "1922人在读",
       "first_seen_at": "2026-07-01T19:16:29",
-      "last_seen_at": "2026-07-03T05:00:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-03T20:10:27",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -64,21 +84,31 @@
     {
       "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "1020人在读",
+      "last_hot_value": "979人在读",
       "first_seen_at": "2026-07-01T19:16:29",
-      "last_seen_at": "2026-07-03T05:00:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-03T20:10:27",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "次第花开（2017修订新版）",
       "url": "",
-      "last_hot_value": "1233人在读",
+      "last_hot_value": "1052人在读",
       "first_seen_at": "2026-06-30T21:06:42",
-      "last_seen_at": "2026-07-03T05:00:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-03T20:10:27",
+      "consecutive_count": 4,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "等一切风平浪静（治愈散文）",
+      "url": "",
+      "last_hot_value": "3323人在读",
+      "first_seen_at": "2026-07-03T05:00:44",
+      "last_seen_at": "2026-07-03T20:10:27",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -87,7 +117,7 @@
       "last_hot_value": "2471人在读",
       "first_seen_at": "2026-07-01T19:16:29",
       "last_seen_at": "2026-07-03T05:00:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -107,7 +137,7 @@
       "last_hot_value": "8707人在读",
       "first_seen_at": "2026-07-01T19:16:29",
       "last_seen_at": "2026-07-03T05:00:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -130,16 +160,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "等一切风平浪静（治愈散文）",
-      "url": "",
-      "last_hot_value": "3998人在读",
-      "first_seen_at": "2026-07-03T05:00:44",
-      "last_seen_at": "2026-07-03T05:00:44",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "大地上我们转瞬即逝的绚烂",
