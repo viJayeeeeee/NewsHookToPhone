@@ -1,35 +1,25 @@
 {
-  "update_time": "2026-07-03T14:40:44",
+  "update_time": "2026-07-04T14:03:15",
   "items": [
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:207036 回复:1946",
-      "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 7,
+      "title": "探针仙人的收官之作！探针的究极形态！燃尽了",
+      "url": "https://www.nodeseek.com/post-798692-1",
+      "last_hot_value": "查看:5155 回复:128",
+      "first_seen_at": "2026-07-02T23:39:08",
+      "last_seen_at": "2026-07-04T14:03:15",
+      "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
-      "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:658585 回复:1114",
-      "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
-      "url": "https://www.nodeseek.com/post-105666-1",
-      "last_hot_value": "查看:99703 回复:262",
-      "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-07-01T10:16:08",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "【进阶向】（含图文）通过Cloudflare的自定义主机名功能进行单域名优选，配合Nginx更深入了解cdn数据流向和SNI分流",
+      "url": "https://www.nodeseek.com/post-640316-1",
+      "last_hot_value": "查看:2729 回复:32",
+      "first_seen_at": "2026-07-04T14:03:15",
+      "last_seen_at": "2026-07-04T14:03:15",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "[记录]一次从头到尾配置小鸡ddns的过程",
@@ -37,17 +27,7 @@
       "last_hot_value": "查看:1008 回复:22",
       "first_seen_at": "2026-07-03T14:40:44",
       "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:195659 回复:2697",
-      "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,23 +42,13 @@
       "is_new": false
     },
     {
-      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
-      "url": "https://www.nodeseek.com/post-572284-1",
-      "last_hot_value": "查看:43108 回复:170",
-      "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
-      "url": "https://www.nodeseek.com/post-788832-1",
-      "last_hot_value": "查看:3233 回复:88",
-      "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "eSIM 折腾留存记+一点补充心得",
+      "url": "https://www.nodeseek.com/post-783926-1",
+      "last_hot_value": "查看:4827 回复:90",
+      "first_seen_at": "2026-07-03T14:40:44",
+      "last_seen_at": "2026-07-04T14:03:15",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -87,9 +57,9 @@
       "last_hot_value": "查看:228310 回复:491",
       "first_seen_at": "2026-07-03T14:40:44",
       "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
@@ -97,7 +67,7 @@
       "last_hot_value": "查看:30911 回复:423",
       "first_seen_at": "2026-07-02T13:07:09",
       "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -112,24 +82,24 @@
       "is_new": false
     },
     {
-      "title": "eSIM 折腾留存记+一点补充心得",
-      "url": "https://www.nodeseek.com/post-783926-1",
-      "last_hot_value": "查看:4312 回复:77",
-      "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-03T14:40:44",
+      "title": "【更新cf bypass】写了一个简单的补货监控，支持 Web 界面管理、推送到 Telegram/微信/自定义URL",
+      "url": "https://www.nodeseek.com/post-191876-1",
+      "last_hot_value": "查看:7689 回复:89",
+      "first_seen_at": "2026-07-04T14:03:15",
+      "last_seen_at": "2026-07-04T14:03:15",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
     },
     {
-      "title": "探针仙人的收官之作！探针的究极形态！燃尽了",
-      "url": "https://www.nodeseek.com/post-798692-1",
-      "last_hot_value": "查看:4767 回复:122",
-      "first_seen_at": "2026-07-02T23:39:08",
-      "last_seen_at": "2026-07-03T12:26:44",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "什么叫你的BitWarden是跑在Cloudflare上的？教你薅干大善人！",
+      "url": "https://www.nodeseek.com/post-575140-1",
+      "last_hot_value": "查看:12655 回复:162",
+      "first_seen_at": "2026-07-04T14:03:15",
+      "last_seen_at": "2026-07-04T14:03:15",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "常见各种线路和网络的科普",
@@ -157,9 +127,9 @@
       "last_hot_value": "查看:1777 回复:26",
       "first_seen_at": "2026-07-03T14:40:44",
       "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Anubis 网站防护工具配置教程",
@@ -182,24 +152,34 @@
       "is_new": false
     },
     {
-      "title": "[7.30 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
-      "url": "https://www.nodeseek.com/post-750908-1",
-      "last_hot_value": "查看:3756 回复:107",
-      "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-03T14:40:44",
+      "title": "【比“史上最强”更强】满屏讨论dd gcp居然没有人提到我的脚本😭",
+      "url": "https://www.nodeseek.com/post-116193-1",
+      "last_hot_value": "查看:29668 回复:242",
+      "first_seen_at": "2026-07-04T14:03:15",
+      "last_seen_at": "2026-07-04T14:03:15",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "[6.27 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
+      "title": "[7.30 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
       "url": "https://www.nodeseek.com/post-750908-1",
-      "last_hot_value": "查看:3588 回复:105",
-      "first_seen_at": "2026-07-01T10:16:08",
-      "last_seen_at": "2026-07-01T10:16:08",
+      "last_hot_value": "查看:3756 回复:107",
+      "first_seen_at": "2026-07-03T14:40:44",
+      "last_seen_at": "2026-07-03T14:40:44",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
+      "url": "https://www.nodeseek.com/post-584268-1",
+      "last_hot_value": "查看:19793 回复:164",
+      "first_seen_at": "2026-07-04T14:03:15",
+      "last_seen_at": "2026-07-04T14:03:15",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "[分享] 基于Cloudflare Pro和 Snippets 的WAF防护规则",
@@ -207,9 +187,9 @@
       "last_hot_value": "查看:7377 回复:66",
       "first_seen_at": "2026-07-03T14:40:44",
       "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[6.30 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
@@ -217,16 +197,6 @@
       "last_hot_value": "查看:3643 回复:106",
       "first_seen_at": "2026-07-02T13:07:09",
       "last_seen_at": "2026-07-02T13:07:09",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "[科普/教程]关于\"送中\"，你所要知道的一切！——什么是送中？如何判断是否送中？为什么会送中？如何预防/解决送中？还有完全免费且可以立马拉回去正确归属地的方法？还能“焊死”？？？",
-      "url": "https://www.nodeseek.com/post-485530-1",
-      "last_hot_value": "查看:13116 回复:195",
-      "first_seen_at": "2026-06-30T23:41:52",
-      "last_seen_at": "2026-07-01T10:16:08",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

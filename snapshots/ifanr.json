@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-03T14:40:41",
+  "update_time": "2026-07-04T14:03:12",
   "items": [
+    {
+      "title": "史上最强的 MacBook 要来了，苹果要 All in AI",
+      "url": "https://www.ifanr.com/1670819",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-04T14:03:12",
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "对话乐享科技 CEO 郭人杰：具身智能有希望诞生苹果级别的公司，我们有机会成为这家丨多样性公司",
       "url": "https://www.ifanr.com/1670916",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:42",
-      "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +26,8 @@
       "url": "https://www.ifanr.com/1670830",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T20:08:52",
-      "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,38 +36,28 @@
       "url": "https://www.ifanr.com/1670787",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:05",
-      "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "从疯狂翻表到群里直接@AI：飞书来了个新同事，把脏活累活全包了",
-      "url": "https://www.ifanr.com/1670632",
+      "title": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+      "url": "https://www.ifanr.com/1670957",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-01T10:16:05",
-      "last_seen_at": "2026-07-02T23:39:06",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "苹果涨价后很贵，但以后的 iPhone 可能会更贵",
-      "url": "https://www.ifanr.com/1670412",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T23:41:48",
-      "last_seen_at": "2026-07-01T10:16:05",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-07-04T14:03:12",
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "奕境汽车发布了「天穹智盾」安全架构，把安全问题都想全了",
       "url": "https://www.ifanr.com/1670884",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:42",
-      "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -66,28 +66,8 @@
       "url": "https://www.ifanr.com/1670745",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:05",
-      "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 6,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "宝马新世代 X5 发布！外观内饰全面焕新，纯电车型 iX5 同步亮相",
-      "url": "https://www.ifanr.com/1670666",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-01T10:16:05",
-      "last_seen_at": "2026-07-02T23:39:06",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "vivo TWS 5 Pro 耳机体验：最会做 Hi-Fi 的手机公司，回来了",
-      "url": "https://www.ifanr.com/1670431",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T23:41:48",
-      "last_seen_at": "2026-07-01T10:16:05",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
@@ -96,8 +76,8 @@
       "url": "https://www.ifanr.com/1670541",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:42",
-      "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -106,28 +86,8 @@
       "url": "https://www.ifanr.com/1670735",
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:05",
-      "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 6,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "胡彦斌，你以后Vibe Coding 不用抱电脑了",
-      "url": "https://www.ifanr.com/1670595",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-01T10:16:05",
-      "last_seen_at": "2026-07-02T23:39:06",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "红魔游戏平板 5 Pro 体验：能揣口袋的 9 英寸掌机，一场聪明的田忌赛马",
-      "url": "https://www.ifanr.com/1670318",
-      "last_hot_value": "",
-      "first_seen_at": "2026-06-30T23:41:48",
-      "last_seen_at": "2026-07-01T10:16:05",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
@@ -136,8 +96,8 @@
       "url": "https://www.ifanr.com/1670862",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:42",
-      "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-04T14:03:12",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -147,16 +107,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:05",
       "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 6,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "1699 元，AR 墨镜可以交个朋友吗｜xbx a01+ 体验",
-      "url": "https://www.ifanr.com/1670663",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-01T10:16:05",
-      "last_seen_at": "2026-07-02T23:39:06",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -167,28 +117,8 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-02T13:07:05",
       "last_seen_at": "2026-07-03T14:40:41",
-      "consecutive_count": 6,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "苹果史上最恶劣泄密事件：iPhone 18 Pro 要「凉」了？",
-      "url": "https://www.ifanr.com/1670580",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-01T10:16:05",
-      "last_seen_at": "2026-07-02T15:27:54",
       "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
-      "url": "https://www.ifanr.com/1670629",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-01T10:16:05",
-      "last_seen_at": "2026-07-01T10:16:05",
-      "consecutive_count": 0,
-      "peak_rank": 6,
       "is_new": false
     }
   ]
