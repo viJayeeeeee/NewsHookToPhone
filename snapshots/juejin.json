@@ -1,33 +1,23 @@
 {
-  "update_time": "2026-07-05T05:15:52",
+  "update_time": "2026-07-05T16:55:49",
   "items": [
     {
-      "title": "我用 Codex 重写了同事维护三年的代码，他没说谢谢——而是找了领导",
-      "url": "https://juejin.cn/post/7657392618506764326",
+      "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
+      "url": "https://juejin.cn/post/7658119907389554738",
       "last_hot_value": "热度:2574",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-05T05:15:52",
-      "consecutive_count": 8,
+      "first_seen_at": "2026-07-03T12:26:34",
+      "last_seen_at": "2026-07-05T16:55:49",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
-      "url": "https://juejin.cn/post/7658119907389554738",
-      "last_hot_value": "热度:1746",
-      "first_seen_at": "2026-07-03T12:26:34",
-      "last_seen_at": "2026-07-05T05:15:52",
-      "consecutive_count": 4,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "26k Star 开源内网穿透神器 NetBird，一分钟实现全球设备互联！",
-      "url": "https://juejin.cn/post/7657201270935519266",
-      "last_hot_value": "热度:1071",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-03T14:40:31",
-      "consecutive_count": 0,
+      "title": "用 Cesium 撸了一个森林火情监控大屏，弧线、粒子、发光效果都齐了",
+      "url": "https://juejin.cn/post/7657791057037131822",
+      "last_hot_value": "热度:585",
+      "first_seen_at": "2026-07-04T14:03:03",
+      "last_seen_at": "2026-07-05T16:55:49",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "windows终端体验大升级，让你拥有macos级别的美化",
+      "url": "https://juejin.cn/post/7657755366327664680",
+      "last_hot_value": "热度:378",
+      "first_seen_at": "2026-07-05T05:15:52",
+      "last_seen_at": "2026-07-05T16:55:49",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "从 0 到 1 构建企业级 RAG：一个中小企业可落地版本的完整架构",
       "url": "https://juejin.cn/post/7657791057036525614",
       "last_hot_value": "热度:918",
       "first_seen_at": "2026-07-04T14:03:03",
       "last_seen_at": "2026-07-05T05:15:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -62,21 +62,21 @@
       "is_new": false
     },
     {
-      "title": "字段太多看不全，ksql 的展开模式和输出控制怎么用",
-      "url": "https://juejin.cn/post/7657831024920133659",
-      "last_hot_value": "热度:864",
-      "first_seen_at": "2026-07-04T14:03:03",
-      "last_seen_at": "2026-07-05T05:15:52",
+      "title": "Go语言第一章(入门)",
+      "url": "https://juejin.cn/post/7657567333606506505",
+      "last_hot_value": "热度:351",
+      "first_seen_at": "2026-07-05T05:15:52",
+      "last_seen_at": "2026-07-05T16:55:49",
       "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
-      "url": "https://juejin.cn/post/7656202263124082730",
-      "last_hot_value": "热度:711",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-03T14:40:31",
+      "title": "字段太多看不全，ksql 的展开模式和输出控制怎么用",
+      "url": "https://juejin.cn/post/7657831024920133659",
+      "last_hot_value": "热度:864",
+      "first_seen_at": "2026-07-04T14:03:03",
+      "last_seen_at": "2026-07-05T05:15:52",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -92,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "IDEA 爽用 Claude Code 的终极方案，太丝滑。",
+      "url": "https://juejin.cn/post/7657794899358973986",
+      "last_hot_value": "热度:288",
+      "first_seen_at": "2026-07-05T16:55:49",
+      "last_seen_at": "2026-07-05T16:55:49",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "Wot UI 2.2.0 发布：Button 新增 subtle，VideoPreview 预览体验继续增强",
       "url": "https://juejin.cn/post/7657449804227543091",
       "last_hot_value": "热度:504",
       "first_seen_at": "2026-07-04T14:03:03",
       "last_seen_at": "2026-07-05T05:15:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,24 +122,14 @@
       "is_new": false
     },
     {
-      "title": "阿里一面，我霸气反问：你说你们在做Agent项目，说说langchain、muti-agent、a2a这些你们都是怎么做的？面试官一直在擦汗。。",
-      "url": "https://juejin.cn/post/7657453685375369267",
-      "last_hot_value": "热度:846",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "用 Cesium 撸了一个森林火情监控大屏，弧线、粒子、发光效果都齐了",
-      "url": "https://juejin.cn/post/7657791057037131822",
-      "last_hot_value": "热度:450",
-      "first_seen_at": "2026-07-04T14:03:03",
-      "last_seen_at": "2026-07-05T05:15:52",
-      "consecutive_count": 2,
+      "title": "人均配了AI, 为什么公司还是没变快? 🤔 本质还是分布式系统问题",
+      "url": "https://juejin.cn/post/7657956930892136475",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-07-05T16:55:49",
+      "last_seen_at": "2026-07-05T16:55:49",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "干了这么多年前端，聊聊 2026 年我们到底还值不值钱",
@@ -142,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "别再被 worktree 绕晕了！AI 编程时代你必须掌握的 Git 隔离神器",
+      "url": "https://juejin.cn/post/7657811451365982208",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-07-05T16:55:49",
+      "last_seen_at": "2026-07-05T16:55:49",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "Android 现代架构不需要事件总线进阶篇",
       "url": "https://juejin.cn/post/7657104125783703562",
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-07-04T14:03:03",
       "last_seen_at": "2026-07-05T05:15:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -172,51 +182,41 @@
       "is_new": false
     },
     {
+      "title": "Room 3.0 正式发布！包名彻底重构，KMP 成为核心主线",
+      "url": "https://juejin.cn/post/7657822489852149806",
+      "last_hot_value": "热度:207",
+      "first_seen_at": "2026-07-05T16:55:49",
+      "last_seen_at": "2026-07-05T16:55:49",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "首屏加载半秒开！还有谁！！！",
       "url": "https://juejin.cn/post/7657709791472861225",
       "last_hot_value": "热度:369",
       "first_seen_at": "2026-07-04T14:03:03",
       "last_seen_at": "2026-07-05T05:15:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "windows终端体验大升级，让你拥有macos级别的美化",
-      "url": "https://juejin.cn/post/7657755366327664680",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-07-05T05:15:52",
-      "last_seen_at": "2026-07-05T05:15:52",
+      "title": "Rust、Golang、MoonBit 编译成 WASM，体积和速度差距有多大？",
+      "url": "https://juejin.cn/post/7658310488636538926",
+      "last_hot_value": "热度:207",
+      "first_seen_at": "2026-07-05T16:55:49",
+      "last_seen_at": "2026-07-05T16:55:49",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战",
-      "url": "https://juejin.cn/post/7657366002275614754",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-03T14:40:31",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "我把 Claude Code 搬到网页！自研高颜值 Web 交互工作台",
-      "url": "https://juejin.cn/post/7656681358269825067",
-      "last_hot_value": "热度:387",
-      "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-02T23:38:59",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "Go语言第一章(入门)",
-      "url": "https://juejin.cn/post/7657567333606506505",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-07-05T05:15:52",
-      "last_seen_at": "2026-07-05T05:15:52",
+      "title": "油猴脚本创建webworker踩坑记录",
+      "url": "https://juejin.cn/post/7658132679137460239",
+      "last_hot_value": "热度:189",
+      "first_seen_at": "2026-07-05T16:55:49",
+      "last_seen_at": "2026-07-05T16:55:49",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

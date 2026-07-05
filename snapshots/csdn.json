@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-05T05:15:54",
+  "update_time": "2026-07-05T16:55:51",
   "items": [
     {
       "title": "LLM 全解析：大语言模型原理、三种接入方案与 DeepSeek API 实战",
       "url": "https://blog.csdn.net/hanwangyyds/article/details/162383457",
-      "last_hot_value": "3.3w",
+      "last_hot_value": "3.2w",
       "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,19 +17,19 @@
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-07-02T20:08:47",
       "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "基于 Trae + DeepSeek 的 Vibe Coding 实践指南（四）：SpringBoot + 阿里云视觉的视频字幕提取系统全栈落地",
       "url": "https://blog.csdn.net/2502_91499791/article/details/162521462",
-      "last_hot_value": "2.5w",
+      "last_hot_value": "2.9w",
       "first_seen_at": "2026-07-05T05:15:54",
-      "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Agent 学习日记】从问题到答案：RAG系统完整处理流程与核心机制深度拆解",
@@ -37,7 +37,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-03T12:26:36",
       "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,32 +52,22 @@
       "is_new": false
     },
     {
-      "title": "232个AI专家随叫随到：Agency Agents 打造自己的“AI梦之队“",
-      "url": "https://blog.csdn.net/zhangay1998/article/details/162431513",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-02T13:06:59",
-      "last_seen_at": "2026-07-04T14:03:04",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "《Kingbase护城河》——猎捕慢查询：执行计划的微观解析与索引调优实战",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/162495319",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-02T13:06:59",
-      "last_seen_at": "2026-07-03T14:40:33",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "【Java项目-企悦抽】02-AI赋能产品需求规格说明书",
+      "url": "https://blog.csdn.net/2301_81982617/article/details/162554892",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-07-05T05:15:54",
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "Codex + Claude Code 对抗式开发：双AI协同的安全加固实践",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162530112",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.7w",
       "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -87,7 +77,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-03T12:26:36",
       "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -112,34 +102,14 @@
       "is_new": false
     },
     {
-      "title": "从零搭建电影数据爬虫：Python实战TMDB热门榜单抓取",
-      "url": "https://blog.csdn.net/m0_63267251/article/details/162428474",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-02T13:06:59",
-      "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "基于 Trae + DeepSeek 的 Vibe Coding 实践指南（一）：高效搭建 SpringBoot 自动化开发环境",
-      "url": "https://blog.csdn.net/2502_91499791/article/details/162463398",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-02T13:06:59",
-      "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【Java项目-企悦抽】02-AI赋能产品需求规格说明书",
-      "url": "https://blog.csdn.net/2301_81982617/article/details/162554892",
+      "title": "【Linux网络】深入理解数据链路层：从MAC帧到ARP协议的底层原理",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/161764122",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-05T05:15:54",
-      "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "CMake 035：target作用域权限流转与构建参数精细化管控全解",
@@ -152,34 +122,34 @@
       "is_new": false
     },
     {
-      "title": "【Linux网络】深入理解数据链路层：从MAC帧到ARP协议的底层原理",
-      "url": "https://blog.csdn.net/2503_91389547/article/details/161764122",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-05T05:15:54",
-      "last_seen_at": "2026-07-05T05:15:54",
+      "title": "OpenClaw 实战案例：自动化运维系统构建",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162554430",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-05T16:55:51",
+      "last_seen_at": "2026-07-05T16:55:51",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
     },
     {
-      "title": "【LE Audio】CSIP精讲[4]：Set Coordinator全流程管控与实现精要",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/162432376",
-      "last_hot_value": "9462",
-      "first_seen_at": "2026-07-02T15:27:44",
-      "last_seen_at": "2026-07-02T23:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "GitHub 热榜项目 - 周榜(2026-07-04)",
+      "url": "https://blog.csdn.net/u014390502/article/details/162584085",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-05T16:55:51",
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "GitLab CI 制品（Artifacts）完全指南：从作用到配置实践",
       "url": "https://blog.csdn.net/qq_41840843/article/details/162580619",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-05T05:15:54",
-      "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【LangChain】 少样本提示（Few-Shot）完全指南：从原理到实战落地",
@@ -222,14 +192,14 @@
       "is_new": false
     },
     {
-      "title": "Oracle - RAC集群搭建，核心步骤与配置要点",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157584943",
-      "last_hot_value": "8251",
-      "first_seen_at": "2026-07-02T13:06:59",
-      "last_seen_at": "2026-07-02T15:27:44",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "【MySQL数据库学习】（MySQL访问、连接池原理与简易网站数据流动）",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/162573622",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-05T16:55:51",
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "别让旧手机继续吃灰：把它改造成一台随时在线的个人博客服务器",
@@ -262,14 +232,24 @@
       "is_new": false
     },
     {
+      "title": "【LE Audio】CSIP精讲[5]: 蓝牙协同设备组的安全防护体系与实战规范",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/162498081",
+      "last_hot_value": "7440",
+      "first_seen_at": "2026-07-05T16:55:51",
+      "last_seen_at": "2026-07-05T16:55:51",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "Windows运维体验AMD AI云：领取算力到跑通PyTorch",
       "url": "https://blog.csdn.net/weixin_47431459/article/details/162582280",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-05T05:15:54",
       "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "国产大模型的具象交互补全：魔珐星云让 Qwen/DeepSeek Agent 拥有 3D 身体",
@@ -287,16 +267,6 @@
       "last_hot_value": "7916",
       "first_seen_at": "2026-07-02T20:08:47",
       "last_seen_at": "2026-07-02T20:08:47",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "从纯文本 Agent 到具身交互智能：魔珐星云让大模型拥有 3D 拟人化表达层",
-      "url": "https://blog.csdn.net/2301_80026901/article/details/162451253",
-      "last_hot_value": "7377",
-      "first_seen_at": "2026-07-02T13:06:59",
-      "last_seen_at": "2026-07-02T13:06:59",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
