@@ -1,12 +1,32 @@
 {
-  "update_time": "2026-07-05T13:02:58",
+  "update_time": "2026-07-05T18:56:20",
   "items": [
+    {
+      "title": "持续买入",
+      "url": "",
+      "last_hot_value": "2437人在读",
+      "first_seen_at": "2026-07-04T18:20:41",
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "有限与无限的游戏：一个哲学家眼中的竞技世界",
       "url": "",
-      "last_hot_value": "373人在读",
+      "last_hot_value": "534人在读",
       "first_seen_at": "2026-07-05T11:59:29",
-      "last_seen_at": "2026-07-05T13:02:58",
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "夜晚的潜水艇",
+      "url": "",
+      "last_hot_value": "2994人在读",
+      "first_seen_at": "2026-07-03T20:10:27",
+      "last_seen_at": "2026-07-05T18:56:20",
       "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
@@ -17,17 +37,7 @@
       "last_hot_value": "5222人在读",
       "first_seen_at": "2026-07-03T05:00:44",
       "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "夜晚的潜水艇",
-      "url": "",
-      "last_hot_value": "2903人在读",
-      "first_seen_at": "2026-07-03T20:10:27",
-      "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,12 +52,12 @@
       "is_new": false
     },
     {
-      "title": "持续买入",
+      "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "2182人在读",
-      "first_seen_at": "2026-07-04T18:20:41",
-      "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 4,
+      "last_hot_value": "1148人在读",
+      "first_seen_at": "2026-07-05T11:59:29",
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,43 +72,33 @@
       "is_new": false
     },
     {
-      "title": "查拉图斯特拉如是说",
+      "title": "红星照耀中国",
       "url": "",
-      "last_hot_value": "1107人在读",
+      "last_hot_value": "2482人在读",
       "first_seen_at": "2026-07-05T11:59:29",
-      "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "当尼采哭泣",
       "url": "",
-      "last_hot_value": "1174人在读",
+      "last_hot_value": "1236人在读",
       "first_seen_at": "2026-07-04T18:20:41",
-      "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "金钱心理学 （全新增订版）",
       "url": "",
-      "last_hot_value": "2865人在读",
+      "last_hot_value": "2998人在读",
       "first_seen_at": "2026-07-03T20:10:27",
-      "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 7,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "红星照耀中国",
-      "url": "",
-      "last_hot_value": "2280人在读",
-      "first_seen_at": "2026-07-05T11:59:29",
-      "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 2,
-      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -106,18 +106,18 @@
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-07-05T11:59:29",
-      "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 2,
-      "peak_rank": 7,
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 3,
+      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "简·爱",
       "url": "",
-      "last_hot_value": "61人在读",
+      "last_hot_value": "82人在读",
       "first_seen_at": "2026-07-05T11:59:29",
-      "last_seen_at": "2026-07-05T13:02:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -130,6 +130,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "朝花夕拾",
+      "url": "",
+      "last_hot_value": "74人在读",
+      "first_seen_at": "2026-07-05T18:56:20",
+      "last_seen_at": "2026-07-05T18:56:20",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "次第花开（2017修订新版）",
