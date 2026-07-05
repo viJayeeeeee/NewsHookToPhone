@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-04T14:03:06",
+  "update_time": "2026-07-05T05:15:56",
   "items": [
+    {
+      "title": "CodeGraph 使用指南：把代码库转化为 AI Agent 可查询的知识图谱",
+      "url": "https://www.51cto.com/article/848259.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-03T12:26:37",
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Linux 怎么复制文件和目录？cp 命令详解",
       "url": "https://www.51cto.com/article/848149.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
       "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
+      "url": "https://www.51cto.com/article/848271.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-05T05:15:56",
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "SpringBoot 中 AOP 实现权限校验（角色/权限）",
       "url": "https://www.51cto.com/article/848159.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
       "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,24 +62,34 @@
       "is_new": false
     },
     {
-      "title": "CodeGraph 使用指南：把代码库转化为 AI Agent 可查询的知识图谱",
-      "url": "https://www.51cto.com/article/848259.html",
+      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+      "url": "https://www.51cto.com/article/848404.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-03T12:26:37",
-      "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-07-05T05:15:56",
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "技术实操：从 LLM 到 Autonomous Agent 构建实践",
+      "url": "https://blog.51cto.com/u_13530694/14739033",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-05T05:15:56",
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "AI时代Java社招必问：本地部署大模型有什么优缺点？5分钟彻底搞懂！",
       "url": "https://blog.51cto.com/u_16237826/14737136",
       "last_hot_value": "",
       "first_seen_at": "2026-07-04T14:03:06",
-      "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大模型微调实战：从数据到部署",
@@ -67,7 +97,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
       "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -82,14 +112,24 @@
       "is_new": false
     },
     {
+      "title": "Blender 5.1雕刻前细分模型全方法 + 标准推荐工作流",
+      "url": "https://blog.51cto.com/zhuxianzhong/14738926",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-05T05:15:56",
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "Hermes Agent 快速上手：10 分钟搭建你的首个运维自动化任务",
       "url": "https://blog.51cto.com/dickeryang/14737122",
       "last_hot_value": "",
       "first_seen_at": "2026-07-04T14:03:06",
-      "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "设计 Agent 的工具调用：如何让 AI 操作 Figma API？",
@@ -97,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-03T12:26:37",
       "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,14 +152,24 @@
       "is_new": false
     },
     {
+      "title": "Anthropic 7·3 新规下的 Claude Code 合规使用与迁移方案",
+      "url": "https://blog.51cto.com/key3feng/14737581",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-05T05:15:56",
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "从RAG到运维知识库：构建企业级智能问答系统",
       "url": "https://blog.51cto.com/u_15266301/14736910",
       "last_hot_value": "",
       "first_seen_at": "2026-07-04T14:03:06",
       "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "用 AI 大模型重写运维脚本：5 个真实场景的提效实录",
@@ -162,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS7 动画实战：自定义转场、手势交互和物理动效全攻略",
+      "url": "https://ost.51cto.com/posts/51123#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-05T05:15:56",
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "单机鸿蒙应用改造为华为端云一体化项目实战",
       "url": "https://ost.51cto.com/posts/51475#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-04T14:03:06",
       "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从报销附件审核页看 ImageSource 解码尺寸和缓存边界",
@@ -192,14 +252,24 @@
       "is_new": false
     },
     {
+      "title": "从零自研 GEO 优化系统：微服务架构设计与全流程自动化部署落地指南",
+      "url": "https://ost.51cto.com/posts/51608#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-05T05:15:56",
+      "last_seen_at": "2026-07-05T05:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS7 富文本与 Markdown 渲染：Text 组件的高级用法和自定义解析器",
       "url": "https://ost.51cto.com/posts/51147#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-04T14:03:06",
       "last_seen_at": "2026-07-04T14:03:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS7 ArkUI给二维码中间塞个头像：看着简单，搞不好就扫不出来",

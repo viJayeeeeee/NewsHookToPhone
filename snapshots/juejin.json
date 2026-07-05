@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-04T14:03:03",
+  "update_time": "2026-07-05T05:15:52",
   "items": [
     {
       "title": "我用 Codex 重写了同事维护三年的代码，他没说谢谢——而是找了领导",
       "url": "https://juejin.cn/post/7657392618506764326",
-      "last_hot_value": "热度:2295",
+      "last_hot_value": "热度:2574",
       "first_seen_at": "2026-07-02T13:06:57",
-      "last_seen_at": "2026-07-04T14:03:03",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-05T05:15:52",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "别被模型宣传骗了，真实 Agent 任务一跑就知道",
       "url": "https://juejin.cn/post/7658119907389554738",
-      "last_hot_value": "热度:1359",
+      "last_hot_value": "热度:1746",
       "first_seen_at": "2026-07-03T12:26:34",
-      "last_seen_at": "2026-07-04T14:03:03",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-05T05:15:52",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,24 +42,34 @@
       "is_new": false
     },
     {
+      "title": "从 0 到 1 构建企业级 RAG：一个中小企业可落地版本的完整架构",
+      "url": "https://juejin.cn/post/7657791057036525614",
+      "last_hot_value": "热度:918",
+      "first_seen_at": "2026-07-04T14:03:03",
+      "last_seen_at": "2026-07-05T05:15:52",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "Anthropic 大面积封号，连大 V 都忍不了开喷了。",
       "url": "https://juejin.cn/post/7657477469919494185",
       "last_hot_value": "热度:1206",
       "first_seen_at": "2026-07-03T12:26:34",
       "last_seen_at": "2026-07-04T14:03:03",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "从 0 到 1 构建企业级 RAG：一个中小企业可落地版本的完整架构",
-      "url": "https://juejin.cn/post/7657791057036525614",
-      "last_hot_value": "热度:720",
+      "title": "字段太多看不全，ksql 的展开模式和输出控制怎么用",
+      "url": "https://juejin.cn/post/7657831024920133659",
+      "last_hot_value": "热度:864",
       "first_seen_at": "2026-07-04T14:03:03",
-      "last_seen_at": "2026-07-04T14:03:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:15:52",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
@@ -82,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "字段太多看不全，ksql 的展开模式和输出控制怎么用",
-      "url": "https://juejin.cn/post/7657831024920133659",
-      "last_hot_value": "热度:684",
+      "title": "Wot UI 2.2.0 发布：Button 新增 subtle，VideoPreview 预览体验继续增强",
+      "url": "https://juejin.cn/post/7657449804227543091",
+      "last_hot_value": "热度:504",
       "first_seen_at": "2026-07-04T14:03:03",
-      "last_seen_at": "2026-07-04T14:03:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:15:52",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "213000星的Superpowers，90%的人只用了它10%的功能",
@@ -112,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "Wot UI 2.2.0 发布：Button 新增 subtle，VideoPreview 预览体验继续增强",
-      "url": "https://juejin.cn/post/7657449804227543091",
-      "last_hot_value": "热度:405",
+      "title": "用 Cesium 撸了一个森林火情监控大屏，弧线、粒子、发光效果都齐了",
+      "url": "https://juejin.cn/post/7657791057037131822",
+      "last_hot_value": "热度:450",
       "first_seen_at": "2026-07-04T14:03:03",
-      "last_seen_at": "2026-07-04T14:03:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:15:52",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "干了这么多年前端，聊聊 2026 年我们到底还值不值钱",
@@ -132,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "Android 现代架构不需要事件总线进阶篇",
+      "url": "https://juejin.cn/post/7657104125783703562",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-07-04T14:03:03",
+      "last_seen_at": "2026-07-05T05:15:52",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "裁掉那个差程序员后，给你看团队里高手的代码：这个习惯，希望你有",
       "url": "https://juejin.cn/post/7657453685375811635",
       "last_hot_value": "热度:369",
       "first_seen_at": "2026-07-04T14:03:03",
       "last_seen_at": "2026-07-04T14:03:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "国产版Codex？阿里QoderWork有点东西，设计出来的Codex+Claude Code学习网站好看啊（附教程，超简单）",
@@ -152,21 +172,21 @@
       "is_new": false
     },
     {
-      "title": "Android 现代架构不需要事件总线进阶篇",
-      "url": "https://juejin.cn/post/7657104125783703562",
-      "last_hot_value": "热度:342",
+      "title": "首屏加载半秒开！还有谁！！！",
+      "url": "https://juejin.cn/post/7657709791472861225",
+      "last_hot_value": "热度:369",
       "first_seen_at": "2026-07-04T14:03:03",
-      "last_seen_at": "2026-07-04T14:03:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:15:52",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "用 Cesium 撸了一个森林火情监控大屏，弧线、粒子、发光效果都齐了",
-      "url": "https://juejin.cn/post/7657791057037131822",
-      "last_hot_value": "热度:306",
-      "first_seen_at": "2026-07-04T14:03:03",
-      "last_seen_at": "2026-07-04T14:03:03",
+      "title": "windows终端体验大升级，让你拥有macos级别的美化",
+      "url": "https://juejin.cn/post/7657755366327664680",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-07-05T05:15:52",
+      "last_seen_at": "2026-07-05T05:15:52",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -192,11 +212,11 @@
       "is_new": false
     },
     {
-      "title": "首屏加载半秒开！还有谁！！！",
-      "url": "https://juejin.cn/post/7657709791472861225",
+      "title": "Go语言第一章(入门)",
+      "url": "https://juejin.cn/post/7657567333606506505",
       "last_hot_value": "热度:297",
-      "first_seen_at": "2026-07-04T14:03:03",
-      "last_seen_at": "2026-07-04T14:03:03",
+      "first_seen_at": "2026-07-05T05:15:52",
+      "last_seen_at": "2026-07-05T05:15:52",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

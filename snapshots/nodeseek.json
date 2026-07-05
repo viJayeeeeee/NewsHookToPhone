@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-04T14:03:15",
+  "update_time": "2026-07-05T05:16:05",
   "items": [
     {
       "title": "探针仙人的收官之作！探针的究极形态！燃尽了",
       "url": "https://www.nodeseek.com/post-798692-1",
       "last_hot_value": "查看:5155 回复:128",
       "first_seen_at": "2026-07-02T23:39:08",
-      "last_seen_at": "2026-07-04T14:03:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,10 +16,10 @@
       "url": "https://www.nodeseek.com/post-640316-1",
       "last_hot_value": "查看:2729 回复:32",
       "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-04T14:03:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[记录]一次从头到尾配置小鸡ddns的过程",
@@ -30,6 +30,16 @@
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:207586 回复:1948",
+      "first_seen_at": "2026-07-05T05:16:05",
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【开源】OpenFlare 自建 CDN, 集反代 Tunnel Pages WAF 于一身的究极缝合怪",
@@ -46,8 +56,8 @@
       "url": "https://www.nodeseek.com/post-783926-1",
       "last_hot_value": "查看:4827 回复:90",
       "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-04T14:03:15",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -86,20 +96,20 @@
       "url": "https://www.nodeseek.com/post-191876-1",
       "last_hot_value": "查看:7689 回复:89",
       "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-04T14:03:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "什么叫你的BitWarden是跑在Cloudflare上的？教你薅干大善人！",
       "url": "https://www.nodeseek.com/post-575140-1",
       "last_hot_value": "查看:12655 回复:162",
       "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-04T14:03:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "常见各种线路和网络的科普",
@@ -120,6 +130,26 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:196003 回复:2699",
+      "first_seen_at": "2026-07-05T05:16:05",
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:661635 回复:1121",
+      "first_seen_at": "2026-07-05T05:16:05",
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "📢 Claude Code 是如何知道你在中国大陆的？",
@@ -156,10 +186,10 @@
       "url": "https://www.nodeseek.com/post-116193-1",
       "last_hot_value": "查看:29668 回复:242",
       "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-04T14:03:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[7.30 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
@@ -176,10 +206,10 @@
       "url": "https://www.nodeseek.com/post-584268-1",
       "last_hot_value": "查看:19793 回复:164",
       "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-04T14:03:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-05T05:16:05",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[分享] 基于Cloudflare Pro和 Snippets 的WAF防护规则",
