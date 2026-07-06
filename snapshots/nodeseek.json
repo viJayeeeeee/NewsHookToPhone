@@ -1,23 +1,13 @@
 {
-  "update_time": "2026-07-05T16:56:01",
+  "update_time": "2026-07-06T12:40:23",
   "items": [
     {
       "title": "📢 Claude Code 是如何知道你在中国大陆的？",
       "url": "https://www.nodeseek.com/post-804404-1",
       "last_hot_value": "查看:2199 回复:27",
       "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "探针仙人的收官之作！探针的究极形态！燃尽了",
-      "url": "https://www.nodeseek.com/post-798692-1",
-      "last_hot_value": "查看:5155 回复:128",
-      "first_seen_at": "2026-07-02T23:39:08",
-      "last_seen_at": "2026-07-05T05:16:05",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,10 +16,10 @@
       "url": "https://www.nodeseek.com/post-790391-1",
       "last_hot_value": "查看:2307 回复:59",
       "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【进阶向】（含图文）通过Cloudflare的自定义主机名功能进行单域名优选，配合Nginx更深入了解cdn数据流向和SNI分流",
@@ -56,18 +46,18 @@
       "url": "https://www.nodeseek.com/post-68572-1",
       "last_hot_value": "查看:99634 回复:603",
       "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:208044 回复:1949",
       "first_seen_at": "2026-07-05T05:16:05",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -76,18 +66,18 @@
       "url": "https://www.nodeseek.com/post-762899-1",
       "last_hot_value": "查看:2906 回复:85",
       "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
       "url": "https://www.nodeseek.com/post-373751-1",
       "last_hot_value": "查看:231197 回复:494",
       "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
@@ -126,18 +116,18 @@
       "url": "https://www.nodeseek.com/post-286885-1",
       "last_hot_value": "查看:236625 回复:499",
       "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:196287 回复:2701",
       "first_seen_at": "2026-07-05T05:16:05",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -146,8 +136,8 @@
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:664657 回复:1125",
       "first_seen_at": "2026-07-05T05:16:05",
-      "last_seen_at": "2026-07-05T16:56:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -170,6 +160,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
+      "url": "https://www.nodeseek.com/post-683468-1",
+      "last_hot_value": "查看:31160 回复:425",
+      "first_seen_at": "2026-07-06T12:40:23",
+      "last_seen_at": "2026-07-06T12:40:23",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",

@@ -1,24 +1,24 @@
 {
-  "update_time": "2026-07-05T16:55:51",
+  "update_time": "2026-07-06T12:40:13",
   "items": [
     {
-      "title": "LLM 全解析：大语言模型原理、三种接入方案与 DeepSeek API 实战",
-      "url": "https://blog.csdn.net/hanwangyyds/article/details/162383457",
-      "last_hot_value": "3.2w",
-      "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 5,
+      "title": "单体还是微服务？中小企业的务实选择（一套代码双模式平滑演进）",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/162622772",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "从 0 到 1 构建企业级 RAG：一个中小企业可落地版本的完整架构",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162525807",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-07-02T20:08:47",
-      "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "GitHub 热榜项目 - 周榜(2026-07-04)",
+      "url": "https://blog.csdn.net/u014390502/article/details/162584085",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-05T16:55:51",
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -27,16 +27,6 @@
       "last_hot_value": "2.9w",
       "first_seen_at": "2026-07-05T05:15:54",
       "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【Agent 学习日记】从问题到答案：RAG系统完整处理流程与核心机制深度拆解",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/162522155",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-05T05:15:54",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -52,74 +42,54 @@
       "is_new": false
     },
     {
+      "title": "【Linux网络】深入理解数据链路层：从MAC帧到ARP协议的底层原理",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/161764122",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-05T05:15:54",
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "【Java项目-企悦抽】02-AI赋能产品需求规格说明书",
       "url": "https://blog.csdn.net/2301_81982617/article/details/162554892",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-05T05:15:54",
       "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Codex + Claude Code 对抗式开发：双AI协同的安全加固实践",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162530112",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 5,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "【Linux之旅】Linux 网络层协议详解：从 IP 报文到路由转发的底层逻辑",
-      "url": "https://blog.csdn.net/2302_80243065/article/details/162513122",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-05T05:15:54",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "2026 年 AI 前沿技术深度解析：Agent、多模态与工程化落地",
-      "url": "https://blog.csdn.net/m0_75125940/article/details/162530504",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-03T14:40:33",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "OpenCV-Python实战（32）——基于深度学习的物体分类与定位",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161678530",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
-      "title": "给 Agent 装一个真正能用的记忆层：2026 年工程实战",
-      "url": "https://blog.csdn.net/iamentiam/article/details/162495495",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-02T20:08:47",
-      "last_seen_at": "2026-07-02T23:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "【Linux网络】深入理解数据链路层：从MAC帧到ARP协议的底层原理",
-      "url": "https://blog.csdn.net/2503_91389547/article/details/161764122",
-      "last_hot_value": "1.6w",
+      "title": "Windows运维体验AMD AI云：领取算力到跑通PyTorch",
+      "url": "https://blog.csdn.net/weixin_47431459/article/details/162582280",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-05T05:15:54",
-      "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "CMake 035：target作用域权限流转与构建参数精细化管控全解",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/162506282",
+      "title": "【AI智能体】Hermes Agent 从部署到项目实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162558602",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-02T20:08:47",
-      "last_seen_at": "2026-07-02T23:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "OpenClaw 实战案例：自动化运维系统构建",
@@ -127,16 +97,16 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-05T16:55:51",
       "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "GitHub 热榜项目 - 周榜(2026-07-04)",
-      "url": "https://blog.csdn.net/u014390502/article/details/162584085",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-05T16:55:51",
-      "last_seen_at": "2026-07-05T16:55:51",
+      "title": "OpenClaw 实战案例：内容创作系统构建",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162612725",
+      "last_hot_value": "7971",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-06T12:40:13",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -144,10 +114,10 @@
     {
       "title": "GitLab CI 制品（Artifacts）完全指南：从作用到配置实践",
       "url": "https://blog.csdn.net/qq_41840843/article/details/162580619",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "6840",
       "first_seen_at": "2026-07-05T05:15:54",
-      "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -157,26 +127,6 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-04T14:03:04",
       "last_seen_at": "2026-07-04T14:03:04",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "【MySQL】一文读懂 MySQL 事务控制与 MVCC 多版本并发控制底层原理",
-      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/162494459",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-03T14:40:33",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "CentOS 7怎么搭建服务器监控告警？Prometheus与Alertmanager邮件通知教程",
-      "url": "https://blog.csdn.net/SDFsoul/article/details/162521966",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-03T14:40:33",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -192,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "RuoYi-Vue3 企业级后台快速落地实战指南",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/161518987",
+      "last_hot_value": "6458",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "【MySQL数据库学习】（MySQL访问、连接池原理与简易网站数据流动）",
       "url": "https://blog.csdn.net/2401_87629362/article/details/162573622",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-05T16:55:51",
       "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "别让旧手机继续吃灰：把它改造成一台随时在线的个人博客服务器",
@@ -212,24 +172,14 @@
       "is_new": false
     },
     {
-      "title": "管家婆怎么实现远程访问？SQL Server配置与cpolar异地连接教程",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/162527718",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-03T12:26:36",
-      "last_seen_at": "2026-07-03T14:40:33",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "【HarmonyOS 6.0】ArkUI Swiper组件模拟拖拽功能深度解析",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162282327",
-      "last_hot_value": "8020",
-      "first_seen_at": "2026-07-02T20:08:47",
-      "last_seen_at": "2026-07-02T23:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "K8s - Helm管理工具",
+      "url": "https://blog.csdn.net/liu_chen_yang/article/details/161394380",
+      "last_hot_value": "6369",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-06T12:40:13",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【LE Audio】CSIP精讲[5]: 蓝牙协同设备组的安全防护体系与实战规范",
@@ -237,36 +187,6 @@
       "last_hot_value": "7440",
       "first_seen_at": "2026-07-05T16:55:51",
       "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "Windows运维体验AMD AI云：领取算力到跑通PyTorch",
-      "url": "https://blog.csdn.net/weixin_47431459/article/details/162582280",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-05T05:15:54",
-      "last_seen_at": "2026-07-05T05:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "国产大模型的具象交互补全：魔珐星云让 Qwen/DeepSeek Agent 拥有 3D 身体",
-      "url": "https://blog.csdn.net/2301_79516858/article/details/162461014",
-      "last_hot_value": "7910",
-      "first_seen_at": "2026-07-02T23:39:00",
-      "last_seen_at": "2026-07-02T23:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "【花雕动手做】行空板 K10 系列实验之语音识别TT马达双路差速智能小车方案一",
-      "url": "https://blog.csdn.net/weixin_41659040/article/details/162425907",
-      "last_hot_value": "7916",
-      "first_seen_at": "2026-07-02T20:08:47",
-      "last_seen_at": "2026-07-02T20:08:47",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
