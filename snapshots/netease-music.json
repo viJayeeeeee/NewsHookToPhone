@@ -1,75 +1,25 @@
 {
-  "update_time": "2026-07-05T20:08:40",
+  "update_time": "2026-07-06T08:53:18",
   "items": [
-    {
-      "title": "海屿你",
-      "url": "https://music.163.com/#/song?id=1973665667",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 9,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "玻璃",
-      "url": "https://music.163.com/#/song?id=3382908505",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 9,
-      "peak_rank": 2,
-      "is_new": false
-    },
     {
       "title": "罗生门（Follow）",
       "url": "https://music.163.com/#/song?id=1456890009",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-07-05T01:25:22",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-06T08:53:18",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "如果呢",
-      "url": "https://music.163.com/#/song?id=1842728629",
+      "title": "嗜好",
+      "url": "https://music.163.com/#/song?id=1391891631",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 9,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "12.31",
-      "url": "https://music.163.com/#/song?id=3388509025",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-03T21:20:20",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Баллада",
-      "url": "https://music.163.com/#/song?id=2145353565",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 9,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "恋人",
-      "url": "https://music.163.com/#/song?id=2600493765",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 9,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-06T08:53:18",
+      "last_seen_at": "2026-07-06T08:53:18",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "复刻回忆",
@@ -77,7 +27,7 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-07-05T01:25:22",
       "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -92,43 +42,23 @@
       "is_new": false
     },
     {
-      "title": "遐想",
-      "url": "https://music.163.com/#/song?id=2018733994",
+      "title": "两 难",
+      "url": "https://music.163.com/#/song?id=2163210456",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-03T05:00:41",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-07-06T08:53:18",
+      "last_seen_at": "2026-07-06T08:53:18",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "Angel",
       "url": "https://music.163.com/#/song?id=29777545",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-07-05T11:59:25",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-06T08:53:18",
+      "consecutive_count": 5,
       "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "雨过后的风景",
-      "url": "https://music.163.com/#/song?id=215382",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 9,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "失眠",
-      "url": "https://music.163.com/#/song?id=273114",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-03T05:00:41",
-      "last_seen_at": "2026-07-05T20:08:40",
-      "consecutive_count": 9,
-      "peak_rank": 9,
       "is_new": false
     }
   ]
