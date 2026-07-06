@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-06T08:53:23",
+  "update_time": "2026-07-06T22:55:13",
   "items": [
+    {
+      "title": "广西壮族自治区钦州市气象台发布暴雨红色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/45070041600000_20260707062541.html",
+      "last_hot_value": "红色",
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "广西壮族自治区百色市右江区气象台发布暴雨橙色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/45100241600000_20260706163158.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "安徽省黄山市休宁县气象台发布强对流黄色预警信号",
@@ -17,7 +27,7 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-07-04T18:20:42",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -72,14 +82,14 @@
       "is_new": false
     },
     {
-      "title": "湖北省黄冈市浠水县气象台发布强对流黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/42112541600000_20260703211725.html",
+      "title": "山东省临沂市沂水县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/37132341600000_20260707062500.html",
       "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "广东省广州市从化区气象台发布暴雨黄色预警信号",
@@ -142,14 +152,14 @@
       "is_new": false
     },
     {
-      "title": "湖北省黄冈市英山县气象台发布强对流黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/42112441600000_20260703211722.html",
-      "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "河北省唐山市迁安市气象台发布暴雨蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/13028341600000_20260707062354.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "河南省三门峡市渑池县气象台发布雷暴大风黄色预警信号",
@@ -157,9 +167,9 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "广东省广州市广州市增城区气象台发布暴雨黄色预警信号",
@@ -222,14 +232,14 @@
       "is_new": false
     },
     {
-      "title": "湖北省黄冈市罗田县气象台发布强对流黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/42112341600000_20260703211719.html",
+      "title": "山东省气象台发布海上大风黄色预警",
+      "url": "https://www.nmc.cn/publish/alarm/37000041600000_20260707062219.html",
       "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "广西壮族自治区防城港市上思县气象台发布暴雨橙色预警信号",
@@ -237,9 +247,9 @@
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "广东省韶关市新丰县气象台发布雷雨大风黄色预警信号",
@@ -302,14 +312,14 @@
       "is_new": false
     },
     {
-      "title": "湖北省黄冈市气象台发布强对流黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/42110041600000_20260703211717.html",
+      "title": "广东省佛山市顺德区气象台发布暴雨黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/44060641600000_20260707061954.html",
       "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "江苏省气象台发布暴雨蓝色预警",
@@ -317,9 +327,9 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "广东省惠州市龙门县气象台发布雷雨大风黄色预警信号",
@@ -382,14 +392,14 @@
       "is_new": false
     },
     {
-      "title": "广东省云浮市新兴县气象台发布暴雨黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/44532141600000_20260703211553.html",
+      "title": "河北省唐山市滦州市气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/13028441600000_20260707061755.html",
       "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "山东省济宁市嘉祥县气象台发布雷雨大风橙色预警信号",
@@ -397,9 +407,9 @@
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "山东省菏泽市定陶区气象台发布暴雨黄色预警信号",
@@ -462,13 +472,23 @@
       "is_new": false
     },
     {
-      "title": "广西壮族自治区柳州市三江县气象台发布雷电黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/45022641600000_20260703211529.html",
+      "title": "陕西省延安市黄陵县气象台发布大雾黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/61063241600000_20260707061746.html",
       "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 6,
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "广西壮族自治区防城港市防城区气象台发布暴雨橙色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/45060341600000_20260707061640.html",
+      "last_hot_value": "橙色",
+      "first_seen_at": "2026-07-05T11:59:31",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -477,9 +497,9 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "山东省青岛市青岛市气象台发布雷雨大风黄色预警信号",
@@ -512,16 +532,6 @@
       "is_new": false
     },
     {
-      "title": "广西壮族自治区防城港市防城区气象台发布暴雨橙色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/45060341600000_20260705185959.html",
-      "last_hot_value": "橙色",
-      "first_seen_at": "2026-07-05T11:59:31",
-      "last_seen_at": "2026-07-05T11:59:31",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "内蒙古自治区兴安盟突泉县气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/15222441600000_20260705085618.html",
       "last_hot_value": "黄色",
@@ -542,14 +552,14 @@
       "is_new": false
     },
     {
-      "title": "云南省普洱市澜沧拉祜族自治县气象台发布暴雨橙色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/53082841600000_20260703211506.html",
-      "last_hot_value": "橙色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "甘肃省陇南市文县气象台发布雷雨大风黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/62122241600000_20260707061741.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "山东省烟台市龙口市气象台发布雷雨大风黄色预警信号",
@@ -557,9 +567,9 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "吉林省吉林市气象台发布雷电黄色预警信号",
@@ -622,24 +632,14 @@
       "is_new": false
     },
     {
-      "title": "辽宁省葫芦岛市建昌县气象台发布雷雨大风蓝色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/21142241600000_20260703210400.html",
-      "last_hot_value": "蓝色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "北京市北京市海淀区气象台发布大风蓝色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/11010841600000_20260706162949.html",
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "广西壮族自治区柳州市气象台发布暴雨红色预警信号",
@@ -702,14 +702,14 @@
       "is_new": false
     },
     {
-      "title": "内蒙古自治区包头市达茂旗气象台发布雷电黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/15022341600000_20260703210332.html",
+      "title": "广东省东莞市气象台发布雷雨大风黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/44190041600000_20260707061629.html",
       "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-07-06T22:55:13",
+      "last_seen_at": "2026-07-06T22:55:13",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "云南省昆明市禄劝彝族苗族自治县气象台发布暴雨橙色预警信号",
@@ -717,9 +717,9 @@
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-06T08:53:23",
       "last_seen_at": "2026-07-06T08:53:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "河南省安阳市汤阴县气象台发布暴雨橙色预警信号",
@@ -777,16 +777,6 @@
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-04T18:20:42",
       "last_seen_at": "2026-07-04T18:20:42",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "贵州省毕节市七星关区气象台发布暴雨黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/52050241600000_20260703210252.html",
-      "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-03T20:10:28",
-      "last_seen_at": "2026-07-03T21:20:24",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
