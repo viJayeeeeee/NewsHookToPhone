@@ -1,14 +1,24 @@
 {
-  "update_time": "2026-07-06T12:40:23",
+  "update_time": "2026-07-07T01:33:54",
   "items": [
     {
-      "title": "📢 Claude Code 是如何知道你在中国大陆的？",
-      "url": "https://www.nodeseek.com/post-804404-1",
-      "last_hot_value": "查看:2199 回复:27",
-      "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 2,
+      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
+      "url": "https://www.nodeseek.com/post-809285-1",
+      "last_hot_value": "查看:1108 回复:36",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 1,
       "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:668082 回复:1126",
+      "first_seen_at": "2026-07-05T05:16:05",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 4,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,7 +27,7 @@
       "last_hot_value": "查看:2307 回复:59",
       "first_seen_at": "2026-07-05T16:56:01",
       "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -32,14 +42,14 @@
       "is_new": false
     },
     {
-      "title": "[记录]一次从头到尾配置小鸡ddns的过程",
-      "url": "https://www.nodeseek.com/post-651938-1",
-      "last_hot_value": "查看:1008 回复:22",
-      "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:63189 回复:565",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
@@ -47,7 +57,7 @@
       "last_hot_value": "查看:99634 回复:603",
       "first_seen_at": "2026-07-05T16:56:01",
       "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -57,9 +67,19 @@
       "last_hot_value": "查看:208044 回复:1949",
       "first_seen_at": "2026-07-05T05:16:05",
       "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "HashPay | 一站式加密货币支付网关",
+      "url": "https://www.nodeseek.com/post-808616-1",
+      "last_hot_value": "查看:1675 回复:40",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
@@ -67,29 +87,19 @@
       "last_hot_value": "查看:2906 回复:85",
       "first_seen_at": "2026-07-05T16:56:01",
       "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
-      "url": "https://www.nodeseek.com/post-373751-1",
-      "last_hot_value": "查看:231197 回复:494",
-      "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "eSIM 折腾留存记+一点补充心得",
-      "url": "https://www.nodeseek.com/post-783926-1",
-      "last_hot_value": "查看:4827 回复:90",
-      "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-05T05:16:05",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
+      "url": "https://www.nodeseek.com/post-767126-1",
+      "last_hot_value": "查看:3541 回复:82",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【更新cf bypass】写了一个简单的补货监控，支持 Web 界面管理、推送到 Telegram/微信/自定义URL",
@@ -112,34 +122,44 @@
       "is_new": false
     },
     {
+      "title": "Telegarm双向聊天机器人——极简高效（小白友好版）V4.0",
+      "url": "https://www.nodeseek.com/post-526824-1",
+      "last_hot_value": "查看:9224 回复:116",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:196723 回复:2705",
+      "first_seen_at": "2026-07-05T05:16:05",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 4,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
       "url": "https://www.nodeseek.com/post-286885-1",
       "last_hot_value": "查看:236625 回复:499",
       "first_seen_at": "2026-07-05T16:56:01",
       "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:196287 回复:2701",
-      "first_seen_at": "2026-07-05T05:16:05",
-      "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 3,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
-      "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:664657 回复:1125",
-      "first_seen_at": "2026-07-05T05:16:05",
-      "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 3,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "Yanami —— 一个 Komari 安卓客户端",
+      "url": "https://www.nodeseek.com/post-640534-1",
+      "last_hot_value": "查看:6028 回复:97",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "【比“史上最强”更强】满屏讨论dd gcp居然没有人提到我的脚本😭",
@@ -152,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "[7.30 更新/开源自荐]MediaStationGo-一站式自建影视库媒体库-无需部署EMBY服务端一一键登录-【长期主贴】",
-      "url": "https://www.nodeseek.com/post-750908-1",
-      "last_hot_value": "查看:3756 回复:107",
-      "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-03T14:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
+      "url": "https://www.nodeseek.com/post-788832-1",
+      "last_hot_value": "查看:3844 回复:91",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T01:33:54",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
@@ -167,9 +187,9 @@
       "last_hot_value": "查看:31160 回复:425",
       "first_seen_at": "2026-07-06T12:40:23",
       "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
@@ -177,16 +197,6 @@
       "last_hot_value": "查看:19793 回复:164",
       "first_seen_at": "2026-07-04T14:03:15",
       "last_seen_at": "2026-07-05T05:16:05",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "[分享] 基于Cloudflare Pro和 Snippets 的WAF防护规则",
-      "url": "https://www.nodeseek.com/post-221850-1",
-      "last_hot_value": "查看:7377 回复:66",
-      "first_seen_at": "2026-07-03T14:40:44",
-      "last_seen_at": "2026-07-03T14:40:44",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

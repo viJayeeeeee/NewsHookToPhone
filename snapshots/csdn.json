@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-06T12:40:13",
+  "update_time": "2026-07-07T01:33:43",
   "items": [
     {
       "title": "单体还是微服务？中小企业的务实选择（一套代码双模式平滑演进）",
       "url": "https://blog.csdn.net/zhouzhongyan/article/details/162622772",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-06T12:40:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:43",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "【AI智能体】Hermes Agent 从部署到项目实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162558602",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-07T01:33:43",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "GitHub 热榜项目 - 周榜(2026-07-04)",
       "url": "https://blog.csdn.net/u014390502/article/details/162584085",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-05T16:55:51",
-      "last_seen_at": "2026-07-06T12:40:13",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T01:33:43",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "OpenCV-Python实战（32）——基于深度学习的物体分类与定位",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161678530",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-07T01:33:43",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "【Linux网络】深入理解数据链路层：从MAC帧到ARP协议的底层原理",
       "url": "https://blog.csdn.net/2503_91389547/article/details/161764122",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-05T05:15:54",
       "last_seen_at": "2026-07-06T12:40:13",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -62,34 +82,24 @@
       "is_new": false
     },
     {
-      "title": "OpenCV-Python实战（32）——基于深度学习的物体分类与定位",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/161678530",
-      "last_hot_value": "1.1w",
+      "title": "OpenClaw 实战案例：内容创作系统构建",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162612725",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-06T12:40:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:43",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Windows运维体验AMD AI云：领取算力到跑通PyTorch",
       "url": "https://blog.csdn.net/weixin_47431459/article/details/162582280",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "8377",
       "first_seen_at": "2026-07-05T05:15:54",
-      "last_seen_at": "2026-07-06T12:40:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:43",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
-    },
-    {
-      "title": "【AI智能体】Hermes Agent 从部署到项目实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162558602",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-06T12:40:13",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
     },
     {
       "title": "OpenClaw 实战案例：自动化运维系统构建",
@@ -102,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "OpenClaw 实战案例：内容创作系统构建",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162612725",
-      "last_hot_value": "7971",
+      "title": "K8s - Helm管理工具",
+      "url": "https://blog.csdn.net/liu_chen_yang/article/details/161394380",
+      "last_hot_value": "8275",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-06T12:40:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:43",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GitLab CI 制品（Artifacts）完全指南：从作用到配置实践",
@@ -117,7 +127,7 @@
       "last_hot_value": "6840",
       "first_seen_at": "2026-07-05T05:15:54",
       "last_seen_at": "2026-07-06T12:40:13",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -132,6 +142,16 @@
       "is_new": false
     },
     {
+      "title": "RuoYi-Vue3 企业级后台快速落地实战指南",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/161518987",
+      "last_hot_value": "8224",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-07T01:33:43",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "C/C++非常规知识(2.0)",
       "url": "https://blog.csdn.net/oooooooooooohd/article/details/158975001",
       "last_hot_value": "1.2w",
@@ -142,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "RuoYi-Vue3 企业级后台快速落地实战指南",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/161518987",
-      "last_hot_value": "6458",
-      "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-06T12:40:13",
+      "title": "【LE Audio】CSIP精讲[5]: 蓝牙协同设备组的安全防护体系与实战规范",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/162498081",
+      "last_hot_value": "8133",
+      "first_seen_at": "2026-07-05T16:55:51",
+      "last_seen_at": "2026-07-07T01:33:43",
       "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【MySQL数据库学习】（MySQL访问、连接池原理与简易网站数据流动）",
@@ -172,24 +192,14 @@
       "is_new": false
     },
     {
-      "title": "K8s - Helm管理工具",
-      "url": "https://blog.csdn.net/liu_chen_yang/article/details/161394380",
-      "last_hot_value": "6369",
-      "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-06T12:40:13",
+      "title": "深度学习实战-基于CNN卷积神经网络的番茄病害叶片图像识别模型",
+      "url": "https://blog.csdn.net/m0_64336780/article/details/159730611",
+      "last_hot_value": "7745",
+      "first_seen_at": "2026-07-07T01:33:43",
+      "last_seen_at": "2026-07-07T01:33:43",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
-    },
-    {
-      "title": "【LE Audio】CSIP精讲[5]: 蓝牙协同设备组的安全防护体系与实战规范",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/162498081",
-      "last_hot_value": "7440",
-      "first_seen_at": "2026-07-05T16:55:51",
-      "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
     }
   ]
 }

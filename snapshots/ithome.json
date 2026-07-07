@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-06T12:40:17",
+  "update_time": "2026-07-07T01:33:47",
   "items": [
+    {
+      "title": "重磅回归！曝华为 Pura 90 系列手机国际版将支持 5G 通信",
+      "url": "https://www.ithome.com/0/973/031.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-06T12:40:17",
+      "last_seen_at": "2026-07-07T01:33:47",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "TCL 回应国家一级文物现其广告：未授权或参与放置任何品牌标识，积极配合调查",
       "url": "https://www.ithome.com/0/972/858.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:17",
       "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "奶奶删了 77 万条未读又来 3 万，微信承诺异常企业微信拉群将强制确认",
@@ -42,14 +52,24 @@
       "is_new": false
     },
     {
+      "title": "央视全新《西游记》动画备案：第一季共 26 集",
+      "url": "https://www.ithome.com/0/973/160.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-07T01:33:47",
+      "last_seen_at": "2026-07-07T01:33:47",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "郭明錤称苹果折叠屏手机可能重演 iPhone X 剧本：同场发布、较晚开卖，供应紧张延续至年底",
       "url": "https://www.ithome.com/0/972/859.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:17",
       "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "电弹已就位、阻拦索已安装！我国 076 型两栖攻击舰“四川舰”最新进展公布",
@@ -72,11 +92,11 @@
       "is_new": false
     },
     {
-      "title": "重磅回归！曝华为 Pura 90 系列手机国际版将支持 5G 通信",
-      "url": "https://www.ithome.com/0/973/031.htm",
+      "title": "消息称华为 Mate 90 系列手机有望搭载基于韬定律的新麒麟芯片",
+      "url": "https://www.ithome.com/0/973/049.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
+      "first_seen_at": "2026-07-07T01:33:47",
+      "last_seen_at": "2026-07-07T01:33:47",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
@@ -112,14 +132,24 @@
       "is_new": false
     },
     {
+      "title": "小米 REDMI 部分产品官方调价：K90 涨价 200 元、Note 15 系列上涨 300 元",
+      "url": "https://www.ithome.com/0/972/898.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-06T12:40:17",
+      "last_seen_at": "2026-07-07T01:33:47",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "小米 17 系列手机最新销量数据曝光：全系突破 550 万台，Ultra 约 23.07 万",
       "url": "https://www.ithome.com/0/972/869.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:17",
       "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大屏赛道“开卷”：曝“华米 OV 耀”规划有阔折叠 / 直板、7 英寸大屏手机等新品",
@@ -152,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "豆包又一功能下线，“应用生成”已停止服务",
+      "url": "https://www.ithome.com/0/972/954.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-06T12:40:17",
+      "last_seen_at": "2026-07-07T01:33:47",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "升级配华为海思芯片：美的酷省电 2 代大 1.5 匹空调 1599 元直降",
       "url": "https://www.ithome.com/0/972/821.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-07-05T16:55:54",
       "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -192,21 +232,11 @@
       "is_new": false
     },
     {
-      "title": "三部门：明年起纯电动商用车、插混 / 增程车需按规定缴纳车船税",
-      "url": "https://www.ithome.com/0/972/340.htm",
+      "title": "Deep Code 开源 AI 编程助手上线，专为 DeepSeek-V4 模型适配",
+      "url": "https://www.ithome.com/0/972/910.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-03T14:40:37",
-      "last_seen_at": "2026-07-03T14:40:37",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "小米 REDMI 部分产品官方调价：K90 涨价 200 元、Note 15 系列上涨 300 元",
-      "url": "https://www.ithome.com/0/972/898.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
+      "first_seen_at": "2026-07-07T01:33:47",
+      "last_seen_at": "2026-07-07T01:33:47",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -242,14 +272,14 @@
       "is_new": false
     },
     {
-      "title": "豆包又一功能下线，“应用生成”已停止服务",
-      "url": "https://www.ithome.com/0/972/954.htm",
+      "title": "（更新：首支预告片公布）周星驰导演电影《功夫女足》定档 7 月 11 日上映",
+      "url": "https://www.ithome.com/0/972/996.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:47",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "消息称荣耀 MagicOS 七月系统升级将解除 Magic UI + 华为电脑管家时代投屏 60FPS 限制",
@@ -272,14 +302,14 @@
       "is_new": false
     },
     {
-      "title": "岳云鹏出演苹果新广告：App 访问权限 iPhone 管，隐私由你说了算",
-      "url": "https://www.ithome.com/0/972/260.htm",
+      "title": "消息称华为明年将推出“完全无竞品”的小阔折手机",
+      "url": "https://www.ithome.com/0/973/225.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-03T14:40:37",
-      "last_seen_at": "2026-07-03T14:40:37",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-07-07T01:33:47",
+      "last_seen_at": "2026-07-07T01:33:47",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
@@ -287,9 +317,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:17",
       "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米 REDMI K90 至尊版手机开启澎湃 HyperOS 系统正式版内测招募",
@@ -322,11 +352,11 @@
       "is_new": false
     },
     {
-      "title": "（更新：首支预告片公布）周星驰导演电影《功夫女足》定档 7 月 11 日上映",
-      "url": "https://www.ithome.com/0/972/996.htm",
+      "title": "华为官宣万茜成为天生会画品牌大使",
+      "url": "https://www.ithome.com/0/972/981.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
+      "first_seen_at": "2026-07-07T01:33:47",
+      "last_seen_at": "2026-07-07T01:33:47",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -352,14 +382,14 @@
       "is_new": false
     },
     {
-      "title": "宝马回应新一代 X5 为何砍掉“天地门”：用户使用起来可能会吃力",
-      "url": "https://www.ithome.com/0/971/979.htm",
+      "title": "付费番剧解限制工具“哔哩漫游”收到B站律师函，GitHub 项目代码已删除",
+      "url": "https://www.ithome.com/0/973/202.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-03T14:40:37",
-      "last_seen_at": "2026-07-03T14:40:37",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-07-07T01:33:47",
+      "last_seen_at": "2026-07-07T01:33:47",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "《英雄联盟》2026 MSI 淘汰赛不敌越南战队，TES 官方致歉",
@@ -367,9 +397,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:17",
       "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "74 公里续航：绿源 M7 Ultra 电动摩托车 2899 → 1748 元再降价",
@@ -387,16 +417,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-05T05:15:57",
       "last_seen_at": "2026-07-05T05:15:57",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "iPhone 18 Pro 系列手机遭泄密后，印度政府宣布调查苹果供应商塔塔电子数据泄露事件",
-      "url": "https://www.ithome.com/0/972/420.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-03T14:40:37",
-      "last_seen_at": "2026-07-03T14:40:37",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-07-06T12:40:15",
+  "update_time": "2026-07-07T01:33:45",
   "items": [
+    {
+      "title": "Karpathy最新开喷：一句话让全场Agent开发者安静了",
+      "url": "https://www.51cto.com/article/848580.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-07T01:33:45",
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "Docker 跑黑苹果，这次终于简单了",
       "url": "https://www.51cto.com/article/848535.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 转运码生成页：QRCode 动态载荷、倒计时刷新与失效边界",
       "url": "https://ost.51cto.com/posts/51669#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
@@ -47,19 +57,29 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-05T16:55:52",
       "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "DataWorks Data Agent的演进与工程化实践",
+      "url": "https://blog.51cto.com/u_15316473/14742207",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-07T01:33:45",
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "一句话全自动搞定 Bug 提交：Codex + 自定义 Skill 组合拳",
       "url": "https://blog.51cto.com/u_11780953/14741753",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "24万星和5.7万星的两个框架，我焊在一起后它们封神了",
@@ -96,10 +116,10 @@
       "url": "https://blog.51cto.com/u_15179348/14741552",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "智能体构建：打破停机瓶颈：智能体Skill热更新、灰度发布与回滚机制全流程指南.142",
@@ -136,10 +156,10 @@
       "url": "https://blog.51cto.com/u_15469972/14741364",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Anthropic 7·3 新规下的 Claude Code 合规使用与迁移方案",
@@ -166,10 +186,10 @@
       "url": "https://blog.51cto.com/u_16380863/14741271",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "告别手动配置：AI 驱动的 Nginx 智能配置生成与优化",
@@ -177,8 +197,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
       "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "Fable 5被网友薅出省钱神招！最高减70%！",
+      "url": "https://www.51cto.com/article/848594.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-07T01:33:45",
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -187,9 +217,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
       "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS7 动画实战：自定义转场、手势交互和物理动效全攻略",
@@ -212,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "水平校准真机检查：传感器生命周期、阈值和提交记录",
+      "url": "https://ost.51cto.com/posts/51680#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-07T01:33:45",
+      "last_seen_at": "2026-07-07T01:33:45",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "从 reportCard 到候选快照：质检报告页的截图预览链路设计",
       "url": "https://ost.51cto.com/posts/51606#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
       "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS7 应用性能监控：崩溃捕获、ANR 分析和线上性能数据采集",
