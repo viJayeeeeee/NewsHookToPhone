@@ -1,95 +1,105 @@
 {
-  "update_time": "2026-07-07T20:16:49",
+  "update_time": "2026-07-07T23:43:39",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "2424",
+      "last_hot_value": "2432",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "AI 智能体小镇",
       "url": "https://github.com/XiaoLuoLYG/GOD",
-      "last_hot_value": "1482",
+      "last_hot_value": "1486",
       "first_seen_at": "2026-07-06T12:40:22",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
     {
+      "title": "把英语音频变成听说训练的应用",
+      "url": "https://github.com/echo-loop/Echo-Loop",
+      "last_hot_value": "1192",
+      "first_seen_at": "2026-07-07T23:43:39",
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "开源体素游戏创作平台",
       "url": "https://github.com/luanti-org/luanti",
-      "last_hot_value": "1154",
+      "last_hot_value": "1156",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "自适应网页改版的 Python 爬虫框架",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "last_hot_value": "863",
+      "last_hot_value": "865",
       "first_seen_at": "2026-07-05T05:16:03",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "超低延迟的离线语音输入工具",
       "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
-      "last_hot_value": "712",
+      "last_hot_value": "717",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "一句话生成 CAD 模型的技能包",
       "url": "https://github.com/earthtojake/text-to-cad",
-      "last_hot_value": "590",
+      "last_hot_value": "600",
       "first_seen_at": "2026-07-06T12:40:22",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "从零开始训练大语言模型",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "last_hot_value": "1039",
+      "last_hot_value": "1042",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "极简的 Android 课程表",
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
-      "last_hot_value": "742",
+      "last_hot_value": "743",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "1031",
+      "last_hot_value": "1035",
       "first_seen_at": "2026-07-07T20:16:49",
-      "last_seen_at": "2026-07-07T20:16:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T23:43:39",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

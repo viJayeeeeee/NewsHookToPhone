@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-07T20:16:41",
+  "update_time": "2026-07-07T23:43:32",
   "items": [
     {
       "title": "【AI智能体】Hermes Agent 从部署到项目实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162558602",
-      "last_hot_value": "2.7w",
+      "last_hot_value": "2.6w",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,10 +24,10 @@
     {
       "title": "OpenClaw 实战案例：内容创作系统构建",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/162612725",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,18 +56,18 @@
       "url": "https://blog.csdn.net/2401_87629362/article/details/162464739",
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-07-07T20:16:41",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenCV-Python实战（32）——基于深度学习的物体分类与定位",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/161678530",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -96,10 +96,10 @@
       "url": "https://blog.csdn.net/Dovis5884/article/details/156314185",
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-07-07T20:16:41",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Windows运维体验AMD AI云：领取算力到跑通PyTorch",
@@ -116,10 +116,10 @@
       "url": "https://blog.csdn.net/crazyjinks/article/details/162655824",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-07T20:16:41",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenClaw 实战案例：自动化运维系统构建",
@@ -134,10 +134,10 @@
     {
       "title": "K8s - Helm管理工具",
       "url": "https://blog.csdn.net/liu_chen_yang/article/details/161394380",
-      "last_hot_value": "9121",
+      "last_hot_value": "8968",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -146,10 +146,10 @@
       "url": "https://blog.csdn.net/2501_91062530/article/details/162661476",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-07T20:16:41",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GitLab CI 制品（Artifacts）完全指南：从作用到配置实践",
@@ -164,12 +164,12 @@
     {
       "title": "FastAPI 数据库篇：SQLAlchemy 2.0 异步 ORM 从概念到 CRUD 实战",
       "url": "https://blog.csdn.net/m0_73777119/article/details/162608500",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "9156",
       "first_seen_at": "2026-07-07T20:16:41",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "RuoYi-Vue3 企业级后台快速落地实战指南",
@@ -184,12 +184,12 @@
     {
       "title": "审批单据怎么一键打印：可视化打印模板 + 字段/明细/审批记录占位的设计",
       "url": "https://blog.csdn.net/zhouzhongyan/article/details/162653220",
-      "last_hot_value": "9167",
+      "last_hot_value": "9013",
       "first_seen_at": "2026-07-07T20:16:41",
-      "last_seen_at": "2026-07-07T20:16:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T23:43:32",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【LE Audio】CSIP精讲[5]: 蓝牙协同设备组的安全防护体系与实战规范",
