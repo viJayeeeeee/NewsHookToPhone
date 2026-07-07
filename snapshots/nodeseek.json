@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-07-07T01:33:54",
+  "update_time": "2026-07-07T20:16:50",
   "items": [
     {
-      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
-      "url": "https://www.nodeseek.com/post-809285-1",
-      "last_hot_value": "查看:1108 回复:36",
-      "first_seen_at": "2026-07-07T01:33:54",
-      "last_seen_at": "2026-07-07T01:33:54",
+      "title": "eSIM 折腾留存记+一点补充心得",
+      "url": "https://www.nodeseek.com/post-783926-1",
+      "last_hot_value": "查看:5699 回复:102",
+      "first_seen_at": "2026-07-07T20:16:50",
+      "last_seen_at": "2026-07-07T20:16:50",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
+    },
+    {
+      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
+      "url": "https://www.nodeseek.com/post-809285-1",
+      "last_hot_value": "查看:1824 回复:56",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:197175 回复:2709",
+      "first_seen_at": "2026-07-05T05:16:05",
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 5,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
@@ -17,7 +37,7 @@
       "last_hot_value": "查看:668082 回复:1126",
       "first_seen_at": "2026-07-05T05:16:05",
       "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -32,13 +52,13 @@
       "is_new": false
     },
     {
-      "title": "【进阶向】（含图文）通过Cloudflare的自定义主机名功能进行单域名优选，配合Nginx更深入了解cdn数据流向和SNI分流",
-      "url": "https://www.nodeseek.com/post-640316-1",
-      "last_hot_value": "查看:2729 回复:32",
-      "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-05T05:16:05",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "Telegarm双向聊天机器人——极简高效（小白友好版）V4.0",
+      "url": "https://www.nodeseek.com/post-526824-1",
+      "last_hot_value": "查看:9322 回复:118",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -47,9 +67,9 @@
       "last_hot_value": "查看:63189 回复:565",
       "first_seen_at": "2026-07-07T01:33:54",
       "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
@@ -72,14 +92,24 @@
       "is_new": false
     },
     {
+      "title": "【Geelinx】关于 Januscape (CVE-2026-53359) 高危漏洞的公告",
+      "url": "https://www.nodeseek.com/post-811094-1",
+      "last_hot_value": "查看:1377 回复:25",
+      "first_seen_at": "2026-07-07T20:16:50",
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "HashPay | 一站式加密货币支付网关",
       "url": "https://www.nodeseek.com/post-808616-1",
       "last_hot_value": "查看:1675 回复:40",
       "first_seen_at": "2026-07-07T01:33:54",
       "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
@@ -92,64 +122,54 @@
       "is_new": false
     },
     {
+      "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
+      "url": "https://www.nodeseek.com/post-810146-1",
+      "last_hot_value": "查看:2258 回复:51",
+      "first_seen_at": "2026-07-07T20:16:50",
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
       "url": "https://www.nodeseek.com/post-767126-1",
       "last_hot_value": "查看:3541 回复:82",
       "first_seen_at": "2026-07-07T01:33:54",
       "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "【更新cf bypass】写了一个简单的补货监控，支持 Web 界面管理、推送到 Telegram/微信/自定义URL",
-      "url": "https://www.nodeseek.com/post-191876-1",
-      "last_hot_value": "查看:7689 回复:89",
-      "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-05T05:16:05",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "什么叫你的BitWarden是跑在Cloudflare上的？教你薅干大善人！",
-      "url": "https://www.nodeseek.com/post-575140-1",
-      "last_hot_value": "查看:12655 回复:162",
-      "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-05T05:16:05",
-      "consecutive_count": 0,
+      "title": "[开源自荐] WSL Dashboard - 用 Rust 打造的高性能 WSL 管理工具，内存占用最低仅 10MB",
+      "url": "https://www.nodeseek.com/post-783819-1",
+      "last_hot_value": "查看:1281 回复:32",
+      "first_seen_at": "2026-07-07T20:16:50",
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Telegarm双向聊天机器人——极简高效（小白友好版）V4.0",
-      "url": "https://www.nodeseek.com/post-526824-1",
-      "last_hot_value": "查看:9224 回复:116",
-      "first_seen_at": "2026-07-07T01:33:54",
-      "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 1,
-      "peak_rank": 7,
       "is_new": true
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:196723 回复:2705",
-      "first_seen_at": "2026-07-05T05:16:05",
-      "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 4,
-      "peak_rank": 7,
-      "is_new": false
     },
     {
       "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
       "url": "https://www.nodeseek.com/post-286885-1",
-      "last_hot_value": "查看:236625 回复:499",
+      "last_hot_value": "查看:237096 回复:501",
       "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "【onefile】完全开源。一行docker命令搭建自己的聚合图床",
+      "url": "https://www.nodeseek.com/post-752197-1",
+      "last_hot_value": "查看:899 回复:15",
+      "first_seen_at": "2026-07-07T20:16:50",
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Yanami —— 一个 Komari 安卓客户端",
@@ -157,19 +177,19 @@
       "last_hot_value": "查看:6028 回复:97",
       "first_seen_at": "2026-07-07T01:33:54",
       "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "【比“史上最强”更强】满屏讨论dd gcp居然没有人提到我的脚本😭",
-      "url": "https://www.nodeseek.com/post-116193-1",
-      "last_hot_value": "查看:29668 回复:242",
-      "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-05T05:16:05",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "从零开始的VPS科普(1)：认识你的第一台服务器",
+      "url": "https://www.nodeseek.com/post-656474-1",
+      "last_hot_value": "查看:5951 回复:155",
+      "first_seen_at": "2026-07-07T20:16:50",
+      "last_seen_at": "2026-07-07T20:16:50",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
@@ -177,9 +197,9 @@
       "last_hot_value": "查看:3844 回复:91",
       "first_seen_at": "2026-07-07T01:33:54",
       "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
@@ -187,16 +207,6 @@
       "last_hot_value": "查看:31160 回复:425",
       "first_seen_at": "2026-07-06T12:40:23",
       "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
-      "url": "https://www.nodeseek.com/post-584268-1",
-      "last_hot_value": "查看:19793 回复:164",
-      "first_seen_at": "2026-07-04T14:03:15",
-      "last_seen_at": "2026-07-05T05:16:05",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

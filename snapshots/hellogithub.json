@@ -1,104 +1,94 @@
 {
-  "update_time": "2026-07-07T01:33:53",
+  "update_time": "2026-07-07T20:16:49",
   "items": [
     {
       "title": "基于 Git 的本地 Markdown 知识库工具",
       "url": "https://github.com/refactoringhq/tolaria",
-      "last_hot_value": "2220",
+      "last_hot_value": "2424",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T20:16:49",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 智能体小镇",
       "url": "https://github.com/XiaoLuoLYG/GOD",
-      "last_hot_value": "1265",
+      "last_hot_value": "1482",
       "first_seen_at": "2026-07-06T12:40:22",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "把英语音频变成听说训练的应用",
-      "url": "https://github.com/echo-loop/Echo-Loop",
-      "last_hot_value": "1087",
-      "first_seen_at": "2026-07-04T14:03:13",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-07T20:16:49",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "开源体素游戏创作平台",
       "url": "https://github.com/luanti-org/luanti",
-      "last_hot_value": "1070",
+      "last_hot_value": "1154",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T20:16:49",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "自适应网页改版的 Python 爬虫框架",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "last_hot_value": "804",
+      "last_hot_value": "863",
       "first_seen_at": "2026-07-05T05:16:03",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-07T20:16:49",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "超低延迟的离线语音输入工具",
       "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
-      "last_hot_value": "635",
+      "last_hot_value": "712",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
+      "last_seen_at": "2026-07-07T20:16:49",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
-      "title": "用于学术研究的 Claude Code 技能包",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "last_hot_value": "518",
-      "first_seen_at": "2026-07-04T14:03:13",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 5,
+      "title": "一句话生成 CAD 模型的技能包",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "last_hot_value": "590",
+      "first_seen_at": "2026-07-06T12:40:22",
+      "last_seen_at": "2026-07-07T20:16:49",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "从零开始训练大语言模型",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "last_hot_value": "960",
+      "last_hot_value": "1039",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "一句话生成 CAD 模型的技能包",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "last_hot_value": "521",
-      "first_seen_at": "2026-07-06T12:40:22",
-      "last_seen_at": "2026-07-07T01:33:53",
+      "last_seen_at": "2026-07-07T20:16:49",
       "consecutive_count": 2,
-      "peak_rank": 7,
+      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "极简的 Android 课程表",
       "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
-      "last_hot_value": "692",
+      "last_hot_value": "742",
       "first_seen_at": "2026-07-07T01:33:53",
-      "last_seen_at": "2026-07-07T01:33:53",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-07T20:16:49",
+      "consecutive_count": 2,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "开源的 AI 互动课堂平台",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "last_hot_value": "1031",
+      "first_seen_at": "2026-07-07T20:16:49",
+      "last_seen_at": "2026-07-07T20:16:49",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     }
   ]

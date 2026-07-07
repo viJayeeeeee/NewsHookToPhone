@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-07T01:33:43",
+  "update_time": "2026-07-07T20:16:41",
   "items": [
+    {
+      "title": "【AI智能体】Hermes Agent 从部署到项目实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162558602",
+      "last_hot_value": "2.7w",
+      "first_seen_at": "2026-07-06T12:40:13",
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "单体还是微服务？中小企业的务实选择（一套代码双模式平滑演进）",
       "url": "https://blog.csdn.net/zhouzhongyan/article/details/162622772",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-06T12:40:13",
       "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "【AI智能体】Hermes Agent 从部署到项目实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162558602",
+      "title": "OpenClaw 实战案例：内容创作系统构建",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162612725",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-05T16:55:51",
       "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,22 +52,22 @@
       "is_new": false
     },
     {
-      "title": "融合计算机视觉与自然语言处理的驾驶证识别技术，实现了从非结构化图像到结构化数据的高效转化，成为智慧交通数字化转型的关键支撑",
-      "url": "https://blog.csdn.net/dlf283870550/article/details/162558171",
-      "last_hot_value": "2.2w",
-      "first_seen_at": "2026-07-04T14:03:04",
-      "last_seen_at": "2026-07-04T14:03:04",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(基于PyTorch卷积层的MNIST分类实战:从卷积直觉到高效卷积设计)",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/162464739",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-07-07T20:16:41",
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "OpenCV-Python实战（32）——基于深度学习的物体分类与定位",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/161678530",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "OpenClaw 实战案例：内容创作系统构建",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162612725",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 2,
+      "title": "《C/C+++ Boost 轻量级搜索引擎实战：架构流程、技术栈与工程落地指南——HTML文件的清洗（上篇）》",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/156314185",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-07-07T20:16:41",
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Windows运维体验AMD AI云：领取算力到跑通PyTorch",
@@ -97,9 +107,19 @@
       "last_hot_value": "8377",
       "first_seen_at": "2026-07-05T05:15:54",
       "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "Anthropic《语言模型中的全局工作空间》深度分析报告",
+      "url": "https://blog.csdn.net/crazyjinks/article/details/162655824",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-07T20:16:41",
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "OpenClaw 实战案例：自动化运维系统构建",
@@ -114,12 +134,22 @@
     {
       "title": "K8s - Helm管理工具",
       "url": "https://blog.csdn.net/liu_chen_yang/article/details/161394380",
-      "last_hot_value": "8275",
+      "last_hot_value": "9121",
       "first_seen_at": "2026-07-06T12:40:13",
-      "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "代码安全别只靠人工看：用DeepAudit搭一套自己的AI审计平台",
+      "url": "https://blog.csdn.net/2501_91062530/article/details/162661476",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-07T20:16:41",
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "GitLab CI 制品（Artifacts）完全指南：从作用到配置实践",
@@ -132,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "【LangChain】 少样本提示（Few-Shot）完全指南：从原理到实战落地",
-      "url": "https://blog.csdn.net/2503_91389547/article/details/161523850",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-07-04T14:03:04",
-      "last_seen_at": "2026-07-04T14:03:04",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "FastAPI 数据库篇：SQLAlchemy 2.0 异步 ORM 从概念到 CRUD 实战",
+      "url": "https://blog.csdn.net/m0_73777119/article/details/162608500",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-07T20:16:41",
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "RuoYi-Vue3 企业级后台快速落地实战指南",
@@ -147,19 +177,19 @@
       "last_hot_value": "8224",
       "first_seen_at": "2026-07-06T12:40:13",
       "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "C/C++非常规知识(2.0)",
-      "url": "https://blog.csdn.net/oooooooooooohd/article/details/158975001",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-04T14:03:04",
-      "last_seen_at": "2026-07-04T14:03:04",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "审批单据怎么一键打印：可视化打印模板 + 字段/明细/审批记录占位的设计",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/162653220",
+      "last_hot_value": "9167",
+      "first_seen_at": "2026-07-07T20:16:41",
+      "last_seen_at": "2026-07-07T20:16:41",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "【LE Audio】CSIP精讲[5]: 蓝牙协同设备组的安全防护体系与实战规范",
@@ -167,7 +197,7 @@
       "last_hot_value": "8133",
       "first_seen_at": "2026-07-05T16:55:51",
       "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -182,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "别让旧手机继续吃灰：把它改造成一台随时在线的个人博客服务器",
-      "url": "https://blog.csdn.net/2301_76297596/article/details/162548404",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-04T14:03:04",
-      "last_seen_at": "2026-07-04T14:03:04",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "深度学习实战-基于CNN卷积神经网络的番茄病害叶片图像识别模型",
       "url": "https://blog.csdn.net/m0_64336780/article/details/159730611",
       "last_hot_value": "7745",
       "first_seen_at": "2026-07-07T01:33:43",
       "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
