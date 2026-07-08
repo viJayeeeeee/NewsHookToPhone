@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-07T23:43:33",
+  "update_time": "2026-07-08T11:23:44",
   "items": [
     {
       "title": "别再只比较 Codex、Claude、Cursor 了：Java 团队真正值钱的，已经变成这四类 AI 资产",
       "url": "https://www.51cto.com/article/848672.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://www.51cto.com/article/848580.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T01:33:45",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://www.51cto.com/article/848643.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,26 +47,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
       "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
-      "url": "https://www.51cto.com/article/848404.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-05T05:15:56",
-      "last_seen_at": "2026-07-05T16:55:52",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
-      "url": "https://www.51cto.com/article/848271.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-05T05:15:56",
-      "last_seen_at": "2026-07-05T05:15:56",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -82,12 +62,22 @@
       "is_new": false
     },
     {
+      "title": "医疗AI智能体：合规可追溯：SKILL架构下的可解释性AI（XAI）医疗落地全解.145",
+      "url": "https://blog.51cto.com/u_16380863/14747985",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-08T11:23:44",
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "AI native: Casebook 面向 AI Agent 时代的测试用例工程化工作流",
       "url": "https://blog.51cto.com/fnngj/14745045",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -122,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "技术实操：从 LLM 到 Autonomous Agent 构建实践",
-      "url": "https://blog.51cto.com/u_13530694/14739033",
+      "title": "Agent理论与实践：从0到1构建自动化日报Agent",
+      "url": "https://blog.51cto.com/u_15876949/14747331",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-05T05:15:56",
-      "last_seen_at": "2026-07-05T16:55:52",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-07-08T11:23:44",
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "将 Rust 绑定到 .NET 10：Oxigraph 的 FFI 桥接实践",
@@ -137,7 +127,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -162,14 +152,14 @@
       "is_new": false
     },
     {
-      "title": "Blender 5.1雕刻前细分模型全方法 + 标准推荐工作流",
-      "url": "https://blog.51cto.com/zhuxianzhong/14738926",
+      "title": "【Android】Gradle 又卡在 Downloading 了？一次配置，全电脑 Android 项目不再龟速下载",
+      "url": "https://blog.51cto.com/u_14976802/14747108",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-05T05:15:56",
-      "last_seen_at": "2026-07-05T16:55:52",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-08T11:23:44",
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "Windows 系统 vscode Remote-SSH 远程连接虚拟机里面的Ubuntu系统的失败处理",
@@ -177,7 +167,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -192,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "Anthropic 7·3 新规下的 Claude Code 合规使用与迁移方案",
-      "url": "https://blog.51cto.com/key3feng/14737581",
+      "title": "手把手教你构建一个自动生成 CRUD 代码的 Agent",
+      "url": "https://blog.51cto.com/chenfenglove/14747092",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-05T05:15:56",
-      "last_seen_at": "2026-07-05T16:55:52",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-07-08T11:23:44",
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "Ubuntu24.04.4系统部署查验机房所有服务器状态脚本",
@@ -207,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -222,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "网页CAD图纸保存与数据持久化(H5查看CAD)",
+      "url": "https://blog.51cto.com/u_10455293/14747079",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-08T11:23:44",
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "编程 Agent 核心架构：代码生成、测试、修复的闭环设计",
       "url": "https://blog.51cto.com/chenfenglove/14744248",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -246,8 +246,8 @@
       "url": "https://ost.51cto.com/posts/51824#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -272,14 +272,14 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS7 动画实战：自定义转场、手势交互和物理动效全攻略",
-      "url": "https://ost.51cto.com/posts/51123#24read",
+      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "url": "https://www.51cto.com/article/848729.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-05T05:15:56",
-      "last_seen_at": "2026-07-05T16:55:52",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-07-08T11:23:44",
+      "last_seen_at": "2026-07-08T11:23:44",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "HarmonyOS DataCache冷启动优化开发实战（2）",
@@ -287,7 +287,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -317,16 +317,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-05T16:55:52",
       "last_seen_at": "2026-07-05T16:55:52",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "从零自研 GEO 优化系统：微服务架构设计与全流程自动化部署落地指南",
-      "url": "https://ost.51cto.com/posts/51608#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-05T05:15:56",
-      "last_seen_at": "2026-07-05T05:15:56",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
