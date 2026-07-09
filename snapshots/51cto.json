@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-09T01:24:04",
+  "update_time": "2026-07-09T14:17:28",
   "items": [
+    {
+      "title": "数据生成，虚拟仿真，实时推理：前沿物理 AI 技术如何落地产业应用",
+      "url": "https://www.51cto.com/article/848603.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-09T14:17:28",
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "别再只比较 Codex、Claude、Cursor 了：Java 团队真正值钱的，已经变成这四类 AI 资产",
       "url": "https://www.51cto.com/article/848672.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,16 +27,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T01:33:45",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Docker 跑黑苹果，这次终于简单了",
-      "url": "https://www.51cto.com/article/848535.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-07T01:33:45",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -37,19 +37,29 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "HarmonyOS 转运码生成页：QRCode 动态载荷、倒计时刷新与失效边界",
-      "url": "https://ost.51cto.com/posts/51669#24read",
+      "title": "阿里突然出手：Claude Code 被全面禁用？AI工具安全战，真的打响了",
+      "url": "https://www.51cto.com/article/848930.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:28",
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "MaxCompute 多模态检索：原生向量能力开启多模态 AI 大数据处理新范式",
+      "url": "https://blog.51cto.com/u_15316473/14750805",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-09T14:17:28",
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "医疗AI智能体：合规可追溯：SKILL架构下的可解释性AI（XAI）医疗落地全解.145",
@@ -57,7 +67,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -82,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "一句话全自动搞定 Bug 提交：Codex + 自定义 Skill 组合拳",
-      "url": "https://blog.51cto.com/u_11780953/14741753",
+      "title": "Agent 系列：Skill 之上，编排为王",
+      "url": "https://blog.51cto.com/u_15998238/14750804",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:28",
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Agent理论与实践：从0到1构建自动化日报Agent",
@@ -97,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "【机器人 / 强化学习】HIL-SERL：人类在环驱动的具身智能进化框架",
-      "url": "https://blog.51cto.com/u_15179348/14741552",
+      "title": "华为 算子开发中 cann 环境变量 有多个，怎么设置",
+      "url": "https://blog.51cto.com/u_16120231/14750708",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:28",
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "【Android】Gradle 又卡在 Downloading 了？一次配置，全电脑 Android 项目不再龟速下载",
@@ -127,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -142,14 +152,14 @@
       "is_new": false
     },
     {
-      "title": "《Pragmatic Unit Testing》精要：构建健壮软件的单元测试实战指南",
-      "url": "https://blog.51cto.com/u_15469972/14741364",
+      "title": "沙盒（二）开源项目汇总：Coder、CodeSandbox、Distrobox",
+      "url": "https://blog.51cto.com/u_15851118/14750534",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:28",
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "手把手教你构建一个自动生成 CRUD 代码的 Agent",
@@ -157,7 +167,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -172,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "大模型智能体能力工程化：基于SKILL的原子化拆分、标准化封装与依赖调度体系设计.143",
-      "url": "https://blog.51cto.com/u_16380863/14741271",
+      "title": "阿里开源沙盒项目OpenSandbox",
+      "url": "https://blog.51cto.com/u_15851118/14750533",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:28",
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "网页CAD图纸保存与数据持久化(H5查看CAD)",
@@ -187,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -202,22 +212,22 @@
       "is_new": false
     },
     {
-      "title": "告别手动配置：AI 驱动的 Nginx 智能配置生成与优化",
-      "url": "https://blog.51cto.com/dickeryang/14741076",
+      "title": "HarmonyOS TimeBar时间轴组件最佳实践（1）",
+      "url": "https://ost.51cto.com/posts/51998#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:28",
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
       "url": "https://www.51cto.com/article/848729.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-09T14:17:28",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -242,24 +252,14 @@
       "is_new": false
     },
     {
-      "title": "Image Kit 不替你判断照片可用：巡检附件压缩页怎么分层",
-      "url": "https://ost.51cto.com/posts/51607#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "HarmonyOS7 多主题 + 深色模式怎么搞？一套二维颜色模型搞定 HarmonyOS 主题适配",
       "url": "https://ost.51cto.com/posts/51132#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:04",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS DataCache冷启动优化开发实战（2）",
@@ -277,16 +277,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T01:33:45",
       "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "从 reportCard 到候选快照：质检报告页的截图预览链路设计",
-      "url": "https://ost.51cto.com/posts/51606#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:15",
-      "last_seen_at": "2026-07-06T12:40:15",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

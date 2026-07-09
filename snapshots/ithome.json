@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-09T01:24:06",
+  "update_time": "2026-07-09T14:17:30",
   "items": [
+    {
+      "title": "小米澎程 SkyNomad 首款新车外观公布，消息称系小米本月“两大新品”之一",
+      "url": "https://www.ithome.com/0/974/315.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "前华为天才少年李博杰吐槽 DeepSeek 面试后遭投资人“反怼”：被指拿钱失联，称其为“合作过最没契约精神的创始人”",
       "url": "https://www.ithome.com/0/973/883.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:45",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,23 +42,13 @@
       "is_new": false
     },
     {
-      "title": "重磅回归！曝华为 Pura 90 系列手机国际版将支持 5G 通信",
-      "url": "https://www.ithome.com/0/973/031.htm",
+      "title": "支付宝“花呗崩了”登上热搜，账单页面无法正常显示",
+      "url": "https://www.ithome.com/0/974/274.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-07T01:33:47",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "TCL 回应国家一级文物现其广告：未授权或参与放置任何品牌标识，积极配合调查",
-      "url": "https://www.ithome.com/0/972/858.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "first_seen_at": "2026-07-09T01:24:06",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -57,9 +57,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:06",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "微软 Win11 26H2 功能前瞻：增强搜索、重新设计开始菜单、放权系统更新等",
@@ -82,14 +82,14 @@
       "is_new": false
     },
     {
-      "title": "郭明錤称苹果折叠屏手机可能重演 iPhone X 剧本：同场发布、较晚开卖，供应紧张延续至年底",
-      "url": "https://www.ithome.com/0/972/859.htm",
+      "title": "小米汽车官宣全新产品系列：SkyNomad 小米澎程智能可变大空间 SUV",
+      "url": "https://www.ithome.com/0/974/291.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "迅雷传播盗版《我是刑警》被判赔给爱奇艺 786 万元，法院明确不能仅凭“技术中立”规避侵权责任",
@@ -97,7 +97,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:45",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -132,14 +132,24 @@
       "is_new": false
     },
     {
+      "title": "小米澎程首款 SUV 内外饰首秀：前排座椅能旋转，车内直接搭“吧台”",
+      "url": "https://www.ithome.com/0/974/498.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "国产制冷马甲问世，穿上直接降温 8-15℃",
       "url": "https://www.ithome.com/0/974/024.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:06",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "消息称 DeepSeek 正在自研 AI 芯片：面向推理场景，减少依赖英伟达、华为",
@@ -162,24 +172,14 @@
       "is_new": false
     },
     {
-      "title": "小米 REDMI 部分产品官方调价：K90 涨价 200 元、Note 15 系列上涨 300 元",
-      "url": "https://www.ithome.com/0/972/898.htm",
+      "title": "小米澎程 SkyNomad 预热车内“可变大空间”：工作室、咖啡馆、会客厅、游乐场都能“变”",
+      "url": "https://www.ithome.com/0/974/465.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-07T01:33:47",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "小米 17 系列手机最新销量数据曝光：全系突破 550 万台，Ultra 约 23.07 万",
-      "url": "https://www.ithome.com/0/972/869.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "小米 REDMI Note 17 系列手机发布定档 7 月 14 日，外观正式公开",
@@ -187,9 +187,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:06",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "华为乾崑智驾累计辅助驾驶里程数断网后仍滚动引热议，官方发声称相关页面展示数据时做了平滑处理",
@@ -212,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "豆包又一功能下线，“应用生成”已停止服务",
-      "url": "https://www.ithome.com/0/972/954.htm",
+      "title": "雷军谈 SkyNomad 小米澎程新车：历时 3 年半，打造一个“活的空间”",
+      "url": "https://www.ithome.com/0/974/298.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-07T01:33:47",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "曝手机厂 Pocket 云台相机可能会上 3nm 骁龙 8 系芯片，给大疆和影石一点小小的机圈震撼",
@@ -227,9 +227,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:06",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米增程车上市节奏曝光：7 月底技术发布会、8 月中下旬上市，还备有万台现车上市即交付",
@@ -262,11 +262,11 @@
       "is_new": false
     },
     {
-      "title": "支付宝“花呗崩了”登上热搜，账单页面无法正常显示",
-      "url": "https://www.ithome.com/0/974/274.htm",
+      "title": "2608.360km：吉利银河 A7 EM 获吉尼斯世界纪录，达成驾驶插混量产轿车零补能行驶最远距离",
+      "url": "https://www.ithome.com/0/974/268.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-09T01:24:06",
-      "last_seen_at": "2026-07-09T01:24:06",
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -292,14 +292,14 @@
       "is_new": false
     },
     {
-      "title": "（更新：首支预告片公布）周星驰导演电影《功夫女足》定档 7 月 11 日上映",
-      "url": "https://www.ithome.com/0/972/996.htm",
+      "title": "赵长江：我们为智界 RX 规划了超 20 种车色，会把最受欢迎的颜色给大家选择",
+      "url": "https://www.ithome.com/0/974/368.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-07T01:33:47",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "雷军回应小米汽车 SkyNomad 上市时间：快了",
@@ -307,9 +307,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:06",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "12 期免息：iPhone 17 Pro Max 512G 京东 10559 元",
@@ -342,14 +342,14 @@
       "is_new": false
     },
     {
-      "title": "复旦大学一课程考试改为“人考 AI”，4 名大学生出题让 AI 拿 0 分",
-      "url": "https://www.ithome.com/0/972/809.htm",
+      "title": "华为 Pura 80 Pro、Pro+、Ultra 官方翻新版上架：4299 元起，相比全新手机降价 2200~3700 元",
+      "url": "https://www.ithome.com/0/974/472.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "消息称苹果正为在华销售设备测试长鑫 DRAM 内存",
@@ -357,9 +357,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:06",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "吉利预告全新轿车，预计为星瑞家族“史上最大”车型",
@@ -382,14 +382,24 @@
       "is_new": false
     },
     {
+      "title": "李想官宣理想 i9 汽车：系列首台家庭纯电旗舰 SUV，9 月见",
+      "url": "https://www.ithome.com/0/974/572.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-09T14:17:30",
+      "last_seen_at": "2026-07-09T14:17:30",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "粉笔：张小龙辞任执行董事、首席执行官及董事会主席",
       "url": "https://www.ithome.com/0/974/238.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:06",
       "last_seen_at": "2026-07-09T01:24:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米 REDMI Note 17 系列手机发布会时间“抢跑”，定档 7 月 14 日 19:00 直播",
@@ -417,16 +427,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T01:33:47",
       "last_seen_at": "2026-07-07T01:33:47",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "《英雄联盟》2026 MSI 淘汰赛不敌越南战队，TES 官方致歉",
-      "url": "https://www.ithome.com/0/972/863.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-06T12:40:17",
-      "last_seen_at": "2026-07-06T12:40:17",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
