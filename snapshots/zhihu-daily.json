@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-08T22:53:12",
+  "update_time": "2026-07-09T11:43:14",
   "items": [
+    {
+      "title": "《庄子》中，你最喜欢的寓言是哪一个？",
+      "url": "https://daily.zhihu.com/story/9791012",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-09T11:43:14",
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "鸭和鹅到底有什么区别？",
       "url": "https://daily.zhihu.com/story/9790981",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T18:19:09",
-      "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +26,8 @@
       "url": "https://daily.zhihu.com/story/9790930",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T16:09:05",
-      "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://daily.zhihu.com/story/9790959",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T18:19:09",
-      "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,10 +46,10 @@
       "url": "https://daily.zhihu.com/story/9790911",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T22:53:12",
-      "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "久坐对你的危害到底有多大？运动能够抵消久坐的危害吗？",
@@ -47,8 +57,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T22:53:12",
       "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "我们在数学中为什么要引入复数？",
+      "url": "https://daily.zhihu.com/story/9791015",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-09T11:43:14",
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -56,8 +76,8 @@
       "url": "https://daily.zhihu.com/story/9790988",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T18:19:09",
-      "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -72,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "为什么太平天国仅用两三年时间就能从广西打到了南京？",
+      "url": "https://daily.zhihu.com/story/9791024",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-09T11:43:14",
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "你还在古书中读到过哪些“不经提点”多数人就理解不了的东西？",
       "url": "https://daily.zhihu.com/story/9790995",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T18:19:09",
-      "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -93,11 +123,11 @@
     },
     {
       "title": "瞎扯 · 如何正确地吐槽",
-      "url": "https://daily.zhihu.com/story/9791003",
+      "url": "https://daily.zhihu.com/story/9791028",
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T16:09:05",
-      "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-09T11:43:14",
+      "consecutive_count": 6,
       "peak_rank": 8,
       "is_new": false
     },
@@ -107,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T18:19:09",
       "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -117,7 +147,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T18:19:09",
       "last_seen_at": "2026-07-08T22:53:12",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
