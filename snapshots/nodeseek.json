@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-08T11:23:51",
+  "update_time": "2026-07-09T01:24:12",
   "items": [
+    {
+      "title": "NAT机商家合集-置顶每月更新中",
+      "url": "https://www.nodeseek.com/post-54366-1",
+      "last_hot_value": "查看:136176 回复:367",
+      "first_seen_at": "2026-07-09T01:24:12",
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "eSIM 折腾留存记+一点补充心得",
       "url": "https://www.nodeseek.com/post-783926-1",
       "last_hot_value": "查看:5699 回复:102",
       "first_seen_at": "2026-07-07T20:16:50",
       "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,19 +27,29 @@
       "last_hot_value": "查看:1824 回复:56",
       "first_seen_at": "2026-07-07T01:33:54",
       "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "【一个轻量级skill】可以让AI接管你所有vps/或者搭配各种skill使用",
-      "url": "https://www.nodeseek.com/post-790391-1",
-      "last_hot_value": "查看:2307 回复:59",
-      "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 0,
+      "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
+      "url": "https://www.nodeseek.com/post-767126-1",
+      "last_hot_value": "查看:4067 回复:91",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:197499 回复:2711",
+      "first_seen_at": "2026-07-09T01:24:12",
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "Telegarm双向聊天机器人——极简高效（小白友好版）V4.0",
@@ -37,7 +57,7 @@
       "last_hot_value": "查看:9322 回复:118",
       "first_seen_at": "2026-07-07T01:33:54",
       "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,42 +72,32 @@
       "is_new": false
     },
     {
-      "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
-      "url": "https://www.nodeseek.com/post-68572-1",
-      "last_hot_value": "查看:99634 回复:603",
-      "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:209751 回复:1959",
+      "first_seen_at": "2026-07-09T01:24:12",
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "HashPay | 一站式加密货币支付网关",
+      "url": "https://www.nodeseek.com/post-808616-1",
+      "last_hot_value": "查看:1944 回复:41",
+      "first_seen_at": "2026-07-07T01:33:54",
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "【Geelinx】关于 Januscape (CVE-2026-53359) 高危漏洞的公告",
       "url": "https://www.nodeseek.com/post-811094-1",
-      "last_hot_value": "查看:1377 回复:25",
+      "last_hot_value": "查看:2641 回复:30",
       "first_seen_at": "2026-07-07T20:16:50",
-      "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "HashPay | 一站式加密货币支付网关",
-      "url": "https://www.nodeseek.com/post-808616-1",
-      "last_hot_value": "查看:1675 回复:40",
-      "first_seen_at": "2026-07-07T01:33:54",
-      "last_seen_at": "2026-07-07T01:33:54",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
-      "url": "https://www.nodeseek.com/post-762899-1",
-      "last_hot_value": "查看:2906 回复:85",
-      "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-06T12:40:23",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -97,39 +107,49 @@
       "last_hot_value": "查看:2258 回复:51",
       "first_seen_at": "2026-07-07T20:16:50",
       "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 3,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
-      "url": "https://www.nodeseek.com/post-767126-1",
-      "last_hot_value": "查看:3541 回复:82",
-      "first_seen_at": "2026-07-07T01:33:54",
-      "last_seen_at": "2026-07-07T01:33:54",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
+      "title": "从零搭建 Obsidian 个人知识库：PARA + 中文目录 + Git 备份完整实战",
+      "url": "https://www.nodeseek.com/post-711247-1",
+      "last_hot_value": "查看:2474 回复:39",
+      "first_seen_at": "2026-07-09T01:24:12",
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "[开源自荐] WSL Dashboard - 用 Rust 打造的高性能 WSL 管理工具，内存占用最低仅 10MB",
       "url": "https://www.nodeseek.com/post-783819-1",
-      "last_hot_value": "查看:1281 回复:32",
+      "last_hot_value": "查看:1518 回复:38",
       "first_seen_at": "2026-07-07T20:16:50",
-      "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
-      "url": "https://www.nodeseek.com/post-286885-1",
-      "last_hot_value": "查看:237096 回复:501",
-      "first_seen_at": "2026-07-05T16:56:01",
-      "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 3,
+      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
+      "url": "https://www.nodeseek.com/post-373751-1",
+      "last_hot_value": "查看:235809 回复:497",
+      "first_seen_at": "2026-07-09T01:24:12",
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "【开源】ForwardX：一个好看又能打的多主机端口/隧道转发管理面板",
+      "url": "https://www.nodeseek.com/post-792082-1",
+      "last_hot_value": "查看:3506 回复:80",
+      "first_seen_at": "2026-07-09T01:24:12",
+      "last_seen_at": "2026-07-09T01:24:12",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "【onefile】完全开源。一行docker命令搭建自己的聚合图床",
@@ -137,7 +157,7 @@
       "last_hot_value": "查看:899 回复:15",
       "first_seen_at": "2026-07-07T20:16:50",
       "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -157,7 +177,7 @@
       "last_hot_value": "查看:5951 回复:155",
       "first_seen_at": "2026-07-07T20:16:50",
       "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },

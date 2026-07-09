@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-08T11:23:44",
+  "update_time": "2026-07-09T01:24:04",
   "items": [
     {
       "title": "别再只比较 Codex、Claude、Cursor 了：Java 团队真正值钱的，已经变成这四类 AI 资产",
       "url": "https://www.51cto.com/article/848672.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://www.51cto.com/article/848580.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T01:33:45",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://www.51cto.com/article/848643.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,24 +52,14 @@
       "is_new": false
     },
     {
-      "title": "一个小白调试面板：我把 state 直接展示在页面上",
-      "url": "https://ost.51cto.com/posts/51501#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-05T16:55:52",
-      "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "医疗AI智能体：合规可追溯：SKILL架构下的可解释性AI（XAI）医疗落地全解.145",
       "url": "https://blog.51cto.com/u_16380863/14747985",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI native: Casebook 面向 AI Agent 时代的测试用例工程化工作流",
@@ -102,24 +92,14 @@
       "is_new": false
     },
     {
-      "title": "24万星和5.7万星的两个框架，我焊在一起后它们封神了",
-      "url": "https://blog.51cto.com/MageByte/14739119",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-05T16:55:52",
-      "last_seen_at": "2026-07-05T16:55:52",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "Agent理论与实践：从0到1构建自动化日报Agent",
       "url": "https://blog.51cto.com/u_15876949/14747331",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "将 Rust 绑定到 .NET 10：Oxigraph 的 FFI 桥接实践",
@@ -142,24 +122,14 @@
       "is_new": false
     },
     {
-      "title": "智能体构建：打破停机瓶颈：智能体Skill热更新、灰度发布与回滚机制全流程指南.142",
-      "url": "https://blog.51cto.com/u_16380863/14739105",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-05T16:55:52",
-      "last_seen_at": "2026-07-05T16:55:52",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "【Android】Gradle 又卡在 Downloading 了？一次配置，全电脑 Android 项目不再龟速下载",
       "url": "https://blog.51cto.com/u_14976802/14747108",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Windows 系统 vscode Remote-SSH 远程连接虚拟机里面的Ubuntu系统的失败处理",
@@ -186,10 +156,10 @@
       "url": "https://blog.51cto.com/chenfenglove/14747092",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Ubuntu24.04.4系统部署查验机房所有服务器状态脚本",
@@ -216,10 +186,10 @@
       "url": "https://blog.51cto.com/u_10455293/14747079",
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "编程 Agent 核心架构：代码生成、测试、修复的闭环设计",
@@ -242,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "url": "https://www.51cto.com/article/848729.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-08T11:23:44",
+      "last_seen_at": "2026-07-09T01:24:04",
+      "consecutive_count": 2,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "HDC 2026 亮点回顾与 HarmonyOS 7.0 技术风向标",
       "url": "https://ost.51cto.com/posts/51824#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -272,11 +252,11 @@
       "is_new": false
     },
     {
-      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-      "url": "https://www.51cto.com/article/848729.html",
+      "title": "HarmonyOS7 多主题 + 深色模式怎么搞？一套二维颜色模型搞定 HarmonyOS 主题适配",
+      "url": "https://ost.51cto.com/posts/51132#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-08T11:23:44",
+      "first_seen_at": "2026-07-09T01:24:04",
+      "last_seen_at": "2026-07-09T01:24:04",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
@@ -307,16 +287,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-06T12:40:15",
       "last_seen_at": "2026-07-06T12:40:15",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "HarmonyOS7 应用性能监控：崩溃捕获、ANR 分析和线上性能数据采集",
-      "url": "https://ost.51cto.com/posts/51144#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-05T16:55:52",
-      "last_seen_at": "2026-07-05T16:55:52",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

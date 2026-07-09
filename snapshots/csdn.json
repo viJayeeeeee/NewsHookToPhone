@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-08T11:23:42",
+  "update_time": "2026-07-09T01:24:03",
   "items": [
+    {
+      "title": "【Linux 指南】文件系统系列（五）：软硬链接原理与文件系统实操 —— 从 ln 命令到分区管理全流程终章",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/162628042",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-07-09T01:24:03",
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【AI智能体】Hermes Agent 从部署到项目实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162558602",
       "last_hot_value": "2.6w",
       "first_seen_at": "2026-07-06T12:40:13",
       "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "从感知到自主决策：机器人技术的演进、核心架构与产业落地全景解析",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/162686266",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-07-08T11:23:42",
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(基于PyTorch卷积层的MNIST分类实战:从卷积直觉到高效卷积设计)",
       "url": "https://blog.csdn.net/2401_87629362/article/details/162464739",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-07T20:16:41",
-      "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,16 +57,6 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-06T12:40:13",
       "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 5,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "GitHub 热榜项目 - 周榜(2026-07-04)",
-      "url": "https://blog.csdn.net/u014390502/article/details/162584085",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-05T16:55:51",
-      "last_seen_at": "2026-07-07T01:33:43",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -57,9 +67,9 @@
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-07-08T11:23:42",
       "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenCV-Python实战（32）——基于深度学习的物体分类与定位",
@@ -72,11 +82,11 @@
       "is_new": false
     },
     {
-      "title": "从感知到自主决策：机器人技术的演进、核心架构与产业落地全景解析",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/162686266",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-08T11:23:42",
-      "last_seen_at": "2026-07-08T11:23:42",
+      "title": "从黑客视角看安全：攻击链（Kill Chain）全流程拆解",
+      "url": "https://blog.csdn.net/cui_yonghua/article/details/162674401",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-09T01:24:03",
+      "last_seen_at": "2026-07-09T01:24:03",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -86,10 +96,30 @@
       "url": "https://blog.csdn.net/Dovis5884/article/details/156314185",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-07T20:16:41",
-      "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "基于 Trae + DeepSeek 的 Vibe Coding 实践指南（六）：实战阿里云图片内容审核全栈项目",
+      "url": "https://blog.csdn.net/2502_91499791/article/details/162570949",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-09T01:24:03",
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "【Agent 学习日记】不想把网站数据交给第三方？用Umami搭建自己的访问分析系统",
+      "url": "https://blog.csdn.net/2402_87298751/article/details/162670780",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-09T01:24:03",
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "Anthropic《语言模型中的全局工作空间》深度分析报告",
@@ -102,24 +132,14 @@
       "is_new": false
     },
     {
-      "title": "OpenClaw 实战案例：自动化运维系统构建",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162554430",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-05T16:55:51",
-      "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "让每一块屏幕都「开口说话」：魔珐星云具身智能数字人，从心动到上手",
       "url": "https://blog.csdn.net/weixin_66401877/article/details/162672189",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-08T11:23:42",
       "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "K8s - Helm管理工具",
@@ -142,14 +162,24 @@
       "is_new": false
     },
     {
+      "title": "【Linux】十九.进程池（匿名管道）实现多客户端并发通信息––详解",
+      "url": "https://blog.csdn.net/2501_93351213/article/details/162642010",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-09T01:24:03",
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "2026年7月国内主流Coding Plan怎么选，GLM、Kimi、MiMo整理对比",
       "url": "https://blog.csdn.net/zhangay1998/article/details/162555439",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-08T11:23:42",
       "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "FastAPI 数据库篇：SQLAlchemy 2.0 异步 ORM 从概念到 CRUD 实战",
@@ -172,14 +202,24 @@
       "is_new": false
     },
     {
+      "title": "GitHub热榜开源项目，Claude Code 10模块系统学习指南",
+      "url": "https://blog.csdn.net/zhangay1998/article/details/162622420",
+      "last_hot_value": "9415",
+      "first_seen_at": "2026-07-09T01:24:03",
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "Redis——分布式锁",
       "url": "https://blog.csdn.net/2302_80221042/article/details/162600944",
       "last_hot_value": "9012",
       "first_seen_at": "2026-07-08T11:23:42",
       "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "审批单据怎么一键打印：可视化打印模板 + 字段/明细/审批记录占位的设计",
@@ -192,24 +232,14 @@
       "is_new": false
     },
     {
-      "title": "【LE Audio】CSIP精讲[5]: 蓝牙协同设备组的安全防护体系与实战规范",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/162498081",
-      "last_hot_value": "8133",
-      "first_seen_at": "2026-07-05T16:55:51",
-      "last_seen_at": "2026-07-07T01:33:43",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "【MySQL数据库学习】（MySQL访问、连接池原理与简易网站数据流动）",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/162573622",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-05T16:55:51",
-      "last_seen_at": "2026-07-05T16:55:51",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "小米摄像头怎么接入RTSP？Go2RTC转流、EasyNVR录像与公网访问教程",
+      "url": "https://blog.csdn.net/qq_54796785/article/details/162630513",
+      "last_hot_value": "8574",
+      "first_seen_at": "2026-07-09T01:24:03",
+      "last_seen_at": "2026-07-09T01:24:03",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "如何设计一个生产级的 Agent 系统架构？需要考虑哪些关键模块？",
@@ -217,9 +247,9 @@
       "last_hot_value": "8019",
       "first_seen_at": "2026-07-08T11:23:42",
       "last_seen_at": "2026-07-08T11:23:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "深度学习实战-基于CNN卷积神经网络的番茄病害叶片图像识别模型",
