@@ -1,55 +1,95 @@
 {
-  "update_time": "2026-07-10T12:23:20",
+  "update_time": "2026-07-10T17:04:12",
   "items": [
+    {
+      "title": "基于 Git 的本地 Markdown 知识库工具",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "last_hot_value": "3042",
+      "first_seen_at": "2026-07-10T17:04:12",
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "AI 智能体小镇",
       "url": "https://github.com/XiaoLuoLYG/GOD",
-      "last_hot_value": "2085",
+      "last_hot_value": "2114",
       "first_seen_at": "2026-07-09T16:36:42",
-      "last_seen_at": "2026-07-10T12:23:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "把英语音频变成听说训练的应用",
       "url": "https://github.com/echo-loop/Echo-Loop",
-      "last_hot_value": "1477",
+      "last_hot_value": "1501",
       "first_seen_at": "2026-07-07T23:43:39",
-      "last_seen_at": "2026-07-10T12:23:20",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
     {
+      "title": "超低延迟的离线语音输入工具",
+      "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
+      "last_hot_value": "977",
+      "first_seen_at": "2026-07-10T17:04:12",
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "一句话生成 CAD 模型的技能包",
       "url": "https://github.com/earthtojake/text-to-cad",
-      "last_hot_value": "850",
+      "last_hot_value": "866",
       "first_seen_at": "2026-07-09T16:36:42",
-      "last_seen_at": "2026-07-10T12:23:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
+      "title": "从零开始训练大语言模型",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "last_hot_value": "1291",
+      "first_seen_at": "2026-07-10T17:04:12",
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "1309",
+      "last_hot_value": "1320",
       "first_seen_at": "2026-07-07T20:16:49",
-      "last_seen_at": "2026-07-10T12:23:20",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 8,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "让 AI 写作少一些套路",
       "url": "https://github.com/hardikpandya/stop-slop",
-      "last_hot_value": "889",
+      "last_hot_value": "902",
       "first_seen_at": "2026-07-09T14:17:35",
-      "last_seen_at": "2026-07-10T12:23:20",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "开源体素游戏创作平台",
+      "url": "https://github.com/luanti-org/luanti",
+      "last_hot_value": "1374",
+      "first_seen_at": "2026-07-10T17:04:12",
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "自适应网页改版的 Python 爬虫框架",
@@ -60,6 +100,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "极简的 Android 课程表",
+      "url": "https://github.com/XingHeYuZhuan/shiguangschedule",
+      "last_hot_value": "893",
+      "first_seen_at": "2026-07-10T17:04:12",
+      "last_seen_at": "2026-07-10T17:04:12",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
