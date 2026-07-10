@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-09T16:36:37",
+  "update_time": "2026-07-10T12:23:14",
   "items": [
+    {
+      "title": "动态路由匹配让一个模板服务无数 URL",
+      "url": "https://www.51cto.com/article/849074.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "数据生成，虚拟仿真，实时推理：前沿物理 AI 技术如何落地产业应用",
       "url": "https://www.51cto.com/article/848603.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
-      "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,19 +27,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "Karpathy最新开喷：一句话让全场Agent开发者安静了",
-      "url": "https://www.51cto.com/article/848580.html",
+      "title": "把业务流程沉淀成高质量 Skill 的实践路径",
+      "url": "https://www.51cto.com/article/848986.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-07T01:33:45",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "微软商店装不上？十 分钟搞定 Codex + Codex++ + DeepSeek，免费用上 AI 编程神器",
@@ -47,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "AI 工作流引擎：用 DAG 编排复杂多步骤任务",
+      "url": "https://blog.51cto.com/plcode/14753821",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "MaxCompute 多模态检索：原生向量能力开启多模态 AI 大数据处理新范式",
@@ -57,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -82,14 +102,14 @@
       "is_new": false
     },
     {
-      "title": "DataWorks Data Agent的演进与工程化实践",
-      "url": "https://blog.51cto.com/u_15316473/14742207",
+      "title": "十个 AI Agent 工作流模板，照着搭就能用",
+      "url": "https://blog.51cto.com/deephub/14753757",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-07T01:33:45",
-      "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Agent 系列：Skill 之上，编排为王",
@@ -97,7 +117,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -122,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "Harness Engineering 实践案例：如何Agent 写一份行为规范",
+      "url": "https://blog.51cto.com/deephub/14753756",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "华为 算子开发中 cann 环境变量 有多个，怎么设置",
       "url": "https://blog.51cto.com/u_16120231/14750708",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -152,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "Thinking--Promise解决动态挂载静态资源重复问题",
+      "url": "https://blog.51cto.com/u_15998238/14753730",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "沙盒（二）开源项目汇总：Coder、CodeSandbox、Distrobox",
       "url": "https://blog.51cto.com/u_15851118/14750534",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -182,12 +222,22 @@
       "is_new": false
     },
     {
+      "title": "边缘部署提速利器：TensorRT + ONNX 推理优化全解析",
+      "url": "https://blog.51cto.com/u_15876949/14753345",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "阿里开源沙盒项目OpenSandbox",
       "url": "https://blog.51cto.com/u_15851118/14750533",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -212,12 +262,22 @@
       "is_new": false
     },
     {
+      "title": "手把手带你上手鸿蒙应用开发利器 DevEcoCode",
+      "url": "https://ost.51cto.com/posts/52199#24read",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS TimeBar时间轴组件最佳实践（1）",
       "url": "https://ost.51cto.com/posts/51998#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -227,7 +287,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-08T11:23:44",
       "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -242,14 +302,14 @@
       "is_new": false
     },
     {
-      "title": "Fable 5被网友薅出省钱神招！最高减70%！",
-      "url": "https://www.51cto.com/article/848594.html",
+      "title": "手把手带你上手鸿蒙应用开发利器 DevEcoCli",
+      "url": "https://ost.51cto.com/posts/52070#24read",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-07T01:33:45",
-      "last_seen_at": "2026-07-07T01:33:45",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-07-10T12:23:14",
+      "last_seen_at": "2026-07-10T12:23:14",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "HarmonyOS7 多主题 + 深色模式怎么搞？一套二维颜色模型搞定 HarmonyOS 主题适配",
@@ -267,16 +327,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-07T20:16:42",
       "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "水平校准真机检查：传感器生命周期、阈值和提交记录",
-      "url": "https://ost.51cto.com/posts/51680#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T01:33:45",
-      "last_seen_at": "2026-07-07T01:33:45",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
