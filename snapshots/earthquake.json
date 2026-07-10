@@ -1,44 +1,44 @@
 {
-  "update_time": "2026-07-08T23:58:58",
+  "update_time": "2026-07-10T06:11:06",
   "items": [
+    {
+      "title": "M3.2 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260709122556/summarize",
+      "last_hot_value": "3.2级",
+      "first_seen_at": "2026-07-08T23:58:58",
+      "last_seen_at": "2026-07-10T06:11:06",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "M3.7 新疆阿克苏地区沙雅县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260709115931/summarize",
+      "last_hot_value": "3.7级",
+      "first_seen_at": "2026-07-10T06:11:06",
+      "last_seen_at": "2026-07-10T06:11:06",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "M4.8 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260709074413/summarize",
+      "last_hot_value": "4.8级",
+      "first_seen_at": "2026-07-10T06:11:06",
+      "last_seen_at": "2026-07-10T06:11:06",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
     {
       "title": "M3.0 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708130511/summarize",
       "last_hot_value": "3.0级",
-      "first_seen_at": "2026-07-08T16:51:14",
-      "last_seen_at": "2026-07-08T23:58:58",
+      "first_seen_at": "2026-07-08T23:58:58",
+      "last_seen_at": "2026-07-10T06:11:06",
       "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M3.2 云南大理州宾川县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260706071027/summarize",
-      "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-06T08:53:26",
-      "last_seen_at": "2026-07-06T22:55:14",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M5.0 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708100848/summarize",
-      "last_hot_value": "5.0级",
-      "first_seen_at": "2026-07-08T16:51:14",
-      "last_seen_at": "2026-07-08T23:58:58",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M3.2 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708064842/summarize",
-      "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-08T16:51:14",
-      "last_seen_at": "2026-07-08T23:58:58",
-      "consecutive_count": 2,
-      "peak_rank": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -46,9 +46,19 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708062213/summarize",
       "last_hot_value": "4.0级",
       "first_seen_at": "2026-07-08T16:51:14",
-      "last_seen_at": "2026-07-08T23:58:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-10T06:11:06",
+      "consecutive_count": 3,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "M5.0 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708100848/summarize",
+      "last_hot_value": "5.0级",
+      "first_seen_at": "2026-07-08T23:58:58",
+      "last_seen_at": "2026-07-10T06:11:06",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -56,27 +66,17 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708061945/summarize",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-07-08T16:51:14",
-      "last_seen_at": "2026-07-08T23:58:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-10T06:11:06",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "M4.5 四川德阳市绵竹市",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260705230328/summarize",
-      "last_hot_value": "4.5级",
-      "first_seen_at": "2026-07-06T22:55:14",
-      "last_seen_at": "2026-07-06T22:55:14",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "M3.0 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708061709/summarize",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-07-08T23:58:58",
-      "last_seen_at": "2026-07-08T23:58:58",
+      "title": "M3.2 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708064842/summarize",
+      "last_hot_value": "3.2级",
+      "first_seen_at": "2026-07-10T06:11:06",
+      "last_seen_at": "2026-07-10T06:11:06",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -86,40 +86,20 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708061426/summarize",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-07-08T16:51:14",
-      "last_seen_at": "2026-07-08T23:58:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-10T06:11:06",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "M3.2 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708061419/summarize",
-      "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-08T23:58:58",
-      "last_seen_at": "2026-07-08T23:58:58",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "M5.0 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708061229/summarize",
-      "last_hot_value": "5.0级",
-      "first_seen_at": "2026-07-08T23:58:58",
-      "last_seen_at": "2026-07-08T23:58:58",
+      "title": "M3.0 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708061709/summarize",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-07-10T06:11:06",
+      "last_seen_at": "2026-07-10T06:11:06",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
-    },
-    {
-      "title": "M4.3 云南大理州宾川县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260704180735/summarize",
-      "last_hot_value": "4.3级",
-      "first_seen_at": "2026-07-06T22:55:14",
-      "last_seen_at": "2026-07-06T22:55:14",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
     },
     {
       "title": "M3.8 四川宜宾市高县",
@@ -127,7 +107,7 @@
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-07-08T16:51:14",
       "last_seen_at": "2026-07-08T23:58:58",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

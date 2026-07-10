@@ -1,25 +1,15 @@
 {
-  "update_time": "2026-07-08T23:58:52",
+  "update_time": "2026-07-10T06:10:59",
   "items": [
     {
-      "title": "海屿你",
-      "url": "https://music.163.com/#/song?id=1973665667",
+      "title": "遐想",
+      "url": "https://music.163.com/#/song?id=2018733994",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-06T22:55:08",
-      "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "玻璃",
-      "url": "https://music.163.com/#/song?id=3382908505",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-06T22:55:08",
-      "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-07-10T06:10:59",
+      "last_seen_at": "2026-07-10T06:10:59",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "于是",
@@ -27,18 +17,8 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-07-08T16:51:07",
       "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Баллада",
-      "url": "https://music.163.com/#/song?id=2145353565",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-06T22:55:08",
-      "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 3,
-      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -46,20 +26,20 @@
       "url": "https://music.163.com/#/song?id=3387477661",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-07-08T16:51:07",
-      "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-10T06:10:59",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "恋人",
-      "url": "https://music.163.com/#/song?id=2600493765",
+      "title": "苦茶子",
+      "url": "https://music.163.com/#/song?id=1922888354",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-06T22:55:08",
-      "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 3,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-10T06:10:59",
+      "last_seen_at": "2026-07-10T06:10:59",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "还是会想你",
@@ -67,28 +47,8 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-07-08T16:51:07",
       "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "嗜好",
-      "url": "https://music.163.com/#/song?id=1391891631",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-06T08:53:18",
-      "last_seen_at": "2026-07-06T22:55:08",
       "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "两 难",
-      "url": "https://music.163.com/#/song?id=2163210456",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-06T08:53:18",
-      "last_seen_at": "2026-07-06T22:55:08",
-      "consecutive_count": 0,
-      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -96,29 +56,9 @@
       "url": "https://music.163.com/#/song?id=3399839173",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-07-08T16:51:07",
-      "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "雨过后的风景",
-      "url": "https://music.163.com/#/song?id=215382",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-06T22:55:08",
-      "last_seen_at": "2026-07-08T23:58:52",
+      "last_seen_at": "2026-07-10T06:10:59",
       "consecutive_count": 3,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "失眠",
-      "url": "https://music.163.com/#/song?id=273114",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-07-06T22:55:08",
-      "last_seen_at": "2026-07-08T23:58:52",
-      "consecutive_count": 3,
-      "peak_rank": 9,
+      "peak_rank": 7,
       "is_new": false
     }
   ]
