@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-11T16:21:01",
+  "update_time": "2026-07-11T22:18:23",
   "items": [
     {
       "title": "【Linux】文件描述符背后的底层逻辑：重定向、VFS 与用户态缓冲区",
       "url": "https://blog.csdn.net/2402_87731470/article/details/162751545",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "2.7w",
       "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,32 +42,42 @@
       "is_new": false
     },
     {
+      "title": "怎样区分人工智能、离身智能、具身智能、智能机器人与人形机器人",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/162728655",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-07-11T12:51:55",
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从数据管道到训练驾驶舱-PyTorch数据处理与模型可视化展示)",
       "url": "https://blog.csdn.net/2401_87629362/article/details/162693156",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.7w",
       "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "Agent 不只是聊天框：用 ArkUI 做一个鸿蒙任务工作台",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162727786",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "中级OpenGL教程 014：Phong标准化渲染管线架构搭建｜附完整C++源码&四大避坑总结",
       "url": "https://blog.csdn.net/2503_92624912/article/details/162715906",
-      "last_hot_value": "8211",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-10T12:23:12",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
     },
@@ -94,10 +104,10 @@
     {
       "title": "空间管理的进化革命：深度解析Oracle ASSM与MSSM自动与手动段空间管理的完整对比",
       "url": "https://blog.csdn.net/qq_41840843/article/details/162770931",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -107,7 +117,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-10T12:23:12",
       "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -119,6 +129,16 @@
       "last_seen_at": "2026-07-11T12:51:55",
       "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "2026 年 7 月远控软件横评：哪个远程控制软件好用不卡顿？UU 远程毫秒低延迟实测完胜",
+      "url": "https://blog.csdn.net/user340/article/details/162730154",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-07-11T16:21:01",
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -152,22 +172,12 @@
       "is_new": false
     },
     {
-      "title": "怎样区分人工智能、离身智能、具身智能、智能机器人与人形机器人",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/162728655",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "Loop Engineering：从提示词到循环系统",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162579639",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-09T14:17:26",
-      "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -182,14 +192,14 @@
       "is_new": false
     },
     {
-      "title": "2026 年 7 月远控软件横评：哪个远程控制软件好用不卡顿？UU 远程毫秒低延迟实测完胜",
-      "url": "https://blog.csdn.net/user340/article/details/162730154",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-11T16:21:01",
-      "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 1,
+      "title": "Nginx- 虚拟主机配置：基于域名、端口、IP 的多站点部署",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157657758",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-11T12:51:55",
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 3,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AI技术教程】5分钟用Python+FAISS搭建本地RAG知识库，无需云服务",
@@ -222,12 +232,12 @@
       "is_new": false
     },
     {
-      "title": "Nginx- 虚拟主机配置：基于域名、端口、IP 的多站点部署",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157657758",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 2,
+      "title": "深度学习实战-基于BiT-M ResNet50的快餐图像分类识别模型",
+      "url": "https://blog.csdn.net/m0_64336780/article/details/159688523",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-09T18:28:40",
+      "last_seen_at": "2026-07-11T22:18:23",
+      "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": false
     },
@@ -257,9 +267,9 @@
       "last_hot_value": "8763",
       "first_seen_at": "2026-07-11T16:21:01",
       "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "企业级低代码三件套：表单设计器 + 流程引擎 + 代码生成器，怎么配合才高效",
@@ -267,16 +277,6 @@
       "last_hot_value": "8834",
       "first_seen_at": "2026-07-10T12:23:12",
       "last_seen_at": "2026-07-10T12:23:12",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "深度学习实战-基于BiT-M ResNet50的快餐图像分类识别模型",
-      "url": "https://blog.csdn.net/m0_64336780/article/details/159688523",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-09T18:28:40",
-      "last_seen_at": "2026-07-09T18:28:40",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

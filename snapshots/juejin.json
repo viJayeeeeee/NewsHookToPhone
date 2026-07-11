@@ -1,33 +1,33 @@
 {
-  "update_time": "2026-07-11T16:20:58",
+  "update_time": "2026-07-11T22:18:22",
   "items": [
     {
       "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
       "url": "https://juejin.cn/post/7659763781161730102",
       "last_hot_value": "热度:5769",
       "first_seen_at": "2026-07-11T16:20:58",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "凌晨睡不着，我给台风巴威写了个追踪网站",
       "url": "https://juejin.cn/post/7659393583027896330",
       "last_hot_value": "热度:4293",
       "first_seen_at": "2026-07-11T16:20:58",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "前端没有死，只是换了个姿势年薪百万",
       "url": "https://juejin.cn/post/7657809077683257387",
       "last_hot_value": "热度:2457",
       "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 8,
       "peak_rank": 3,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://juejin.cn/post/7659854493060923407",
       "last_hot_value": "热度:1539",
       "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 8,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://juejin.cn/post/7659936053578465315",
       "last_hot_value": "热度:999",
       "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 8,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "https://juejin.cn/post/7659981643583782938",
       "last_hot_value": "热度:891",
       "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -96,8 +96,8 @@
       "url": "https://juejin.cn/post/7660062528128516146",
       "last_hot_value": "热度:864",
       "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
@@ -106,8 +106,8 @@
       "url": "https://juejin.cn/post/7659978807450796075",
       "last_hot_value": "热度:774",
       "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
     },
@@ -116,8 +116,8 @@
       "url": "https://juejin.cn/post/7659854493060136975",
       "last_hot_value": "热度:765",
       "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 5,
       "peak_rank": 9,
       "is_new": false
     },
@@ -126,10 +126,10 @@
       "url": "https://juejin.cn/post/7659275867992850486",
       "last_hot_value": "热度:747",
       "first_seen_at": "2026-07-11T16:20:58",
-      "last_seen_at": "2026-07-11T16:20:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-11T22:18:22",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
