@@ -1,33 +1,13 @@
 {
-  "update_time": "2026-07-10T17:04:02",
+  "update_time": "2026-07-11T12:51:54",
   "items": [
-    {
-      "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
-      "url": "https://juejin.cn/post/7659763781161730102",
-      "last_hot_value": "热度:5769",
-      "first_seen_at": "2026-07-08T11:23:41",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "凌晨睡不着，我给台风巴威写了个追踪网站",
-      "url": "https://juejin.cn/post/7659393583027896330",
-      "last_hot_value": "热度:4293",
-      "first_seen_at": "2026-07-07T20:16:39",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 9,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "前端没有死，只是换了个姿势年薪百万",
       "url": "https://juejin.cn/post/7657809077683257387",
       "last_hot_value": "热度:2457",
       "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-11T12:51:54",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -36,8 +16,8 @@
       "url": "https://juejin.cn/post/7659854493060923407",
       "last_hot_value": "热度:1539",
       "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-11T12:51:54",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,8 +36,8 @@
       "url": "https://juejin.cn/post/7659936053578465315",
       "last_hot_value": "热度:999",
       "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-11T12:51:54",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -72,22 +52,12 @@
       "is_new": false
     },
     {
-      "title": "Godot 全面封杀 Vibe Coding，作为每天用 AI 写代码的人，我反而觉得这是件好事",
-      "url": "https://juejin.cn/post/7659225944678432806",
-      "last_hot_value": "热度:801",
-      "first_seen_at": "2026-07-08T11:23:41",
-      "last_seen_at": "2026-07-09T01:24:01",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "订单查询丢数据，查了半天原来是 WHERE 惹的祸",
       "url": "https://juejin.cn/post/7659981643583782938",
       "last_hot_value": "热度:891",
       "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:54",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -102,32 +72,12 @@
       "is_new": false
     },
     {
-      "title": "2026 最具幸福感的互联网大厂排名！",
-      "url": "https://juejin.cn/post/7658663867577581595",
-      "last_hot_value": "热度:648",
-      "first_seen_at": "2026-07-07T20:16:39",
-      "last_seen_at": "2026-07-07T23:43:30",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "Agent 不只是聊天框：用 ArkUI 做一个鸿蒙任务工作台",
       "url": "https://juejin.cn/post/7660062528128516146",
       "last_hot_value": "热度:864",
       "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 2,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "介绍一个夯到爆的浏览器AI插件！学习效率翻倍",
-      "url": "https://juejin.cn/post/7658710517372059688",
-      "last_hot_value": "热度:711",
-      "first_seen_at": "2026-07-07T20:16:39",
-      "last_seen_at": "2026-07-09T01:24:01",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-11T12:51:54",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -136,18 +86,8 @@
       "url": "https://juejin.cn/post/7659978807450796075",
       "last_hot_value": "热度:774",
       "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "前端架构师的克制：什么时候该坚决对新技术说不？",
-      "url": "https://juejin.cn/post/7659215962541441024",
-      "last_hot_value": "热度:747",
-      "first_seen_at": "2026-07-07T23:43:30",
-      "last_seen_at": "2026-07-09T18:28:38",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-11T12:51:54",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -156,19 +96,9 @@
       "url": "https://juejin.cn/post/7659854493060136975",
       "last_hot_value": "热度:765",
       "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:54",
+      "consecutive_count": 3,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "我多年积累的 100+ 简历优化经验，整理成了 Skill",
-      "url": "https://juejin.cn/post/7659275867992850486",
-      "last_hot_value": "热度:747",
-      "first_seen_at": "2026-07-08T11:23:41",
-      "last_seen_at": "2026-07-10T17:04:02",
-      "consecutive_count": 7,
-      "peak_rank": 10,
       "is_new": false
     }
   ]

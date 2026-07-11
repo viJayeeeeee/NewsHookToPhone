@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-10T17:04:05",
+  "update_time": "2026-07-11T12:51:57",
   "items": [
     {
       "title": "动态路由匹配让一个模板服务无数 URL",
       "url": "https://www.51cto.com/article/849074.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,18 +16,8 @@
       "url": "https://www.51cto.com/article/848603.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T14:17:28",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "别再只比较 Codex、Claude、Cursor 了：Java 团队真正值钱的，已经变成这四类 AI 资产",
-      "url": "https://www.51cto.com/article/848672.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,18 +26,8 @@
       "url": "https://www.51cto.com/article/848986.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "微软商店装不上？十 分钟搞定 Codex + Codex++ + DeepSeek，免费用上 AI 编程神器",
-      "url": "https://www.51cto.com/article/848643.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -66,8 +46,8 @@
       "url": "https://blog.51cto.com/plcode/14753821",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -82,32 +62,12 @@
       "is_new": false
     },
     {
-      "title": "医疗AI智能体：合规可追溯：SKILL架构下的可解释性AI（XAI）医疗落地全解.145",
-      "url": "https://blog.51cto.com/u_16380863/14747985",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "AI native: Casebook 面向 AI Agent 时代的测试用例工程化工作流",
-      "url": "https://blog.51cto.com/fnngj/14745045",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "十个 AI Agent 工作流模板，照着搭就能用",
       "url": "https://blog.51cto.com/deephub/14753757",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -122,32 +82,12 @@
       "is_new": false
     },
     {
-      "title": "Agent理论与实践：从0到1构建自动化日报Agent",
-      "url": "https://blog.51cto.com/u_15876949/14747331",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "将 Rust 绑定到 .NET 10：Oxigraph 的 FFI 桥接实践",
-      "url": "https://blog.51cto.com/shanyou/14744977",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "Harness Engineering 实践案例：如何Agent 写一份行为规范",
       "url": "https://blog.51cto.com/deephub/14753756",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -162,32 +102,12 @@
       "is_new": false
     },
     {
-      "title": "【Android】Gradle 又卡在 Downloading 了？一次配置，全电脑 Android 项目不再龟速下载",
-      "url": "https://blog.51cto.com/u_14976802/14747108",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Windows 系统 vscode Remote-SSH 远程连接虚拟机里面的Ubuntu系统的失败处理",
-      "url": "https://blog.51cto.com/u_15740575/14744570",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "Thinking--Promise解决动态挂载静态资源重复问题",
       "url": "https://blog.51cto.com/u_15998238/14753730",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -202,32 +122,12 @@
       "is_new": false
     },
     {
-      "title": "手把手教你构建一个自动生成 CRUD 代码的 Agent",
-      "url": "https://blog.51cto.com/chenfenglove/14747092",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "Ubuntu24.04.4系统部署查验机房所有服务器状态脚本",
-      "url": "https://blog.51cto.com/u_12849923/14744268",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "边缘部署提速利器：TensorRT + ONNX 推理优化全解析",
       "url": "https://blog.51cto.com/u_15876949/14753345",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -242,32 +142,12 @@
       "is_new": false
     },
     {
-      "title": "网页CAD图纸保存与数据持久化(H5查看CAD)",
-      "url": "https://blog.51cto.com/u_10455293/14747079",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "编程 Agent 核心架构：代码生成、测试、修复的闭环设计",
-      "url": "https://blog.51cto.com/chenfenglove/14744248",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "手把手带你上手鸿蒙应用开发利器 DevEcoCode",
       "url": "https://ost.51cto.com/posts/52199#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -282,32 +162,12 @@
       "is_new": false
     },
     {
-      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-      "url": "https://www.51cto.com/article/848729.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-08T11:23:44",
-      "last_seen_at": "2026-07-09T16:36:37",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "HDC 2026 亮点回顾与 HarmonyOS 7.0 技术风向标",
-      "url": "https://ost.51cto.com/posts/51824#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-08T11:23:44",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "手把手带你上手鸿蒙应用开发利器 DevEcoCli",
       "url": "https://ost.51cto.com/posts/52070#24read",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T12:23:14",
-      "last_seen_at": "2026-07-10T17:04:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T12:51:57",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },
@@ -317,16 +177,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T01:24:04",
       "last_seen_at": "2026-07-09T01:24:04",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "HarmonyOS DataCache冷启动优化开发实战（2）",
-      "url": "https://ost.51cto.com/posts/51858#24read",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-07T20:16:42",
-      "last_seen_at": "2026-07-07T23:43:33",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

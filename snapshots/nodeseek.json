@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-07-10T17:04:13",
+  "update_time": "2026-07-11T12:52:04",
   "items": [
     {
       "title": "HashPay | 一站式加密货币支付网关",
       "url": "https://www.nodeseek.com/post-808616-1",
       "last_hot_value": "查看:2089 回复:43",
       "first_seen_at": "2026-07-10T17:04:13",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-11T12:52:04",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NAT机商家合集-置顶每月更新中",
@@ -22,33 +22,13 @@
       "is_new": false
     },
     {
-      "title": "eSIM 折腾留存记+一点补充心得",
-      "url": "https://www.nodeseek.com/post-783926-1",
-      "last_hot_value": "查看:5699 回复:102",
-      "first_seen_at": "2026-07-07T20:16:50",
-      "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:210386 回复:1967",
       "first_seen_at": "2026-07-09T01:24:12",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-11T12:52:04",
+      "consecutive_count": 6,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
-      "url": "https://www.nodeseek.com/post-810146-1",
-      "last_hot_value": "查看:3198 回复:64",
-      "first_seen_at": "2026-07-07T20:16:50",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 4,
-      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -56,8 +36,8 @@
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:197845 回复:2712",
       "first_seen_at": "2026-07-09T01:24:12",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-11T12:52:04",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -66,18 +46,8 @@
       "url": "https://www.nodeseek.com/post-584268-1",
       "last_hot_value": "查看:20330 回复:166",
       "first_seen_at": "2026-07-09T14:17:37",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 4,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【Geelinx】关于 Januscape (CVE-2026-53359) 高危漏洞的公告",
-      "url": "https://www.nodeseek.com/post-811094-1",
-      "last_hot_value": "查看:2641 回复:30",
-      "first_seen_at": "2026-07-07T20:16:50",
-      "last_seen_at": "2026-07-09T01:24:12",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-11T12:52:04",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -86,18 +56,8 @@
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:677501 回复:1135",
       "first_seen_at": "2026-07-09T14:17:37",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 4,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "[开源自荐] WSL Dashboard - 用 Rust 打造的高性能 WSL 管理工具，内存占用最低仅 10MB",
-      "url": "https://www.nodeseek.com/post-783819-1",
-      "last_hot_value": "查看:1637 回复:41",
-      "first_seen_at": "2026-07-07T20:16:50",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-07-11T12:52:04",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -116,8 +76,8 @@
       "url": "https://www.nodeseek.com/post-373751-1",
       "last_hot_value": "查看:237481 回复:498",
       "first_seen_at": "2026-07-09T01:24:12",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-11T12:52:04",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
@@ -136,18 +96,8 @@
       "url": "https://www.nodeseek.com/post-116193-1",
       "last_hot_value": "查看:29965 回复:243",
       "first_seen_at": "2026-07-09T14:17:37",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 4,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "【onefile】完全开源。一行docker命令搭建自己的聚合图床",
-      "url": "https://www.nodeseek.com/post-752197-1",
-      "last_hot_value": "查看:899 回复:15",
-      "first_seen_at": "2026-07-07T20:16:50",
-      "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-11T12:52:04",
+      "consecutive_count": 5,
       "peak_rank": 9,
       "is_new": false
     },
@@ -156,18 +106,8 @@
       "url": "https://www.nodeseek.com/post-287967-1",
       "last_hot_value": "查看:85556 回复:752",
       "first_seen_at": "2026-07-09T14:17:37",
-      "last_seen_at": "2026-07-10T17:04:13",
-      "consecutive_count": 4,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "从零开始的VPS科普(1)：认识你的第一台服务器",
-      "url": "https://www.nodeseek.com/post-656474-1",
-      "last_hot_value": "查看:5951 回复:155",
-      "first_seen_at": "2026-07-07T20:16:50",
-      "last_seen_at": "2026-07-08T11:23:51",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-11T12:52:04",
+      "consecutive_count": 5,
       "peak_rank": 10,
       "is_new": false
     }
