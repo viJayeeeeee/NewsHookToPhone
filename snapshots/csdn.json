@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-07-11T12:51:55",
+  "update_time": "2026-07-11T16:21:01",
   "items": [
     {
       "title": "【Linux】文件描述符背后的底层逻辑：重定向、VFS 与用户态缓冲区",
       "url": "https://blog.csdn.net/2402_87731470/article/details/162751545",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "1.7w",
       "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-11T16:21:01",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "MySQL别等出故障才查：先把连接数、慢查询和宕机告警接进Prometheus",
@@ -42,12 +42,12 @@
       "is_new": false
     },
     {
-      "title": "中级OpenGL教程 014：Phong标准化渲染管线架构搭建｜附完整C++源码&四大避坑总结",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/162715906",
-      "last_hot_value": "8211",
-      "first_seen_at": "2026-07-10T12:23:12",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 3,
+      "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从数据管道到训练驾驶舱-PyTorch数据处理与模型可视化展示)",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/162693156",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-07-11T12:51:55",
+      "last_seen_at": "2026-07-11T16:21:01",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,10 +56,20 @@
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162727786",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-11T16:21:01",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "中级OpenGL教程 014：Phong标准化渲染管线架构搭建｜附完整C++源码&四大避坑总结",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/162715906",
+      "last_hot_value": "8211",
+      "first_seen_at": "2026-07-10T12:23:12",
+      "last_seen_at": "2026-07-11T12:51:55",
+      "consecutive_count": 0,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "实战避坑｜从根源解决 MySQL/PG 迁移 KES LEFT JOIN 数据异常问题",
@@ -82,32 +92,32 @@
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战（18）——基于DQN处理股票交易问题",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159690524",
-      "last_hot_value": "8661",
-      "first_seen_at": "2026-07-09T14:17:26",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 6,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "空间管理的进化革命：深度解析Oracle ASSM与MSSM自动与手动段空间管理的完整对比",
       "url": "https://blog.csdn.net/qq_41840843/article/details/162770931",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-11T16:21:01",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我已经在 Codex 里用上 GPT-5.6：CLI / App 更新与接入指南",
       "url": "https://blog.csdn.net/h614626370/article/details/162753083",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-10T12:23:12",
+      "last_seen_at": "2026-07-11T16:21:01",
+      "consecutive_count": 4,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "PyTorch强化学习实战（18）——基于DQN处理股票交易问题",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159690524",
+      "last_hot_value": "8661",
+      "first_seen_at": "2026-07-09T14:17:26",
       "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -142,34 +152,24 @@
       "is_new": false
     },
     {
-      "title": "Loop Engineering：从提示词到循环系统",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162579639",
-      "last_hot_value": "8932",
-      "first_seen_at": "2026-07-09T14:17:26",
-      "last_seen_at": "2026-07-11T12:51:55",
+      "title": "怎样区分人工智能、离身智能、具身智能、智能机器人与人形机器人",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/162728655",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-11T12:51:55",
+      "last_seen_at": "2026-07-11T16:21:01",
       "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从数据管道到训练驾驶舱-PyTorch数据处理与模型可视化展示)",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/162693156",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 1,
+      "title": "Loop Engineering：从提示词到循环系统",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162579639",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-09T14:17:26",
+      "last_seen_at": "2026-07-11T16:21:01",
+      "consecutive_count": 3,
       "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "怎样区分人工智能、离身智能、具身智能、智能机器人与人形机器人",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/162728655",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Agent 学习日记】不想把网站数据交给第三方？用Umami搭建自己的访问分析系统",
@@ -180,6 +180,16 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "2026 年 7 月远控软件横评：哪个远程控制软件好用不卡顿？UU 远程毫秒低延迟实测完胜",
+      "url": "https://blog.csdn.net/user340/article/details/162730154",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-11T16:21:01",
+      "last_seen_at": "2026-07-11T16:21:01",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【AI技术教程】5分钟用Python+FAISS搭建本地RAG知识库，无需云服务",
@@ -212,6 +222,16 @@
       "is_new": false
     },
     {
+      "title": "Nginx- 虚拟主机配置：基于域名、端口、IP 的多站点部署",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157657758",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-11T12:51:55",
+      "last_seen_at": "2026-07-11T16:21:01",
+      "consecutive_count": 2,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "【解析几何 计算几何】重心坐标、凸组合",
       "url": "https://blog.csdn.net/he_zhidan/article/details/162653628",
       "last_hot_value": "1.0w",
@@ -232,11 +252,11 @@
       "is_new": false
     },
     {
-      "title": "Nginx- 虚拟主机配置：基于域名、端口、IP 的多站点部署",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157657758",
-      "last_hot_value": "7970",
-      "first_seen_at": "2026-07-11T12:51:55",
-      "last_seen_at": "2026-07-11T12:51:55",
+      "title": "减少重复录入，一体化企业管理软件是如何如何实现的？",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/162781266",
+      "last_hot_value": "8763",
+      "first_seen_at": "2026-07-11T16:21:01",
+      "last_seen_at": "2026-07-11T16:21:01",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
