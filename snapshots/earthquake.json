@@ -1,12 +1,22 @@
 {
-  "update_time": "2026-07-11T18:20:19",
+  "update_time": "2026-07-11T19:37:43",
   "items": [
+    {
+      "title": "M3.1 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260710202312/summarize",
+      "last_hot_value": "3.1级",
+      "first_seen_at": "2026-07-11T19:37:43",
+      "last_seen_at": "2026-07-11T19:37:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M3.2 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260710194850/summarize",
       "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-11T06:45:44",
-      "last_seen_at": "2026-07-11T18:20:19",
+      "first_seen_at": "2026-07-11T18:20:19",
+      "last_seen_at": "2026-07-11T19:37:43",
       "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
@@ -16,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260709115931/summarize",
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-07-10T06:11:06",
-      "last_seen_at": "2026-07-11T18:20:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-11T19:37:43",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260710173855/summarize",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-11T06:45:44",
-      "last_seen_at": "2026-07-11T18:20:19",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-11T19:37:43",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -36,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260709074413/summarize",
       "last_hot_value": "4.8级",
       "first_seen_at": "2026-07-10T06:11:06",
-      "last_seen_at": "2026-07-11T18:20:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-11T19:37:43",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -45,8 +55,8 @@
       "title": "M3.2 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260710140541/summarize",
       "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-11T18:20:19",
-      "last_seen_at": "2026-07-11T18:20:19",
+      "first_seen_at": "2026-07-11T19:37:43",
+      "last_seen_at": "2026-07-11T19:37:43",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -55,8 +65,8 @@
       "title": "M3.2 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260709122556/summarize",
       "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-11T18:20:19",
-      "last_seen_at": "2026-07-11T18:20:19",
+      "first_seen_at": "2026-07-11T19:37:43",
+      "last_seen_at": "2026-07-11T19:37:43",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -66,8 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708100848/summarize",
       "last_hot_value": "5.0级",
       "first_seen_at": "2026-07-08T23:58:58",
-      "last_seen_at": "2026-07-11T18:20:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-11T19:37:43",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708130511/summarize",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-07-10T06:11:06",
-      "last_seen_at": "2026-07-11T18:20:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-11T19:37:43",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
@@ -85,8 +95,8 @@
       "title": "M3.2 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708064842/summarize",
       "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-11T18:20:19",
-      "last_seen_at": "2026-07-11T18:20:19",
+      "first_seen_at": "2026-07-11T19:37:43",
+      "last_seen_at": "2026-07-11T19:37:43",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
