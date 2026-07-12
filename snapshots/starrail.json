@@ -1,23 +1,43 @@
 {
-  "update_time": "2026-07-11T10:06:08",
+  "update_time": "2026-07-12T09:27:07",
   "items": [
+    {
+      "title": "4.4版本新增关卡",
+      "url": "https://www.miyoushe.com/sr/article/76620787",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-12T09:27:07",
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "4.4版本「无名勋礼」更新",
       "url": "https://www.miyoushe.com/sr/article/76554010",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T18:29:40",
-      "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "「鸣笛于归寂之时」任务说明",
+      "url": "https://www.miyoushe.com/sr/article/76599608",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-12T09:27:07",
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【2026年7月6日】账号封禁公示",
       "url": "https://www.miyoushe.com/sr/article/76491322",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T20:07:48",
-      "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -26,8 +46,8 @@
       "url": "https://www.miyoushe.com/sr/article/76424117",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T21:13:43",
-      "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -36,8 +56,8 @@
       "url": "https://www.miyoushe.com/sr/article/76423940",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T21:13:43",
-      "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -46,8 +66,8 @@
       "url": "https://www.miyoushe.com/sr/article/76384134",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T21:13:43",
-      "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -56,8 +76,8 @@
       "url": "https://www.miyoushe.com/sr/article/76192169",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T21:13:43",
-      "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -66,8 +86,8 @@
       "url": "https://www.miyoushe.com/sr/article/76189676",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T21:13:43",
-      "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -76,8 +96,8 @@
       "url": "https://www.miyoushe.com/sr/article/76035709",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T21:13:43",
-      "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-12T09:27:07",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -87,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T21:13:43",
       "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -97,7 +117,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T21:13:43",
       "last_seen_at": "2026-07-11T10:06:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
