@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-12T01:28:52",
+  "update_time": "2026-07-12T04:53:32",
   "items": [
     {
       "title": "人类灭绝",
       "url": "",
       "last_hot_value": "615人在读",
       "first_seen_at": "2026-07-11T06:45:40",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "",
       "last_hot_value": "2709人在读",
       "first_seen_at": "2026-07-11T19:37:39",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "",
       "last_hot_value": "1415人在读",
       "first_seen_at": "2026-07-10T06:11:03",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "",
       "last_hot_value": "474人在读",
       "first_seen_at": "2026-07-11T06:45:40",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "",
       "last_hot_value": "680人在读",
       "first_seen_at": "2026-07-10T06:11:03",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 7,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "",
       "last_hot_value": "653人在读",
       "first_seen_at": "2026-07-10T06:11:03",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 7,
       "peak_rank": 4,
       "is_new": false
     },
@@ -66,8 +66,8 @@
       "url": "",
       "last_hot_value": "746人在读",
       "first_seen_at": "2026-07-11T06:45:40",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "",
       "last_hot_value": "495人在读",
       "first_seen_at": "2026-07-10T06:11:03",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 7,
       "peak_rank": 7,
       "is_new": false
     },
@@ -86,10 +86,20 @@
       "url": "",
       "last_hot_value": "499人在读",
       "first_seen_at": "2026-07-11T19:37:39",
-      "last_seen_at": "2026-07-12T01:28:52",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "红星照耀中国",
+      "url": "",
+      "last_hot_value": "2994人在读",
+      "first_seen_at": "2026-07-12T04:53:32",
+      "last_seen_at": "2026-07-12T04:53:32",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "毛泽东选集（全四卷）",
