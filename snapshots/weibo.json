@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-12T14:29:15",
+  "update_time": "2026-07-12T15:30:21",
   "items": [
     {
       "title": "樊振东将解说世界杯决赛",
       "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%23",
-      "last_hot_value": "2225388",
+      "last_hot_value": "1591626",
       "first_seen_at": "2026-07-12T14:29:15",
-      "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "英格兰派出了贝林哄哈兰德",
       "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B4%BE%E5%87%BA%E4%BA%86%E8%B4%9D%E6%9E%97%E5%93%84%E5%93%88%E5%85%B0%E5%BE%B7%23",
-      "last_hot_value": "540424",
+      "last_hot_value": "335765",
       "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -62,14 +62,24 @@
       "is_new": false
     },
     {
+      "title": "功夫女足 浙江票仓",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3+%E6%B5%99%E6%B1%9F%E7%A5%A8%E4%BB%93%23",
+      "last_hot_value": "1108416",
+      "first_seen_at": "2026-07-12T14:29:15",
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "中华人民共和国外交部郑重声明",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E%23",
-      "last_hot_value": "1043023",
+      "last_hot_value": "607775",
       "first_seen_at": "2026-07-12T14:29:15",
-      "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "世界排名前4球队均晋级世界杯4强",
@@ -114,12 +124,12 @@
     {
       "title": "国产动力舟桥抗洪有多硬核",
       "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%8A%A8%E5%8A%9B%E8%88%9F%E6%A1%A5%E6%8A%97%E6%B4%AA%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23",
-      "last_hot_value": "831827",
+      "last_hot_value": "896540",
       "first_seen_at": "2026-07-12T14:29:15",
-      "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "多场景防汛避险指南",
@@ -174,12 +184,12 @@
     {
       "title": "火鸡面被台风孤立了",
       "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%B8%A1%E9%9D%A2%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%AD%A4%E7%AB%8B%E4%BA%86%23",
-      "last_hot_value": "768572",
+      "last_hot_value": "890423",
       "first_seen_at": "2026-07-12T14:29:15",
-      "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "一直以为取卡针的作用只有换电话卡",
@@ -187,7 +197,7 @@
       "last_hot_value": "680023",
       "first_seen_at": "2026-07-12T10:57:24",
       "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -230,6 +240,16 @@
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "中国女生在韩国救下一车人",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%95%91%E4%B8%8B%E4%B8%80%E8%BD%A6%E4%BA%BA%23",
+      "last_hot_value": "857010",
+      "first_seen_at": "2026-07-12T15:30:21",
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "体寒的人夏天能有多离谱",
@@ -282,12 +302,22 @@
       "is_new": false
     },
     {
+      "title": "百花杀暑期档黑马",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E6%9D%80%E6%9A%91%E6%9C%9F%E6%A1%A3%E9%BB%91%E9%A9%AC%23",
+      "last_hot_value": "616428",
+      "first_seen_at": "2026-07-12T15:30:21",
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "功夫女足豆瓣6.6票房却杀疯了",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B1%86%E7%93%A36.6%E7%A5%A8%E6%88%BF%E5%8D%B4%E6%9D%80%E7%96%AF%E4%BA%86%23",
-      "last_hot_value": "601474",
+      "last_hot_value": "339603",
       "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-12T15:30:21",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -382,11 +412,11 @@
       "is_new": false
     },
     {
-      "title": "功夫女足 浙江票仓",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3+%E6%B5%99%E6%B1%9F%E7%A5%A8%E4%BB%93%23",
-      "last_hot_value": "423536",
-      "first_seen_at": "2026-07-12T14:29:15",
-      "last_seen_at": "2026-07-12T14:29:15",
+      "title": "灿如繁星热度未破8000",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%83%AD%E5%BA%A6%E6%9C%AA%E7%A0%B48000%23",
+      "last_hot_value": "554420",
+      "first_seen_at": "2026-07-12T15:30:21",
+      "last_seen_at": "2026-07-12T15:30:21",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -447,9 +477,9 @@
       "last_hot_value": "422314",
       "first_seen_at": "2026-07-12T14:29:15",
       "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "蔡徐坤TheDeadman演唱会",
@@ -497,9 +527,9 @@
       "last_hot_value": "420875",
       "first_seen_at": "2026-07-12T14:29:15",
       "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "长鑫有员工年薪35万月加班80小时",
