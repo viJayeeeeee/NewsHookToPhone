@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-12T07:28:55",
+  "update_time": "2026-07-12T10:57:38",
   "items": [
     {
       "title": "为什么香港的冲厕水是咸的？",
       "url": "https://daily.zhihu.com/story/9791089",
       "last_hot_value": "",
       "first_seen_at": "2026-07-12T07:28:55",
-      "last_seen_at": "2026-07-12T07:28:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "经典电影中有哪些不为人知的幕后花絮？",
       "url": "https://daily.zhihu.com/story/9791038",
       "last_hot_value": "",
       "first_seen_at": "2026-07-10T23:55:19",
-      "last_seen_at": "2026-07-12T07:28:55",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://daily.zhihu.com/story/9791012",
       "last_hot_value": "",
       "first_seen_at": "2026-07-09T11:43:14",
-      "last_seen_at": "2026-07-12T07:28:55",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,9 +36,19 @@
       "url": "https://daily.zhihu.com/story/9791067",
       "last_hot_value": "",
       "first_seen_at": "2026-07-12T07:28:55",
-      "last_seen_at": "2026-07-12T07:28:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 2,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "鸭和鹅到底有什么区别？",
+      "url": "https://daily.zhihu.com/story/9790981",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-12T10:57:38",
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -56,10 +66,10 @@
       "url": "https://daily.zhihu.com/story/9791118",
       "last_hot_value": "",
       "first_seen_at": "2026-07-12T07:28:55",
-      "last_seen_at": "2026-07-12T07:28:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "元末明初的时候，吃人肉的现象是不是特别普遍？",
@@ -86,10 +96,10 @@
       "url": "https://daily.zhihu.com/story/9791128",
       "last_hot_value": "",
       "first_seen_at": "2026-07-12T07:28:55",
-      "last_seen_at": "2026-07-12T07:28:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么2026年了却感觉电脑CPU性能与三年前对比没有明显进步？",
@@ -116,10 +126,10 @@
       "url": "https://daily.zhihu.com/story/9791133",
       "last_hot_value": "",
       "first_seen_at": "2026-07-12T07:28:55",
-      "last_seen_at": "2026-07-12T07:28:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "瞎扯 · 如何正确地吐槽",
@@ -136,9 +146,19 @@
       "url": "https://daily.zhihu.com/story/9791075",
       "last_hot_value": "",
       "first_seen_at": "2026-07-12T07:28:55",
-      "last_seen_at": "2026-07-12T07:28:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 2,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "有什么问题人类解决得如此出色，以至于年轻人都没意识到它曾经是个巨大的问题？",
+      "url": "https://daily.zhihu.com/story/9791076",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-12T10:57:38",
+      "last_seen_at": "2026-07-12T10:57:38",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     }
   ]
