@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-12T21:19:21",
+  "update_time": "2026-07-13T20:30:54",
   "items": [
+    {
+      "title": "M6.4 巴布亚新几内亚附近海域",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "6.4级",
+      "first_seen_at": "2026-07-13T20:30:54",
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M3.8 四川阿坝州小金县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-07-12T21:19:21",
-      "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.8 内蒙古呼伦贝尔市阿荣旗",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-07-12T11:55:13",
-      "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,47 +37,57 @@
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-07-11T19:37:43",
       "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "M3.8 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.8级",
+      "first_seen_at": "2026-07-13T20:30:54",
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M3.0 江苏盐城市东台市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-07-12T21:19:21",
-      "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.2 新疆阿克苏地区拜城县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.2级",
       "first_seen_at": "2026-07-12T11:55:13",
-      "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "M3.7 新疆阿克苏地区沙雅县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260709115931/summarize",
-      "last_hot_value": "3.7级",
-      "first_seen_at": "2026-07-10T06:11:06",
-      "last_seen_at": "2026-07-12T04:53:35",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "M3.9 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.9级",
+      "first_seen_at": "2026-07-13T20:30:54",
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "M3.0 云南大理州洱源县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-07-12T11:55:13",
-      "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,22 +102,12 @@
       "is_new": false
     },
     {
-      "title": "M4.8 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260709074413/summarize",
-      "last_hot_value": "4.8级",
-      "first_seen_at": "2026-07-10T06:11:06",
-      "last_seen_at": "2026-07-12T04:53:35",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "M3.3 云南大理州洱源县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-12T11:55:13",
-      "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -106,8 +116,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-07-12T11:55:13",
-      "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-13T20:30:54",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -117,7 +127,7 @@
       "last_hot_value": "6.4级",
       "first_seen_at": "2026-07-12T11:55:13",
       "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -127,18 +137,8 @@
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-12T11:55:13",
       "last_seen_at": "2026-07-12T21:19:21",
-      "consecutive_count": 2,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "M3.0 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/product-list/20260708130511/summarize",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-07-10T06:11:06",
-      "last_seen_at": "2026-07-12T04:53:35",
       "consecutive_count": 0,
-      "peak_rank": 8,
+      "peak_rank": 7,
       "is_new": false
     },
     {
