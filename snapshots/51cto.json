@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-07-14T00:26:29",
+  "update_time": "2026-07-14T14:29:17",
   "items": [
+    {
+      "title": "新型 MemGhost 攻击：一封邮件即可向 AI Agent 植入持久性虚假记忆",
+      "url": "https://www.51cto.com/article/849513.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "ArkUI Refresh：告警列表@手动刷新、首屏加载与过期响应丢弃",
       "url": "https://ost.51cto.com/posts/52515",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "SpringBoot + 微信支付实现「扫码开门，取货自动扣款」智能售货柜",
+      "url": "https://www.51cto.com/article/849512.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,8 +37,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "字节跳动面挂：积分加字段存总数？面试官追问过期怎么算",
+      "url": "https://www.51cto.com/article/849511.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "Python 循环的五种高效写法：从 for-in 到生成器表达式的性能与可读性权衡",
+      "url": "https://www.51cto.com/article/849509.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "Agent 每次调用工具都要问用户吗？Janus 揭示权限管理的三难困境",
+      "url": "https://www.51cto.com/article/849507.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Electron 时代要结束了？Vercel 发布 Native SDK，性能直接拉满",
+      "url": "https://www.51cto.com/article/849505.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "完蛋！比 Vite+ 快 5.4 倍的前端工具链！正式发布！",
+      "url": "https://www.51cto.com/article/849504.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +137,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "凌晨 3 点，200 条告警弹窗把我炸醒——AIOps 帮我告别了这种日子",
+      "url": "https://www.51cto.com/article/849493.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +157,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "HarmonyOS 消息推送服务端集成全攻略（1）",
+      "url": "https://ost.51cto.com/posts/52652",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +177,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "HarmonyOS 文件预览服务进阶指南（1）",
+      "url": "https://ost.51cto.com/posts/52649",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-14T14:29:17",
+      "last_seen_at": "2026-07-14T14:29:17",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +197,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T00:26:29",
       "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
