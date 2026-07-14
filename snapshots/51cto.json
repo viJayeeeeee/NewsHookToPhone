@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-07-14T14:29:17",
+  "update_time": "2026-07-14T19:00:50",
   "items": [
     {
       "title": "新型 MemGhost 攻击：一封邮件即可向 AI Agent 植入持久性虚假记忆",
       "url": "https://www.51cto.com/article/849513.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "ArkUI Refresh：告警列表@手动刷新、首屏加载与过期响应丢弃",
@@ -26,10 +26,10 @@
       "url": "https://www.51cto.com/article/849512.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【HarmonyOS 7开发者前瞻】10 HarmonyOS 7 真实项目适配路线图：API 26、AI / Agent 与多端改造优先级",
@@ -46,10 +46,10 @@
       "url": "https://www.51cto.com/article/849511.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AIOPS 智能运维转型实践与思考",
@@ -66,10 +66,10 @@
       "url": "https://www.51cto.com/article/849509.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Agent并发干活像“三个和尚没水喝”？CoAgent新框架：让它们学会看懂冲突再动手",
@@ -86,10 +86,10 @@
       "url": "https://www.51cto.com/article/849507.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GitHub 爆火！这个免费 UI 组件库收集了 3000+ 精美组件，前端再也不用重复造轮子",
@@ -106,10 +106,10 @@
       "url": "https://www.51cto.com/article/849505.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "面试官：“你知道大模型是怎么训练出来的？”，我：“训练就是给模型喂大量数据让它学习”，他：“就这？”",
@@ -126,10 +126,10 @@
       "url": "https://www.51cto.com/article/849504.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "企业基于 SDD 的 AI 编程王炸：OpenSpec、Superpowers 与 Harness 架构三剑客深度解析",
@@ -146,10 +146,10 @@
       "url": "https://www.51cto.com/article/849493.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "253k Superpowers 和 60k OpenSpec 被融合了！spec-superflow 工作流登上热榜",
@@ -166,10 +166,10 @@
       "url": "https://ost.51cto.com/posts/52652",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从 Bellman 到最优策略：值迭代和策略迭代到底差在哪里？",
@@ -186,10 +186,10 @@
       "url": "https://ost.51cto.com/posts/52649",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T14:29:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:50",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "美团二面：短信被刷五万怎么防？六道防线全答完直接过了",

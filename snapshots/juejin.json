@@ -1,55 +1,45 @@
 {
-  "update_time": "2026-07-14T14:29:12",
+  "update_time": "2026-07-14T19:00:47",
   "items": [
+    {
+      "title": "LEFT JOIN 到底什么时候会被优化器偷偷改写成 INNER JOIN",
+      "url": "https://juejin.cn/post/7660896500881981492",
+      "last_hot_value": "热度:1341",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "AI 时代 Harness 工程在后台管理系统中的实践 🌈",
       "url": "https://juejin.cn/post/7660780385584316454",
       "last_hot_value": "热度:1278",
       "first_seen_at": "2026-07-14T00:26:26",
       "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
-      "url": "https://juejin.cn/post/7659763781161730102",
-      "last_hot_value": "热度:5769",
-      "first_seen_at": "2026-07-11T16:20:58",
-      "last_seen_at": "2026-07-11T22:18:22",
       "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "LEFT JOIN 到底什么时候会被优化器偷偷改写成 INNER JOIN",
-      "url": "https://juejin.cn/post/7660896500881981492",
-      "last_hot_value": "热度:1251",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "凌晨睡不着，我给台风巴威写了个追踪网站",
-      "url": "https://juejin.cn/post/7659393583027896330",
-      "last_hot_value": "热度:4293",
-      "first_seen_at": "2026-07-11T16:20:58",
-      "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 0,
-      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "Superpowers：GPT-5.6 时代下的流程毒瘤",
       "url": "https://juejin.cn/post/7661830907991146536",
-      "last_hot_value": "热度:954",
+      "last_hot_value": "热度:990",
       "first_seen_at": "2026-07-14T14:29:12",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "一键还原任意网站，这套 Playwright + 多 Agent 工程流太猛了",
+      "url": "https://juejin.cn/post/7661439504077176847",
+      "last_hot_value": "热度:810",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 3,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
@@ -62,64 +52,64 @@
       "is_new": false
     },
     {
-      "title": "一键还原任意网站，这套 Playwright + 多 Agent 工程流太猛了",
-      "url": "https://juejin.cn/post/7661439504077176847",
-      "last_hot_value": "热度:774",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "星云SDK + 油猴：给LLM塑造肉身，陪伴你在每个网页",
       "url": "https://juejin.cn/post/7661754132202766371",
-      "last_hot_value": "热度:702",
+      "last_hot_value": "热度:738",
       "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
       "url": "https://juejin.cn/post/7661160753004904448",
-      "last_hot_value": "热度:639",
+      "last_hot_value": "热度:675",
       "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 2,
-      "peak_rank": 6,
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "为什么 AI 写前端时，总是优先选择 React，而不是 Vue？",
       "url": "https://juejin.cn/post/7661833071121530926",
-      "last_hot_value": "热度:612",
+      "last_hot_value": "热度:630",
       "first_seen_at": "2026-07-14T14:29:12",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "Flutter Windows 开始支持 Impeller ，还修复了多窗口 bug",
       "url": "https://juejin.cn/post/7661123972889559046",
-      "last_hot_value": "热度:459",
+      "last_hot_value": "热度:495",
       "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "3位工程师靠“删AI代码”创业，一周收费1万美元：以后最贵的能力，可能不是写代码",
       "url": "https://juejin.cn/post/7661251852345458697",
-      "last_hot_value": "热度:450",
+      "last_hot_value": "热度:468",
       "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "中后台越做越乱后，我用插件化把它救回来了",
+      "url": "https://juejin.cn/post/7661266769256431657",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-07-14T19:00:47",
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "AI 是怎么操作浏览器的——browser use 实现原理",
@@ -134,12 +124,12 @@
     {
       "title": "AI 大模型写故事，魔珐星云驱动 3D 数字人实时播报",
       "url": "https://juejin.cn/post/7661439504083582976",
-      "last_hot_value": "热度:396",
+      "last_hot_value": "热度:405",
       "first_seen_at": "2026-07-14T14:29:12",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:47",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "30 分钟用 Trae Work + 魔珐星云做出会讲故事的 AI 3D 具身交互智能数字人",
@@ -147,16 +137,6 @@
       "last_hot_value": "热度:297",
       "first_seen_at": "2026-07-14T00:26:26",
       "last_seen_at": "2026-07-14T00:26:26",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "我多年积累的 100+ 简历优化经验，整理成了 Skill",
-      "url": "https://juejin.cn/post/7659275867992850486",
-      "last_hot_value": "热度:747",
-      "first_seen_at": "2026-07-11T16:20:58",
-      "last_seen_at": "2026-07-11T22:18:22",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

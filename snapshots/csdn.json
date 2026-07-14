@@ -1,75 +1,75 @@
 {
-  "update_time": "2026-07-14T14:29:14",
+  "update_time": "2026-07-14T19:00:49",
   "items": [
+    {
+      "title": "【AI 测评】飞牛NAS部署PandaWiki实操：本地AI知识库、DeepSeek接入与公网访问",
+      "url": "https://blog.csdn.net/2402_87298751/article/details/162870226",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-07-14T14:29:14",
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "没有公网IP也能连数据库：把内网PostgreSQL开放给远程联调",
       "url": "https://blog.csdn.net/2302_79376097/article/details/162848309",
-      "last_hot_value": "2.5w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Hermes Agent 搭建全流程：从本机试跑到可持续运行的个人 AI Agent",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162728822",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "基于 OpenClaw 构建医疗健康系统：智能问诊与用药管理的全链路实战",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/162808361",
-      "last_hot_value": "2.2w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "【Linux】Ext 文件系统：从机械磁盘到 CHS/LBA，搞懂扇区、块与分区",
       "url": "https://blog.csdn.net/2402_87731470/article/details/162819127",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T00:26:28",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "安卓旧手机部署OpenList实操：内置存储挂载、文件上传与公网访问",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162807569",
-      "last_hot_value": "2.2w",
+      "last_hot_value": "9410",
       "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 3,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "2026 年 7 月远控软件横评：哪个远程控制软件好用不卡顿？UU 远程毫秒低延迟实测完胜",
-      "url": "https://blog.csdn.net/user340/article/details/162730154",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-11T16:21:01",
-      "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 0,
-      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "PostgreSQL 一慢就靠猜？先把Postgres Exporter接进Prometheus",
       "url": "https://blog.csdn.net/m0_68390957/article/details/162869200",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "8705",
       "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "k8s 部署 Headlamp",
@@ -77,19 +77,19 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-14T00:26:28",
       "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "MongoDB别只装完就跑：先把认证、端口和权限加固好",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/162865069",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Spring AI-2.0(alibaba) Agent 编程实战：从 Tool Calling 到 MCP 协议，附完整报文级日志",
@@ -97,16 +97,16 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-14T00:26:28",
       "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "【AI 测评】飞牛NAS部署PandaWiki实操：本地AI知识库、DeepSeek接入与公网访问",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/162870226",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-14T14:29:14",
+      "title": "中级OpenGL教程 017：几何体复用、材质区分与坐标变换详解",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/162795420",
+      "last_hot_value": "9499",
+      "first_seen_at": "2026-07-14T19:00:49",
+      "last_seen_at": "2026-07-14T19:00:49",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -127,9 +127,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-14T00:26:28",
       "last_seen_at": "2026-07-14T14:29:14",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "【AI探索】向量检索策略与召回优化",
+      "url": "https://blog.csdn.net/weixin_62043600/article/details/162851881",
+      "last_hot_value": "8853",
+      "first_seen_at": "2026-07-14T19:00:49",
+      "last_seen_at": "2026-07-14T19:00:49",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "code-server部署实操：Docker快速搭建网页版VS Code与公网访问",
@@ -147,16 +157,6 @@
       "last_hot_value": "8987",
       "first_seen_at": "2026-07-14T00:26:28",
       "last_seen_at": "2026-07-14T00:26:28",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "减少重复录入，一体化企业管理软件是如何如何实现的？",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/162781266",
-      "last_hot_value": "8763",
-      "first_seen_at": "2026-07-11T16:21:01",
-      "last_seen_at": "2026-07-11T16:21:01",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
