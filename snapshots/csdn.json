@@ -1,45 +1,35 @@
 {
-  "update_time": "2026-07-11T22:18:23",
+  "update_time": "2026-07-14T00:26:28",
   "items": [
+    {
+      "title": "Hermes Agent 搭建全流程：从本机试跑到可持续运行的个人 AI Agent",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162728822",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【Linux】文件描述符背后的底层逻辑：重定向、VFS 与用户态缓冲区",
       "url": "https://blog.csdn.net/2402_87731470/article/details/162751545",
       "last_hot_value": "2.7w",
       "first_seen_at": "2026-07-11T12:51:55",
       "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "MySQL别等出故障才查：先把连接数、慢查询和宕机告警接进Prometheus",
-      "url": "https://blog.csdn.net/SDFsoul/article/details/162736366",
-      "last_hot_value": "2.0w",
-      "first_seen_at": "2026-07-09T18:28:40",
-      "last_seen_at": "2026-07-10T17:04:04",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "基于 Trae + DeepSeek 的 Vibe Coding 实践指南（六）：实战阿里云图片内容审核全栈项目",
-      "url": "https://blog.csdn.net/2502_91499791/article/details/162570949",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-09T01:24:03",
-      "last_seen_at": "2026-07-10T17:04:04",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【Linux 指南】文件系统系列（五）：软硬链接原理与文件系统实操 —— 从 ln 命令到分区管理全流程终章",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/162628042",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-07-09T01:24:03",
-      "last_seen_at": "2026-07-09T01:24:03",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "【Linux】Ext 文件系统：从机械磁盘到 CHS/LBA，搞懂扇区、块与分区",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/162819127",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "怎样区分人工智能、离身智能、具身智能、智能机器人与人形机器人",
@@ -47,7 +37,7 @@
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-07-11T12:51:55",
       "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -57,7 +47,7 @@
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-07-11T12:51:55",
       "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,39 +57,19 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-11T12:51:55",
       "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "中级OpenGL教程 014：Phong标准化渲染管线架构搭建｜附完整C++源码&四大避坑总结",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/162715906",
+      "title": "安卓旧手机部署OpenList实操：内置存储挂载、文件上传与公网访问",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162807569",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-10T12:23:12",
-      "last_seen_at": "2026-07-11T22:18:23",
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
       "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "实战避坑｜从根源解决 MySQL/PG 迁移 KES LEFT JOIN 数据异常问题",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/162719042",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-09T14:17:26",
-      "last_seen_at": "2026-07-09T18:28:40",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "从黑客视角看安全：攻击链（Kill Chain）全流程拆解",
-      "url": "https://blog.csdn.net/cui_yonghua/article/details/162674401",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-09T01:24:03",
-      "last_seen_at": "2026-07-09T16:36:35",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "空间管理的进化革命：深度解析Oracle ASSM与MSSM自动与手动段空间管理的完整对比",
@@ -107,29 +77,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-11T12:51:55",
       "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "我已经在 Codex 里用上 GPT-5.6：CLI / App 更新与接入指南",
-      "url": "https://blog.csdn.net/h614626370/article/details/162753083",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-10T12:23:12",
-      "last_seen_at": "2026-07-11T16:21:01",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战（18）——基于DQN处理股票交易问题",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159690524",
-      "last_hot_value": "8661",
-      "first_seen_at": "2026-07-09T14:17:26",
-      "last_seen_at": "2026-07-11T12:51:55",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "基于 OpenClaw 构建医疗健康系统：智能问诊与用药管理的全链路实战",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162808361",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "2026 年 7 月远控软件横评：哪个远程控制软件好用不卡顿？UU 远程毫秒低延迟实测完胜",
@@ -137,59 +97,39 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-11T16:21:01",
       "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "2026 年 GPT-5.6 有什么区别？普通用户和开发者该如何使用？",
-      "url": "https://blog.csdn.net/mgg1233/article/details/162704641",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-10T12:23:12",
-      "last_seen_at": "2026-07-10T17:04:04",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "CentOS 7跑通Elasticsearch单机环境：启动报错、索引测试与公网联调",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/162728036",
+      "title": "k8s 部署 Headlamp",
+      "url": "https://blog.csdn.net/liu_chen_yang/article/details/162490414",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-09T16:36:35",
-      "last_seen_at": "2026-07-10T17:04:04",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【Linux】十九.进程池（匿名管道）实现多客户端并发通信息––详解",
-      "url": "https://blog.csdn.net/2501_93351213/article/details/162642010",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-09T01:24:03",
-      "last_seen_at": "2026-07-09T16:36:35",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Loop Engineering：从提示词到循环系统",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162579639",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-09T14:17:26",
-      "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 4,
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【Agent 学习日记】不想把网站数据交给第三方？用Umami搭建自己的访问分析系统",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/162670780",
+      "title": "Spring AI-2.0(alibaba) Agent 编程实战：从 Tool Calling 到 MCP 协议，附完整报文级日志",
+      "url": "https://blog.csdn.net/lilinhai548/article/details/162796038",
       "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-09T01:24:03",
-      "last_seen_at": "2026-07-09T16:36:35",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "GitHub 热榜项目 - 周榜(2026-07-11)",
+      "url": "https://blog.csdn.net/u014390502/article/details/162793206",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "Nginx- 虚拟主机配置：基于域名、端口、IP 的多站点部署",
@@ -197,69 +137,39 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-11T12:51:55",
       "last_seen_at": "2026-07-11T22:18:23",
-      "consecutive_count": 3,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "【AI技术教程】5分钟用Python+FAISS搭建本地RAG知识库，无需云服务",
-      "url": "https://blog.csdn.net/qq_36729037/article/details/162707302",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-10T12:23:12",
-      "last_seen_at": "2026-07-10T17:04:04",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "OpenClaw 实战案例：教育学习平台构建",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162704114",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-09T18:28:40",
-      "last_seen_at": "2026-07-09T18:28:40",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "GPT-5.6 三模型架构深度解析：Sol/Terra/Luna 技术对比与工程落地指南",
-      "url": "https://blog.csdn.net/TongwenAI/article/details/162725931",
+      "title": "硬件盲盒任务示例以及硬件盲盒物料",
+      "url": "https://blog.csdn.net/zhuoqingjoking97298/article/details/162809887",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-10T12:23:12",
-      "last_seen_at": "2026-07-10T17:04:04",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "深度学习实战-基于BiT-M ResNet50的快餐图像分类识别模型",
-      "url": "https://blog.csdn.net/m0_64336780/article/details/159688523",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-09T18:28:40",
-      "last_seen_at": "2026-07-11T22:18:23",
+      "title": "code-server部署实操：Docker快速搭建网页版VS Code与公网访问",
+      "url": "https://blog.csdn.net/qyj19920704/article/details/162834325",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
       "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【解析几何 计算几何】重心坐标、凸组合",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/162653628",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-09T14:17:26",
-      "last_seen_at": "2026-07-09T18:28:40",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "GitHub热榜开源项目，Claude Code 10模块系统学习指南",
-      "url": "https://blog.csdn.net/zhangay1998/article/details/162622420",
-      "last_hot_value": "9415",
-      "first_seen_at": "2026-07-09T01:24:03",
-      "last_seen_at": "2026-07-09T01:24:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "医疗信创标杆：一院两区全栈国产化改造方案与数据库应用、代码实践",
+      "url": "https://blog.csdn.net/weixin_42878111/article/details/162780847",
+      "last_hot_value": "8987",
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-14T00:26:28",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "减少重复录入，一体化企业管理软件是如何如何实现的？",
@@ -267,26 +177,6 @@
       "last_hot_value": "8763",
       "first_seen_at": "2026-07-11T16:21:01",
       "last_seen_at": "2026-07-11T16:21:01",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "企业级低代码三件套：表单设计器 + 流程引擎 + 代码生成器，怎么配合才高效",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/162749972",
-      "last_hot_value": "8834",
-      "first_seen_at": "2026-07-10T12:23:12",
-      "last_seen_at": "2026-07-10T12:23:12",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "小米摄像头怎么接入RTSP？Go2RTC转流、EasyNVR录像与公网访问教程",
-      "url": "https://blog.csdn.net/qq_54796785/article/details/162630513",
-      "last_hot_value": "8574",
-      "first_seen_at": "2026-07-09T01:24:03",
-      "last_seen_at": "2026-07-09T01:24:03",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

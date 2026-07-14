@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-07-11T22:18:22",
+  "update_time": "2026-07-14T00:26:26",
   "items": [
+    {
+      "title": "AI 时代 Harness 工程在后台管理系统中的实践 🌈",
+      "url": "https://juejin.cn/post/7660780385584316454",
+      "last_hot_value": "热度:621",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "Fiber 节点 —— 一个数据结构如何承载整个 React 运行时",
       "url": "https://juejin.cn/post/7659763781161730102",
       "last_hot_value": "热度:5769",
       "first_seen_at": "2026-07-11T16:20:58",
       "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "LEFT JOIN 到底什么时候会被优化器偷偷改写成 INNER JOIN",
+      "url": "https://juejin.cn/post/7660896500881981492",
+      "last_hot_value": "热度:531",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "凌晨睡不着，我给台风巴威写了个追踪网站",
@@ -17,109 +37,89 @@
       "last_hot_value": "热度:4293",
       "first_seen_at": "2026-07-11T16:20:58",
       "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "前端没有死，只是换了个姿势年薪百万",
-      "url": "https://juejin.cn/post/7657809077683257387",
-      "last_hot_value": "热度:2457",
-      "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 8,
+      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+      "url": "https://juejin.cn/post/7660697431320690723",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "字节二面：1000瓶酒，有一瓶是毒药，多少只老鼠可以查出来？",
-      "url": "https://juejin.cn/post/7659854493060923407",
-      "last_hot_value": "热度:1539",
-      "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 8,
+      "title": "星云SDK + 油猴：给LLM塑造肉身，陪伴你在每个网页",
+      "url": "https://juejin.cn/post/7661754132202766371",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【Kingbase应用接入与连接池治理】JDBC驱动与连接串实战",
-      "url": "https://juejin.cn/post/7658588277832253481",
-      "last_hot_value": "热度:1008",
-      "first_seen_at": "2026-07-09T16:36:34",
-      "last_seen_at": "2026-07-09T18:28:38",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "字节二面智力题：100只老虎和1只羊关在一起，这只羊会不会被吃？",
-      "url": "https://juejin.cn/post/7659936053578465315",
-      "last_hot_value": "热度:999",
-      "first_seen_at": "2026-07-09T14:17:25",
-      "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 8,
+      "title": "一键还原任意网站，这套 Playwright + 多 Agent 工程流太猛了",
+      "url": "https://juejin.cn/post/7661439504077176847",
+      "last_hot_value": "热度:405",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "GPT5.6 今晚全量开发？Codex上线史上最强Coding模型！",
-      "url": "https://juejin.cn/post/7659585088225624079",
-      "last_hot_value": "热度:981",
-      "first_seen_at": "2026-07-09T01:24:01",
-      "last_seen_at": "2026-07-09T18:28:38",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "订单查询丢数据，查了半天原来是 WHERE 惹的祸",
-      "url": "https://juejin.cn/post/7659981643583782938",
-      "last_hot_value": "热度:891",
-      "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 5,
+      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "url": "https://juejin.cn/post/7661160753004904448",
+      "last_hot_value": "热度:387",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Flutter 开发怎么做 Agent ？从工程实战详细给你解读下",
-      "url": "https://juejin.cn/post/7658865284564926518",
-      "last_hot_value": "热度:828",
-      "first_seen_at": "2026-07-09T16:36:34",
-      "last_seen_at": "2026-07-09T18:28:38",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Agent 不只是聊天框：用 ArkUI 做一个鸿蒙任务工作台",
-      "url": "https://juejin.cn/post/7660062528128516146",
-      "last_hot_value": "热度:864",
-      "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 5,
+      "title": "Flutter Windows 开始支持 Impeller ，还修复了多窗口 bug",
+      "url": "https://juejin.cn/post/7661123972889559046",
+      "last_hot_value": "热度:360",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "南京IT公司六小龙",
-      "url": "https://juejin.cn/post/7659978807450796075",
-      "last_hot_value": "热度:774",
-      "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 5,
+      "title": "3位工程师靠“删AI代码”创业，一周收费1万美元：以后最贵的能力，可能不是写代码",
+      "url": "https://juejin.cn/post/7661251852345458697",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "一劳永逸解决Codex手机验证",
-      "url": "https://juejin.cn/post/7659854493060136975",
-      "last_hot_value": "热度:765",
-      "first_seen_at": "2026-07-10T12:23:10",
-      "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 5,
+      "title": "AI 是怎么操作浏览器的——browser use 实现原理",
+      "url": "https://juejin.cn/post/7660466008562892835",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "30 分钟用 Trae Work + 魔珐星云做出会讲故事的 AI 3D 具身交互智能数字人",
+      "url": "https://juejin.cn/post/7661439504083582976",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-14T00:26:26",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "我多年积累的 100+ 简历优化经验，整理成了 Skill",
@@ -127,7 +127,7 @@
       "last_hot_value": "热度:747",
       "first_seen_at": "2026-07-11T16:20:58",
       "last_seen_at": "2026-07-11T22:18:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
