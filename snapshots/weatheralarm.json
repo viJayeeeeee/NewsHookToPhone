@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-13T21:42:20",
+  "update_time": "2026-07-14T03:32:11",
   "items": [
+    {
+      "title": "河南省濮阳市南乐县气象台发布高温橙色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/41092341600000_20260714110839.html",
+      "last_hot_value": "橙色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "广西壮族自治区钦州市灵山县气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/45072141600000_20260714051857.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "江西省上饶市三清山气象台发布大雾黄色预警信号",
@@ -52,14 +62,24 @@
       "is_new": false
     },
     {
+      "title": "山西省临汾市水利局与临汾市气象台发布山洪灾害气象风险橙色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14100041600000_20260714110741.html",
+      "last_hot_value": "橙色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "贵州省黔南布依族苗族自治州荔波县气象台发布大雾橙色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/52272241600000_20260714051800.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "吉林省四平市伊通满族自治县气象台发布暴雨黄色预警信号",
@@ -102,14 +122,24 @@
       "is_new": false
     },
     {
+      "title": "河北省邯郸市大名县气象台发布暴雨蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/13042541600000_20260714110709.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "海南省气象台发布海上雷雨大风黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/46000041600000_20260714051747.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "陕西省榆林市定边县气象台发布雷雨大风黄色预警信号",
@@ -152,14 +182,24 @@
       "is_new": false
     },
     {
+      "title": "山西省临汾市吉县气象台发布暴雨蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14102841600000_20260714110700.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "广东省广州市增城区气象台发布雷雨大风黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/44011841600000_20260714051741.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "宁夏回族自治区银川市灵武市气象台发布暴雨橙色预警信号",
@@ -202,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "山西省吕梁市中阳县气象台发布暴雨蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14112941600000_20260714110700.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "宁夏回族自治区吴忠市盐池县气象台发布暴雨黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/64032341600000_20260714051634.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "辽宁省大连市普兰店区气象台发布暴雨橙色预警信号",
@@ -252,14 +302,24 @@
       "is_new": false
     },
     {
+      "title": "广西壮族自治区柳州市融安县气象台发布高温橙色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/45022441600000_20260714110643.html",
+      "last_hot_value": "橙色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "辽宁省本溪市本溪满族自治县气象台发布暴雨橙色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/21052141600000_20260714051300.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "安徽省六安市霍邱县气象台发布大雾黄色预警信号",
@@ -302,14 +362,24 @@
       "is_new": false
     },
     {
+      "title": "重庆市大足区气象台发布高温红色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/50011141600000_20260714110451.html",
+      "last_hot_value": "红色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "辽宁省营口市盖州市气象台发布暴雨橙色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/21088141600000_20260714050600.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "辽宁省大连市庄河市气象台发布暴雨橙色预警信号",
@@ -352,14 +422,24 @@
       "is_new": false
     },
     {
-      "title": "福建省漳州市龙海区气象台发布雷电黄色预警信号",
-      "url": "https://www.nmc.cn/publish/alarm/35060441600000_20260714050600.html",
-      "last_hot_value": "黄色",
-      "first_seen_at": "2026-07-13T21:42:20",
-      "last_seen_at": "2026-07-13T21:42:20",
+      "title": "山西省运城市气象台发布暴雨蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14080041600000_20260714110403.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
+    },
+    {
+      "title": "福建省漳州市龙海区气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/35060441600000_20260714110400.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-07-13T21:42:20",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "广西壮族自治区贵港市气象台发布暴雨橙色预警信号",
@@ -407,9 +487,9 @@
       "last_hot_value": "红色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "江西省鹰潭市余江区气象台发布大雾橙色预警信号",
@@ -452,14 +532,24 @@
       "is_new": false
     },
     {
+      "title": "内蒙古自治区呼伦贝尔市满洲里市气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/15078141600000_20260714110344.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-07-14T03:32:11",
+      "last_seen_at": "2026-07-14T03:32:11",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "辽宁省本溪市气象台发布暴雨橙色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/21050041600000_20260714045500.html",
       "last_hot_value": "橙色",
       "first_seen_at": "2026-07-13T21:42:20",
       "last_seen_at": "2026-07-13T21:42:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "广东省江门市新会区气象台发布暴雨黄色预警信号",
