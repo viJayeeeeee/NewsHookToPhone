@@ -1,26 +1,6 @@
 {
-  "update_time": "2026-07-14T05:57:22",
+  "update_time": "2026-07-14T21:09:30",
   "items": [
-    {
-      "title": "脂粉帝国：网络言情小说与女性话语政治",
-      "url": "",
-      "last_hot_value": "2980人在读",
-      "first_seen_at": "2026-07-11T06:45:40",
-      "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 12,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "经济运行的逻辑（中国金融四十人论坛书系）（精装）",
-      "url": "",
-      "last_hot_value": "1899人在读",
-      "first_seen_at": "2026-07-11T19:37:39",
-      "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 10,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "权力：庙堂博弈的底层逻辑",
       "url": "",
@@ -32,32 +12,42 @@
       "is_new": false
     },
     {
-      "title": "人类灭绝",
+      "title": "我承认我不曾历经沧桑",
       "url": "",
-      "last_hot_value": "615人在读",
-      "first_seen_at": "2026-07-11T06:45:40",
-      "last_seen_at": "2026-07-12T04:53:32",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "last_hot_value": "500人在读",
+      "first_seen_at": "2026-07-14T21:09:30",
+      "last_seen_at": "2026-07-14T21:09:30",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "非对称风险",
+      "url": "",
+      "last_hot_value": "263人在读",
+      "first_seen_at": "2026-07-14T21:09:30",
+      "last_seen_at": "2026-07-14T21:09:30",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "红星照耀中国",
+      "url": "",
+      "last_hot_value": "3620人在读",
+      "first_seen_at": "2026-07-12T04:53:32",
+      "last_seen_at": "2026-07-14T21:09:30",
+      "consecutive_count": 8,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "追问",
       "url": "",
-      "last_hot_value": "1247人在读",
+      "last_hot_value": "1506人在读",
       "first_seen_at": "2026-07-13T20:30:51",
-      "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 4,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "红星照耀中国",
-      "url": "",
-      "last_hot_value": "3584人在读",
-      "first_seen_at": "2026-07-12T04:53:32",
-      "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-14T21:09:30",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -67,7 +57,7 @@
       "last_hot_value": "1096人在读",
       "first_seen_at": "2026-07-13T20:30:51",
       "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -77,16 +67,6 @@
       "last_hot_value": "427人在读",
       "first_seen_at": "2026-07-12T11:55:10",
       "last_seen_at": "2026-07-12T11:55:10",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "天真的人类学家",
-      "url": "",
-      "last_hot_value": "474人在读",
-      "first_seen_at": "2026-07-11T06:45:40",
-      "last_seen_at": "2026-07-12T04:53:32",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -102,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "悉达多（知书经典）",
+      "url": "",
+      "last_hot_value": "425人在读",
+      "first_seen_at": "2026-07-14T21:09:30",
+      "last_seen_at": "2026-07-14T21:09:30",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "夜晚的潜水艇",
       "url": "",
-      "last_hot_value": "1849人在读",
+      "last_hot_value": "1944人在读",
       "first_seen_at": "2026-07-13T20:30:51",
-      "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-14T21:09:30",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -117,7 +107,7 @@
       "last_hot_value": "1553人在读",
       "first_seen_at": "2026-07-12T11:55:10",
       "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -132,6 +122,16 @@
       "is_new": false
     },
     {
+      "title": "毛泽东选集（全四卷）",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-07-13T21:42:18",
+      "last_seen_at": "2026-07-14T21:09:30",
+      "consecutive_count": 4,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "生死疲劳【中国诺奖得主代表作】",
       "url": "",
       "last_hot_value": "5613人在读",
@@ -139,16 +139,6 @@
       "last_seen_at": "2026-07-13T21:42:18",
       "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "毛泽东选集（全四卷）",
-      "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-07-13T21:42:18",
-      "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 3,
-      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -177,19 +167,19 @@
       "last_hot_value": "160人在读",
       "first_seen_at": "2026-07-12T11:55:10",
       "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "与运气竞争",
+      "title": "当下的力量（白金版）",
       "url": "",
-      "last_hot_value": "499人在读",
-      "first_seen_at": "2026-07-11T19:37:39",
-      "last_seen_at": "2026-07-12T04:53:32",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "last_hot_value": "5114人在读",
+      "first_seen_at": "2026-07-14T21:09:30",
+      "last_seen_at": "2026-07-14T21:09:30",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "简·爱",
@@ -197,7 +187,7 @@
       "last_hot_value": "163人在读",
       "first_seen_at": "2026-07-12T11:55:10",
       "last_seen_at": "2026-07-14T05:57:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
