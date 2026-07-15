@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-14T19:00:47",
+  "update_time": "2026-07-15T17:13:36",
   "items": [
+    {
+      "title": "Superpowers：GPT-5.6 时代下的流程毒瘤",
+      "url": "https://juejin.cn/post/7661830907991146536",
+      "last_hot_value": "热度:1872",
+      "first_seen_at": "2026-07-14T14:29:12",
+      "last_seen_at": "2026-07-15T17:13:36",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "LEFT JOIN 到底什么时候会被优化器偷偷改写成 INNER JOIN",
       "url": "https://juejin.cn/post/7660896500881981492",
       "last_hot_value": "热度:1341",
       "first_seen_at": "2026-07-14T00:26:26",
       "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,13 +32,23 @@
       "is_new": false
     },
     {
-      "title": "Superpowers：GPT-5.6 时代下的流程毒瘤",
-      "url": "https://juejin.cn/post/7661830907991146536",
-      "last_hot_value": "热度:990",
-      "first_seen_at": "2026-07-14T14:29:12",
-      "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 2,
+      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
+      "url": "https://juejin.cn/post/7661160753004904448",
+      "last_hot_value": "热度:1197",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-15T17:13:36",
+      "consecutive_count": 4,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "星云SDK + 油猴：给LLM塑造肉身，陪伴你在每个网页",
+      "url": "https://juejin.cn/post/7661754132202766371",
+      "last_hot_value": "热度:1035",
+      "first_seen_at": "2026-07-14T00:26:26",
+      "last_seen_at": "2026-07-15T17:13:36",
+      "consecutive_count": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -37,7 +57,7 @@
       "last_hot_value": "热度:810",
       "first_seen_at": "2026-07-14T00:26:26",
       "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,43 +72,53 @@
       "is_new": false
     },
     {
-      "title": "星云SDK + 油猴：给LLM塑造肉身，陪伴你在每个网页",
-      "url": "https://juejin.cn/post/7661754132202766371",
-      "last_hot_value": "热度:738",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T19:00:47",
+      "title": "为什么 AI 写前端时，总是优先选择 React，而不是 Vue？",
+      "url": "https://juejin.cn/post/7661833071121530926",
+      "last_hot_value": "热度:981",
+      "first_seen_at": "2026-07-14T14:29:12",
+      "last_seen_at": "2026-07-15T17:13:36",
       "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "url": "https://juejin.cn/post/7661160753004904448",
-      "last_hot_value": "热度:675",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 3,
+      "title": "Vue 和 React 真正的差距，不在语法，而在团队犯错成本",
+      "url": "https://juejin.cn/post/7661802823036338214",
+      "last_hot_value": "热度:864",
+      "first_seen_at": "2026-07-15T17:13:36",
+      "last_seen_at": "2026-07-15T17:13:36",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "为什么 AI 写前端时，总是优先选择 React，而不是 Vue？",
-      "url": "https://juejin.cn/post/7661833071121530926",
-      "last_hot_value": "热度:630",
-      "first_seen_at": "2026-07-14T14:29:12",
-      "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Flutter Windows 开始支持 Impeller ，还修复了多窗口 bug",
       "url": "https://juejin.cn/post/7661123972889559046",
-      "last_hot_value": "热度:495",
+      "last_hot_value": "热度:594",
       "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-15T17:13:36",
+      "consecutive_count": 4,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "AI 编程普及，初学者还要不要学习基础语法？",
+      "url": "https://juejin.cn/post/7661117411174350890",
+      "last_hot_value": "热度:567",
+      "first_seen_at": "2026-07-15T17:13:36",
+      "last_seen_at": "2026-07-15T17:13:36",
+      "consecutive_count": 1,
       "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "中后台越做越乱后，我用插件化把它救回来了",
+      "url": "https://juejin.cn/post/7661266769256431657",
+      "last_hot_value": "热度:540",
+      "first_seen_at": "2026-07-14T19:00:47",
+      "last_seen_at": "2026-07-15T17:13:36",
+      "consecutive_count": 2,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -97,16 +127,16 @@
       "last_hot_value": "热度:468",
       "first_seen_at": "2026-07-14T00:26:26",
       "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "中后台越做越乱后，我用插件化把它救回来了",
-      "url": "https://juejin.cn/post/7661266769256431657",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-07-14T19:00:47",
-      "last_seen_at": "2026-07-14T19:00:47",
+      "title": "不用框架，手搓 AI Agent：(一) 先让它跑起来",
+      "url": "https://juejin.cn/post/7661531893103935539",
+      "last_hot_value": "热度:504",
+      "first_seen_at": "2026-07-15T17:13:36",
+      "last_seen_at": "2026-07-15T17:13:36",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -122,12 +152,22 @@
       "is_new": false
     },
     {
+      "title": "为什么越来越多的人使用PostgreSQL？",
+      "url": "https://juejin.cn/post/7661266769257463849",
+      "last_hot_value": "热度:486",
+      "first_seen_at": "2026-07-15T17:13:36",
+      "last_seen_at": "2026-07-15T17:13:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "AI 大模型写故事，魔珐星云驱动 3D 数字人实时播报",
       "url": "https://juejin.cn/post/7661439504083582976",
       "last_hot_value": "热度:405",
       "first_seen_at": "2026-07-14T14:29:12",
       "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },

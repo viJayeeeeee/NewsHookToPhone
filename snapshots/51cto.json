@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-14T19:00:50",
+  "update_time": "2026-07-15T17:13:40",
   "items": [
+    {
+      "title": "大厂二面：付款和取消撞车，三年经验被一道并发题送走",
+      "url": "https://www.51cto.com/article/849684.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T17:13:40",
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "新型 MemGhost 攻击：一封邮件即可向 AI Agent 植入持久性虚假记忆",
       "url": "https://www.51cto.com/article/849513.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "提示词工程论文登上ICML 2026，网友吵翻了天",
+      "url": "https://www.51cto.com/article/849683.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T17:13:40",
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "SpringBoot + 微信支付实现「扫码开门，取货自动扣款」智能售货柜",
       "url": "https://www.51cto.com/article/849512.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,12 +62,22 @@
       "is_new": false
     },
     {
+      "title": "GPT-5.6仅用一小时攻破五十年数学难题！六十四个AI摘下图论皇冠",
+      "url": "https://www.51cto.com/article/849682.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T17:13:40",
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "字节跳动面挂：积分加字段存总数？面试官追问过期怎么算",
       "url": "https://www.51cto.com/article/849511.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -62,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "Agent 评测集，不该只是题库",
+      "url": "https://www.51cto.com/article/849681.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T17:13:40",
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "Python 循环的五种高效写法：从 for-in 到生成器表达式的性能与可读性权衡",
       "url": "https://www.51cto.com/article/849509.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -82,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "一文搞懂 Multi-Agent：AI 是如何分工、协作与决策的？",
+      "url": "https://www.51cto.com/article/849679.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T17:13:40",
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "Agent 每次调用工具都要问用户吗？Janus 揭示权限管理的三难困境",
       "url": "https://www.51cto.com/article/849507.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -102,12 +152,22 @@
       "is_new": false
     },
     {
+      "title": "Anthropic再次延长Fable 5免费期，并对Cursor中发现的新模型保持沉默",
+      "url": "https://www.51cto.com/article/849677.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T17:13:40",
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Electron 时代要结束了？Vercel 发布 Native SDK，性能直接拉满",
       "url": "https://www.51cto.com/article/849505.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -122,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "Canvas 要凉了？GitHub 47K+ Star 神器，让 Web 动画性能直接起飞！",
+      "url": "https://www.51cto.com/article/849676.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T17:13:40",
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "完蛋！比 Vite+ 快 5.4 倍的前端工具链！正式发布！",
       "url": "https://www.51cto.com/article/849504.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -142,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "基于人机协作的 AI 研发新体系架构：从 Harness 工程到 Loop 工程实践",
+      "url": "https://www.51cto.com/article/849675.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T17:13:40",
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "凌晨 3 点，200 条告警弹窗把我炸醒——AIOps 帮我告别了这种日子",
       "url": "https://www.51cto.com/article/849493.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -166,8 +246,8 @@
       "url": "https://ost.51cto.com/posts/52652",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -186,8 +266,8 @@
       "url": "https://ost.51cto.com/posts/52649",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-15T17:13:40",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },

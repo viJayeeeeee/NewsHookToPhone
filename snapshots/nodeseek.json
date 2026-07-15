@@ -1,33 +1,53 @@
 {
-  "update_time": "2026-07-14T19:00:59",
+  "update_time": "2026-07-15T17:13:49",
   "items": [
     {
-      "title": "Komari 1.2.6：全新可定制、可扩展统计图表，支持外部数据库",
-      "url": "https://www.nodeseek.com/post-818779-1",
-      "last_hot_value": "查看:3616 回复:69",
-      "first_seen_at": "2026-07-14T00:26:38",
-      "last_seen_at": "2026-07-14T19:00:59",
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:199744 回复:2726",
+      "first_seen_at": "2026-07-14T14:29:26",
+      "last_seen_at": "2026-07-15T17:13:49",
       "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:199289 回复:2722",
-      "first_seen_at": "2026-07-14T14:29:26",
-      "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 2,
+      "title": "Komari 1.2.6：全新可定制、可扩展统计图表，支持外部数据库",
+      "url": "https://www.nodeseek.com/post-818779-1",
+      "last_hot_value": "查看:3868 回复:71",
+      "first_seen_at": "2026-07-14T00:26:38",
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
+      "url": "https://www.nodeseek.com/post-809285-1",
+      "last_hot_value": "查看:2555 回复:67",
+      "first_seen_at": "2026-07-15T17:13:49",
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 1,
       "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:212969 回复:1985",
+      "first_seen_at": "2026-07-14T14:29:26",
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:691717 回复:1139",
+      "last_hot_value": "查看:695536 回复:1140",
       "first_seen_at": "2026-07-14T14:29:26",
-      "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -37,9 +57,19 @@
       "last_hot_value": "查看:14961 回复:182",
       "first_seen_at": "2026-07-14T00:26:38",
       "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
+      "url": "https://www.nodeseek.com/post-810146-1",
+      "last_hot_value": "查看:4131 回复:73",
+      "first_seen_at": "2026-07-15T17:13:49",
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【开源】ForwardX：一个好看又能打的多主机端口/隧道转发管理面板",
@@ -47,7 +77,7 @@
       "last_hot_value": "查看:3741 回复:83",
       "first_seen_at": "2026-07-14T14:29:26",
       "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -67,7 +97,7 @@
       "last_hot_value": "查看:31925 回复:426",
       "first_seen_at": "2026-07-14T14:29:26",
       "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -82,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:212458 回复:1980",
-      "first_seen_at": "2026-07-14T14:29:26",
-      "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 2,
+      "title": "[新人看一看]老鸟请直接忽略",
+      "url": "https://www.nodeseek.com/post-348342-1",
+      "last_hot_value": "查看:20564 回复:393",
+      "first_seen_at": "2026-07-15T17:13:49",
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
@@ -102,14 +132,34 @@
       "is_new": false
     },
     {
+      "title": "不止DMIT、BWH ❗❗❗ 超全面的NS热门商家套餐汇总",
+      "url": "https://www.nodeseek.com/post-600406-1",
+      "last_hot_value": "查看:12738 回复:189",
+      "first_seen_at": "2026-07-15T17:13:49",
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "【⭐项目开源⭐】给新手 MJJ 的自托管图床：OU-Image Hosting / 欧记图床 / R2 & S3 / 公共上传 / 相册管理",
       "url": "https://www.nodeseek.com/post-818246-1",
       "last_hot_value": "查看:1462 回复:29",
       "first_seen_at": "2026-07-14T00:26:38",
       "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "NAT机商家合集-置顶每月更新中",
+      "url": "https://www.nodeseek.com/post-54366-1",
+      "last_hot_value": "查看:137565 回复:369",
+      "first_seen_at": "2026-07-15T17:13:49",
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
@@ -117,7 +167,7 @@
       "last_hot_value": "查看:45491 回复:176",
       "first_seen_at": "2026-07-14T00:26:38",
       "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -127,9 +177,19 @@
       "last_hot_value": "查看:14819 回复:38",
       "first_seen_at": "2026-07-14T14:29:26",
       "last_seen_at": "2026-07-14T19:00:59",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【开源】OpenFlare 自建 CDN, 集反代 Tunnel Pages WAF 于一身的究极缝合怪",
+      "url": "https://www.nodeseek.com/post-760916-1",
+      "last_hot_value": "查看:4226 回复:75",
+      "first_seen_at": "2026-07-15T17:13:49",
+      "last_seen_at": "2026-07-15T17:13:49",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
