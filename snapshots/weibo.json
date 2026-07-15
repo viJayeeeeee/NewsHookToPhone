@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-14T20:02:40",
+  "update_time": "2026-07-15T11:12:26",
   "items": [
+    {
+      "title": "DeepSeek工资待遇太恐怖了",
+      "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86%23",
+      "last_hot_value": "5405572",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "法国vs西班牙",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%23",
       "last_hot_value": "2423112",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "邹市明上海黄浦江边场馆年租金5000万",
@@ -52,24 +62,14 @@
       "is_new": false
     },
     {
-      "title": "英格兰派出了贝林哄哈兰德",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B4%BE%E5%87%BA%E4%BA%86%E8%B4%9D%E6%9E%97%E5%93%84%E5%93%88%E5%85%B0%E5%BE%B7%23",
-      "last_hot_value": "335765",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T15:30:21",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "6月新增新冠确诊7.9万例",
-      "url": "https://s.weibo.com/weibo?q=%236%E6%9C%88%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A7.9%E4%B8%87%E4%BE%8B%23",
-      "last_hot_value": "918221",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T10:57:24",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "国台办回应两岸统一时间",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%B2%B8%E7%BB%9F%E4%B8%80%E6%97%B6%E9%97%B4%23",
+      "last_hot_value": "1385816",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "亚马尔造点",
@@ -77,9 +77,9 @@
       "last_hot_value": "651473",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "疑AI照片拿了摄影比赛一等奖",
@@ -132,14 +132,14 @@
       "is_new": false
     },
     {
-      "title": "世界排名前4球队均晋级世界杯4强",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%89%8D4%E7%90%83%E9%98%9F%E5%9D%87%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA%23",
-      "last_hot_value": "1414142",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "工作组赴吉林暴雨洪涝灾区",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E7%BB%84%E8%B5%B4%E5%90%89%E6%9E%97%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%8C%BA%23",
+      "last_hot_value": "1117860",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "惠民生促消费双向发力",
@@ -147,9 +147,9 @@
       "last_hot_value": "437833",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "青春主场踏歌而行",
@@ -192,24 +192,14 @@
       "is_new": false
     },
     {
-      "title": "多场景防汛避险指南",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%BA%E6%99%AF%E9%98%B2%E6%B1%9B%E9%81%BF%E9%99%A9%E6%8C%87%E5%8D%97%23",
-      "last_hot_value": "698273",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T10:57:24",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "普通人该如何科学避险",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%23",
-      "last_hot_value": "1324930",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "电视卖不动了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23",
+      "last_hot_value": "949315",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "奥利塞 逃牌",
@@ -217,9 +207,9 @@
       "last_hot_value": "415010",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "杨洋超张凌赫",
@@ -252,24 +242,14 @@
       "is_new": false
     },
     {
-      "title": "一直以为取卡针的作用只有换电话卡",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E5%8F%96%E5%8D%A1%E9%92%88%E7%9A%84%E4%BD%9C%E7%94%A8%E5%8F%AA%E6%9C%89%E6%8D%A2%E7%94%B5%E8%AF%9D%E5%8D%A1%23",
-      "last_hot_value": "680023",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "听起来很贵其实很便宜的东西",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E8%B4%B5%E5%85%B6%E5%AE%9E%E5%BE%88%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%23",
-      "last_hot_value": "1262767",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "西班牙进球前一分钟的宇宙级传控",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BF%9B%E7%90%83%E5%89%8D%E4%B8%80%E5%88%86%E9%92%9F%E7%9A%84%E5%AE%87%E5%AE%99%E7%BA%A7%E4%BC%A0%E6%8E%A7%23",
+      "last_hot_value": "926526",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "西班牙点球破门",
@@ -277,9 +257,9 @@
       "last_hot_value": "381965",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "去音乐节后没有容貌焦虑了",
@@ -322,24 +302,14 @@
       "is_new": false
     },
     {
-      "title": "体寒的人夏天能有多离谱",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%AF%92%E7%9A%84%E4%BA%BA%E5%A4%8F%E5%A4%A9%E8%83%BD%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23",
-      "last_hot_value": "608604",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T10:57:24",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "一个台风治好了大家的饭压抑",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%8F%B0%E9%A3%8E%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%A4%A7%E5%AE%B6%E7%9A%84%E9%A5%AD%E5%8E%8B%E6%8A%91%23",
-      "last_hot_value": "1062907",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "功夫女足 换片源",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3+%E6%8D%A2%E7%89%87%E6%BA%90%23",
+      "last_hot_value": "923470",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "暑期档长剧 裸播",
@@ -347,9 +317,9 @@
       "last_hot_value": "309688",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "请愿逐出阿根廷人数已超500万",
@@ -392,24 +362,14 @@
       "is_new": false
     },
     {
-      "title": "功夫女足豆瓣6.6票房却杀疯了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B1%86%E7%93%A36.6%E7%A5%A8%E6%88%BF%E5%8D%B4%E6%9D%80%E7%96%AF%E4%BA%86%23",
-      "last_hot_value": "339603",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T15:30:21",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "功夫女足用了迪丽热巴维语拼音全名",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%94%A8%E4%BA%86%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%B4%E8%AF%AD%E6%8B%BC%E9%9F%B3%E5%85%A8%E5%90%8D%23",
-      "last_hot_value": "931608",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "旅游时突然被通知开除了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E6%97%B6%E7%AA%81%E7%84%B6%E8%A2%AB%E9%80%9A%E7%9F%A5%E5%BC%80%E9%99%A4%E4%BA%86%23",
+      "last_hot_value": "748854",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "老人买肉买走了最难卖的一块",
@@ -417,9 +377,9 @@
       "last_hot_value": "211612",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "被长期主义的消费观震惊到了",
@@ -452,24 +412,14 @@
       "is_new": false
     },
     {
-      "title": "房间里爱放谷子和手办的天塌了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E9%97%B4%E9%87%8C%E7%88%B1%E6%94%BE%E8%B0%B7%E5%AD%90%E5%92%8C%E6%89%8B%E5%8A%9E%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23",
-      "last_hot_value": "549943",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T10:57:24",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "巴威台风届变脸第一名",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E5%8F%B0%E9%A3%8E%E5%B1%8A%E5%8F%98%E8%84%B8%E7%AC%AC%E4%B8%80%E5%90%8D%23",
-      "last_hot_value": "810998",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "曝功夫女足被偷票房",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF%23",
+      "last_hot_value": "566915",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "裁判 严格",
@@ -477,9 +427,9 @@
       "last_hot_value": "145132",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -502,24 +452,14 @@
       "is_new": false
     },
     {
-      "title": "长鑫科技中签率",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E7%8E%87%23",
-      "last_hot_value": "504483",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T10:57:24",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "女装的钱太好赚了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E7%9A%84%E9%92%B1%E5%A4%AA%E5%A5%BD%E8%B5%9A%E4%BA%86%23",
-      "last_hot_value": "802354",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "苹果AI 千问",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CAI+%E5%8D%83%E9%97%AE%23",
+      "last_hot_value": "565638",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "迪丽热巴听到周星驰女儿的表情",
@@ -527,9 +467,9 @@
       "last_hot_value": "142930",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "迪丽热巴杭州路演路透",
@@ -562,24 +502,14 @@
       "is_new": false
     },
     {
-      "title": "蔡徐坤TheDeadman演唱会",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4TheDeadman%E6%BC%94%E5%94%B1%E4%BC%9A%23",
-      "last_hot_value": "503846",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T10:57:24",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "台风巴威已移出浙江",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%B7%B2%E7%A7%BB%E5%87%BA%E6%B5%99%E6%B1%9F%23",
-      "last_hot_value": "669917",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "2岁女童浴盆溺水父亲倒立控水",
+      "url": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B4%E7%9B%86%E6%BA%BA%E6%B0%B4%E7%88%B6%E4%BA%B2%E5%80%92%E7%AB%8B%E6%8E%A7%E6%B0%B4%23",
+      "last_hot_value": "559097",
+      "first_seen_at": "2026-07-15T11:12:26",
+      "last_seen_at": "2026-07-15T11:12:26",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "内娱请把古偶还给少男少女",
@@ -587,9 +517,9 @@
       "last_hot_value": "79893",
       "first_seen_at": "2026-07-14T20:02:40",
       "last_seen_at": "2026-07-14T20:02:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI杀死时尚行业",
@@ -627,26 +557,6 @@
       "last_hot_value": "420875",
       "first_seen_at": "2026-07-12T14:29:15",
       "last_seen_at": "2026-07-12T14:29:15",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "长鑫有员工年薪35万月加班80小时",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E6%9C%89%E5%91%98%E5%B7%A5%E5%B9%B4%E8%96%AA35%E4%B8%87%E6%9C%88%E5%8A%A0%E7%8F%AD80%E5%B0%8F%E6%97%B6%23",
-      "last_hot_value": "498071",
-      "first_seen_at": "2026-07-12T10:57:24",
-      "last_seen_at": "2026-07-12T10:57:24",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "周星驰功夫女足豆瓣开分",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23",
-      "last_hot_value": "487553",
-      "first_seen_at": "2026-07-12T07:28:43",
-      "last_seen_at": "2026-07-12T07:28:43",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
