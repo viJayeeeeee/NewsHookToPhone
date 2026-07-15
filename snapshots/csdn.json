@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-15T17:13:38",
+  "update_time": "2026-07-15T19:39:00",
   "items": [
     {
       "title": "【AI 测评】飞牛NAS部署PandaWiki实操：本地AI知识库、DeepSeek接入与公网访问",
       "url": "https://blog.csdn.net/2402_87298751/article/details/162870226",
-      "last_hot_value": "2.7w",
+      "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +17,7 @@
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-14T14:29:14",
       "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +32,32 @@
       "is_new": false
     },
     {
+      "title": "OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162734765",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-07-15T17:13:38",
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "【Linux】Ext 文件系统：从机械磁盘到 CHS/LBA，搞懂扇区、块与分区",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/162819127",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "Spring AI-2.0(alibaba) Agent 编程实战：从 Tool Calling 到 MCP 协议，附完整报文级日志",
       "url": "https://blog.csdn.net/lilinhai548/article/details/162796038",
       "last_hot_value": "2.3w",
       "first_seen_at": "2026-07-14T00:26:28",
       "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,24 +72,14 @@
       "is_new": false
     },
     {
-      "title": "【Linux】Ext 文件系统：从机械磁盘到 CHS/LBA，搞懂扇区、块与分区",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/162819127",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T19:00:49",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "MuMu模拟器6.0评测：480帧、安卓15、原生Root，四组实验拆给你看",
       "url": "https://blog.csdn.net/IRpickstars/article/details/162844002",
-      "last_hot_value": "2.1w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "安卓旧手机部署OpenList实操：内置存储挂载、文件上传与公网访问",
@@ -82,22 +92,32 @@
       "is_new": false
     },
     {
-      "title": "NAS、服务器、后台地址太多：给自己做一个随时能打开的私人导航台",
-      "url": "https://blog.csdn.net/2501_91062530/article/details/162882752",
-      "last_hot_value": "1.4w",
+      "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从退化问题到信息高速公路:ResNet残差网络实战拆解)",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/162719491",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "k8s 部署 Headlamp",
       "url": "https://blog.csdn.net/liu_chen_yang/article/details/162490414",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-14T00:26:28",
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "NAS、服务器、后台地址太多：给自己做一个随时能打开的私人导航台",
+      "url": "https://blog.csdn.net/2501_91062530/article/details/162882752",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-15T17:13:38",
       "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,6 +132,16 @@
       "is_new": false
     },
     {
+      "title": "AI 到底能不能替代劳动力和股票？听完这场对谈，我改了三个判断",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162912643",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-15T19:39:00",
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "MongoDB别只装完就跑：先把认证、端口和权限加固好",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/162865069",
       "last_hot_value": "1.1w",
@@ -120,16 +150,6 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
-    },
-    {
-      "title": "OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162734765",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
     },
     {
       "title": "中级OpenGL教程 017：几何体复用、材质区分与坐标变换详解",
@@ -152,14 +172,24 @@
       "is_new": false
     },
     {
+      "title": "【AI智能体】Claude Code 插件从使用到项目实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162382052",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-15T17:13:38",
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "软件研发辅助：智能代码审查 + 测试用例生成 + 缺陷预测——基于 JiuwenSwarm 的群体智能实践",
       "url": "https://blog.csdn.net/2401_83830408/article/details/162881602",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-15T17:13:38",
       "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "硬件盲盒任务示例以及硬件盲盒物料",
@@ -172,11 +202,11 @@
       "is_new": false
     },
     {
-      "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从退化问题到信息高速公路:ResNet残差网络实战拆解)",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/162719491",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T17:13:38",
+      "title": "《Linux CPU频率为何忽高忽低：cpufreq、idle状态与性能抖动教程》",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/162864752",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-15T19:39:00",
+      "last_seen_at": "2026-07-15T19:39:00",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -184,10 +214,10 @@
     {
       "title": "【AI探索】向量检索策略与召回优化",
       "url": "https://blog.csdn.net/weixin_62043600/article/details/162851881",
-      "last_hot_value": "8853",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-14T19:00:49",
-      "last_seen_at": "2026-07-14T19:00:49",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-15T19:39:00",
+      "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": false
     },
@@ -200,16 +230,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "【AI智能体】Claude Code 插件从使用到项目实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162382052",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "医疗信创标杆：一院两区全栈国产化改造方案与数据库应用、代码实践",
