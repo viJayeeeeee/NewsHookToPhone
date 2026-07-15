@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-15T15:58:55",
+  "update_time": "2026-07-15T18:19:39",
   "items": [
+    {
+      "title": "曝C罗考虑参加2030年世界杯",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DC%E7%BD%97%E8%80%83%E8%99%91%E5%8F%82%E5%8A%A02030%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%23",
+      "last_hot_value": "385580",
+      "first_seen_at": "2026-07-15T18:19:39",
+      "last_seen_at": "2026-07-15T18:19:39",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "家长月薪3500元请大学生带娃",
       "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%9C%88%E8%96%AA3500%E5%85%83%E8%AF%B7%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%A6%E5%A8%83%23",
       "last_hot_value": "1188751",
       "first_seen_at": "2026-07-15T15:58:55",
       "last_seen_at": "2026-07-15T15:58:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek工资待遇太恐怖了",
@@ -62,14 +72,24 @@
       "is_new": false
     },
     {
-      "title": "猴价涨疯了",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8C%B4%E4%BB%B7%E6%B6%A8%E7%96%AF%E4%BA%86%23",
-      "last_hot_value": "858044",
-      "first_seen_at": "2026-07-15T15:58:55",
-      "last_seen_at": "2026-07-15T15:58:55",
+      "title": "功夫女足2",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B32%23",
+      "last_hot_value": "264267",
+      "first_seen_at": "2026-07-15T18:19:39",
+      "last_seen_at": "2026-07-15T18:19:39",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "猴价涨疯了",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8C%B4%E4%BB%B7%E6%B6%A8%E7%96%AF%E4%BA%86%23",
+      "last_hot_value": "186973",
+      "first_seen_at": "2026-07-15T15:58:55",
+      "last_seen_at": "2026-07-15T18:19:39",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "国台办回应两岸统一时间",
@@ -114,12 +134,12 @@
     {
       "title": "打卡中国",
       "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E4%B8%AD%E5%9B%BD%23",
-      "last_hot_value": "662894",
+      "last_hot_value": "243906",
       "first_seen_at": "2026-07-15T15:58:55",
-      "last_seen_at": "2026-07-15T15:58:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-15T18:19:39",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "工作组赴吉林暴雨洪涝灾区",
@@ -172,14 +192,24 @@
       "is_new": false
     },
     {
-      "title": "白鹿新剧佛山开机",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%96%B0%E5%89%A7%E4%BD%9B%E5%B1%B1%E5%BC%80%E6%9C%BA%23",
-      "last_hot_value": "662634",
-      "first_seen_at": "2026-07-15T15:58:55",
-      "last_seen_at": "2026-07-15T15:58:55",
+      "title": "中国用户终于迎来满血iPhone",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23",
+      "last_hot_value": "243738",
+      "first_seen_at": "2026-07-15T18:19:39",
+      "last_seen_at": "2026-07-15T18:19:39",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
+    },
+    {
+      "title": "白鹿新剧佛山开机",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%96%B0%E5%89%A7%E4%BD%9B%E5%B1%B1%E5%BC%80%E6%9C%BA%23",
+      "last_hot_value": "163596",
+      "first_seen_at": "2026-07-15T15:58:55",
+      "last_seen_at": "2026-07-15T18:19:39",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "电视卖不动了",
@@ -234,12 +264,12 @@
     {
       "title": "胖东来的西瓜原来是这样切的",
       "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9A%84%E8%A5%BF%E7%93%9C%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7%E5%88%87%E7%9A%84%23",
-      "last_hot_value": "660976",
+      "last_hot_value": "242712",
       "first_seen_at": "2026-07-15T15:58:55",
-      "last_seen_at": "2026-07-15T15:58:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-15T18:19:39",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "西班牙进球前一分钟的宇宙级传控",
@@ -294,12 +324,12 @@
     {
       "title": "当出租屋迎来了放暑假的弟弟妹妹",
       "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%94%BE%E6%9A%91%E5%81%87%E7%9A%84%E5%BC%9F%E5%BC%9F%E5%A6%B9%E5%A6%B9%23",
-      "last_hot_value": "655650",
+      "last_hot_value": "167720",
       "first_seen_at": "2026-07-15T15:58:55",
-      "last_seen_at": "2026-07-15T15:58:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-15T18:19:39",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "功夫女足 换片源",
@@ -342,14 +372,24 @@
       "is_new": false
     },
     {
+      "title": "不建议大家辞职去做自媒体",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E8%BE%9E%E8%81%8C%E5%8E%BB%E5%81%9A%E8%87%AA%E5%AA%92%E4%BD%93%23",
+      "last_hot_value": "180316",
+      "first_seen_at": "2026-07-15T15:58:55",
+      "last_seen_at": "2026-07-15T18:19:39",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "王俊凯忙一天打开手机天塌了",
       "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BF%99%E4%B8%80%E5%A4%A9%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23",
       "last_hot_value": "537203",
       "first_seen_at": "2026-07-15T15:58:55",
       "last_seen_at": "2026-07-15T15:58:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "旅游时突然被通知开除了",
@@ -402,16 +442,6 @@
       "is_new": false
     },
     {
-      "title": "不建议大家辞职去做自媒体",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E8%BE%9E%E8%81%8C%E5%8E%BB%E5%81%9A%E8%87%AA%E5%AA%92%E4%BD%93%23",
-      "last_hot_value": "516804",
-      "first_seen_at": "2026-07-15T15:58:55",
-      "last_seen_at": "2026-07-15T15:58:55",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
       "title": "曝功夫女足被偷票房",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF%23",
       "last_hot_value": "566915",
@@ -457,9 +487,9 @@
       "last_hot_value": "455671",
       "first_seen_at": "2026-07-15T15:58:55",
       "last_seen_at": "2026-07-15T15:58:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "苹果AI 千问",
@@ -502,14 +532,24 @@
       "is_new": false
     },
     {
+      "title": "英格兰vs阿根廷",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7%23",
+      "last_hot_value": "150925",
+      "first_seen_at": "2026-07-15T18:19:39",
+      "last_seen_at": "2026-07-15T18:19:39",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "二手豪华燃油车价格大跳水",
       "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E8%B1%AA%E5%8D%8E%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%23",
       "last_hot_value": "453278",
       "first_seen_at": "2026-07-15T15:58:55",
       "last_seen_at": "2026-07-15T15:58:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "2岁女童浴盆溺水父亲倒立控水",
