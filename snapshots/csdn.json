@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-16T10:48:59",
+  "update_time": "2026-07-16T14:18:18",
   "items": [
+    {
+      "title": "【AI 测评】飞牛NAS部署PandaWiki实操：本地AI知识库、DeepSeek接入与公网访问",
+      "url": "https://blog.csdn.net/2402_87298751/article/details/162870226",
+      "last_hot_value": "2.5w",
+      "first_seen_at": "2026-07-14T14:29:14",
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 6,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Anthropic的研究撕开了AI对齐的底裤-龍德明宇",
       "url": "https://blog.csdn.net/fanli1998/article/details/162913057",
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "【AI 测评】飞牛NAS部署PandaWiki实操：本地AI知识库、DeepSeek接入与公网访问",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/162870226",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162912643",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-15T19:39:00",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162734765",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -94,10 +94,10 @@
     {
       "title": "【AI智能体】Claude Code 插件从使用到项目实战详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162382052",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -162,14 +162,24 @@
       "is_new": false
     },
     {
+      "title": "MCP 协议打通 AI 与国产数据库，SQL 调优全流程一站式闭环",
+      "url": "https://blog.csdn.net/2301_80350265/article/details/162923627",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-16T10:48:59",
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "ToDesk AI 实测：从远程控制到远程干活，让AI填表、选品、剪辑",
       "url": "https://blog.csdn.net/2401_85686768/article/details/162883215",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "MongoDB别只装完就跑：先把认证、端口和权限加固好",
@@ -182,14 +192,14 @@
       "is_new": false
     },
     {
-      "title": "MCP 协议打通 AI 与国产数据库，SQL 调优全流程一站式闭环",
-      "url": "https://blog.csdn.net/2301_80350265/article/details/162923627",
-      "last_hot_value": "1.2w",
+      "title": "【AVDTP】规范精讲[2]: 为什么蓝牙能传音乐？看懂这层架构就懂了",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/162808405",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "中级OpenGL教程 017：几何体复用、材质区分与坐标变换详解",
@@ -212,14 +222,14 @@
       "is_new": false
     },
     {
-      "title": "【AVDTP】规范精讲[2]: 为什么蓝牙能传音乐？看懂这层架构就懂了",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/162808405",
-      "last_hot_value": "1.2w",
+      "title": "OpenCloudOS 9 小型服务器 Docker 部署实战：PostgreSQL+PostGIS、Redis、Nginx 安全加固与一键脚本",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/162913636",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "软件研发辅助：智能代码审查 + 测试用例生成 + 缺陷预测——基于 JiuwenSwarm 的群体智能实践",
@@ -240,16 +250,6 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
-    },
-    {
-      "title": "OpenCloudOS 9 小型服务器 Docker 部署实战：PostgreSQL+PostGIS、Redis、Nginx 安全加固与一键脚本",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/162913636",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
     },
     {
       "title": "《Linux CPU频率为何忽高忽低：cpufreq、idle状态与性能抖动教程》",
@@ -282,14 +282,24 @@
       "is_new": false
     },
     {
+      "title": "AI+HI人机协同范式：从ElementsClaw到政务智能体的分层进化论",
+      "url": "https://blog.csdn.net/qq_36411553/article/details/162901739",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-16T14:18:18",
+      "last_seen_at": "2026-07-16T14:18:18",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "让运营像改Excel一样改数据：用NocoDB搭一个团队数据协作台",
       "url": "https://blog.csdn.net/weixin_62765017/article/details/162932702",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-16T10:48:59",
       "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "医疗信创标杆：一院两区全栈国产化改造方案与数据库应用、代码实践",
