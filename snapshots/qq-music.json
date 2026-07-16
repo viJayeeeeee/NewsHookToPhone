@@ -1,16 +1,6 @@
 {
-  "update_time": "2026-07-16T01:01:44",
+  "update_time": "2026-07-16T23:11:37",
   "items": [
-    {
-      "title": "樱花草",
-      "url": "https://y.qq.com/n/ryqq/songDetail/000Tx0ZM2xaBhM",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-13T21:42:16",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "我只要我开心",
       "url": "https://y.qq.com/n/ryqq/songDetail/0047kieu3p1Zrf",
@@ -26,8 +16,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/004PjZLu3CjaYS",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T07:32:29",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-16T23:11:37",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,29 +26,19 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/002wTqj42ms6PG",
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T01:01:44",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-16T23:11:37",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "无人之岛",
       "url": "https://y.qq.com/n/ryqq/songDetail/001fTFGe0LqzdT",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T07:32:29",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-16T23:11:37",
+      "consecutive_count": 4,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "阴天",
-      "url": "https://y.qq.com/n/ryqq/songDetail/0031PqYN0sj8K3",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-15T07:32:29",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 3,
-      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -66,9 +46,19 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T21:33:54",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 2,
-      "peak_rank": 6,
+      "last_seen_at": "2026-07-16T23:11:37",
+      "consecutive_count": 3,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "阴天",
+      "url": "https://y.qq.com/n/ryqq/songDetail/0031PqYN0sj8K3",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-15T07:32:29",
+      "last_seen_at": "2026-07-16T23:11:37",
+      "consecutive_count": 4,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -76,18 +66,18 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T07:32:29",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-16T23:11:37",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "街道",
-      "url": "https://y.qq.com/n/ryqq/songDetail/003cUayQ0eKiHR",
+      "title": "失眠",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001Y2S0F1OaM2s",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-13T21:42:16",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 7,
+      "first_seen_at": "2026-07-16T01:01:44",
+      "last_seen_at": "2026-07-16T23:11:37",
+      "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
     },
@@ -96,20 +86,10 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/004GEXe13HYtsE",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T21:33:54",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-16T23:11:37",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "失眠",
-      "url": "https://y.qq.com/n/ryqq/songDetail/001Y2S0F1OaM2s",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-16T01:01:44",
-      "last_seen_at": "2026-07-16T01:01:44",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "太阳",
