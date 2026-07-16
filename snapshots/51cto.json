@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-15T19:39:02",
+  "update_time": "2026-07-16T10:49:01",
   "items": [
+    {
+      "title": "ArkTS模块化import阶段性能优化",
+      "url": "https://ost.51cto.com/posts/52952",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "大厂二面：付款和取消撞车，三年经验被一道并发题送走",
       "url": "https://www.51cto.com/article/849684.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T17:13:40",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "别指望大模型包办一切！AI先驱施密德胡伯：LLM只是预测器，Coding Agent还缺控制、反馈和行动能力",
+      "url": "https://www.51cto.com/article/849850.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "提示词工程论文登上ICML 2026，网友吵翻了天",
       "url": "https://www.51cto.com/article/849683.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T17:13:40",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "一位失忆患者，揭开了AI记忆的误区",
+      "url": "https://www.51cto.com/article/849849.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "GPT-5.6仅用一小时攻破五十年数学难题！六十四个AI摘下图论皇冠",
       "url": "https://www.51cto.com/article/849682.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T17:13:40",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -92,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "奥特曼回斯坦福认错：思考外包给AI，一代人大脑正在萎缩",
+      "url": "https://www.51cto.com/article/849846.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "Agent 评测集，不该只是题库",
       "url": "https://www.51cto.com/article/849681.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T17:13:40",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -122,12 +162,22 @@
       "is_new": false
     },
     {
+      "title": "OpenAI官方教你八招玩透ChatGPT！",
+      "url": "https://www.51cto.com/article/849844.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "一文搞懂 Multi-Agent：AI 是如何分工、协作与决策的？",
       "url": "https://www.51cto.com/article/849679.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T17:13:40",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -152,12 +202,22 @@
       "is_new": false
     },
     {
+      "title": "绿灯变死局：当谷歌微软的CI/CD全线通过，攻击者已拿走了永久权限",
+      "url": "https://www.51cto.com/article/849837.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Anthropic再次延长Fable 5免费期，并对Cursor中发现的新模型保持沉默",
       "url": "https://www.51cto.com/article/849677.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T17:13:40",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -182,12 +242,22 @@
       "is_new": false
     },
     {
+      "title": "鸿蒙应用开发中的V1与V2状态管理：差别、优缺点与迁移指南",
+      "url": "https://ost.51cto.com/posts/52946",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "Canvas 要凉了？GitHub 47K+ Star 神器，让 Web 动画性能直接起飞！",
       "url": "https://www.51cto.com/article/849676.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T17:13:40",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -212,12 +282,22 @@
       "is_new": false
     },
     {
+      "title": "快来查查，你 Codex 里的 GPT-5.6 有没有缩水",
+      "url": "https://www.51cto.com/article/849829.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "基于人机协作的 AI 研发新体系架构：从 Harness 工程到 Loop 工程实践",
       "url": "https://www.51cto.com/article/849675.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T17:13:40",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -242,12 +322,22 @@
       "is_new": false
     },
     {
+      "title": "一次 P0 故障复盘：告警泛滥，真正问题被海量信息淹没",
+      "url": "https://www.51cto.com/article/849824.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS 消息推送服务端集成全攻略（1）",
       "url": "https://ost.51cto.com/posts/52652",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -262,12 +352,22 @@
       "is_new": false
     },
     {
+      "title": "智能运维终结了繁琐的手动询问！Prometheus 与 DeepSeek 联动实现告警自动分析",
+      "url": "https://www.51cto.com/article/849816.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-16T10:49:01",
+      "last_seen_at": "2026-07-16T10:49:01",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS 文件预览服务进阶指南（1）",
       "url": "https://ost.51cto.com/posts/52649",
       "last_hot_value": "",
       "first_seen_at": "2026-07-14T14:29:17",
       "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },

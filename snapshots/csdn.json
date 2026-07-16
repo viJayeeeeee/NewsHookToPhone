@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-15T19:39:00",
+  "update_time": "2026-07-16T10:48:59",
   "items": [
+    {
+      "title": "Anthropic的研究撕开了AI对齐的底裤-龍德明宇",
+      "url": "https://blog.csdn.net/fanli1998/article/details/162913057",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-07-16T10:48:59",
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【AI 测评】飞牛NAS部署PandaWiki实操：本地AI知识库、DeepSeek接入与公网访问",
       "url": "https://blog.csdn.net/2402_87298751/article/details/162870226",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "AI 到底能不能替代劳动力和股票？听完这场对谈，我改了三个判断",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162912643",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-07-15T19:39:00",
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162734765",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +67,7 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-14T00:26:28",
       "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "【AI智能体】Claude Code 插件从使用到项目实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162382052",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-07-15T17:13:38",
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "MuMu模拟器6.0评测：480帧、安卓15、原生Root，四组实验拆给你看",
       "url": "https://blog.csdn.net/IRpickstars/article/details/162844002",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-15T17:13:38",
       "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -97,7 +127,7 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-15T17:13:38",
       "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -107,7 +137,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-14T00:26:28",
       "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -132,11 +162,11 @@
       "is_new": false
     },
     {
-      "title": "AI 到底能不能替代劳动力和股票？听完这场对谈，我改了三个判断",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162912643",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-15T19:39:00",
-      "last_seen_at": "2026-07-15T19:39:00",
+      "title": "ToDesk AI 实测：从远程控制到远程干活，让AI填表、选品、剪辑",
+      "url": "https://blog.csdn.net/2401_85686768/article/details/162883215",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-16T10:48:59",
+      "last_seen_at": "2026-07-16T10:48:59",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -150,6 +180,16 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "MCP 协议打通 AI 与国产数据库，SQL 调优全流程一站式闭环",
+      "url": "https://blog.csdn.net/2301_80350265/article/details/162923627",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-16T10:48:59",
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "中级OpenGL教程 017：几何体复用、材质区分与坐标变换详解",
@@ -172,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "【AI智能体】Claude Code 插件从使用到项目实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162382052",
+      "title": "【AVDTP】规范精讲[2]: 为什么蓝牙能传音乐？看懂这层架构就懂了",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/162808405",
       "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-07-16T10:48:59",
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "软件研发辅助：智能代码审查 + 测试用例生成 + 缺陷预测——基于 JiuwenSwarm 的群体智能实践",
@@ -202,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "OpenCloudOS 9 小型服务器 Docker 部署实战：PostgreSQL+PostGIS、Redis、Nginx 安全加固与一键脚本",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/162913636",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-16T10:48:59",
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "《Linux CPU频率为何忽高忽低：cpufreq、idle状态与性能抖动教程》",
       "url": "https://blog.csdn.net/Dovis5884/article/details/162864752",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-15T19:39:00",
       "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AI探索】向量检索策略与召回优化",
@@ -217,7 +267,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-14T19:00:49",
       "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -230,6 +280,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "让运营像改Excel一样改数据：用NocoDB搭一个团队数据协作台",
+      "url": "https://blog.csdn.net/weixin_62765017/article/details/162932702",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-16T10:48:59",
+      "last_seen_at": "2026-07-16T10:48:59",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "医疗信创标杆：一院两区全栈国产化改造方案与数据库应用、代码实践",

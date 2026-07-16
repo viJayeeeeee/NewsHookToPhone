@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-15T19:38:59",
+  "update_time": "2026-07-16T10:48:58",
   "items": [
+    {
+      "title": "Vue 和 React 真正的差距，不在语法，而在团队犯错成本",
+      "url": "https://juejin.cn/post/7661802823036338214",
+      "last_hot_value": "热度:1188",
+      "first_seen_at": "2026-07-15T17:13:36",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Superpowers：GPT-5.6 时代下的流程毒瘤",
       "url": "https://juejin.cn/post/7661830907991146536",
       "last_hot_value": "热度:1881",
       "first_seen_at": "2026-07-14T14:29:12",
       "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,14 +42,34 @@
       "is_new": false
     },
     {
+      "title": "不自己造轮子：在小艺开放平台搭一个真实的健康小助手",
+      "url": "https://juejin.cn/post/7662376768221364233",
+      "last_hot_value": "热度:945",
+      "first_seen_at": "2026-07-16T10:48:58",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
       "url": "https://juejin.cn/post/7661160753004904448",
       "last_hot_value": "热度:1215",
       "first_seen_at": "2026-07-14T00:26:26",
       "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "我和一个德国程序员互不知道对方，却写出了完全一样的AI架构 🤯",
+      "url": "https://juejin.cn/post/7661915632607625225",
+      "last_hot_value": "热度:918",
+      "first_seen_at": "2026-07-16T10:48:58",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "星云SDK + 油猴：给LLM塑造肉身，陪伴你在每个网页",
@@ -47,7 +77,7 @@
       "last_hot_value": "热度:1044",
       "first_seen_at": "2026-07-14T00:26:26",
       "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,34 +102,54 @@
       "is_new": false
     },
     {
+      "title": "Oracle 迁移评估时，我把这两类问题列在了检查清单最前面",
+      "url": "https://juejin.cn/post/7662370300848275502",
+      "last_hot_value": "热度:828",
+      "first_seen_at": "2026-07-16T10:48:58",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "为什么 AI 写前端时，总是优先选择 React，而不是 Vue？",
       "url": "https://juejin.cn/post/7661833071121530926",
       "last_hot_value": "热度:990",
       "first_seen_at": "2026-07-14T14:29:12",
       "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Vue 和 React 真正的差距，不在语法，而在团队犯错成本",
-      "url": "https://juejin.cn/post/7661802823036338214",
-      "last_hot_value": "热度:882",
-      "first_seen_at": "2026-07-15T17:13:36",
-      "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 2,
-      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "Flutter Windows 开始支持 Impeller ，还修复了多窗口 bug",
       "url": "https://juejin.cn/post/7661123972889559046",
-      "last_hot_value": "热度:603",
+      "last_hot_value": "热度:657",
       "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 6,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "不用框架，手搓 AI Agent：(一) 先让它跑起来",
+      "url": "https://juejin.cn/post/7661531893103935539",
+      "last_hot_value": "热度:621",
+      "first_seen_at": "2026-07-15T17:13:36",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "AI 大模型写故事，3D 数字人实时播报",
+      "url": "https://juejin.cn/post/7661439504083582976",
+      "last_hot_value": "热度:549",
+      "first_seen_at": "2026-07-16T10:48:58",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "AI 编程普及，初学者还要不要学习基础语法？",
@@ -107,9 +157,19 @@
       "last_hot_value": "热度:576",
       "first_seen_at": "2026-07-15T17:13:36",
       "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "Codex 小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白",
+      "url": "https://juejin.cn/post/7661983059005816858",
+      "last_hot_value": "热度:540",
+      "first_seen_at": "2026-07-16T10:48:58",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "中后台越做越乱后，我用插件化把它救回来了",
@@ -117,7 +177,7 @@
       "last_hot_value": "热度:540",
       "first_seen_at": "2026-07-14T19:00:47",
       "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -132,14 +192,14 @@
       "is_new": false
     },
     {
-      "title": "不用框架，手搓 AI Agent：(一) 先让它跑起来",
-      "url": "https://juejin.cn/post/7661531893103935539",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-07-15T17:13:36",
-      "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 2,
+      "title": "为啥说男生找对象尽量在25岁前找到？",
+      "url": "https://juejin.cn/post/7661546154107519016",
+      "last_hot_value": "热度:522",
+      "first_seen_at": "2026-07-16T10:48:58",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "AI 是怎么操作浏览器的——browser use 实现原理",
@@ -152,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "停更的这一年，All In AI、陪媳妇生娃、还考了个研",
+      "url": "https://juejin.cn/post/7662691781214470180",
+      "last_hot_value": "热度:504",
+      "first_seen_at": "2026-07-16T10:48:58",
+      "last_seen_at": "2026-07-16T10:48:58",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "为什么越来越多的人使用PostgreSQL？",
       "url": "https://juejin.cn/post/7661266769257463849",
       "last_hot_value": "热度:495",
       "first_seen_at": "2026-07-15T17:13:36",
       "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
