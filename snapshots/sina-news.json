@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-15T12:42:32",
+  "update_time": "2026-07-16T17:58:06",
   "items": [
+    {
+      "title": "realme手机退出中国市场",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA",
+      "last_hot_value": "366万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "国台办回应两岸统一时间",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%B2%B8%E7%BB%9F%E4%B8%80%E6%97%B6%E9%97%B4",
       "last_hot_value": "429万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "世界杯决赛规则调整",
@@ -52,24 +62,14 @@
       "is_new": false
     },
     {
-      "title": "世界杯四强夺冠概率排名",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E6%8E%92%E5%90%8D",
-      "last_hot_value": "396万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "范志毅批哈兰德表现糟糕",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%8C%83%E5%BF%97%E6%AF%85%E6%89%B9%E5%93%88%E5%85%B0%E5%BE%B7%E8%A1%A8%E7%8E%B0%E7%B3%9F%E7%B3%95",
-      "last_hot_value": "374万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "韩国股民从暴富到一夜归零",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E6%B0%91%E4%BB%8E%E6%9A%B4%E5%AF%8C%E5%88%B0%E4%B8%80%E5%A4%9C%E5%BD%92%E9%9B%B6",
+      "last_hot_value": "346万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "国企投近900万拍综艺收益仅8600元",
@@ -77,9 +77,9 @@
       "last_hot_value": "421万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "姆巴佩称法国不具备决赛实力",
@@ -112,34 +112,14 @@
       "is_new": false
     },
     {
-      "title": "沈阳暴雨",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%B2%88%E9%98%B3%E6%9A%B4%E9%9B%A8",
-      "last_hot_value": "426万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-14T07:37:45",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "特朗普命令全国降半旗",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97",
-      "last_hot_value": "339万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "樊振东将解说世界杯决赛",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B0%86%E8%A7%A3%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B",
-      "last_hot_value": "354万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "盒马因受害咪连夜改冬瓜图",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%9B%92%E9%A9%AC%E5%9B%A0%E5%8F%97%E5%AE%B3%E5%92%AA%E8%BF%9E%E5%A4%9C%E6%94%B9%E5%86%AC%E7%93%9C%E5%9B%BE",
+      "last_hot_value": "343万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "苹果AI 千问",
@@ -147,9 +127,9 @@
       "last_hot_value": "357万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "法国队 脏",
@@ -192,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "国产动力舟桥抗洪有多硬核",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%9B%BD%E4%BA%A7%E5%8A%A8%E5%8A%9B%E8%88%9F%E6%A1%A5%E6%8A%97%E6%B4%AA%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8",
-      "last_hot_value": "310万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "法国队对季军赛毫无动力",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%B3%95%E5%9B%BD%E9%98%9F%E5%AF%B9%E5%AD%A3%E5%86%9B%E8%B5%9B%E6%AF%AB%E6%97%A0%E5%8A%A8%E5%8A%9B",
+      "last_hot_value": "312万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "西班牙进球前一分钟的宇宙级传控",
@@ -207,9 +187,9 @@
       "last_hot_value": "352万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "国家网络身份认证全面铺开",
@@ -242,24 +222,14 @@
       "is_new": false
     },
     {
-      "title": "青岛 海水倒灌",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%9D%92%E5%B2%9B%20%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C",
-      "last_hot_value": "312万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "董事长遭女儿女婿联手提议罢免",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%91%A3%E4%BA%8B%E9%95%BF%E9%81%AD%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%A9%BF%E8%81%94%E6%89%8B%E6%8F%90%E8%AE%AE%E7%BD%A2%E5%85%8D",
-      "last_hot_value": "298万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "长沙人是瞒着我们进化了吗",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%95%BF%E6%B2%99%E4%BA%BA%E6%98%AF%E7%9E%92%E7%9D%80%E6%88%91%E4%BB%AC%E8%BF%9B%E5%8C%96%E4%BA%86%E5%90%97",
+      "last_hot_value": "305万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "家长月薪3500元请大学生带娃",
@@ -267,9 +237,9 @@
       "last_hot_value": "337万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "实习工资居然能到一万",
@@ -302,24 +272,14 @@
       "is_new": false
     },
     {
-      "title": "中国首个禁售燃油车省份确认",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9C%81%E4%BB%BD%E7%A1%AE%E8%AE%A4",
-      "last_hot_value": "308万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "哈兰德快哭了",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%93%88%E5%85%B0%E5%BE%B7%E5%BF%AB%E5%93%AD%E4%BA%86",
-      "last_hot_value": "287万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "以后快递地址只写到小区",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%BB%A5%E5%90%8E%E5%BF%AB%E9%80%92%E5%9C%B0%E5%9D%80%E5%8F%AA%E5%86%99%E5%88%B0%E5%B0%8F%E5%8C%BA",
+      "last_hot_value": "305万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "沈阳一小区地库塌陷两栋楼业主撤离",
@@ -327,9 +287,9 @@
       "last_hot_value": "329万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "这世界终于颠到我想象不到的样子了",
@@ -372,24 +332,14 @@
       "is_new": false
     },
     {
-      "title": "接谁的孩子不是接",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%8E%A5%E8%B0%81%E7%9A%84%E5%AD%A9%E5%AD%90%E4%B8%8D%E6%98%AF%E6%8E%A5",
-      "last_hot_value": "307万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "中国女生在韩国救下一车人",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E5%9B%BD%E6%95%91%E4%B8%8B%E4%B8%80%E8%BD%A6%E4%BA%BA",
-      "last_hot_value": "286万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "超300款全球首发AI产品即将亮相",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%B6%85300%E6%AC%BE%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91AI%E4%BA%A7%E5%93%81%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8",
+      "last_hot_value": "304万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "西班牙首相就法国队没法国人道歉",
@@ -397,9 +347,9 @@
       "last_hot_value": "312万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "未来5年房子车子收入休假将有变化",
@@ -442,24 +392,14 @@
       "is_new": false
     },
     {
-      "title": "这波中国制造太提气",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94",
-      "last_hot_value": "307万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "巴威发威青岛巨浪滔天",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%B7%B4%E5%A8%81%E5%8F%91%E5%A8%81%E9%9D%92%E5%B2%9B%E5%B7%A8%E6%B5%AA%E6%BB%94%E5%A4%A9",
-      "last_hot_value": "285万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "“存100万元解锁5.25%利息”不实",
+      "url": "https://k.sina.cn/article_1644114654_61ff32de020026r1s.html?from=news&subch=onews",
+      "last_hot_value": "290万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "“鄂州龙卷风城区8人遇难”不实",
@@ -467,7 +407,7 @@
       "last_hot_value": "301万",
       "first_seen_at": "2026-07-15T03:22:22",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -482,24 +422,14 @@
       "is_new": false
     },
     {
-      "title": "近期多人因捏造散布涉汛情灾情谣言被拘",
-      "url": "https://news.sina.com.cn/zx/2026-07-13/doc-inihrnpi2338669.shtml",
-      "last_hot_value": "297万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "上海警方：一男子发布涉台风不实信息被行拘",
-      "url": "https://news.sina.com.cn/c/2026-07-12/doc-inihnwym4764505.shtml",
+      "title": "第1次见女主怀孕相亲",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%AC%AC1%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%80%80%E5%AD%95%E7%9B%B8%E4%BA%B2",
       "last_hot_value": "285万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "被郑州的空调外机墙震惊到了",
@@ -507,9 +437,9 @@
       "last_hot_value": "297万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "哈兰德公开支持英格兰",
@@ -552,24 +482,14 @@
       "is_new": false
     },
     {
-      "title": "原来打羽毛球是为了让对方接到",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0",
-      "last_hot_value": "293万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "功夫女足 浙江票仓",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%20%E6%B5%99%E6%B1%9F%E7%A5%A8%E4%BB%93",
-      "last_hot_value": "285万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "贝克汉姆看台掩面落泪",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%9C%8B%E5%8F%B0%E6%8E%A9%E9%9D%A2%E8%90%BD%E6%B3%AA",
+      "last_hot_value": "284万",
+      "first_seen_at": "2026-07-16T17:58:06",
+      "last_seen_at": "2026-07-16T17:58:06",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "第五人格",
@@ -577,9 +497,9 @@
       "last_hot_value": "293万",
       "first_seen_at": "2026-07-15T12:42:32",
       "last_seen_at": "2026-07-15T12:42:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "西班牙唯一未战胜的对手又火了",
@@ -617,26 +537,6 @@
       "last_hot_value": "289万",
       "first_seen_at": "2026-07-14T07:37:45",
       "last_seen_at": "2026-07-14T07:37:45",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Bin数据公布",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=Bin%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83",
-      "last_hot_value": "287万",
-      "first_seen_at": "2026-07-13T08:14:52",
-      "last_seen_at": "2026-07-13T08:14:52",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "新能源车平均车龄仅1.8年",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4",
-      "last_hot_value": "282万",
-      "first_seen_at": "2026-07-12T18:18:30",
-      "last_seen_at": "2026-07-12T18:18:30",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
