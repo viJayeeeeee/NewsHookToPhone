@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-16T23:11:39",
+  "update_time": "2026-07-17T16:48:01",
   "items": [
     {
-      "title": "每一句话语都坐着别的眼睛",
+      "title": "我的外婆，从不内耗",
       "url": "",
-      "last_hot_value": "850人在读",
+      "last_hot_value": "3409人在读",
       "first_seen_at": "2026-07-16T23:11:39",
-      "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "低处飞行（第九届鲁迅文学奖获奖作品）",
       "url": "",
-      "last_hot_value": "1859人在读",
+      "last_hot_value": "1729人在读",
       "first_seen_at": "2026-07-15T21:33:55",
-      "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "每一句话语都坐着别的眼睛",
+      "url": "",
+      "last_hot_value": "1619人在读",
+      "first_seen_at": "2026-07-16T23:11:39",
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -37,27 +47,27 @@
       "last_hot_value": "2928人在读",
       "first_seen_at": "2026-07-15T07:32:31",
       "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "赶时间的人（“鲁迅文学奖”获得者王计兵成名诗集）",
       "url": "",
-      "last_hot_value": "1557人在读",
+      "last_hot_value": "2305人在读",
       "first_seen_at": "2026-07-16T23:11:39",
-      "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "山海经：上古神兽异人图鉴",
       "url": "",
-      "last_hot_value": "290人在读",
+      "last_hot_value": "249人在读",
       "first_seen_at": "2026-07-15T21:33:55",
-      "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -74,22 +84,12 @@
     {
       "title": "彩图全解山海经（彩图精装）",
       "url": "",
-      "last_hot_value": "691人在读",
+      "last_hot_value": "914人在读",
       "first_seen_at": "2026-07-15T21:33:55",
-      "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
-    },
-    {
-      "title": "我的外婆，从不内耗",
-      "url": "",
-      "last_hot_value": "1183人在读",
-      "first_seen_at": "2026-07-16T23:11:39",
-      "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
     },
     {
       "title": "当下的力量（白金版）",
@@ -112,6 +112,16 @@
       "is_new": false
     },
     {
+      "title": "焦虑的人",
+      "url": "",
+      "last_hot_value": "1698人在读",
+      "first_seen_at": "2026-07-17T16:48:01",
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "赶时间的人",
       "url": "",
       "last_hot_value": "397人在读",
@@ -122,22 +132,32 @@
       "is_new": false
     },
     {
+      "title": "奥德赛（张秋子导读版）（全四册）",
+      "url": "",
+      "last_hot_value": "264人在读",
+      "first_seen_at": "2026-07-17T16:48:01",
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "废都",
       "url": "",
       "last_hot_value": "501人在读",
       "first_seen_at": "2026-07-15T21:33:55",
       "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "红星照耀中国",
       "url": "",
-      "last_hot_value": "3390人在读",
+      "last_hot_value": "3214人在读",
       "first_seen_at": "2026-07-15T21:33:55",
-      "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
@@ -147,7 +167,7 @@
       "last_hot_value": "483人在读",
       "first_seen_at": "2026-07-15T21:33:55",
       "last_seen_at": "2026-07-16T23:11:39",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -160,6 +180,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "长日将尽（译文经典）",
+      "url": "",
+      "last_hot_value": "329人在读",
+      "first_seen_at": "2026-07-17T16:48:01",
+      "last_seen_at": "2026-07-17T16:48:01",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "加油吧，大脑！",
