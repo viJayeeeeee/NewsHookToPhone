@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-16T21:12:58",
+  "update_time": "2026-07-17T20:36:37",
   "items": [
+    {
+      "title": "35 岁运维还能不能转 AIOps？关键不是年龄，是能力结构！",
+      "url": "https://www.51cto.com/article/850012.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "ArkTS模块化import阶段性能优化",
       "url": "https://ost.51cto.com/posts/52952",
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,24 +32,14 @@
       "is_new": false
     },
     {
-      "title": "新型 MemGhost 攻击：一封邮件即可向 AI Agent 植入持久性虚假记忆",
-      "url": "https://www.51cto.com/article/849513.html",
+      "title": "工作 3 年+ 运维人必看：AIOps 时代，必备的 5 项核心进阶技能",
+      "url": "https://www.51cto.com/article/850011.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "ArkUI Refresh：告警列表@手动刷新、首屏加载与过期响应丢弃",
-      "url": "https://ost.51cto.com/posts/52515",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "别指望大模型包办一切！AI先驱施密德胡伯：LLM只是预测器，Coding Agent还缺控制、反馈和行动能力",
@@ -47,7 +47,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,24 +62,14 @@
       "is_new": false
     },
     {
-      "title": "SpringBoot + 微信支付实现「扫码开门，取货自动扣款」智能售货柜",
-      "url": "https://www.51cto.com/article/849512.html",
+      "title": "生态覆盖持续扩散，一文看懂各行业企业鸿蒙化转型进度",
+      "url": "https://www.51cto.com/article/849991.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【HarmonyOS 7开发者前瞻】10 HarmonyOS 7 真实项目适配路线图：API 26、AI / Agent 与多端改造优先级",
-      "url": "https://ost.51cto.com/posts/52514",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "一位失忆患者，揭开了AI记忆的误区",
@@ -87,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -102,24 +92,14 @@
       "is_new": false
     },
     {
-      "title": "字节跳动面挂：积分加字段存总数？面试官追问过期怎么算",
-      "url": "https://www.51cto.com/article/849511.html",
+      "title": "突发叫停！Gemini 3.5 Pro难产，谷歌跌入失望陷阱",
+      "url": "https://www.51cto.com/article/849986.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "AIOPS 智能运维转型实践与思考",
-      "url": "https://www.51cto.com/article/849351.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "奥特曼回斯坦福认错：思考外包给AI，一代人大脑正在萎缩",
@@ -127,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -142,24 +122,14 @@
       "is_new": false
     },
     {
-      "title": "Python 循环的五种高效写法：从 for-in 到生成器表达式的性能与可读性权衡",
-      "url": "https://www.51cto.com/article/849509.html",
+      "title": "烧掉16万美金，狂飙100万行代码！Bun之父用Claude重写底层",
+      "url": "https://www.51cto.com/article/849985.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Agent并发干活像“三个和尚没水喝”？CoAgent新框架：让它们学会看懂冲突再动手",
-      "url": "https://www.51cto.com/article/849348.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "OpenAI官方教你八招玩透ChatGPT！",
@@ -167,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -182,24 +152,14 @@
       "is_new": false
     },
     {
-      "title": "Agent 每次调用工具都要问用户吗？Janus 揭示权限管理的三难困境",
-      "url": "https://www.51cto.com/article/849507.html",
+      "title": "飞抵 8861 米珠峰还剩30%电量！大疆无人机攻克世界屋脊极限科考",
+      "url": "https://www.51cto.com/article/849984.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "GitHub 爆火！这个免费 UI 组件库收集了 3000+ 精美组件，前端再也不用重复造轮子",
-      "url": "https://www.51cto.com/article/849346.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "绿灯变死局：当谷歌微软的CI/CD全线通过，攻击者已拿走了永久权限",
@@ -207,7 +167,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -222,24 +182,14 @@
       "is_new": false
     },
     {
-      "title": "Electron 时代要结束了？Vercel 发布 Native SDK，性能直接拉满",
-      "url": "https://www.51cto.com/article/849505.html",
+      "title": "零成本AI编程方案：Claude Code + CC Switch接入OpenCode免费模型",
+      "url": "https://www.51cto.com/article/849963.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "面试官：“你知道大模型是怎么训练出来的？”，我：“训练就是给模型喂大量数据让它学习”，他：“就这？”",
-      "url": "https://www.51cto.com/article/849342.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "鸿蒙应用开发中的V1与V2状态管理：差别、优缺点与迁移指南",
@@ -247,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -262,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "完蛋！比 Vite+ 快 5.4 倍的前端工具链！正式发布！",
-      "url": "https://www.51cto.com/article/849504.html",
+      "title": "写代码从来都不是软件工程的瓶颈！普林斯顿教授：AI越会写，程序员越要会判断，否则AI把代码写完了，程序员还在加班",
+      "url": "https://www.51cto.com/article/849962.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "企业基于 SDD 的 AI 编程王炸：OpenSpec、Superpowers 与 Harness 架构三剑客深度解析",
-      "url": "https://www.51cto.com/article/849338.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "快来查查，你 Codex 里的 GPT-5.6 有没有缩水",
@@ -287,7 +227,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -302,24 +242,14 @@
       "is_new": false
     },
     {
-      "title": "凌晨 3 点，200 条告警弹窗把我炸醒——AIOps 帮我告别了这种日子",
-      "url": "https://www.51cto.com/article/849493.html",
+      "title": "手把手带你使用 DevEcoCli 和 DevEcoCode 快速接入 HarmonyOS7.0 新特性",
+      "url": "https://ost.51cto.com/posts/52984",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-14T19:00:50",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "253k Superpowers 和 60k OpenSpec 被融合了！spec-superflow 工作流登上热榜",
-      "url": "https://www.51cto.com/article/849311.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "一次 P0 故障复盘：告警泛滥，真正问题被海量信息淹没",
@@ -327,29 +257,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "HarmonyOS 消息推送服务端集成全攻略（1）",
-      "url": "https://ost.51cto.com/posts/52652",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-15T19:39:02",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "从 Bellman 到最优策略：值迭代和策略迭代到底差在哪里？",
-      "url": "https://www.51cto.com/article/849307.html",
+      "title": "手把手带你使用 DevEcoCli 和 DevEcoCode 快速开发三方库",
+      "url": "https://ost.51cto.com/posts/52983",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-07-17T20:36:37",
+      "last_seen_at": "2026-07-17T20:36:37",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "智能运维终结了繁琐的手动询问！Prometheus 与 DeepSeek 联动实现告警自动分析",
@@ -357,26 +277,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T10:49:01",
       "last_seen_at": "2026-07-16T21:12:58",
-      "consecutive_count": 5,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "HarmonyOS 文件预览服务进阶指南（1）",
-      "url": "https://ost.51cto.com/posts/52649",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T14:29:17",
-      "last_seen_at": "2026-07-15T19:39:02",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "美团二面：短信被刷五万怎么防？六道防线全答完直接过了",
-      "url": "https://www.51cto.com/article/849268.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-14T00:26:29",
-      "last_seen_at": "2026-07-14T00:26:29",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

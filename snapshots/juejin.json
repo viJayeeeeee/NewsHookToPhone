@@ -1,73 +1,43 @@
 {
-  "update_time": "2026-07-16T21:12:55",
+  "update_time": "2026-07-17T20:36:34",
   "items": [
+    {
+      "title": "停更的这一年，All In AI、陪媳妇生娃、还考了个研",
+      "url": "https://juejin.cn/post/7662691781214470180",
+      "last_hot_value": "热度:2493",
+      "first_seen_at": "2026-07-16T10:48:58",
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 6,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Vue 和 React 真正的差距，不在语法，而在团队犯错成本",
       "url": "https://juejin.cn/post/7661802823036338214",
-      "last_hot_value": "热度:1377",
+      "last_hot_value": "热度:2061",
       "first_seen_at": "2026-07-15T17:13:36",
-      "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Superpowers：GPT-5.6 时代下的流程毒瘤",
-      "url": "https://juejin.cn/post/7661830907991146536",
-      "last_hot_value": "热度:1881",
-      "first_seen_at": "2026-07-14T14:29:12",
-      "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "LEFT JOIN 到底什么时候会被优化器偷偷改写成 INNER JOIN",
-      "url": "https://juejin.cn/post/7660896500881981492",
-      "last_hot_value": "热度:1341",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "AI 时代 Harness 工程在后台管理系统中的实践 🌈",
-      "url": "https://juejin.cn/post/7660780385584316454",
-      "last_hot_value": "热度:1278",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T14:29:12",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "不自己造轮子：在小艺开放平台搭一个真实的健康小助手",
       "url": "https://juejin.cn/post/7662376768221364233",
-      "last_hot_value": "热度:1197",
+      "last_hot_value": "热度:2016",
       "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 5,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "没写一行代码！我用 ChatGPT 5.6 (Sol) 做了一个智慧充电站 3D 大屏",
-      "url": "https://juejin.cn/post/7661160753004904448",
-      "last_hot_value": "热度:1215",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "Oracle 迁移评估时，我把这两类问题列在了检查清单最前面",
       "url": "https://juejin.cn/post/7662370300848275502",
-      "last_hot_value": "热度:1071",
+      "last_hot_value": "热度:1764",
       "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -77,69 +47,29 @@
       "last_hot_value": "热度:999",
       "first_seen_at": "2026-07-16T10:48:58",
       "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 5,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "星云SDK + 油猴：给LLM塑造肉身，陪伴你在每个网页",
-      "url": "https://juejin.cn/post/7661754132202766371",
-      "last_hot_value": "热度:1044",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-15T19:38:59",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "一键还原任意网站，这套 Playwright + 多 Agent 工程流太猛了",
-      "url": "https://juejin.cn/post/7661439504077176847",
-      "last_hot_value": "热度:810",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-      "url": "https://juejin.cn/post/7660697431320690723",
-      "last_hot_value": "热度:459",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T00:26:26",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "为什么 AI 写前端时，总是优先选择 React，而不是 Vue？",
-      "url": "https://juejin.cn/post/7661833071121530926",
-      "last_hot_value": "热度:990",
-      "first_seen_at": "2026-07-14T14:29:12",
-      "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "停更的这一年，All In AI、陪媳妇生娃、还考了个研",
-      "url": "https://juejin.cn/post/7662691781214470180",
-      "last_hot_value": "热度:891",
+      "title": "Codex 小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白",
+      "url": "https://juejin.cn/post/7661983059005816858",
+      "last_hot_value": "热度:945",
       "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "Flutter Windows 开始支持 Impeller ，还修复了多窗口 bug",
-      "url": "https://juejin.cn/post/7661123972889559046",
-      "last_hot_value": "热度:675",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 10,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "曾经人手一个的Superpowers，为什么现在都在卸",
+      "url": "https://juejin.cn/post/7662691781214437412",
+      "last_hot_value": "热度:855",
+      "first_seen_at": "2026-07-17T20:36:34",
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "不用框架，手搓 AI Agent：(一) 先让它跑起来",
@@ -147,9 +77,19 @@
       "last_hot_value": "热度:666",
       "first_seen_at": "2026-07-15T17:13:36",
       "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "为什么业务型前端容易遭遇中年危机？",
+      "url": "https://juejin.cn/post/7662294973371957286",
+      "last_hot_value": "热度:612",
+      "first_seen_at": "2026-07-17T20:36:34",
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "AI 大模型写故事，3D 数字人实时播报",
@@ -157,7 +97,7 @@
       "last_hot_value": "热度:585",
       "first_seen_at": "2026-07-16T10:48:58",
       "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -172,34 +112,24 @@
       "is_new": false
     },
     {
-      "title": "Codex 小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白",
-      "url": "https://juejin.cn/post/7661983059005816858",
-      "last_hot_value": "热度:603",
-      "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 5,
+      "title": "Harness 企业级落地(二) - 让 AI 读懂项目",
+      "url": "https://juejin.cn/post/7662586328122982415",
+      "last_hot_value": "热度:594",
+      "first_seen_at": "2026-07-17T20:36:34",
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "中后台越做越乱后，我用插件化把它救回来了",
-      "url": "https://juejin.cn/post/7661266769256431657",
-      "last_hot_value": "热度:540",
-      "first_seen_at": "2026-07-14T19:00:47",
-      "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "3位工程师靠“删AI代码”创业，一周收费1万美元：以后最贵的能力，可能不是写代码",
-      "url": "https://juejin.cn/post/7661251852345458697",
-      "last_hot_value": "热度:468",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "Fluter 共享内存多线程正在落地，IsolateGroupBound 来了",
+      "url": "https://juejin.cn/post/7662326941523345450",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-07-17T20:36:34",
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "为啥说男生找对象尽量在25岁前找到？",
@@ -207,19 +137,19 @@
       "last_hot_value": "热度:549",
       "first_seen_at": "2026-07-16T10:48:58",
       "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "AI 是怎么操作浏览器的——browser use 实现原理",
-      "url": "https://juejin.cn/post/7660466008562892835",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T00:26:26",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "前端圈7月大地震：TS 7发布、Bun 11天从Zig迁Rust、Kimi K3登顶、大厂裁员50%",
+      "url": "https://juejin.cn/post/7663095491467411462",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-07-17T20:36:34",
+      "last_seen_at": "2026-07-17T20:36:34",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "为什么越来越多的人使用PostgreSQL？",
@@ -227,26 +157,6 @@
       "last_hot_value": "热度:495",
       "first_seen_at": "2026-07-15T17:13:36",
       "last_seen_at": "2026-07-15T19:38:59",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "AI 大模型写故事，魔珐星云驱动 3D 数字人实时播报",
-      "url": "https://juejin.cn/post/7661439504083582976",
-      "last_hot_value": "热度:405",
-      "first_seen_at": "2026-07-14T14:29:12",
-      "last_seen_at": "2026-07-14T19:00:47",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "30 分钟用 Trae Work + 魔珐星云做出会讲故事的 AI 3D 具身交互智能数字人",
-      "url": "https://juejin.cn/post/7661439504083582976",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-07-14T00:26:26",
-      "last_seen_at": "2026-07-14T00:26:26",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

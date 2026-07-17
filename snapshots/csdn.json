@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-16T21:12:57",
+  "update_time": "2026-07-17T20:36:35",
   "items": [
     {
-      "title": "【AI 测评】飞牛NAS部署PandaWiki实操：本地AI知识库、DeepSeek接入与公网访问",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/162870226",
+      "title": "【Linux】Ext 文件系统篇：从 inode 到路径解析，搞懂挂载与软硬链接",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/162819147",
       "last_hot_value": "2.7w",
-      "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 9,
+      "first_seen_at": "2026-07-16T18:59:36",
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,37 +17,27 @@
       "last_hot_value": "2.2w",
       "first_seen_at": "2026-07-16T10:48:59",
       "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "没有公网IP也能连数据库：把内网PostgreSQL开放给远程联调",
-      "url": "https://blog.csdn.net/2302_79376097/article/details/162848309",
-      "last_hot_value": "2.0w",
-      "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-15T17:13:38",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "Hermes Agent 搭建全流程：从本机试跑到可持续运行的个人 AI Agent",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162728822",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T19:00:49",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "基于DeepSeek+魔珐星云具身交互智能的垃圾分类助手落地实战",
+      "url": "https://blog.csdn.net/qq_38881495/article/details/162939548",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-07-17T20:36:35",
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162734765",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 8,
       "peak_rank": 2,
       "is_new": false
     },
@@ -57,36 +47,6 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-15T19:39:00",
       "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 6,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【Linux】Ext 文件系统：从机械磁盘到 CHS/LBA，搞懂扇区、块与分区",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/162819127",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "Spring AI-2.0(alibaba) Agent 编程实战：从 Tool Calling 到 MCP 协议，附完整报文级日志",
-      "url": "https://blog.csdn.net/lilinhai548/article/details/162796038",
-      "last_hot_value": "2.3w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "基于 OpenClaw 构建医疗健康系统：智能问诊与用药管理的全链路实战",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162808361",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T19:00:49",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -94,10 +54,10 @@
     {
       "title": "【AI智能体】Claude Code 插件从使用到项目实战详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162382052",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "2.1w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 8,
       "peak_rank": 3,
       "is_new": false
     },
@@ -107,16 +67,6 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-15T17:13:38",
       "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "安卓旧手机部署OpenList实操：内置存储挂载、文件上传与公网访问",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162807569",
-      "last_hot_value": "9410",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T19:00:49",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -132,24 +82,14 @@
       "is_new": false
     },
     {
-      "title": "【Linux】Ext 文件系统篇：从 inode 到路径解析，搞懂挂载与软硬链接",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/162819147",
+      "title": "Re：Linux系统篇（四十四）信号篇·二：Linux 信号的产生原理：硬件异常、软件条件与内核处理机制",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/162817745",
       "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-16T18:59:36",
-      "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-07-17T20:36:35",
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "k8s 部署 Headlamp",
-      "url": "https://blog.csdn.net/liu_chen_yang/article/details/162490414",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "NAS、服务器、后台地址太多：给自己做一个随时能打开的私人导航台",
@@ -162,14 +102,14 @@
       "is_new": false
     },
     {
-      "title": "PostgreSQL 一慢就靠猜？先把Postgres Exporter接进Prometheus",
-      "url": "https://blog.csdn.net/m0_68390957/article/details/162869200",
-      "last_hot_value": "8705",
-      "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-14T19:00:49",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "ECCV顶会论文引发海外热议：实测360 AI精准可控路线下的工具落地价值",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/162946324",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-17T20:36:35",
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "让ZooKeeper跑出高可用:从三节点集群到公网连接测试",
@@ -177,7 +117,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-16T18:59:36",
       "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -187,7 +127,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-16T10:48:59",
       "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -202,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "MongoDB别只装完就跑：先把认证、端口和权限加固好",
-      "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/162865069",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-14T14:29:14",
-      "last_seen_at": "2026-07-14T19:00:49",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "OpenClaw 实战：数据分析机器人——从 NL2SQL 到可视化图表的全链路工程实践",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162915185",
+      "last_hot_value": "9208",
+      "first_seen_at": "2026-07-17T20:36:35",
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【AVDTP】规范精讲[2]: 为什么蓝牙能传音乐？看懂这层架构就懂了",
@@ -217,37 +157,27 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-16T10:48:59",
       "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 5,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "中级OpenGL教程 017：几何体复用、材质区分与坐标变换详解",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/162795420",
-      "last_hot_value": "9499",
-      "first_seen_at": "2026-07-14T19:00:49",
-      "last_seen_at": "2026-07-14T19:00:49",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "GitHub 热榜项目 - 周榜(2026-07-11)",
-      "url": "https://blog.csdn.net/u014390502/article/details/162793206",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T00:26:28",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "通义千问 + 魔珐星云落地身交互智能 | 从0-1数学辅导 Agent 实战",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/162966978",
+      "last_hot_value": "9191",
+      "first_seen_at": "2026-07-17T20:36:35",
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "OpenCloudOS 9 小型服务器 Docker 部署实战：PostgreSQL+PostGIS、Redis、Nginx 安全加固与一键脚本",
       "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/162913636",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "8441",
       "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 6,
       "peak_rank": 8,
       "is_new": false
     },
@@ -257,16 +187,6 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-15T17:13:38",
       "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "硬件盲盒任务示例以及硬件盲盒物料",
-      "url": "https://blog.csdn.net/zhuoqingjoking97298/article/details/162809887",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T14:29:14",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
@@ -282,24 +202,14 @@
       "is_new": false
     },
     {
-      "title": "【AI探索】向量检索策略与召回优化",
-      "url": "https://blog.csdn.net/weixin_62043600/article/details/162851881",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-14T19:00:49",
-      "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "code-server部署实操：Docker快速搭建网页版VS Code与公网访问",
-      "url": "https://blog.csdn.net/qyj19920704/article/details/162834325",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T00:26:28",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "猫头虎AI赠书第14期赠书活动:《Claude Code技术架构深度解析：Harness工程与AI编程新范式》",
+      "url": "https://blog.csdn.net/qq_44866828/article/details/162910465",
+      "last_hot_value": "8219",
+      "first_seen_at": "2026-07-17T20:36:35",
+      "last_seen_at": "2026-07-17T20:36:35",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "AI+HI人机协同范式：从ElementsClaw到政务智能体的分层进化论",
@@ -317,16 +227,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-16T10:48:59",
       "last_seen_at": "2026-07-16T10:48:59",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "医疗信创标杆：一院两区全栈国产化改造方案与数据库应用、代码实践",
-      "url": "https://blog.csdn.net/weixin_42878111/article/details/162780847",
-      "last_hot_value": "8987",
-      "first_seen_at": "2026-07-14T00:26:28",
-      "last_seen_at": "2026-07-14T00:26:28",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
