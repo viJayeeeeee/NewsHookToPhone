@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-17T16:48:04",
+  "update_time": "2026-07-17T21:26:39",
   "items": [
     {
       "title": "M7.2 墨西哥恰帕斯州沿岸近海",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "7.2级",
       "first_seen_at": "2026-07-17T16:48:04",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-17T21:26:39",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.2 云南大理州宾川县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-07-16T23:11:42",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-17T21:26:39",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,17 +26,7 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-07-15T07:32:35",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M3.4 西藏阿里地区改则县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.4级",
-      "first_seen_at": "2026-07-14T21:09:33",
-      "last_seen_at": "2026-07-17T16:48:04",
+      "last_seen_at": "2026-07-17T21:26:39",
       "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
@@ -46,28 +36,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-17T16:48:04",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-17T21:26:39",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M2.8 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.8级",
       "first_seen_at": "2026-07-16T23:11:42",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M6.2 苏拉威西海",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.2级",
-      "first_seen_at": "2026-07-14T21:09:33",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-17T21:26:39",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,39 +56,9 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.9级",
       "first_seen_at": "2026-07-17T16:48:04",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-17T21:26:39",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "M3.0 新疆乌鲁木齐市乌鲁木齐县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-07-14T21:09:33",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 6,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "M5.4 秘鲁",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.4级",
-      "first_seen_at": "2026-07-14T21:09:33",
-      "last_seen_at": "2026-07-17T16:48:04",
-      "consecutive_count": 6,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "M3.2 西藏阿里地区改则县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-14T21:09:33",
-      "last_seen_at": "2026-07-16T23:11:42",
-      "consecutive_count": 0,
-      "peak_rank": 5,
       "is_new": false
     },
     {
