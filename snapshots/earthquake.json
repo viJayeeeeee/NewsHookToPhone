@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-18T10:16:19",
+  "update_time": "2026-07-18T13:43:20",
   "items": [
+    {
+      "title": "M5.3 塔吉克斯坦",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "5.3级",
+      "first_seen_at": "2026-07-18T13:43:20",
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M4.3 新疆克孜勒苏州阿克陶县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.3级",
       "first_seen_at": "2026-07-18T10:16:19",
-      "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M7.2 墨西哥恰帕斯州沿岸近海",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "7.2级",
       "first_seen_at": "2026-07-17T16:48:04",
-      "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-07-16T23:11:42",
-      "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-17T16:48:04",
-      "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -46,8 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.8级",
       "first_seen_at": "2026-07-16T23:11:42",
-      "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,30 +66,40 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.9级",
       "first_seen_at": "2026-07-17T16:48:04",
-      "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "M3.0 青海海西州直辖区",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-07-18T13:43:20",
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "M3.4 西藏阿里地区改则县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-07-18T10:16:19",
-      "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M6.2 苏拉威西海",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.2级",
       "first_seen_at": "2026-07-18T10:16:19",
-      "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T13:43:20",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.0 新疆乌鲁木齐市乌鲁木齐县",
@@ -87,9 +107,9 @@
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-07-18T10:16:19",
       "last_seen_at": "2026-07-18T10:16:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.8 四川阿坝州小金县",
