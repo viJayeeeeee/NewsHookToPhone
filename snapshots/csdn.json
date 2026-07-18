@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-17T20:36:35",
+  "update_time": "2026-07-18T00:04:24",
   "items": [
     {
       "title": "【Linux】Ext 文件系统篇：从 inode 到路径解析，搞懂挂载与软硬链接",
       "url": "https://blog.csdn.net/2402_87731470/article/details/162819147",
-      "last_hot_value": "2.7w",
+      "last_hot_value": "2.4w",
       "first_seen_at": "2026-07-16T18:59:36",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,20 +24,20 @@
     {
       "title": "基于DeepSeek+魔珐星云具身交互智能的垃圾分类助手落地实战",
       "url": "https://blog.csdn.net/qq_38881495/article/details/162939548",
-      "last_hot_value": "2.4w",
+      "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162734765",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 9,
       "peak_rank": 2,
       "is_new": false
     },
@@ -54,10 +54,10 @@
     {
       "title": "【AI智能体】Claude Code 插件从使用到项目实战详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162382052",
-      "last_hot_value": "2.1w",
+      "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 9,
       "peak_rank": 3,
       "is_new": false
     },
@@ -86,10 +86,10 @@
       "url": "https://blog.csdn.net/Z2314246476/article/details/162817745",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NAS、服务器、后台地址太多：给自己做一个随时能打开的私人导航台",
@@ -104,12 +104,12 @@
     {
       "title": "ECCV顶会论文引发海外热议：实测360 AI精准可控路线下的工具落地价值",
       "url": "https://blog.csdn.net/weixin_37800531/article/details/162946324",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "让ZooKeeper跑出高可用:从三节点集群到公网连接测试",
@@ -144,12 +144,12 @@
     {
       "title": "OpenClaw 实战：数据分析机器人——从 NL2SQL 到可视化图表的全链路工程实践",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/162915185",
-      "last_hot_value": "9208",
+      "last_hot_value": "9233",
       "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AVDTP】规范精讲[2]: 为什么蓝牙能传音乐？看懂这层架构就懂了",
@@ -164,20 +164,20 @@
     {
       "title": "通义千问 + 魔珐星云落地身交互智能 | 从0-1数学辅导 Agent 实战",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/162966978",
-      "last_hot_value": "9191",
+      "last_hot_value": "9056",
       "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenCloudOS 9 小型服务器 Docker 部署实战：PostgreSQL+PostGIS、Redis、Nginx 安全加固与一键脚本",
       "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/162913636",
-      "last_hot_value": "8441",
+      "last_hot_value": "8272",
       "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 7,
       "peak_rank": 8,
       "is_new": false
     },
@@ -204,12 +204,12 @@
     {
       "title": "猫头虎AI赠书第14期赠书活动:《Claude Code技术架构深度解析：Harness工程与AI编程新范式》",
       "url": "https://blog.csdn.net/qq_44866828/article/details/162910465",
-      "last_hot_value": "8219",
+      "last_hot_value": "8127",
       "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-17T20:36:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-18T00:04:24",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI+HI人机协同范式：从ElementsClaw到政务智能体的分层进化论",
