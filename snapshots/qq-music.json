@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-07-17T21:26:35",
+  "update_time": "2026-07-18T10:16:14",
   "items": [
+    {
+      "title": "媚人",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001Fk1hB2OWZYH",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-18T10:16:14",
+      "last_seen_at": "2026-07-18T10:16:14",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "樱花草",
       "url": "https://y.qq.com/n/ryqq/songDetail/000Tx0ZM2xaBhM",
       "last_hot_value": "",
       "first_seen_at": "2026-07-17T16:47:59",
-      "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-18T10:16:14",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "下一站 Beyond This Station",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001kBUZh3wh2Qw",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-18T10:16:14",
+      "last_seen_at": "2026-07-18T10:16:14",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "北京的雨",
@@ -17,17 +37,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-17T16:47:59",
       "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "ANGEL (天使)",
-      "url": "https://y.qq.com/n/ryqq/songDetail/004PjZLu3CjaYS",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-15T07:32:29",
-      "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,19 +46,9 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/002wTqj42ms6PG",
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T01:01:44",
-      "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-18T10:16:14",
+      "consecutive_count": 5,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "无人之岛",
-      "url": "https://y.qq.com/n/ryqq/songDetail/001fTFGe0LqzdT",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-15T07:32:29",
-      "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 6,
-      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -56,29 +56,9 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
       "last_hot_value": "",
       "first_seen_at": "2026-07-15T21:33:54",
-      "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "阴天",
-      "url": "https://y.qq.com/n/ryqq/songDetail/0031PqYN0sj8K3",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-15T07:32:29",
-      "last_seen_at": "2026-07-17T21:26:35",
+      "last_seen_at": "2026-07-18T10:16:14",
       "consecutive_count": 6,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "雨爱",
-      "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-15T07:32:29",
-      "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 6,
-      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -86,9 +66,9 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/001Y2S0F1OaM2s",
       "last_hot_value": "",
       "first_seen_at": "2026-07-16T01:01:44",
-      "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 4,
-      "peak_rank": 8,
+      "last_seen_at": "2026-07-18T10:16:14",
+      "consecutive_count": 5,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -97,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-17T16:47:59",
       "last_seen_at": "2026-07-17T21:26:35",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
