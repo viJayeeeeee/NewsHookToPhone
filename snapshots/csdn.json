@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-18T00:04:24",
+  "update_time": "2026-07-18T17:35:43",
   "items": [
+    {
+      "title": "让数据看板随时可见：Grafana + cpolar 远程访问实战",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162976485",
+      "last_hot_value": "2.8w",
+      "first_seen_at": "2026-07-18T17:35:43",
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【Linux】Ext 文件系统篇：从 inode 到路径解析，搞懂挂载与软硬链接",
       "url": "https://blog.csdn.net/2402_87731470/article/details/162819147",
-      "last_hot_value": "2.4w",
+      "last_hot_value": "2.3w",
       "first_seen_at": "2026-07-16T18:59:36",
-      "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,17 +37,7 @@
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-17T20:36:35",
       "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162734765",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,62 +52,42 @@
       "is_new": false
     },
     {
-      "title": "【AI智能体】Claude Code 插件从使用到项目实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162382052",
-      "last_hot_value": "2.0w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 9,
+      "title": "OpenClaw 实战：数据分析机器人——从 NL2SQL 到可视化图表的全链路工程实践",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162915185",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-07-17T20:36:35",
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 3,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "MuMu模拟器6.0评测：480帧、安卓15、原生Root，四组实验拆给你看",
-      "url": "https://blog.csdn.net/IRpickstars/article/details/162844002",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从退化问题到信息高速公路:ResNet残差网络实战拆解)",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/162719491",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T19:39:00",
-      "consecutive_count": 0,
-      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "Re：Linux系统篇（四十四）信号篇·二：Linux 信号的产生原理：硬件异常、软件条件与内核处理机制",
       "url": "https://blog.csdn.net/Z2314246476/article/details/162817745",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "NAS、服务器、后台地址太多：给自己做一个随时能打开的私人导航台",
-      "url": "https://blog.csdn.net/2501_91062530/article/details/162882752",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "ECCV顶会论文引发海外热议：实测360 AI精准可控路线下的工具落地价值",
       "url": "https://blog.csdn.net/weixin_37800531/article/details/162946324",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 3,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "通义千问 + 魔珐星云落地身交互智能 | 从0-1数学辅导 Agent 实战",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/162966978",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-17T20:36:35",
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -142,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "OpenClaw 实战：数据分析机器人——从 NL2SQL 到可视化图表的全链路工程实践",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162915185",
-      "last_hot_value": "9233",
-      "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 2,
+      "title": "Cursor vs Claude Code vs Copilot：2026 年 AI 编程工具怎么选",
+      "url": "https://blog.csdn.net/boyzhaotian/article/details/162931757",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-18T17:35:43",
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【AVDTP】规范精讲[2]: 为什么蓝牙能传音乐？看懂这层架构就懂了",
@@ -162,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "通义千问 + 魔珐星云落地身交互智能 | 从0-1数学辅导 Agent 实战",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/162966978",
-      "last_hot_value": "9056",
-      "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 2,
+      "title": "K100_AI两卡全离线部署超长音视频说话人角色确认转录系统（多轮推理）",
+      "url": "https://blog.csdn.net/pla88888888/article/details/162969112",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-18T17:35:43",
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "OpenCloudOS 9 小型服务器 Docker 部署实战：PostgreSQL+PostGIS、Redis、Nginx 安全加固与一键脚本",
@@ -177,19 +157,19 @@
       "last_hot_value": "8272",
       "first_seen_at": "2026-07-16T10:48:59",
       "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "软件研发辅助：智能代码审查 + 测试用例生成 + 缺陷预测——基于 JiuwenSwarm 的群体智能实践",
-      "url": "https://blog.csdn.net/2401_83830408/article/details/162881602",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-15T17:13:38",
-      "last_seen_at": "2026-07-15T17:13:38",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "国产大模型×魔珐星云：让AI从“能思考“到“能表达“的城市展厅具身交互智能体",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/162969149",
+      "last_hot_value": "8728",
+      "first_seen_at": "2026-07-18T17:35:43",
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "《Linux CPU频率为何忽高忽低：cpufreq、idle状态与性能抖动教程》",
@@ -202,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "让运营像改Excel一样改数据：用NocoDB搭一个团队数据协作台",
+      "url": "https://blog.csdn.net/weixin_62765017/article/details/162932702",
+      "last_hot_value": "8615",
+      "first_seen_at": "2026-07-16T10:48:59",
+      "last_seen_at": "2026-07-18T17:35:43",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": false
+    },
+    {
       "title": "猫头虎AI赠书第14期赠书活动:《Claude Code技术架构深度解析：Harness工程与AI编程新范式》",
       "url": "https://blog.csdn.net/qq_44866828/article/details/162910465",
       "last_hot_value": "8127",
       "first_seen_at": "2026-07-17T20:36:35",
       "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -217,16 +207,6 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-16T14:18:18",
       "last_seen_at": "2026-07-16T14:18:18",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "让运营像改Excel一样改数据：用NocoDB搭一个团队数据协作台",
-      "url": "https://blog.csdn.net/weixin_62765017/article/details/162932702",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T10:48:59",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
