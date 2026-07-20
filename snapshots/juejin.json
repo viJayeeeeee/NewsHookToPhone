@@ -1,14 +1,24 @@
 {
-  "update_time": "2026-07-18T17:35:42",
+  "update_time": "2026-07-20T10:23:29",
   "items": [
     {
-      "title": "停更的这一年，All In AI、陪媳妇生娃、还考了个研",
-      "url": "https://juejin.cn/post/7662691781214470180",
-      "last_hot_value": "热度:2907",
-      "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 8,
+      "title": "Harness 企业级落地(二) - 让 AI 读懂项目",
+      "url": "https://juejin.cn/post/7662586328122982415",
+      "last_hot_value": "热度:1044",
+      "first_seen_at": "2026-07-17T20:36:34",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 4,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
+      "url": "https://juejin.cn/post/7663313773420462118",
+      "last_hot_value": "热度:936",
+      "first_seen_at": "2026-07-18T17:35:42",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,19 +27,19 @@
       "last_hot_value": "热度:1323",
       "first_seen_at": "2026-07-17T20:36:34",
       "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "不自己造轮子：在小艺开放平台搭一个真实的健康小助手",
-      "url": "https://juejin.cn/post/7662376768221364233",
-      "last_hot_value": "热度:2034",
-      "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-18T00:04:21",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "全网都在吹的 Kimi K3，到底怎么样？",
+      "url": "https://juejin.cn/post/7663685196478611506",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "前端圈7月大地震：TS 7发布、Bun 11天从Zig迁Rust、Kimi K3登顶、大厂裁员50%",
@@ -37,39 +47,29 @@
       "last_hot_value": "热度:729",
       "first_seen_at": "2026-07-17T20:36:34",
       "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Oracle 迁移评估时，我把这两类问题列在了检查清单最前面",
-      "url": "https://juejin.cn/post/7662370300848275502",
-      "last_hot_value": "热度:1791",
-      "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-18T00:04:21",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "我和一个德国程序员互不知道对方，却写出了完全一样的AI架构 🤯",
-      "url": "https://juejin.cn/post/7661915632607625225",
-      "last_hot_value": "热度:999",
-      "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Harness 企业级落地(二) - 让 AI 读懂项目",
-      "url": "https://juejin.cn/post/7662586328122982415",
-      "last_hot_value": "热度:711",
-      "first_seen_at": "2026-07-17T20:36:34",
-      "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 3,
+      "title": "Android CLI 完全指南",
+      "url": "https://juejin.cn/post/7662627075259924506",
+      "last_hot_value": "热度:432",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "为什么很多人觉得前端很简单？",
+      "url": "https://juejin.cn/post/7664156897922351110",
+      "last_hot_value": "热度:369",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Fluter 共享内存多线程正在落地，IsolateGroupBound 来了",
@@ -77,19 +77,19 @@
       "last_hot_value": "热度:513",
       "first_seen_at": "2026-07-17T20:36:34",
       "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "Codex 小白入门：从安装到插件、MCP、Skills，一篇把配置讲明白",
-      "url": "https://juejin.cn/post/7661983059005816858",
-      "last_hot_value": "热度:945",
-      "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-18T00:04:21",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "AI 又又造词，Graph 就又要替代 Loop 了？",
+      "url": "https://juejin.cn/post/7664063148857442347",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "前端大裁员背后的恐慌：我们还剩什么底牌？",
@@ -97,16 +97,16 @@
       "last_hot_value": "热度:486",
       "first_seen_at": "2026-07-18T17:35:42",
       "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
-      "url": "https://juejin.cn/post/7663313773420462118",
-      "last_hot_value": "热度:477",
-      "first_seen_at": "2026-07-18T17:35:42",
-      "last_seen_at": "2026-07-18T17:35:42",
+      "title": "我被 Kimi K3 榨干了 99 块，还笑出了声——一个程序员的“真香”现场",
+      "url": "https://juejin.cn/post/7663687263675416595",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-20T10:23:29",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -122,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "AI 大模型写故事，3D 数字人实时播报",
-      "url": "https://juejin.cn/post/7661439504083582976",
-      "last_hot_value": "热度:585",
-      "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-16T21:12:55",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "AI 写的 React 组件,合并前必查的 6 个坏味道——每个都有代码对比",
+      "url": "https://juejin.cn/post/7663028450609119242",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "AI Agent技术栈选择：Vue3 + NestJS + TypeScript 为什么是绝佳组合",
@@ -137,8 +137,18 @@
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-07-18T17:35:42",
       "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "H5唤起app前端实现方案",
+      "url": "https://juejin.cn/post/7663313773420789798",
+      "last_hot_value": "热度:279",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -147,19 +157,19 @@
       "last_hot_value": "热度:333",
       "first_seen_at": "2026-07-18T17:35:42",
       "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "为啥说男生找对象尽量在25岁前找到？",
-      "url": "https://juejin.cn/post/7661546154107519016",
-      "last_hot_value": "热度:549",
-      "first_seen_at": "2026-07-16T10:48:58",
-      "last_seen_at": "2026-07-16T21:12:55",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "学完 Spring Boot 再看 FastAPI，我破防了",
+      "url": "https://juejin.cn/post/7663295933393682467",
+      "last_hot_value": "热度:261",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-20T10:23:29",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "Agent 开发：主流 Skills 推荐",
@@ -167,9 +177,9 @@
       "last_hot_value": "热度:297",
       "first_seen_at": "2026-07-18T17:35:42",
       "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

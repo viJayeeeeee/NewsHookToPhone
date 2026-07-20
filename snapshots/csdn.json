@@ -1,35 +1,35 @@
 {
-  "update_time": "2026-07-18T17:35:43",
+  "update_time": "2026-07-20T10:23:32",
   "items": [
+    {
+      "title": "AI越来越会“造假“，跨模态鉴伪为什么正在成为AI时代的新基建？",
+      "url": "https://blog.csdn.net/m0_73367097/article/details/163021269",
+      "last_hot_value": "4.4w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "让数据看板随时可见：Grafana + cpolar 远程访问实战",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162976485",
       "last_hot_value": "2.8w",
       "first_seen_at": "2026-07-18T17:35:43",
       "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "【Linux】Ext 文件系统篇：从 inode 到路径解析，搞懂挂载与软硬链接",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/162819147",
-      "last_hot_value": "2.3w",
-      "first_seen_at": "2026-07-16T18:59:36",
-      "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Anthropic的研究撕开了AI对齐的底裤-龍德明宇",
-      "url": "https://blog.csdn.net/fanli1998/article/details/162913057",
-      "last_hot_value": "2.2w",
-      "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T21:12:57",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "远程协助修电脑用什么软件？2026 主流跨端远控工具深度横评",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/162976461",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "基于DeepSeek+魔珐星云具身交互智能的垃圾分类助手落地实战",
@@ -42,14 +42,14 @@
       "is_new": false
     },
     {
-      "title": "AI 到底能不能替代劳动力和股票？听完这场对谈，我改了三个判断",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162912643",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-15T19:39:00",
-      "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "MySQL/PostgreSQL 迁移金仓 KES：LEFT JOIN 丢数据排查与避坑指南",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/163026470",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "OpenClaw 实战：数据分析机器人——从 NL2SQL 到可视化图表的全链路工程实践",
@@ -57,9 +57,19 @@
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-07-17T20:36:35",
       "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "CANNBot 实操体验：基于Ascend C的矩阵乘法算子开发",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/162978577",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "Re：Linux系统篇（四十四）信号篇·二：Linux 信号的产生原理：硬件异常、软件条件与内核处理机制",
@@ -67,9 +77,19 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-17T20:36:35",
       "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "【共创季稿事节】物的第二人生：HarmonyOS 6.1 AI 物品流转地图全场景实战",
+      "url": "https://blog.csdn.net/2601_95131637/article/details/163001005",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "ECCV顶会论文引发海外热议：实测360 AI精准可控路线下的工具落地价值",
@@ -77,9 +97,19 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-17T20:36:35",
       "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "【苍穹外卖 day10｜Spring Task、WebSocket 与来单提醒、催单铃声实现】",
+      "url": "https://blog.csdn.net/2502_94242477/article/details/162876623",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "通义千问 + 魔珐星云落地身交互智能 | 从0-1数学辅导 Agent 实战",
@@ -87,39 +117,19 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-17T20:36:35",
       "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 3,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "让ZooKeeper跑出高可用:从三节点集群到公网连接测试",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/162935738",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-16T18:59:36",
-      "last_seen_at": "2026-07-16T21:12:57",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "ToDesk AI 实测：从远程控制到远程干活，让AI填表、选品、剪辑",
-      "url": "https://blog.csdn.net/2401_85686768/article/details/162883215",
+      "title": "人眼看不出的伪造，AI如何识别？实测合合信息跨模态鉴伪与去反光技术",
+      "url": "https://blog.csdn.net/weixin_51390582/article/details/163034837",
       "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T21:12:57",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "MCP 协议打通 AI 与国产数据库，SQL 调优全流程一站式闭环",
-      "url": "https://blog.csdn.net/2301_80350265/article/details/162923627",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T14:18:18",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "Cursor vs Claude Code vs Copilot：2026 年 AI 编程工具怎么选",
@@ -127,19 +137,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-18T17:35:43",
       "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "【AVDTP】规范精讲[2]: 为什么蓝牙能传音乐？看懂这层架构就懂了",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/162808405",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-16T21:12:57",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "【C++大型项目之高性能服务器框架 (八) 】Stream流和TcpServer模块",
+      "url": "https://blog.csdn.net/2501_93095927/article/details/162970320",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "K100_AI两卡全离线部署超长音视频说话人角色确认转录系统（多轮推理）",
@@ -147,19 +157,19 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-18T17:35:43",
       "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "OpenCloudOS 9 小型服务器 Docker 部署实战：PostgreSQL+PostGIS、Redis、Nginx 安全加固与一键脚本",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/162913636",
-      "last_hot_value": "8272",
-      "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-18T00:04:24",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "PyTorch强化学习实战（19）——策略梯度法",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159690711",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "国产大模型×魔珐星云：让AI从“能思考“到“能表达“的城市展厅具身交互智能体",
@@ -167,29 +177,19 @@
       "last_hot_value": "8728",
       "first_seen_at": "2026-07-18T17:35:43",
       "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "《Linux CPU频率为何忽高忽低：cpufreq、idle状态与性能抖动教程》",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/162864752",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-15T19:39:00",
-      "last_seen_at": "2026-07-15T19:39:00",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "让运营像改Excel一样改数据：用NocoDB搭一个团队数据协作台",
-      "url": "https://blog.csdn.net/weixin_62765017/article/details/162932702",
-      "last_hot_value": "8615",
-      "first_seen_at": "2026-07-16T10:48:59",
-      "last_seen_at": "2026-07-18T17:35:43",
+      "title": "时光倒流的魔法：深度解析Oracle UNDO表空间回滚段、读一致性与闪回查询的实现原理",
+      "url": "https://blog.csdn.net/qq_41840843/article/details/162770938",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T10:23:32",
       "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "猫头虎AI赠书第14期赠书活动:《Claude Code技术架构深度解析：Harness工程与AI编程新范式》",
@@ -197,16 +197,6 @@
       "last_hot_value": "8127",
       "first_seen_at": "2026-07-17T20:36:35",
       "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "AI+HI人机协同范式：从ElementsClaw到政务智能体的分层进化论",
-      "url": "https://blog.csdn.net/qq_36411553/article/details/162901739",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-16T14:18:18",
-      "last_seen_at": "2026-07-16T14:18:18",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
