@@ -1,33 +1,23 @@
 {
-  "update_time": "2026-07-20T16:12:19",
+  "update_time": "2026-07-20T23:13:26",
   "items": [
     {
       "title": "只会写代码的人不够用了！Netflix CPTO谈程序员未来十年：会写代码和“理解系统”是两回事",
       "url": "https://www.51cto.com/article/850155.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "面试官问：什么是 Harness 工程？可以这样回答",
       "url": "https://www.51cto.com/article/850121.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "35 岁运维还能不能转 AIOps？关键不是年龄，是能力结构！",
-      "url": "https://www.51cto.com/article/850012.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,28 +26,18 @@
       "url": "https://ost.51cto.com/posts/53043",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "在数学上把稀疏注意力做对！腾讯Hy开源HiLS-Attention: 计算更少效果更好, 外推512倍",
       "url": "https://www.51cto.com/article/850116.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "工作 3 年+ 运维人必看：AIOps 时代，必备的 5 项核心进阶技能",
-      "url": "https://www.51cto.com/article/850011.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -66,28 +46,18 @@
       "url": "https://www.51cto.com/article/850136.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "字节面试官：别再直接让 AI 写代码了，去学习一下 SDD 规格驱动开发",
       "url": "https://www.51cto.com/article/850112.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "生态覆盖持续扩散，一文看懂各行业企业鸿蒙化转型进度",
-      "url": "https://www.51cto.com/article/849991.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -96,28 +66,18 @@
       "url": "https://www.51cto.com/article/850131.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "浅谈具身智能 VLA技术发展趋势",
       "url": "https://www.51cto.com/article/850105.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "突发叫停！Gemini 3.5 Pro难产，谷歌跌入失望陷阱",
-      "url": "https://www.51cto.com/article/849986.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -126,10 +86,10 @@
       "url": "https://www.51cto.com/article/850127.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "接到需求和 Bug，别让 Claude 直接开写：DAE + ATDD 实战流程",
@@ -137,16 +97,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
       "last_seen_at": "2026-07-20T10:23:34",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "烧掉16万美金，狂飙100万行代码！Bun之父用Claude重写底层",
-      "url": "https://www.51cto.com/article/849985.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
@@ -162,31 +112,11 @@
       "is_new": false
     },
     {
-      "title": "飞抵 8861 米珠峰还剩30%电量！大疆无人机攻克世界屋脊极限科考",
-      "url": "https://www.51cto.com/article/849984.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "AI 编程的 Harness 工程化落地全案",
       "url": "https://www.51cto.com/article/850097.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
       "last_seen_at": "2026-07-20T10:23:34",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "零成本AI编程方案：Claude Code + CC Switch接入OpenCode免费模型",
-      "url": "https://www.51cto.com/article/849963.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -202,16 +132,6 @@
       "is_new": false
     },
     {
-      "title": "写代码从来都不是软件工程的瓶颈！普林斯顿教授：AI越会写，程序员越要会判断，否则AI把代码写完了，程序员还在加班",
-      "url": "https://www.51cto.com/article/849962.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "【HarmonyOS 三方库 】Python 三方库鸿蒙化适配 PC 完整迁移实战",
       "url": "https://ost.51cto.com/posts/53036",
       "last_hot_value": "",
@@ -222,24 +142,14 @@
       "is_new": false
     },
     {
-      "title": "手把手带你使用 DevEcoCli 和 DevEcoCode 快速接入 HarmonyOS7.0 新特性",
-      "url": "https://ost.51cto.com/posts/52984",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "给 Flutter 鸿蒙 App 接上指纹和人脸认证",
       "url": "https://ost.51cto.com/posts/53037",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T16:12:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:26",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "手把手带你使用 DevEcoCli 和 DevEcoCode",
@@ -247,16 +157,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
       "last_seen_at": "2026-07-20T10:23:34",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "手把手带你使用 DevEcoCli 和 DevEcoCode 快速开发三方库",
-      "url": "https://ost.51cto.com/posts/52983",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-17T20:36:37",
-      "last_seen_at": "2026-07-18T17:35:45",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

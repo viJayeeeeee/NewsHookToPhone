@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-20T16:12:18",
+  "update_time": "2026-07-20T23:13:25",
   "items": [
+    {
+      "title": "【Linux】库制作与原理：从源码到静态库，搞懂 ar、-I/-L/-l 与打包交付",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163000934",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-07-20T23:13:25",
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "AI越来越会“造假“，跨模态鉴伪为什么正在成为AI时代的新基建？",
       "url": "https://blog.csdn.net/m0_73367097/article/details/163021269",
-      "last_hot_value": "4.0w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,14 +32,24 @@
       "is_new": false
     },
     {
+      "title": "AI跨模态鉴伪技术实测",
+      "url": "https://blog.csdn.net/wtyuong/article/details/163054806",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-20T23:13:25",
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "基于 DolphinDB 3.00.x 实时聚合计算：多维度聚合实战（从流式引擎到 Cube/Rollup 方法论）",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/162978679",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-20T16:12:18",
       "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "远程协助修电脑用什么软件？2026 主流跨端远控工具深度横评",
@@ -42,13 +62,13 @@
       "is_new": false
     },
     {
-      "title": "基于DeepSeek+魔珐星云具身交互智能的垃圾分类助手落地实战",
-      "url": "https://blog.csdn.net/qq_38881495/article/details/162939548",
-      "last_hot_value": "2.0w",
-      "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T00:04:24",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "MySQL/PostgreSQL 迁移金仓 KES：LEFT JOIN 丢数据排查与避坑指南",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/163026470",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -57,29 +77,19 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-20T16:12:18",
       "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "MySQL/PostgreSQL 迁移金仓 KES：LEFT JOIN 丢数据排查与避坑指南",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/163026470",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "OpenClaw 实战：数据分析机器人——从 NL2SQL 到可视化图表的全链路工程实践",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162915185",
-      "last_hot_value": "2.1w",
-      "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T17:35:43",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "Claude Code 接蓝耘实测：选第三方 API 的三条铁律",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163052500",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-20T23:13:25",
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【AI 测评】想用自己的声音给视频配音？Index-TTS本地部署这样做",
@@ -87,9 +97,9 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-20T16:12:18",
       "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "CANNBot 实操体验：基于Ascend C的矩阵乘法算子开发",
@@ -102,34 +112,24 @@
       "is_new": false
     },
     {
-      "title": "Re：Linux系统篇（四十四）信号篇·二：Linux 信号的产生原理：硬件异常、软件条件与内核处理机制",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/162817745",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "【共创季稿事节】物的第二人生：HarmonyOS 6.1 AI 物品流转地图全场景实战",
       "url": "https://blog.csdn.net/2601_95131637/article/details/163001005",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-20T10:23:32",
       "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "ECCV顶会论文引发海外热议：实测360 AI精准可控路线下的工具落地价值",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/162946324",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "Re：Linux系统篇（四十五）信号篇·三：一文讲透 Linux 信号保存机制:block,pending,handler三张表到底在做什么",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/162894593",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-20T23:13:25",
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "【苍穹外卖 day10｜Spring Task、WebSocket 与来单提醒、催单铃声实现】",
@@ -137,16 +137,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-20T10:23:32",
       "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "通义千问 + 魔珐星云落地身交互智能 | 从0-1数学辅导 Agent 实战",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/162966978",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T17:35:43",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
@@ -154,10 +144,20 @@
     {
       "title": "人眼看不出的伪造，AI如何识别？实测合合信息跨模态鉴伪与去反光技术",
       "url": "https://blog.csdn.net/weixin_51390582/article/details/163034837",
+      "last_hot_value": "8375",
+      "first_seen_at": "2026-07-20T10:23:32",
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 3,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "PyTorch强化学习实战（19）——策略梯度法",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159690711",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -169,6 +169,16 @@
       "last_seen_at": "2026-07-18T17:35:43",
       "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "GitHub 热榜项目 - 周榜(2026-07-18)",
+      "url": "https://blog.csdn.net/u014390502/article/details/162998093",
+      "last_hot_value": "8692",
+      "first_seen_at": "2026-07-20T16:12:18",
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 2,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -192,26 +202,6 @@
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战（19）——策略梯度法",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159690711",
-      "last_hot_value": "9105",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 2,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "GitHub 热榜项目 - 周榜(2026-07-18)",
-      "url": "https://blog.csdn.net/u014390502/article/details/162998093",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
       "title": "国产大模型×魔珐星云：让AI从“能思考“到“能表达“的城市展厅具身交互智能体",
       "url": "https://blog.csdn.net/qq_57761637/article/details/162969149",
       "last_hot_value": "8728",
@@ -222,21 +212,21 @@
       "is_new": false
     },
     {
+      "title": "2026最新5大远程软件硬核横测：ToDesk_向日葵_TeamViewer_UU_AnyDesk，谁配叫画质天花板？",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/163033743",
+      "last_hot_value": "8309",
+      "first_seen_at": "2026-07-20T23:13:25",
+      "last_seen_at": "2026-07-20T23:13:25",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "时光倒流的魔法：深度解析Oracle UNDO表空间回滚段、读一致性与闪回查询的实现原理",
       "url": "https://blog.csdn.net/qq_41840843/article/details/162770938",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-20T10:23:32",
       "last_seen_at": "2026-07-20T10:23:32",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "猫头虎AI赠书第14期赠书活动:《Claude Code技术架构深度解析：Harness工程与AI编程新范式》",
-      "url": "https://blog.csdn.net/qq_44866828/article/details/162910465",
-      "last_hot_value": "8127",
-      "first_seen_at": "2026-07-17T20:36:35",
-      "last_seen_at": "2026-07-18T00:04:24",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

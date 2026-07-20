@@ -1,33 +1,23 @@
 {
-  "update_time": "2026-07-20T16:12:17",
+  "update_time": "2026-07-20T23:13:24",
   "items": [
     {
       "title": "全网都在吹的 Kimi K3，到底怎么样？",
       "url": "https://juejin.cn/post/7663685196478611506",
-      "last_hot_value": "热度:720",
+      "last_hot_value": "热度:792",
       "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Harness 企业级落地(二) - 让 AI 读懂项目",
-      "url": "https://juejin.cn/post/7662586328122982415",
-      "last_hot_value": "热度:1044",
-      "first_seen_at": "2026-07-17T20:36:34",
-      "last_seen_at": "2026-07-20T10:23:29",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "为什么很多人觉得前端很简单？",
       "url": "https://juejin.cn/post/7664156897922351110",
-      "last_hot_value": "热度:639",
+      "last_hot_value": "热度:738",
       "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,42 +32,22 @@
       "is_new": false
     },
     {
-      "title": "曾经人手一个的Superpowers，为什么现在都在卸",
-      "url": "https://juejin.cn/post/7662691781214437412",
-      "last_hot_value": "热度:1323",
-      "first_seen_at": "2026-07-17T20:36:34",
-      "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "AI 又又造词，Graph 就又要替代 Loop 了？",
       "url": "https://juejin.cn/post/7664063148857442347",
-      "last_hot_value": "热度:477",
+      "last_hot_value": "热度:540",
       "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "前端圈7月大地震：TS 7发布、Bun 11天从Zig迁Rust、Kimi K3登顶、大厂裁员50%",
-      "url": "https://juejin.cn/post/7663095491467411462",
-      "last_hot_value": "热度:729",
-      "first_seen_at": "2026-07-17T20:36:34",
-      "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "我被 Kimi K3 榨干了 99 块，还笑出了声——一个程序员的“真香”现场",
       "url": "https://juejin.cn/post/7663687263675416595",
-      "last_hot_value": "热度:423",
+      "last_hot_value": "热度:459",
       "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -94,32 +64,32 @@
     {
       "title": "阿里要求全员卸载 Claude Code：事件始末与深层逻辑",
       "url": "https://juejin.cn/post/7663822459978137646",
-      "last_hot_value": "热度:342",
+      "last_hot_value": "热度:405",
       "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Fluter 共享内存多线程正在落地，IsolateGroupBound 来了",
-      "url": "https://juejin.cn/post/7662326941523345450",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-07-17T20:36:34",
-      "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "title": "大前端工程师必学：用 BFF 架构搭建安全的 AI 流式应用",
+      "url": "https://juejin.cn/post/7663548569470844991",
+      "last_hot_value": "热度:243",
+      "first_seen_at": "2026-07-20T16:12:17",
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "万字长文谈谈Loop Engineering",
       "url": "https://juejin.cn/post/7663708874660364324",
-      "last_hot_value": "热度:198",
+      "last_hot_value": "热度:207",
       "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "前端大裁员背后的恐慌：我们还剩什么底牌？",
@@ -132,34 +102,24 @@
       "is_new": false
     },
     {
-      "title": "大前端工程师必学：用 BFF 架构搭建安全的 AI 流式应用",
-      "url": "https://juejin.cn/post/7663548569470844991",
-      "last_hot_value": "热度:189",
+      "title": "公司要裁员之前，都会有哪些信号？",
+      "url": "https://juejin.cn/post/7664139332774690850",
+      "last_hot_value": "热度:207",
       "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "为什么业务型前端容易遭遇中年危机？",
-      "url": "https://juejin.cn/post/7662294973371957286",
-      "last_hot_value": "热度:621",
-      "first_seen_at": "2026-07-17T20:36:34",
-      "last_seen_at": "2026-07-18T00:04:21",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "SQL 语法全兼容，但结果就是不一样——国产化迁移里最难缠的九类隐患",
       "url": "https://juejin.cn/post/7664063148857360427",
-      "last_hot_value": "热度:189",
+      "last_hot_value": "热度:207",
       "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 写的 React 组件,合并前必查的 6 个坏味道——每个都有代码对比",
@@ -182,16 +142,6 @@
       "is_new": false
     },
     {
-      "title": "公司要裁员之前，都会有哪些信号？",
-      "url": "https://juejin.cn/post/7664139332774690850",
-      "last_hot_value": "热度:189",
-      "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
       "title": "H5唤起app前端实现方案",
       "url": "https://juejin.cn/post/7663313773420789798",
       "last_hot_value": "热度:279",
@@ -212,14 +162,24 @@
       "is_new": false
     },
     {
+      "title": "从文本到具身：我给 AI Agent 搭了套实时 3D 交互身体",
+      "url": "https://juejin.cn/post/7664150646267576374",
+      "last_hot_value": "热度:171",
+      "first_seen_at": "2026-07-20T23:13:24",
+      "last_seen_at": "2026-07-20T23:13:24",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "MVI模式的完整历史、误解和现代Android范式",
       "url": "https://juejin.cn/post/7663380647617839155",
       "last_hot_value": "热度:153",
       "first_seen_at": "2026-07-20T16:12:17",
       "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "学完 Spring Boot 再看 FastAPI，我破防了",
