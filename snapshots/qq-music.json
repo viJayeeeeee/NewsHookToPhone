@@ -1,33 +1,33 @@
 {
-  "update_time": "2026-07-21T19:59:06",
+  "update_time": "2026-07-21T21:00:46",
   "items": [
     {
       "title": "Cold Blooded (Moon Version)",
       "url": "https://y.qq.com/n/ryqq/songDetail/001uODJ03jwbpe",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T19:59:06",
-      "last_seen_at": "2026-07-21T19:59:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Cold Blooded (Star Version)",
       "url": "https://y.qq.com/n/ryqq/songDetail/00061EFa3uGj8q",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T19:59:06",
-      "last_seen_at": "2026-07-21T19:59:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "空心 (Live)",
       "url": "https://y.qq.com/n/ryqq/songDetail/000qBZgr2uL9wX",
       "last_hot_value": "",
       "first_seen_at": "2026-07-19T16:32:52",
-      "last_seen_at": "2026-07-21T19:59:06",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,18 +36,18 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000Tx0ZM2xaBhM",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T19:59:06",
-      "last_seen_at": "2026-07-21T19:59:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "失眠",
       "url": "https://y.qq.com/n/ryqq/songDetail/001Y2S0F1OaM2s",
       "last_hot_value": "",
       "first_seen_at": "2026-07-19T16:32:52",
-      "last_seen_at": "2026-07-21T19:59:06",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/002AZauQ1UKQxe",
       "last_hot_value": "",
       "first_seen_at": "2026-07-19T16:32:52",
-      "last_seen_at": "2026-07-21T19:59:06",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -66,20 +66,40 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
       "last_hot_value": "",
       "first_seen_at": "2026-07-19T03:42:25",
-      "last_seen_at": "2026-07-21T19:59:06",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 6,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "ANGEL (天使)",
+      "url": "https://y.qq.com/n/ryqq/songDetail/004PjZLu3CjaYS",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T21:00:46",
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "讨厌",
       "url": "https://y.qq.com/n/ryqq/songDetail/002wTqj42ms6PG",
       "last_hot_value": "",
       "first_seen_at": "2026-07-19T16:32:52",
-      "last_seen_at": "2026-07-21T19:59:06",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "无人之岛",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001fTFGe0LqzdT",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T21:00:46",
+      "last_seen_at": "2026-07-21T21:00:46",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     }
   ]
 }
