@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-20T23:13:26",
+  "update_time": "2026-07-21T06:15:56",
   "items": [
+    {
+      "title": "严重 wp2shell RCE 漏洞：完整细节、PoC 及活跃利用情况",
+      "url": "https://www.51cto.com/article/850266.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "只会写代码的人不够用了！Netflix CPTO谈程序员未来十年：会写代码和“理解系统”是两回事",
       "url": "https://www.51cto.com/article/850155.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
       "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,17 +27,27 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
       "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "Driver.js 火了八年，终于更新了！Vue、React 都能直接用",
+      "url": "https://www.51cto.com/article/850265.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "HarmonyOS 用 relationalStore 做本地数据库的完整实战 —— 一个真实项目的 5 个决策",
       "url": "https://ost.51cto.com/posts/53043",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
       "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "ICML 2026 | 多智能体系统也能搭积木？Agent Primitives让MAS走向模块化复用",
+      "url": "https://www.51cto.com/article/850262.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "赋能全球 AI 创新，GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案重磅亮相 WAIC 2026",
@@ -47,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
       "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -57,9 +87,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
       "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "告别熬夜值守！AI 智能体搞定 Linux 全自动巡检",
+      "url": "https://www.51cto.com/article/850253.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "开源 AIOps 平台，终于有人做出来了",
@@ -67,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
       "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -77,9 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T10:23:34",
       "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "告别手动 “救火”！大模型重塑运维排查流程，实现秒级故障定位",
+      "url": "https://www.51cto.com/article/850249.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Rust 工具链再下一城！Rolldown 1.2 发布，前端构建进入新时代",
@@ -87,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
       "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -102,6 +152,16 @@
       "is_new": false
     },
     {
+      "title": "手把手做一个 Cursor Agent Window 插件：把个人 SDD AI 工作流变成团队默认能力",
+      "url": "https://www.51cto.com/article/850247.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "惊天巨骗！一夜刷爆全球榜单的「神秘实验室」，竟然是假的",
       "url": "https://www.51cto.com/article/850099.html",
       "last_hot_value": "",
@@ -112,6 +172,16 @@
       "is_new": false
     },
     {
+      "title": "295B 参数开源，日均 Token 涨 20 倍：腾讯混元 Hy3 正式发布",
+      "url": "https://www.51cto.com/article/850245.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "AI 编程的 Harness 工程化落地全案",
       "url": "https://www.51cto.com/article/850097.html",
       "last_hot_value": "",
@@ -120,6 +190,16 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "G行数据库异地灾备建设和切换实践",
+      "url": "https://www.51cto.com/article/850244.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "六种 Workflow 组织形状，以及如何组合",
@@ -146,8 +226,8 @@
       "url": "https://ost.51cto.com/posts/53037",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-21T06:15:56",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },

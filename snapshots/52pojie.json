@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-20T23:13:42",
+  "update_time": "2026-07-21T06:16:05",
   "items": [
+    {
+      "title": "全能网页视频播放器，支持M3U8、FLV、本地视频及外挂字幕",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-20T10:23:45",
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "BV 0.3.17 哔哩电视版",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T23:13:42",
       "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "全能网页视频播放器，支持M3U8、FLV、本地视频及外挂字幕",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-20T10:23:45",
-      "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,13 +42,13 @@
       "is_new": false
     },
     {
-      "title": "五运天机 v1.0.0",
+      "title": "自动点击工具（图片识别与坐标点击）V1.3版",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "first_seen_at": "2026-07-20T10:23:45",
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -57,7 +57,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T10:23:45",
       "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,7 +67,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
       "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -92,22 +92,22 @@
       "is_new": false
     },
     {
-      "title": "鲁大师_6.1026.4525.204_绿色版",
+      "title": "A3的PDF文档分割成A4打印工具 （A3试卷、打印机只能打印A4的好工具）",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-07-21T06:16:05",
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "Modbus 网络探测2.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-20T16:12:28",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": false
     },
@@ -132,13 +132,13 @@
       "is_new": false
     },
     {
-      "title": "【文件查重】ElegantHLK (优雅硬链接) 项目软件发布",
+      "title": "字幕下载工具",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "first_seen_at": "2026-07-20T16:12:28",
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -147,16 +147,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T10:23:45",
       "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "字幕下载工具",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-20T16:12:28",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -182,13 +172,23 @@
       "is_new": false
     },
     {
-      "title": "010 Editor 16.04 简体中文汉化单文件绿色版",
+      "title": "窗口调节增强工具AltSnap v1.68",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 4,
+      "first_seen_at": "2026-07-21T06:16:05",
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "[2026/7/19]Open Shell (经典开始菜单) 4.4.200 汉化版",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-20T16:12:28",
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -197,17 +197,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T10:23:45",
       "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "[2026/7/19]Open Shell (经典开始菜单) 4.4.200 汉化版",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -232,22 +222,12 @@
       "is_new": false
     },
     {
-      "title": "压缩/解压缩工具 NanaZip v6.0.1650.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "微信视频号下载器wx_channels_download 0714版",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -262,22 +242,12 @@
       "is_new": false
     },
     {
-      "title": "应用管家 v1.8.4",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "【20260720支持WIN7】证件合并工具IDCardMerge v2.5",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-20T16:12:28",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": false
     },
@@ -292,22 +262,12 @@
       "is_new": false
     },
     {
-      "title": "搜索浏览器1.0.10",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "打印机自动安装工具V1.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-20T16:12:28",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-21T06:16:05",
+      "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": false
     },
@@ -322,22 +282,12 @@
       "is_new": false
     },
     {
-      "title": "文件管理工具 muCommander v1.6.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "吾爱破解论坛网络诊断修复工具 v3.1",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
       "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -352,31 +302,11 @@
       "is_new": false
     },
     {
-      "title": "多任务系统管理器",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "【Win RAR】 7.22 个人免费版 去广告教程【激活续集】",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
       "last_seen_at": "2026-07-20T23:13:42",
-      "consecutive_count": 2,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "自动点击工具（图片识别与坐标点击）V1.3版",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-20T10:23:45",
-      "last_seen_at": "2026-07-20T10:23:45",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
@@ -387,16 +317,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-18T17:35:55",
       "last_seen_at": "2026-07-18T17:35:55",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "X64Enigma注册授权绕过与防绕过",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-18T00:04:35",
-      "last_seen_at": "2026-07-18T00:04:35",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
