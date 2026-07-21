@@ -1,43 +1,53 @@
 {
-  "update_time": "2026-07-20T12:29:49",
+  "update_time": "2026-07-21T03:39:29",
   "items": [
     {
       "title": "理想国：新译与导读",
       "url": "",
-      "last_hot_value": "1993人在读",
+      "last_hot_value": "3177人在读",
       "first_seen_at": "2026-07-20T12:29:49",
-      "last_seen_at": "2026-07-20T12:29:49",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "奥德赛（张秋子导读版）（全四册）",
-      "url": "",
-      "last_hot_value": "1619人在读",
-      "first_seen_at": "2026-07-17T16:48:01",
-      "last_seen_at": "2026-07-20T12:29:49",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-07-21T03:39:29",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "AI未来已来：CEO、组织、个人的时代红利（微信读书特别版）",
       "url": "",
-      "last_hot_value": "4782人在读",
+      "last_hot_value": "4952人在读",
       "first_seen_at": "2026-07-18T10:16:16",
-      "last_seen_at": "2026-07-20T12:29:49",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-21T03:39:29",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
+      "title": "权力（全新升级版）",
+      "url": "",
+      "last_hot_value": "749人在读",
+      "first_seen_at": "2026-07-21T03:39:29",
+      "last_seen_at": "2026-07-21T03:39:29",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "查拉图斯特拉如是说",
+      "url": "",
+      "last_hot_value": "768人在读",
+      "first_seen_at": "2026-07-21T03:39:29",
+      "last_seen_at": "2026-07-21T03:39:29",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "技术革命与金融资本",
       "url": "",
-      "last_hot_value": "463人在读",
+      "last_hot_value": "437人在读",
       "first_seen_at": "2026-07-19T16:32:54",
-      "last_seen_at": "2026-07-20T12:29:49",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-21T03:39:29",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,24 +62,24 @@
       "is_new": false
     },
     {
-      "title": "焦虑的人",
-      "url": "",
-      "last_hot_value": "2360人在读",
-      "first_seen_at": "2026-07-17T16:48:01",
-      "last_seen_at": "2026-07-18T13:43:16",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "我的帝王生涯",
       "url": "",
       "last_hot_value": "493人在读",
       "first_seen_at": "2026-07-19T16:32:54",
       "last_seen_at": "2026-07-20T12:29:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "每一句话语都坐着别的眼睛",
+      "url": "",
+      "last_hot_value": "2307人在读",
+      "first_seen_at": "2026-07-21T03:39:29",
+      "last_seen_at": "2026-07-21T03:39:29",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "牧神记（同名国漫原著）",
@@ -77,8 +87,18 @@
       "last_hot_value": "3241人在读",
       "first_seen_at": "2026-07-19T16:32:54",
       "last_seen_at": "2026-07-20T12:29:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "略萨作品：酒吧长谈（纪念版）",
+      "url": "",
+      "last_hot_value": "138人在读",
+      "first_seen_at": "2026-07-20T12:29:49",
+      "last_seen_at": "2026-07-21T03:39:29",
+      "consecutive_count": 2,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -87,7 +107,7 @@
       "last_hot_value": "3117人在读",
       "first_seen_at": "2026-07-19T03:42:27",
       "last_seen_at": "2026-07-20T12:29:49",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -102,13 +122,23 @@
       "is_new": false
     },
     {
-      "title": "略萨作品：酒吧长谈（纪念版）",
+      "title": "牛虻",
       "url": "",
-      "last_hot_value": "108人在读",
-      "first_seen_at": "2026-07-20T12:29:49",
-      "last_seen_at": "2026-07-20T12:29:49",
+      "last_hot_value": "302人在读",
+      "first_seen_at": "2026-07-21T03:39:29",
+      "last_seen_at": "2026-07-21T03:39:29",
       "consecutive_count": 1,
       "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "我的外婆，从不内耗",
+      "url": "",
+      "last_hot_value": "3086人在读",
+      "first_seen_at": "2026-07-21T03:39:29",
+      "last_seen_at": "2026-07-21T03:39:29",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -127,16 +157,6 @@
       "last_hot_value": "481人在读",
       "first_seen_at": "2026-07-19T03:42:27",
       "last_seen_at": "2026-07-19T03:42:27",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "长日将尽（译文经典）",
-      "url": "",
-      "last_hot_value": "348人在读",
-      "first_seen_at": "2026-07-17T16:48:01",
-      "last_seen_at": "2026-07-17T21:26:37",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
