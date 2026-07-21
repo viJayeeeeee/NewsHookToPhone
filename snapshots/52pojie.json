@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-07-21T10:50:57",
+  "update_time": "2026-07-21T14:23:41",
   "items": [
     {
       "title": "开放注册期间论坛暂停签到、QQ登录绑定、下载附件和默认搜索等多项功能",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-21T10:50:57",
-      "last_seen_at": "2026-07-21T10:50:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T14:23:41",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "局域网传输工具 LanFast-Wzzok v1.0 内网快传",
@@ -17,7 +17,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T10:23:45",
       "last_seen_at": "2026-07-21T10:50:57",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +27,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T23:13:42",
       "last_seen_at": "2026-07-21T10:50:57",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,21 +52,11 @@
       "is_new": false
     },
     {
-      "title": "光鸭云盘Windows版(1.0.0)上线",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-21T10:50:57",
-      "last_seen_at": "2026-07-21T10:50:57",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "百度网盘体验版 13.0.999",
+      "title": "应用管家 v1.9.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T10:23:45",
-      "last_seen_at": "2026-07-21T10:50:57",
+      "last_seen_at": "2026-07-21T14:23:41",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
@@ -76,17 +66,27 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T10:23:45",
-      "last_seen_at": "2026-07-21T06:16:05",
+      "last_seen_at": "2026-07-21T14:23:41",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "光鸭云盘Windows版(1.0.0)上线",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-21T10:50:57",
+      "last_seen_at": "2026-07-21T10:50:57",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "应用管家 v1.9.0",
+      "title": "百度网盘体验版 13.0.999",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T10:23:45",
-      "last_seen_at": "2026-07-20T23:13:42",
+      "last_seen_at": "2026-07-21T10:50:57",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -112,22 +112,22 @@
       "is_new": false
     },
     {
-      "title": "流氓软件克星：专治各种“我没同意你就往电脑和右键菜单里塞东西”",
+      "title": "StockBox 进销存管理系统",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-21T10:50:57",
-      "last_seen_at": "2026-07-21T10:50:57",
+      "first_seen_at": "2026-07-20T10:23:45",
+      "last_seen_at": "2026-07-21T14:23:41",
       "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "A3的PDF文档分割成A4打印工具 （A3试卷、打印机只能打印A4的好工具）",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-21T06:16:05",
-      "last_seen_at": "2026-07-21T06:16:05",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-21T14:23:41",
+      "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": false
     },
@@ -136,7 +136,17 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-21T06:16:05",
+      "last_seen_at": "2026-07-21T14:23:41",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "流氓软件克星：专治各种“我没同意你就往电脑和右键菜单里塞东西”",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-21T10:50:57",
+      "last_seen_at": "2026-07-21T10:50:57",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -162,14 +172,24 @@
       "is_new": false
     },
     {
+      "title": "字幕下载工具",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-20T16:12:28",
+      "last_seen_at": "2026-07-21T14:23:41",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "【2026-07-20】PotPlayer_v260716(1.7.23006)_x64_Dev",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-21T10:50:57",
       "last_seen_at": "2026-07-21T10:50:57",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "MX播放器 mx player v3.0.12 无广告",
@@ -177,26 +197,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T10:23:45",
       "last_seen_at": "2026-07-21T10:50:57",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "字幕下载工具",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-21T06:16:05",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "StockBox 进销存管理系统",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-20T10:23:45",
-      "last_seen_at": "2026-07-20T23:13:42",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -217,9 +217,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-21T10:50:57",
       "last_seen_at": "2026-07-21T10:50:57",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "窗口调节增强工具AltSnap v1.68",
@@ -276,8 +276,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-21T06:16:05",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-21T14:23:41",
+      "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": false
     },
@@ -316,8 +316,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-20T16:12:28",
-      "last_seen_at": "2026-07-21T06:16:05",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-21T14:23:41",
+      "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": false
     },
@@ -332,14 +332,24 @@
       "is_new": false
     },
     {
+      "title": "【20260721】证件合并工具IDCardMerge v2.51",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-21T14:23:41",
+      "last_seen_at": "2026-07-21T14:23:41",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "多功能工具箱V5",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-21T10:50:57",
       "last_seen_at": "2026-07-21T10:50:57",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "吾爱破解论坛网络诊断修复工具 v3.1",

@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-21T10:50:41",
+  "update_time": "2026-07-21T14:23:29",
   "items": [
+    {
+      "title": "把家里的显卡变成远程AI画室:Stable Diffusion WebUI部署实战",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/163045196",
+      "last_hot_value": "2.6w",
+      "first_seen_at": "2026-07-20T16:12:18",
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Claude Code 接蓝耘实测：选第三方 API 的三条铁律",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163052500",
       "last_hot_value": "2.5w",
       "first_seen_at": "2026-07-20T23:13:25",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "【Linux】库制作与原理：从源码到静态库，搞懂 ar、-I/-L/-l 与打包交付",
       "url": "https://blog.csdn.net/2402_87731470/article/details/163000934",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-20T23:13:25",
-      "last_seen_at": "2026-07-21T06:15:54",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": false
     },
@@ -39,16 +49,6 @@
       "last_seen_at": "2026-07-18T17:35:43",
       "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "把家里的显卡变成远程AI画室:Stable Diffusion WebUI部署实战",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163045196",
-      "last_hot_value": "2.5w",
-      "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 2,
-      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -86,8 +86,8 @@
       "url": "https://blog.csdn.net/2402_87298751/article/details/163048294",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -104,20 +104,20 @@
     {
       "title": "2026最新5大远程软件硬核横测：ToDesk_向日葵_TeamViewer_UU_AnyDesk，谁配叫画质天花板？",
       "url": "https://blog.csdn.net/2302_78391795/article/details/163033743",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-20T23:13:25",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "PyTorch强化学习实战（19）——策略梯度法",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159690711",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -136,8 +136,8 @@
       "url": "https://blog.csdn.net/2503_91389547/article/details/161928472",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-21T06:15:54",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -147,8 +147,18 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-20T10:23:32",
       "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Re：Linux系统篇（四十五）信号篇·三：一文讲透 Linux 信号保存机制:block,pending,handler三张表到底在做什么",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/162894593",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-20T23:13:25",
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -157,29 +167,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-20T10:23:32",
       "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Re：Linux系统篇（四十五）信号篇·三：一文讲透 Linux 信号保存机制:block,pending,handler三张表到底在做什么",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/162894593",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-20T23:13:25",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "智能体国家标准落地：企业合规自查清单（GB/Z 185版）",
       "url": "https://blog.csdn.net/qq_36411553/article/details/163055154",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-21T10:50:41",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "人眼看不出的伪造，AI如何识别？实测合合信息跨模态鉴伪与去反光技术",
@@ -230,6 +230,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "【Qt 资源管理】文件路径方案与 QRC 机制",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/163019679",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-21T14:23:29",
+      "last_seen_at": "2026-07-21T14:23:29",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "深度学习实战-基于CNN+VGG16融合的水稻图像分类识别模型",
