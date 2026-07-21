@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-07-21T06:15:56",
+  "update_time": "2026-07-21T10:50:43",
   "items": [
     {
       "title": "严重 wp2shell RCE 漏洞：完整细节、PoC 及活跃利用情况",
       "url": "https://www.51cto.com/article/850266.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "只会写代码的人不够用了！Netflix CPTO谈程序员未来十年：会写代码和“理解系统”是两回事",
@@ -36,18 +36,18 @@
       "url": "https://www.51cto.com/article/850265.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 用 relationalStore 做本地数据库的完整实战 —— 一个真实项目的 5 个决策",
       "url": "https://ost.51cto.com/posts/53043",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -66,10 +66,10 @@
       "url": "https://www.51cto.com/article/850262.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "赋能全球 AI 创新，GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案重磅亮相 WAIC 2026",
@@ -96,10 +96,10 @@
       "url": "https://www.51cto.com/article/850253.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "开源 AIOps 平台，终于有人做出来了",
@@ -126,10 +126,10 @@
       "url": "https://www.51cto.com/article/850249.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Rust 工具链再下一城！Rolldown 1.2 发布，前端构建进入新时代",
@@ -156,10 +156,10 @@
       "url": "https://www.51cto.com/article/850247.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "惊天巨骗！一夜刷爆全球榜单的「神秘实验室」，竟然是假的",
@@ -176,10 +176,10 @@
       "url": "https://www.51cto.com/article/850245.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 编程的 Harness 工程化落地全案",
@@ -196,10 +196,10 @@
       "url": "https://www.51cto.com/article/850244.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "六种 Workflow 组织形状，以及如何组合",
@@ -226,8 +226,8 @@
       "url": "https://ost.51cto.com/posts/53037",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-21T06:15:56",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-21T10:50:43",
+      "consecutive_count": 4,
       "peak_rank": 10,
       "is_new": false
     },

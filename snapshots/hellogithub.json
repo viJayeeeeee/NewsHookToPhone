@@ -1,35 +1,105 @@
 {
-  "update_time": "2026-07-21T06:16:02",
+  "update_time": "2026-07-21T10:50:54",
   "items": [
+    {
+      "title": "基于 Git 的本地 Markdown 知识库工具",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "last_hot_value": "4848",
+      "first_seen_at": "2026-07-21T10:50:54",
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "AI 智能体小镇",
+      "url": "https://github.com/XiaoLuoLYG/GOD",
+      "last_hot_value": "3919",
+      "first_seen_at": "2026-07-21T10:50:54",
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
     {
       "title": "把英语音频变成听说训练的应用",
       "url": "https://github.com/echo-loop/Echo-Loop",
-      "last_hot_value": "2379",
+      "last_hot_value": "2408",
       "first_seen_at": "2026-07-20T10:23:41",
-      "last_seen_at": "2026-07-21T06:16:02",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
     {
+      "title": "从零开始训练大语言模型",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "last_hot_value": "1837",
+      "first_seen_at": "2026-07-21T10:50:54",
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "从零开始学习 AI 工程",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "last_hot_value": "7290",
+      "first_seen_at": "2026-07-21T10:50:54",
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "超低延迟的离线语音输入工具",
+      "url": "https://github.com/HaujetZhao/CapsWriter-Offline",
+      "last_hot_value": "1613",
+      "first_seen_at": "2026-07-21T10:50:54",
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "轻量级跨平台数据库桌面客户端",
+      "url": "https://github.com/t8y2/dbx",
+      "last_hot_value": "7916",
+      "first_seen_at": "2026-07-21T10:50:54",
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "极简的 Windows 桌面便签工具",
       "url": "https://github.com/snownico0722/PaperTodo",
-      "last_hot_value": "1952",
+      "last_hot_value": "1978",
       "first_seen_at": "2026-07-20T10:23:41",
-      "last_seen_at": "2026-07-21T06:16:02",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "开源的 AI 互动课堂平台",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "2059",
+      "last_hot_value": "2077",
       "first_seen_at": "2026-07-20T10:23:41",
-      "last_seen_at": "2026-07-21T06:16:02",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 5,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "一句话生成 CAD 模型的技能包",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "last_hot_value": "1511",
+      "first_seen_at": "2026-07-21T10:50:54",
+      "last_seen_at": "2026-07-21T10:50:54",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     }
   ]
 }
