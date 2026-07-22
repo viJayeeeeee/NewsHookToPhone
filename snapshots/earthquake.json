@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-21T21:00:51",
+  "update_time": "2026-07-22T08:46:17",
   "items": [
     {
-      "title": "M5.0 云南普洱市墨江县",
+      "title": "M3.1 云南普洱市墨江县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.0级",
-      "first_seen_at": "2026-07-21T19:59:11",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 2,
+      "last_hot_value": "3.1级",
+      "first_seen_at": "2026-07-22T08:46:17",
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "M3.7 广西崇左市扶绥县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-07-21T03:39:33",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-07-20T12:29:53",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,28 +36,38 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-07-19T16:32:57",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "M3.3 云南普洱市墨江县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.3级",
+      "first_seen_at": "2026-07-22T08:46:17",
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M5.0 云南普洱市墨江县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.0级",
       "first_seen_at": "2026-07-21T21:00:51",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.1 云南曲靖市师宗县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-07-20T12:29:53",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -66,8 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-07-21T19:59:11",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -76,20 +86,20 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.3级",
       "first_seen_at": "2026-07-21T21:00:51",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.3 新疆克孜勒苏州阿克陶县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.3级",
       "first_seen_at": "2026-07-21T21:00:51",
-      "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-22T08:46:17",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M7.2 墨西哥恰帕斯州沿岸近海",
@@ -97,7 +107,7 @@
       "last_hot_value": "7.2级",
       "first_seen_at": "2026-07-21T19:59:11",
       "last_seen_at": "2026-07-21T21:00:51",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
