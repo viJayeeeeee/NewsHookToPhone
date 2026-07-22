@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-21T14:23:29",
+  "update_time": "2026-07-22T21:47:01",
   "items": [
+    {
+      "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从有趣的词嵌入到文本卷积:用PyTorch拆解NLP文本分类的关键路径)",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/162908843",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-07-22T21:47:01",
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "Claude Code 接蓝耘实测：选第三方 API 的三条铁律",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163052500",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-20T23:13:25",
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "把家里的显卡变成远程AI画室:Stable Diffusion WebUI部署实战",
       "url": "https://blog.csdn.net/2401_87629362/article/details/163045196",
       "last_hot_value": "2.6w",
       "first_seen_at": "2026-07-20T16:12:18",
       "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Claude Code 接蓝耘实测：选第三方 API 的三条铁律",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163052500",
-      "last_hot_value": "2.5w",
-      "first_seen_at": "2026-07-20T23:13:25",
-      "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-20T23:13:25",
       "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,14 +52,14 @@
       "is_new": false
     },
     {
-      "title": "让数据看板随时可见：Grafana + cpolar 远程访问实战",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/162976485",
-      "last_hot_value": "2.8w",
-      "first_seen_at": "2026-07-18T17:35:43",
-      "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "AI 造假泛滥下的跨模态鉴伪解决方案：技术原理与实用工具解析",
+      "url": "https://blog.csdn.net/yuan2019035055/article/details/163104519",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-07-22T21:47:01",
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "AI跨模态鉴伪技术实测",
@@ -82,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "【Linux库制作与原理进阶】从 ELF 装载到延迟绑定：搞懂动态库、GOT 与 PLT",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163081648",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-22T21:47:01",
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "【AI 测评】想用自己的声音给视频配音？Index-TTS本地部署这样做",
       "url": "https://blog.csdn.net/2402_87298751/article/details/163048294",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -104,10 +124,10 @@
     {
       "title": "2026最新5大远程软件硬核横测：ToDesk_向日葵_TeamViewer_UU_AnyDesk，谁配叫画质天花板？",
       "url": "https://blog.csdn.net/2302_78391795/article/details/163033743",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-20T23:13:25",
-      "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -117,7 +137,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-20T10:23:32",
       "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -132,12 +152,22 @@
       "is_new": false
     },
     {
+      "title": "Codex 长期任务五层工作系统：让 AI 跨小时、跨会话持续推进",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162941467",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-22T21:47:01",
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "【Linux网络】深入理解Linux IO多路复用：从本质到select服务器实战",
       "url": "https://blog.csdn.net/2503_91389547/article/details/161928472",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-21T06:15:54",
       "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -152,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "中级OpenGL教程 023：Assimp模型加载全解——从源码到架构的骈文探秘",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/163005474",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-22T21:47:01",
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Re：Linux系统篇（四十五）信号篇·三：一文讲透 Linux 信号保存机制:block,pending,handler三张表到底在做什么",
       "url": "https://blog.csdn.net/Z2314246476/article/details/162894593",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-20T23:13:25",
       "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -177,7 +217,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-21T10:50:41",
       "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -192,14 +232,14 @@
       "is_new": false
     },
     {
-      "title": "Cursor vs Claude Code vs Copilot：2026 年 AI 编程工具怎么选",
-      "url": "https://blog.csdn.net/boyzhaotian/article/details/162931757",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-18T17:35:43",
-      "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "《STL 时空漫游指南》栈上的精灵：SSO 如何让 std::string 在时间的夹缝中起舞——string使用接口详解",
+      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163080954",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-22T21:47:01",
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "GitHub 热榜项目 - 周榜(2026-07-18)",
@@ -222,24 +262,14 @@
       "is_new": false
     },
     {
-      "title": "K100_AI两卡全离线部署超长音视频说话人角色确认转录系统（多轮推理）",
-      "url": "https://blog.csdn.net/pla88888888/article/details/162969112",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-18T17:35:43",
-      "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "【Qt 资源管理】文件路径方案与 QRC 机制",
       "url": "https://blog.csdn.net/2401_86326742/article/details/163019679",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-21T14:23:29",
       "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "深度学习实战-基于CNN+VGG16融合的水稻图像分类识别模型",
@@ -252,14 +282,14 @@
       "is_new": false
     },
     {
-      "title": "国产大模型×魔珐星云：让AI从“能思考“到“能表达“的城市展厅具身交互智能体",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/162969149",
-      "last_hot_value": "8728",
-      "first_seen_at": "2026-07-18T17:35:43",
-      "last_seen_at": "2026-07-18T17:35:43",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "当人眼分辨AI作品开始失效：我在线体验了合合信息 AI 跨模态鉴伪，图片、视频、文本如何被高效识别？",
+      "url": "https://blog.csdn.net/qq_44866828/article/details/163086315",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-22T21:47:01",
+      "last_seen_at": "2026-07-22T21:47:01",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "时光倒流的魔法：深度解析Oracle UNDO表空间回滚段、读一致性与闪回查询的实现原理",
