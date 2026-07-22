@@ -110,5 +110,19 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-07-21T14:23:49",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "csdn",
+    "platform_name": "CSDN",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-07-22T20:48:31",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hostloc",
+    "platform_name": "全球主机交流",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-07-22T20:48:51",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]

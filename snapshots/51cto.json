@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-21T14:23:30",
+  "update_time": "2026-07-22T20:48:32",
   "items": [
+    {
+      "title": "智源多模型测试：大语言模型智能体具备协助绕过现有生物安全机制的技术能力",
+      "url": "https://www.51cto.com/article/850448.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-22T20:48:32",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "NVIDIA Agent Toolkit 扩展全新 Omniverse 库，赋能 AI 智能体构建“仿真就绪”世界",
       "url": "https://www.51cto.com/article/850280.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T14:23:30",
       "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "严重 wp2shell RCE 漏洞：完整细节、PoC 及活跃利用情况",
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
       "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,22 +52,32 @@
       "is_new": false
     },
     {
-      "title": "Driver.js 火了八年，终于更新了！Vue、React 都能直接用",
-      "url": "https://www.51cto.com/article/850265.html",
+      "title": "Linux 内核借助 AI 检测在 24 小时内修复 400 多个漏洞",
+      "url": "https://www.51cto.com/article/850414.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-21T06:15:56",
-      "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-07-22T20:48:32",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "HarmonyOS 用 relationalStore 做本地数据库的完整实战 —— 一个真实项目的 5 个决策",
       "url": "https://ost.51cto.com/posts/53043",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 6,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "Driver.js 火了八年，终于更新了！Vue、React 都能直接用",
+      "url": "https://www.51cto.com/article/850265.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-21T06:15:56",
       "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "Pandas 精通 12：综合实战+常用函数速查，成为数据处理高手",
+      "url": "https://www.51cto.com/article/850426.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-22T20:48:32",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "ICML 2026 | 多智能体系统也能搭积木？Agent Primitives让MAS走向模块化复用",
       "url": "https://www.51cto.com/article/850262.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
       "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -102,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "Cortex：自主切分规划subtask，上海AI Lab提出双向协同Agent实现长程化学操作任务",
+      "url": "https://www.51cto.com/article/850423.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-22T20:48:32",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "告别熬夜值守！AI 智能体搞定 Linux 全自动巡检",
       "url": "https://www.51cto.com/article/850253.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
       "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -132,12 +172,22 @@
       "is_new": false
     },
     {
+      "title": "我在WAIC 2026看见的十大趋势",
+      "url": "https://www.51cto.com/article/850419.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-22T20:48:32",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "告别手动 “救火”！大模型重塑运维排查流程，实现秒级故障定位",
       "url": "https://www.51cto.com/article/850249.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
       "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -162,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "GPT-6为刷榜黑进Hugging Face，捅篓子还得靠GLM-5.2追查...",
+      "url": "https://www.51cto.com/article/850417.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-22T20:48:32",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "手把手做一个 Cursor Agent Window 插件：把个人 SDD AI 工作流变成团队默认能力",
       "url": "https://www.51cto.com/article/850247.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
       "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -182,12 +242,22 @@
       "is_new": false
     },
     {
+      "title": "游玮博士出席WAIC论坛｜筑好通用技术底座，埃夫特&启智交出工业具身落地答卷",
+      "url": "https://www.51cto.com/article/850416.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-22T20:48:32",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "295B 参数开源，日均 Token 涨 20 倍：腾讯混元 Hy3 正式发布",
       "url": "https://www.51cto.com/article/850245.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-21T06:15:56",
       "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -200,6 +270,16 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "爆改GLM-5.2！全球首款200万上下文混合LoRA开源，外挂四大专家彻底治愈技能冲突",
+      "url": "https://www.51cto.com/article/850415.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-22T20:48:32",
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "G行数据库异地灾备建设和切换实践",
@@ -236,8 +316,8 @@
       "url": "https://ost.51cto.com/posts/53037",
       "last_hot_value": "",
       "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-21T14:23:30",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-22T20:48:32",
+      "consecutive_count": 6,
       "peak_rank": 10,
       "is_new": false
     },

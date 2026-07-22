@@ -1,55 +1,55 @@
 {
-  "update_time": "2026-07-21T14:23:26",
+  "update_time": "2026-07-22T20:47:58",
   "items": [
+    {
+      "title": "为什么很多人觉得前端很简单？",
+      "url": "https://juejin.cn/post/7664156897922351110",
+      "last_hot_value": "热度:2007",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 7,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "全网都在吹的 Kimi K3，到底怎么样？",
       "url": "https://juejin.cn/post/7663685196478611506",
       "last_hot_value": "热度:1539",
       "first_seen_at": "2026-07-20T10:23:29",
       "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "为什么很多人觉得前端很简单？",
-      "url": "https://juejin.cn/post/7664156897922351110",
-      "last_hot_value": "热度:1305",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 6,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "用 Kimi K3 交付一个真实项目后：很强，但还有不足",
-      "url": "https://juejin.cn/post/7663313773420462118",
-      "last_hot_value": "热度:936",
-      "first_seen_at": "2026-07-18T17:35:42",
-      "last_seen_at": "2026-07-20T10:23:29",
       "consecutive_count": 0,
-      "peak_rank": 2,
+      "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "AI 又又造词，Graph 就又要替代 Loop 了？",
       "url": "https://juejin.cn/post/7664063148857442347",
-      "last_hot_value": "热度:864",
+      "last_hot_value": "热度:1323",
       "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 6,
-      "peak_rank": 3,
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 7,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "阿里要求全员卸载 Claude Code：事件始末与深层逻辑",
       "url": "https://juejin.cn/post/7663822459978137646",
-      "last_hot_value": "热度:756",
+      "last_hot_value": "热度:1197",
       "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 5,
-      "peak_rank": 4,
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 6,
+      "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "把工具变成可发现能力：鸿蒙端动态能力注册表实践",
+      "url": "https://juejin.cn/post/7664487899659042831",
+      "last_hot_value": "热度:1017",
+      "first_seen_at": "2026-07-22T20:47:58",
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "我被 Kimi K3 榨干了 99 块，还笑出了声——一个程序员的“真香”现场",
@@ -57,7 +57,7 @@
       "last_hot_value": "热度:738",
       "first_seen_at": "2026-07-20T10:23:29",
       "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -74,10 +74,20 @@
     {
       "title": "为什么Spring要“抛弃”Feign？",
       "url": "https://juejin.cn/post/7664407325864558628",
-      "last_hot_value": "热度:549",
+      "last_hot_value": "热度:810",
       "first_seen_at": "2026-07-21T06:15:53",
-      "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 4,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Kimi K3 真实体验：全网评价整理，优缺点一次性说清楚",
+      "url": "https://juejin.cn/post/7663762583839064090",
+      "last_hot_value": "热度:729",
+      "first_seen_at": "2026-07-21T06:15:53",
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -102,13 +112,23 @@
       "is_new": false
     },
     {
-      "title": "前端大裁员背后的恐慌：我们还剩什么底牌？",
-      "url": "https://juejin.cn/post/7662940929595768842",
-      "last_hot_value": "热度:486",
-      "first_seen_at": "2026-07-18T17:35:42",
-      "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 0,
-      "peak_rank": 6,
+      "title": "不用 LangChain，手搓 AI Agent：给大模型装上“手”，让它自己读项目文件",
+      "url": "https://juejin.cn/post/7663854184966389806",
+      "last_hot_value": "热度:621",
+      "first_seen_at": "2026-07-21T06:15:53",
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 4,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "公司要裁员之前，都会有哪些信号？",
+      "url": "https://juejin.cn/post/7664139332774690850",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-07-20T16:12:17",
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 6,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -117,29 +137,19 @@
       "last_hot_value": "热度:468",
       "first_seen_at": "2026-07-21T10:50:39",
       "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "Kimi K3 真实体验：全网评价整理，优缺点一次性说清楚",
-      "url": "https://juejin.cn/post/7663762583839064090",
-      "last_hot_value": "热度:423",
-      "first_seen_at": "2026-07-21T06:15:53",
-      "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 3,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "公司要裁员之前，都会有哪些信号？",
-      "url": "https://juejin.cn/post/7664139332774690850",
-      "last_hot_value": "热度:360",
-      "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 5,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "10万人都在用的 top10 skills，我帮你试了！",
+      "url": "https://juejin.cn/post/7663518981036916770",
+      "last_hot_value": "热度:540",
+      "first_seen_at": "2026-07-22T20:47:58",
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "SQL 语法全兼容，但结果就是不一样——国产化迁移里最难缠的九类隐患",
@@ -162,24 +172,14 @@
       "is_new": false
     },
     {
-      "title": "AI Agent技术栈选择：Vue3 + NestJS + TypeScript 为什么是绝佳组合",
-      "url": "https://juejin.cn/post/7662273240988549135",
-      "last_hot_value": "热度:450",
-      "first_seen_at": "2026-07-18T17:35:42",
-      "last_seen_at": "2026-07-18T17:35:42",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "不用 LangChain，手搓 AI Agent：给大模型装上“手”，让它自己读项目文件",
-      "url": "https://juejin.cn/post/7663854184966389806",
-      "last_hot_value": "热度:378",
-      "first_seen_at": "2026-07-21T06:15:53",
-      "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 3,
+      "title": "如何设计一个优秀的 Skills",
+      "url": "https://juejin.cn/post/7664905579035410441",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-07-22T20:47:58",
+      "last_seen_at": "2026-07-22T20:47:58",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "H5唤起app前端实现方案",
@@ -187,16 +187,6 @@
       "last_hot_value": "热度:279",
       "first_seen_at": "2026-07-20T10:23:29",
       "last_seen_at": "2026-07-20T10:23:29",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "雪花算法ID重复了？惨痛教训：请勿轻易造轮子！",
-      "url": "https://juejin.cn/post/7662887553263992884",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-07-18T17:35:42",
-      "last_seen_at": "2026-07-18T17:35:42",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
@@ -227,16 +217,6 @@
       "last_hot_value": "热度:261",
       "first_seen_at": "2026-07-20T10:23:29",
       "last_seen_at": "2026-07-20T10:23:29",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Agent 开发：主流 Skills 推荐",
-      "url": "https://juejin.cn/post/7662583562122346534",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-07-18T17:35:42",
-      "last_seen_at": "2026-07-18T17:35:42",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
