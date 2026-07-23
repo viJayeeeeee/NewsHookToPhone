@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-23T12:57:50",
+  "update_time": "2026-07-23T16:23:20",
   "items": [
+    {
+      "title": "菲尔兹奖",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%23",
+      "last_hot_value": "9462102",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "厦大回应644分考生误报分校",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E5%9B%9E%E5%BA%94644%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%88%86%E6%A0%A1%23",
       "last_hot_value": "2273928",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "哈兰德亚马尔身价打破历史纪录",
@@ -62,14 +72,24 @@
       "is_new": false
     },
     {
+      "title": "王虹",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%99%B9%23",
+      "last_hot_value": "1859201",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "别让贫困生喝咖啡争议撕裂舆论",
       "url": "https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E4%BA%89%E8%AE%AE%E6%92%95%E8%A3%82%E8%88%86%E8%AE%BA%23",
       "last_hot_value": "1628276",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -132,14 +152,24 @@
       "is_new": false
     },
     {
+      "title": "中国汽车加速全球化布局",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8A%A0%E9%80%9F%E5%85%A8%E7%90%83%E5%8C%96%E5%B8%83%E5%B1%80%23",
+      "last_hot_value": "1428830",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "这份山洪避险口诀请收好",
       "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E5%B1%B1%E6%B4%AA%E9%81%BF%E9%99%A9%E5%8F%A3%E8%AF%80%E8%AF%B7%E6%94%B6%E5%A5%BD%23",
       "last_hot_value": "1131347",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "2026数字丝路发展论坛",
@@ -192,14 +222,24 @@
       "is_new": false
     },
     {
-      "title": "滔搏卖爆了",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%BB%94%E6%90%8F%E5%8D%96%E7%88%86%E4%BA%86%23",
-      "last_hot_value": "1089535",
-      "first_seen_at": "2026-07-23T12:57:50",
-      "last_seen_at": "2026-07-23T12:57:50",
+      "title": "邓煜 知乎",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%85%9C+%E7%9F%A5%E4%B9%8E%23",
+      "last_hot_value": "943233",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
+    },
+    {
+      "title": "滔搏卖爆了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%BB%94%E6%90%8F%E5%8D%96%E7%88%86%E4%BA%86%23",
+      "last_hot_value": "813278",
+      "first_seen_at": "2026-07-23T12:57:50",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "扬州中医院我记住你了",
@@ -222,14 +262,24 @@
       "is_new": false
     },
     {
+      "title": "十个勤天",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%23",
+      "last_hot_value": "891816",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "成毅路过短剧",
       "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%B7%AF%E8%BF%87%E7%9F%AD%E5%89%A7%23",
       "last_hot_value": "630168",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "谁发明的酒店半透明玻璃浴室",
@@ -267,9 +317,9 @@
       "last_hot_value": "399658",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "阿根廷队身价更新",
@@ -322,14 +372,24 @@
       "is_new": false
     },
     {
+      "title": "左眼跳财右眼跳相信科学",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A6%E7%9C%BC%E8%B7%B3%E8%B4%A2%E5%8F%B3%E7%9C%BC%E8%B7%B3%E7%9B%B8%E4%BF%A1%E7%A7%91%E5%AD%A6%23",
+      "last_hot_value": "703934",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "中国女排vs美国女排",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92%23",
       "last_hot_value": "302649",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "阿根廷回应队长未当选最佳球员",
@@ -372,14 +432,24 @@
       "is_new": false
     },
     {
+      "title": "重庆山体崩塌11死50失联",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C11%E6%AD%BB50%E5%A4%B1%E8%81%94%23",
+      "last_hot_value": "624145",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "长鑫科技上市时间定了",
       "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86%23",
       "last_hot_value": "301857",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "A股行情",
@@ -452,14 +522,24 @@
       "is_new": false
     },
     {
+      "title": "王虹邓煜履历",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E5%B1%A5%E5%8E%86%23",
+      "last_hot_value": "618513",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "高分考生误报厦大马来分校不是第一次",
       "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%8E%A6%E5%A4%A7%E9%A9%AC%E6%9D%A5%E5%88%86%E6%A0%A1%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%23",
       "last_hot_value": "300957",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "世子妃终于要有名分了",
@@ -542,14 +622,24 @@
       "is_new": false
     },
     {
+      "title": "鹿晗把共享充电宝价格打下来了",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8A%8A%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86%23",
+      "last_hot_value": "387264",
+      "first_seen_at": "2026-07-23T16:23:20",
+      "last_seen_at": "2026-07-23T16:23:20",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "男子捡到旧彩票守号中5400万",
       "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E6%97%A7%E5%BD%A9%E7%A5%A8%E5%AE%88%E5%8F%B7%E4%B8%AD5400%E4%B8%87%23",
       "last_hot_value": "298824",
       "first_seen_at": "2026-07-23T12:57:50",
       "last_seen_at": "2026-07-23T12:57:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "侯明昊生理性演技",
