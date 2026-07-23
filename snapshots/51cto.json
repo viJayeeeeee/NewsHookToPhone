@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-23T09:38:15",
+  "update_time": "2026-07-23T18:56:53",
   "items": [
+    {
+      "title": "AI预算为何越砍越焦虑？企业最大的盲区是不会给“AI劳动力”记账",
+      "url": "https://www.51cto.com/article/850637.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "AI幻觉最可怕的人类副作用出现了",
       "url": "https://www.51cto.com/article/850519.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,24 +52,14 @@
       "is_new": false
     },
     {
-      "title": "只会写代码的人不够用了！Netflix CPTO谈程序员未来十年：会写代码和“理解系统”是两回事",
-      "url": "https://www.51cto.com/article/850155.html",
+      "title": "AI最大的瓶颈，不是技术，而是老板自己：大部分企业都卡在这一步",
+      "url": "https://www.51cto.com/article/850635.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "面试官问：什么是 Harness 工程？可以这样回答",
-      "url": "https://www.51cto.com/article/850121.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "Agent 工程思考：从 ReAct 到 Agent Harness",
@@ -67,17 +67,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "HarmonyOS 用 relationalStore 做本地数据库的完整实战 —— 一个真实项目的 5 个决策",
-      "url": "https://ost.51cto.com/posts/53043",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -102,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "在数学上把稀疏注意力做对！腾讯Hy开源HiLS-Attention: 计算更少效果更好, 外推512倍",
-      "url": "https://www.51cto.com/article/850116.html",
+      "title": "用 Sloth 自动生成告警规则：从手写到自动化的 SLO 工程实践",
+      "url": "https://www.51cto.com/article/850633.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "告警疲劳终结者：如何用 AIOps 把误报率从 45% 压到 5% 以下",
@@ -117,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -142,24 +132,14 @@
       "is_new": false
     },
     {
-      "title": "赋能全球 AI 创新，GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案重磅亮相 WAIC 2026",
-      "url": "https://www.51cto.com/article/850136.html",
+      "title": "高级工程师会断档！斯坦福AI经济专家：AI先挤压初级岗位，其实是正在透支未来的高级工程师",
+      "url": "https://www.51cto.com/article/850630.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "字节面试官：别再直接让 AI 写代码了，去学习一下 SDD 规格驱动开发",
-      "url": "https://www.51cto.com/article/850112.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "Prometheus + Dify 实战：搭建自动化巡检闭环，实现定时采集指标自动生成运维报告",
@@ -167,7 +147,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -192,24 +172,14 @@
       "is_new": false
     },
     {
-      "title": "开源 AIOps 平台，终于有人做出来了",
-      "url": "https://www.51cto.com/article/850131.html",
+      "title": "JS/TS：TS 空值报错终结者：类型断言 + 可选链实操，彻底规避 Cannot read property",
+      "url": "https://www.51cto.com/article/850623.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "浅谈具身智能 VLA技术发展趋势",
-      "url": "https://www.51cto.com/article/850105.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "面试官：“怎么写好 Prompt？”，我：“写 Prompt 主要就是把问题描述清楚”，他：“……「描述清楚」是空话”",
@@ -217,7 +187,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -242,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "Rust 工具链再下一城！Rolldown 1.2 发布，前端构建进入新时代",
-      "url": "https://www.51cto.com/article/850127.html",
+      "title": "端到端测试是什么？Cypress 与 Playwright 如何选择？",
+      "url": "https://www.51cto.com/article/850620.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-20T23:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "接到需求和 Bug，别让 Claude 直接开写：DAE + ATDD 实战流程",
-      "url": "https://www.51cto.com/article/850100.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T10:23:34",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "英伟达黄仁勋：美国无需害怕中国开源 AI 模型，应警惕国内“封禁”呼声",
@@ -267,7 +227,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -292,14 +252,14 @@
       "is_new": false
     },
     {
-      "title": "惊天巨骗！一夜刷爆全球榜单的「神秘实验室」，竟然是假的",
-      "url": "https://www.51cto.com/article/850099.html",
+      "title": "重磅！无头 Vue3 UI 引擎发布！",
+      "url": "https://www.51cto.com/article/850614.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T10:23:34",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "IMAX大战AI！诺兰刚封神，马斯克官宣Grok重拍《奥德赛》",
@@ -307,7 +267,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -332,14 +292,14 @@
       "is_new": false
     },
     {
-      "title": "AI 编程的 Harness 工程化落地全案",
-      "url": "https://www.51cto.com/article/850097.html",
+      "title": "【HarmonyOS AI】鸿蒙开发者需要搞懂的 AI Coding 概念",
+      "url": "https://ost.51cto.com/posts/53294",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T10:23:34",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "Harness 工程如何进行自改进",
@@ -347,7 +307,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -372,14 +332,14 @@
       "is_new": false
     },
     {
-      "title": "六种 Workflow 组织形状，以及如何组合",
-      "url": "https://www.51cto.com/article/850095.html",
+      "title": "从“动脑”到“动手”！AI智能体或许正在跨越生物安全的红线",
+      "url": "https://www.51cto.com/article/850586.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T10:23:34",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "【HarmonyOS AI】DevEco CLI、Skills、知识库运用AI Coding提效详解",
@@ -387,39 +347,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-23T07:12:37",
       "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 2,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "【HarmonyOS 三方库 】Python 三方库鸿蒙化适配 PC 完整迁移实战",
-      "url": "https://ost.51cto.com/posts/53036",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T10:23:34",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "给 Flutter 鸿蒙 App 接上指纹和人脸认证",
-      "url": "https://ost.51cto.com/posts/53037",
+      "title": "码上鸿蒙·智绘未来# (6/6) Core Vision Kit 骨骼点检测实战：识别 17 个人体关键点，做姿态分析",
+      "url": "https://ost.51cto.com/posts/50496",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-20T16:12:19",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-07-23T18:56:53",
+      "last_seen_at": "2026-07-23T18:56:53",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "手把手带你使用 DevEcoCli 和 DevEcoCode",
-      "url": "https://ost.51cto.com/posts/52998",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-20T10:23:34",
-      "last_seen_at": "2026-07-20T10:23:34",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

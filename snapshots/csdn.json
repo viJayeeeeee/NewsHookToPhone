@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-23T09:38:13",
+  "update_time": "2026-07-23T18:56:52",
   "items": [
+    {
+      "title": "【Linux库制作与原理进阶】从 ELF 装载到延迟绑定：搞懂动态库、GOT 与 PLT",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163081648",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-07-22T21:47:01",
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "初探嵌入式：藏在电器里的隐形电脑",
       "url": "https://blog.csdn.net/Chen_LSN/article/details/163087159",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-22T21:47:01",
       "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-20T23:13:25",
       "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -37,16 +47,6 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-22T21:47:01",
       "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "把家里的显卡变成远程AI画室:Stable Diffusion WebUI部署实战",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163045196",
-      "last_hot_value": "2.6w",
-      "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-21T14:23:29",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -62,16 +62,6 @@
       "is_new": false
     },
     {
-      "title": "AI越来越会“造假“，跨模态鉴伪为什么正在成为AI时代的新基建？",
-      "url": "https://blog.csdn.net/m0_73367097/article/details/163021269",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T23:13:25",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "AI跨模态鉴伪技术实测",
       "url": "https://blog.csdn.net/wtyuong/article/details/163054806",
       "last_hot_value": "1.0w",
@@ -82,23 +72,13 @@
       "is_new": false
     },
     {
-      "title": "基于 DolphinDB 3.00.x 实时聚合计算：多维度聚合实战（从流式引擎到 Cube/Rollup 方法论）",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162978679",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-20T16:12:18",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "远程协助修电脑用什么软件？2026 主流跨端远控工具深度横评",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/162976461",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T10:23:32",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "Nginx- 基于场景的 gzip 调优：不同资源的压缩策略",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157658242",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-23T09:38:13",
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -107,38 +87,18 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-21T06:15:54",
       "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "【AI 测评】想用自己的声音给视频配音？Index-TTS本地部署这样做",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/163048294",
+      "title": "【Linux网络·加餐】HTTPS协议安全",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163072820",
       "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 6,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "【Linux库制作与原理进阶】从 ELF 装载到延迟绑定：搞懂动态库、GOT 与 PLT",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/163081648",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-22T21:47:01",
-      "last_seen_at": "2026-07-22T21:47:01",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "MySQL/PostgreSQL 迁移金仓 KES：LEFT JOIN 丢数据排查与避坑指南",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/163026470",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T23:13:25",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "first_seen_at": "2026-07-23T07:12:36",
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -147,7 +107,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-22T21:47:01",
       "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -162,34 +122,14 @@
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战（19）——策略梯度法",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159690711",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-21T14:23:29",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "CANNBot 实操体验：基于Ascend C的矩阵乘法算子开发",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/162978577",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T10:23:32",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Nginx- 基于场景的 gzip 调优：不同资源的压缩策略",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157658242",
-      "last_hot_value": "1.4w",
+      "title": "PyTorch强化学习实战——基于策略梯度法解决Pong环境",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159764009",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-23T09:38:13",
-      "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Codex 长期任务五层工作系统：让 AI 跨小时、跨会话持续推进",
@@ -202,13 +142,13 @@
       "is_new": false
     },
     {
-      "title": "【共创季稿事节】物的第二人生：HarmonyOS 6.1 AI 物品流转地图全场景实战",
-      "url": "https://blog.csdn.net/2601_95131637/article/details/163001005",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "title": "深度学习实战-基于CNN+VGG16融合的水稻图像分类识别模型",
+      "url": "https://blog.csdn.net/m0_64336780/article/details/162396154",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-21T06:15:54",
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -216,8 +156,8 @@
       "url": "https://blog.csdn.net/2503_92624912/article/details/163005474",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-22T21:47:01",
-      "last_seen_at": "2026-07-22T21:47:01",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": false
     },
@@ -232,22 +172,12 @@
       "is_new": false
     },
     {
-      "title": "【苍穹外卖 day10｜Spring Task、WebSocket 与来单提醒、催单铃声实现】",
-      "url": "https://blog.csdn.net/2502_94242477/article/details/162876623",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-21T10:50:41",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "【计算几何 第四章】线性规划：铸模制造",
       "url": "https://blog.csdn.net/he_zhidan/article/details/163023661",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-23T07:12:36",
       "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -262,44 +192,24 @@
       "is_new": false
     },
     {
-      "title": "人眼看不出的伪造，AI如何识别？实测合合信息跨模态鉴伪与去反光技术",
-      "url": "https://blog.csdn.net/weixin_51390582/article/details/163034837",
-      "last_hot_value": "8375",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T23:13:25",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "GitHub 热榜项目 - 周榜(2026-07-18)",
-      "url": "https://blog.csdn.net/u014390502/article/details/162998093",
-      "last_hot_value": "8816",
-      "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-21T06:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "【C++大型项目之高性能服务器框架 (八) 】Stream流和TcpServer模块",
-      "url": "https://blog.csdn.net/2501_93095927/article/details/162970320",
+      "title": "低配N1也能搭家庭录像中心：Go2RTC与EasyNVR双容器实战",
+      "url": "https://blog.csdn.net/liu_chen_yang/article/details/163132276",
       "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T10:23:32",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-07-23T18:56:52",
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【Linux网络·加餐】HTTPS协议安全",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163072820",
+      "title": "【Linux网络】网络通信实战：UDP & TCP Socket编程实现Echo Server",
+      "url": "https://blog.csdn.net/Miun123/article/details/163002787",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-07-23T18:56:52",
+      "last_seen_at": "2026-07-23T18:56:52",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【Qt 资源管理】文件路径方案与 QRC 机制",
@@ -312,21 +222,11 @@
       "is_new": false
     },
     {
-      "title": "深度学习实战-基于CNN+VGG16融合的水稻图像分类识别模型",
-      "url": "https://blog.csdn.net/m0_64336780/article/details/162396154",
-      "last_hot_value": "9019",
-      "first_seen_at": "2026-07-21T06:15:54",
-      "last_seen_at": "2026-07-21T06:15:54",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "PyTorch强化学习实战——基于策略梯度法解决Pong环境",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159764009",
+      "title": "工业AI总是抓瞎？金仓KES时序数据库让分散数据“一处打通“",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/163085452",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-23T09:38:13",
-      "last_seen_at": "2026-07-23T09:38:13",
+      "first_seen_at": "2026-07-23T18:56:52",
+      "last_seen_at": "2026-07-23T18:56:52",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
@@ -337,16 +237,6 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-22T21:47:01",
       "last_seen_at": "2026-07-22T21:47:01",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "时光倒流的魔法：深度解析Oracle UNDO表空间回滚段、读一致性与闪回查询的实现原理",
-      "url": "https://blog.csdn.net/qq_41840843/article/details/162770938",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-20T10:23:32",
-      "last_seen_at": "2026-07-20T10:23:32",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

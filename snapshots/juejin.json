@@ -1,44 +1,24 @@
 {
-  "update_time": "2026-07-23T09:38:10",
+  "update_time": "2026-07-23T18:56:31",
   "items": [
-    {
-      "title": "AI 又又造词，Graph 就又要替代 Loop 了？",
-      "url": "https://juejin.cn/post/7664063148857442347",
-      "last_hot_value": "热度:1530",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-23T09:38:10",
-      "consecutive_count": 9,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "为什么很多人觉得前端很简单？",
-      "url": "https://juejin.cn/post/7664156897922351110",
-      "last_hot_value": "热度:2007",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "全网都在吹的 Kimi K3，到底怎么样？",
-      "url": "https://juejin.cn/post/7663685196478611506",
-      "last_hot_value": "热度:1539",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-21T14:23:26",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "把工具变成可发现能力：鸿蒙端动态能力注册表实践",
       "url": "https://juejin.cn/post/7664487899659042831",
-      "last_hot_value": "热度:1197",
+      "last_hot_value": "热度:1233",
       "first_seen_at": "2026-07-22T20:47:58",
-      "last_seen_at": "2026-07-23T09:38:10",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-23T18:56:31",
+      "consecutive_count": 4,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "如何设计一个优秀的 Skills",
+      "url": "https://juejin.cn/post/7664905579035410441",
+      "last_hot_value": "热度:909",
+      "first_seen_at": "2026-07-22T20:47:58",
+      "last_seen_at": "2026-07-23T18:56:31",
+      "consecutive_count": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -47,18 +27,18 @@
       "last_hot_value": "热度:1008",
       "first_seen_at": "2026-07-21T06:15:53",
       "last_seen_at": "2026-07-23T09:38:10",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "阿里要求全员卸载 Claude Code：事件始末与深层逻辑",
-      "url": "https://juejin.cn/post/7663822459978137646",
-      "last_hot_value": "热度:1197",
-      "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了",
+      "url": "https://juejin.cn/post/7664904418249900084",
+      "last_hot_value": "热度:828",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-23T18:56:31",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -67,38 +47,28 @@
       "last_hot_value": "热度:918",
       "first_seen_at": "2026-07-21T06:15:53",
       "last_seen_at": "2026-07-23T09:38:10",
-      "consecutive_count": 6,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "我被 Kimi K3 榨干了 99 块，还笑出了声——一个程序员的“真香”现场",
-      "url": "https://juejin.cn/post/7663687263675416595",
-      "last_hot_value": "热度:738",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-21T14:23:26",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "Android CLI 完全指南",
-      "url": "https://juejin.cn/post/7662627075259924506",
-      "last_hot_value": "热度:432",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-20T10:23:29",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "如何设计一个优秀的 Skills",
-      "url": "https://juejin.cn/post/7664905579035410441",
-      "last_hot_value": "热度:675",
-      "first_seen_at": "2026-07-22T20:47:58",
-      "last_seen_at": "2026-07-23T09:38:10",
+      "title": "分享一套我一直在使用的 AICoding 组合拳，小而美的典范。",
+      "url": "https://juejin.cn/post/7664486932710113331",
+      "last_hot_value": "热度:603",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-23T18:56:31",
       "consecutive_count": 3,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Jackson3来了，变化真大！",
+      "url": "https://juejin.cn/post/7664762522155581494",
+      "last_hot_value": "热度:567",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-23T18:56:31",
+      "consecutive_count": 3,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -107,65 +77,25 @@
       "last_hot_value": "热度:639",
       "first_seen_at": "2026-07-23T07:12:33",
       "last_seen_at": "2026-07-23T09:38:10",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "万字长文谈谈Loop Engineering",
-      "url": "https://juejin.cn/post/7663708874660364324",
-      "last_hot_value": "热度:243",
-      "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-21T06:15:53",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "大前端工程师必学：用 BFF 架构搭建安全的 AI 流式应用",
-      "url": "https://juejin.cn/post/7663548569470844991",
-      "last_hot_value": "热度:243",
-      "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-20T23:13:24",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了",
-      "url": "https://juejin.cn/post/7664904418249900084",
-      "last_hot_value": "热度:603",
-      "first_seen_at": "2026-07-23T07:12:33",
-      "last_seen_at": "2026-07-23T09:38:10",
-      "consecutive_count": 2,
+      "title": "Flutter 全新真 3D 实现，用 flutter_scene 能开发一个「我的世界」",
+      "url": "https://juejin.cn/post/7665253291312316479",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-07-23T18:56:31",
+      "last_seen_at": "2026-07-23T18:56:31",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "Jackson3来了，变化真大！",
-      "url": "https://juejin.cn/post/7664762522155581494",
-      "last_hot_value": "热度:504",
-      "first_seen_at": "2026-07-23T07:12:33",
-      "last_seen_at": "2026-07-23T09:38:10",
-      "consecutive_count": 2,
-      "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "不用 LangChain，手搓 AI Agent：给大模型装上“手”，让它自己读项目文件",
       "url": "https://juejin.cn/post/7663854184966389806",
       "last_hot_value": "热度:621",
       "first_seen_at": "2026-07-21T06:15:53",
-      "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "公司要裁员之前，都会有哪些信号？",
-      "url": "https://juejin.cn/post/7664139332774690850",
-      "last_hot_value": "热度:495",
-      "first_seen_at": "2026-07-20T16:12:17",
       "last_seen_at": "2026-07-22T20:47:58",
       "consecutive_count": 0,
       "peak_rank": 7,
@@ -182,6 +112,16 @@
       "is_new": false
     },
     {
+      "title": "如何以前端视角（非0基础）学 Java ？",
+      "url": "https://juejin.cn/post/7665035990350594054",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-07-23T18:56:31",
+      "last_seen_at": "2026-07-23T18:56:31",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "10万人都在用的 top10 skills，我帮你试了！",
       "url": "https://juejin.cn/post/7663518981036916770",
       "last_hot_value": "热度:540",
@@ -192,51 +132,21 @@
       "is_new": false
     },
     {
-      "title": "SQL 语法全兼容，但结果就是不一样——国产化迁移里最难缠的九类隐患",
-      "url": "https://juejin.cn/post/7664063148857360427",
-      "last_hot_value": "热度:207",
-      "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-20T23:13:24",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "AI 写的 React 组件,合并前必查的 6 个坏味道——每个都有代码对比",
-      "url": "https://juejin.cn/post/7663028450609119242",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-20T10:23:29",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "分享一套我一直在使用的 AICoding 组合拳，小而美的典范。",
-      "url": "https://juejin.cn/post/7664486932710113331",
-      "last_hot_value": "热度:468",
-      "first_seen_at": "2026-07-23T07:12:33",
-      "last_seen_at": "2026-07-23T09:38:10",
+      "title": "我受够了每天问“今天吃什么”，于是做了个 AI 菜单工具",
+      "url": "https://juejin.cn/post/7663762583838064666",
+      "last_hot_value": "热度:486",
+      "first_seen_at": "2026-07-23T09:38:10",
+      "last_seen_at": "2026-07-23T18:56:31",
       "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "H5唤起app前端实现方案",
-      "url": "https://juejin.cn/post/7663313773420789798",
-      "last_hot_value": "热度:279",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-20T10:23:29",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "我受够了每天问“今天吃什么”，于是做了个 AI 菜单工具",
-      "url": "https://juejin.cn/post/7663762583838064666",
-      "last_hot_value": "热度:423",
-      "first_seen_at": "2026-07-23T09:38:10",
-      "last_seen_at": "2026-07-23T09:38:10",
+      "title": "2026 年前端大洗牌：React 服务端到 Vite 的底层重构",
+      "url": "https://juejin.cn/post/7664880484322099263",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-07-23T18:56:31",
+      "last_seen_at": "2026-07-23T18:56:31",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
@@ -257,26 +167,6 @@
       "last_hot_value": "热度:171",
       "first_seen_at": "2026-07-20T23:13:24",
       "last_seen_at": "2026-07-20T23:13:24",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "MVI模式的完整历史、误解和现代Android范式",
-      "url": "https://juejin.cn/post/7663380647617839155",
-      "last_hot_value": "热度:153",
-      "first_seen_at": "2026-07-20T16:12:17",
-      "last_seen_at": "2026-07-20T16:12:17",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "学完 Spring Boot 再看 FastAPI，我破防了",
-      "url": "https://juejin.cn/post/7663295933393682467",
-      "last_hot_value": "热度:261",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-20T10:23:29",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
