@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-23T20:06:51",
+  "update_time": "2026-07-23T21:19:03",
   "items": [
     {
       "title": "【Linux库制作与原理进阶】从 ELF 装载到延迟绑定：搞懂动态库、GOT 与 PLT",
       "url": "https://blog.csdn.net/2402_87731470/article/details/163081648",
       "last_hot_value": "2.4w",
       "first_seen_at": "2026-07-22T21:47:01",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://blog.csdn.net/Chen_LSN/article/details/163087159",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "https://blog.csdn.net/qq_41187124/article/details/157658242",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-07-23T09:38:13",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -92,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "深度学习实战-基于CNN+VGG16融合的水稻图像分类识别模型",
+      "url": "https://blog.csdn.net/m0_64336780/article/details/162396154",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-21T06:15:54",
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "【Linux网络·加餐】HTTPS协议安全",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163072820",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -126,8 +136,8 @@
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159764009",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-23T09:38:13",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -146,18 +156,8 @@
       "url": "https://blog.csdn.net/2503_92624912/article/details/163005474",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-22T21:47:01",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "深度学习实战-基于CNN+VGG16融合的水稻图像分类识别模型",
-      "url": "https://blog.csdn.net/m0_64336780/article/details/162396154",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-21T06:15:54",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -174,10 +174,10 @@
     {
       "title": "【计算几何 第四章】线性规划：铸模制造",
       "url": "https://blog.csdn.net/he_zhidan/article/details/163023661",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T09:38:13",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": false
     },
@@ -196,8 +196,8 @@
       "url": "https://blog.csdn.net/Miun123/article/details/163002787",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-23T18:56:52",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -206,8 +206,8 @@
       "url": "https://blog.csdn.net/liu_chen_yang/article/details/163132276",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-23T18:56:52",
-      "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-23T21:19:03",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -227,7 +227,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-23T18:56:52",
       "last_seen_at": "2026-07-23T20:06:51",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
