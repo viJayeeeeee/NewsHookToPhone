@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-22T20:47:58",
+  "update_time": "2026-07-23T07:12:33",
   "items": [
+    {
+      "title": "AI 又又造词，Graph 就又要替代 Loop 了？",
+      "url": "https://juejin.cn/post/7664063148857442347",
+      "last_hot_value": "热度:1458",
+      "first_seen_at": "2026-07-20T10:23:29",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 8,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "为什么很多人觉得前端很简单？",
       "url": "https://juejin.cn/post/7664156897922351110",
       "last_hot_value": "热度:2007",
       "first_seen_at": "2026-07-20T10:23:29",
       "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,13 +32,23 @@
       "is_new": false
     },
     {
-      "title": "AI 又又造词，Graph 就又要替代 Loop 了？",
-      "url": "https://juejin.cn/post/7664063148857442347",
-      "last_hot_value": "热度:1323",
-      "first_seen_at": "2026-07-20T10:23:29",
-      "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 7,
+      "title": "把工具变成可发现能力：鸿蒙端动态能力注册表实践",
+      "url": "https://juejin.cn/post/7664487899659042831",
+      "last_hot_value": "热度:1170",
+      "first_seen_at": "2026-07-22T20:47:58",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 2,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "为什么Spring要“抛弃”Feign？",
+      "url": "https://juejin.cn/post/7664407325864558628",
+      "last_hot_value": "热度:927",
+      "first_seen_at": "2026-07-21T06:15:53",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 5,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -37,19 +57,19 @@
       "last_hot_value": "热度:1197",
       "first_seen_at": "2026-07-20T16:12:17",
       "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "把工具变成可发现能力：鸿蒙端动态能力注册表实践",
-      "url": "https://juejin.cn/post/7664487899659042831",
-      "last_hot_value": "热度:1017",
-      "first_seen_at": "2026-07-22T20:47:58",
-      "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 1,
+      "title": "Kimi K3 真实体验：全网评价整理，优缺点一次性说清楚",
+      "url": "https://juejin.cn/post/7663762583839064090",
+      "last_hot_value": "热度:855",
+      "first_seen_at": "2026-07-21T06:15:53",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 5,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我被 Kimi K3 榨干了 99 块，还笑出了声——一个程序员的“真香”现场",
@@ -72,24 +92,24 @@
       "is_new": false
     },
     {
-      "title": "为什么Spring要“抛弃”Feign？",
-      "url": "https://juejin.cn/post/7664407325864558628",
-      "last_hot_value": "热度:810",
-      "first_seen_at": "2026-07-21T06:15:53",
-      "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 4,
+      "title": "如何设计一个优秀的 Skills",
+      "url": "https://juejin.cn/post/7664905579035410441",
+      "last_hot_value": "热度:612",
+      "first_seen_at": "2026-07-22T20:47:58",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "Kimi K3 真实体验：全网评价整理，优缺点一次性说清楚",
-      "url": "https://juejin.cn/post/7663762583839064090",
-      "last_hot_value": "热度:729",
-      "first_seen_at": "2026-07-21T06:15:53",
-      "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 4,
+      "title": "为什么 skills 装得越多，AI 越笨？最火的那个 skill 只有一句话",
+      "url": "https://juejin.cn/post/7664262170474872884",
+      "last_hot_value": "热度:567",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "万字长文谈谈Loop Engineering",
@@ -112,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "Jackson3来了，变化真大！",
+      "url": "https://juejin.cn/post/7664762522155581494",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "不用 LangChain，手搓 AI Agent：给大模型装上“手”，让它自己读项目文件",
       "url": "https://juejin.cn/post/7663854184966389806",
       "last_hot_value": "热度:621",
       "first_seen_at": "2026-07-21T06:15:53",
       "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -127,7 +157,7 @@
       "last_hot_value": "热度:495",
       "first_seen_at": "2026-07-20T16:12:17",
       "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -142,14 +172,24 @@
       "is_new": false
     },
     {
+      "title": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了",
+      "url": "https://juejin.cn/post/7664904418249900084",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "10万人都在用的 top10 skills，我帮你试了！",
       "url": "https://juejin.cn/post/7663518981036916770",
       "last_hot_value": "热度:540",
       "first_seen_at": "2026-07-22T20:47:58",
       "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SQL 语法全兼容，但结果就是不一样——国产化迁移里最难缠的九类隐患",
@@ -172,11 +212,11 @@
       "is_new": false
     },
     {
-      "title": "如何设计一个优秀的 Skills",
-      "url": "https://juejin.cn/post/7664905579035410441",
-      "last_hot_value": "热度:495",
-      "first_seen_at": "2026-07-22T20:47:58",
-      "last_seen_at": "2026-07-22T20:47:58",
+      "title": "分享一套我一直在使用的 AICoding 组合拳，小而美的典范。",
+      "url": "https://juejin.cn/post/7664486932710113331",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-23T07:12:33",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -190,6 +230,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "通往全干之路之：被迫成为全栈",
+      "url": "https://juejin.cn/post/7664268452512923654",
+      "last_hot_value": "热度:387",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-23T07:12:33",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "从文本到具身：我给 AI Agent 搭了套实时 3D 交互身体",
