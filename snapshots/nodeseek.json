@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-23T18:57:04",
+  "update_time": "2026-07-23T20:07:00",
   "items": [
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:202782 回复:2757",
       "first_seen_at": "2026-07-21T10:50:55",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,30 +16,30 @@
       "url": "https://www.nodeseek.com/post-572284-1",
       "last_hot_value": "查看:49076 回复:180",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
       "url": "https://www.nodeseek.com/post-767126-1",
       "last_hot_value": "查看:5491 回复:110",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AWS更新规则后，水篇教程。",
       "url": "https://www.nodeseek.com/post-408103-1",
       "last_hot_value": "查看:9404 回复:157",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
@@ -56,10 +56,10 @@
       "url": "https://www.nodeseek.com/post-754155-1",
       "last_hot_value": "查看:19400 回复:196",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
@@ -76,8 +76,8 @@
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:217615 回复:2016",
       "first_seen_at": "2026-07-21T10:50:55",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 7,
       "peak_rank": 6,
       "is_new": false
     },
@@ -96,9 +96,19 @@
       "url": "https://www.nodeseek.com/post-287967-1",
       "last_hot_value": "查看:88074 回复:760",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 2,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
+      "url": "https://www.nodeseek.com/post-762899-1",
+      "last_hot_value": "查看:3678 回复:94",
+      "first_seen_at": "2026-07-23T20:07:00",
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -106,20 +116,20 @@
       "url": "https://www.nodeseek.com/post-760916-1",
       "last_hot_value": "查看:5081 回复:88",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NS官方邮箱系统正式版(V2)",
       "url": "https://www.nodeseek.com/post-647200-1",
       "last_hot_value": "查看:67258 回复:574",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T18:57:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T20:07:00",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
