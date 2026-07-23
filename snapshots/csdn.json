@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-23T07:12:36",
+  "update_time": "2026-07-23T09:38:13",
   "items": [
+    {
+      "title": "初探嵌入式：藏在电器里的隐形电脑",
+      "url": "https://blog.csdn.net/Chen_LSN/article/details/163087159",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-07-23T07:12:36",
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "AI 造假泛滥下的跨模态鉴伪解决方案：技术原理与实用工具解析",
       "url": "https://blog.csdn.net/yuan2019035055/article/details/163104519",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-07-22T21:47:01",
-      "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "Claude Code 接蓝耘实测：选第三方 API 的三条铁律",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163052500",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-20T23:13:25",
-      "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-22T21:47:01",
       "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -60,16 +70,6 @@
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
-    },
-    {
-      "title": "初探嵌入式：藏在电器里的隐形电脑",
-      "url": "https://blog.csdn.net/Chen_LSN/article/details/163087159",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
     },
     {
       "title": "AI跨模态鉴伪技术实测",
@@ -106,18 +106,18 @@
       "url": "https://blog.csdn.net/2503_91389547/article/details/161928472",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-07-21T06:15:54",
-      "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "【AI 测评】想用自己的声音给视频配音？Index-TTS本地部署这样做",
       "url": "https://blog.csdn.net/2402_87298751/article/details/163048294",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-20T16:12:18",
-      "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -144,10 +144,10 @@
     {
       "title": "《STL 时空漫游指南》栈上的精灵：SSO 如何让 std::string 在时间的夹缝中起舞——string使用接口详解",
       "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163080954",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-22T21:47:01",
-      "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -182,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "Nginx- 基于场景的 gzip 调优：不同资源的压缩策略",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157658242",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-07-23T09:38:13",
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "Codex 长期任务五层工作系统：让 AI 跨小时、跨会话持续推进",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162941467",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-22T21:47:01",
       "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -232,6 +242,16 @@
       "is_new": false
     },
     {
+      "title": "【计算几何 第四章】线性规划：铸模制造",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/163023661",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-23T07:12:36",
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "智能体国家标准落地：企业合规自查清单（GB/Z 185版）",
       "url": "https://blog.csdn.net/qq_36411553/article/details/163055154",
       "last_hot_value": "1.3w",
@@ -250,16 +270,6 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
-    },
-    {
-      "title": "【计算几何 第四章】线性规划：铸模制造",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/163023661",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
     },
     {
       "title": "GitHub 热榜项目 - 周榜(2026-07-18)",
@@ -284,12 +294,12 @@
     {
       "title": "【Linux网络·加餐】HTTPS协议安全",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163072820",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T07:12:36",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Qt 资源管理】文件路径方案与 QRC 机制",
@@ -310,6 +320,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "PyTorch强化学习实战——基于策略梯度法解决Pong环境",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159764009",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-23T09:38:13",
+      "last_seen_at": "2026-07-23T09:38:13",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "当人眼分辨AI作品开始失效：我在线体验了合合信息 AI 跨模态鉴伪，图片、视频、文本如何被高效识别？",
