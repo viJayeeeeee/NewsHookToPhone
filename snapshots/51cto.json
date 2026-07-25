@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-25T15:16:16",
+  "update_time": "2026-07-25T22:12:50",
   "items": [
     {
       "title": "一次 40 分钟 P0 漏推事故：聊聊 Hermes + Alertmanager 钉钉告警建设",
       "url": "https://www.51cto.com/article/850790.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,22 +32,12 @@
       "is_new": false
     },
     {
-      "title": "智源多模型测试：大语言模型智能体具备协助绕过现有生物安全机制的技术能力",
-      "url": "https://www.51cto.com/article/850448.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-22T20:48:32",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "从 AIOps 到 AI SRE：智能体自主运维的边界，守住这七条安全底线才能平稳落地",
       "url": "https://www.51cto.com/article/850789.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,22 +62,12 @@
       "is_new": false
     },
     {
-      "title": "Linux 内核借助 AI 检测在 24 小时内修复 400 多个漏洞",
-      "url": "https://www.51cto.com/article/850414.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-22T20:48:32",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "HarmonyOS:折叠屏 × 沉浸光感-用 @ComponentV2 做一个会\"变色\"的鸿蒙音乐播放器",
       "url": "https://ost.51cto.com/posts/53419",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -112,22 +92,12 @@
       "is_new": false
     },
     {
-      "title": "Pandas 精通 12：综合实战+常用函数速查，成为数据处理高手",
-      "url": "https://www.51cto.com/article/850426.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-22T20:48:32",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "CVPR'26 | 亮点清华弄了个镜像错觉艺术生成器，支持3D打印",
       "url": "https://www.51cto.com/article/850744.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -152,22 +122,12 @@
       "is_new": false
     },
     {
-      "title": "Cortex：自主切分规划subtask，上海AI Lab提出双向协同Agent实现长程化学操作任务",
-      "url": "https://www.51cto.com/article/850423.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-22T20:48:32",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "从一则真实入侵案例：看懂 AI 辅助域侦察攻击的防御新思路",
       "url": "https://www.51cto.com/article/850738.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -192,22 +152,12 @@
       "is_new": false
     },
     {
-      "title": "我在WAIC 2026看见的十大趋势",
-      "url": "https://www.51cto.com/article/850419.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-22T20:48:32",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "Claude Opus5偷跑，第一波网友实测来了",
       "url": "https://www.51cto.com/article/850735.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -232,22 +182,12 @@
       "is_new": false
     },
     {
-      "title": "GPT-6为刷榜黑进Hugging Face，捅篓子还得靠GLM-5.2追查...",
-      "url": "https://www.51cto.com/article/850417.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-22T20:48:32",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "刚刚，Claude爆改语音！11种语言，就是没中文",
       "url": "https://www.51cto.com/article/850731.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -272,22 +212,12 @@
       "is_new": false
     },
     {
-      "title": "游玮博士出席WAIC论坛｜筑好通用技术底座，埃夫特&启智交出工业具身落地答卷",
-      "url": "https://www.51cto.com/article/850416.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-22T20:48:32",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "梁文锋押注的方向，中国00后团队先交卷了！性能直逼Opus 4.8",
       "url": "https://www.51cto.com/article/850723.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -312,22 +242,12 @@
       "is_new": false
     },
     {
-      "title": "爆改GLM-5.2！全球首款200万上下文混合LoRA开源，外挂四大专家彻底治愈技能冲突",
-      "url": "https://www.51cto.com/article/850415.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-22T20:48:32",
-      "last_seen_at": "2026-07-22T20:48:32",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "Google 开源 OKF：先搞清楚它有什么用，再谈它是什么",
       "url": "https://www.51cto.com/article/850703.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -356,8 +276,8 @@
       "url": "https://ost.51cto.com/posts/53325",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T15:16:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:50",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },

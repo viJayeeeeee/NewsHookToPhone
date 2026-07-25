@@ -1,16 +1,6 @@
 {
-  "update_time": "2026-07-25T15:16:13",
+  "update_time": "2026-07-25T22:12:46",
   "items": [
-    {
-      "title": "如何设计一个优秀的 Skills",
-      "url": "https://juejin.cn/post/7664905579035410441",
-      "last_hot_value": "热度:1827",
-      "first_seen_at": "2026-07-22T20:47:58",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 8,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "AI 又又造词，Graph 就又要替代 Loop 了？",
       "url": "https://juejin.cn/post/7664063148857442347",
@@ -22,52 +12,42 @@
       "is_new": false
     },
     {
-      "title": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了",
-      "url": "https://juejin.cn/post/7664904418249900084",
-      "last_hot_value": "热度:1152",
-      "first_seen_at": "2026-07-23T07:12:33",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 7,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "把工具变成可发现能力：鸿蒙端动态能力注册表实践",
-      "url": "https://juejin.cn/post/7664487899659042831",
-      "last_hot_value": "热度:1233",
-      "first_seen_at": "2026-07-22T20:47:58",
-      "last_seen_at": "2026-07-23T21:19:02",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练",
       "url": "https://juejin.cn/post/7665614902707617827",
-      "last_hot_value": "热度:1098",
+      "last_hot_value": "热度:1215",
       "first_seen_at": "2026-07-25T14:04:36",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 2,
-      "peak_rank": 3,
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "订单号查出了三笔，我以为是数据脏了，其实是自己写错了",
+      "url": "https://juejin.cn/post/7664904418249900084",
+      "last_hot_value": "热度:1161",
+      "first_seen_at": "2026-07-23T07:12:33",
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 8,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "如何以前端视角（非0基础）学 Java ？",
       "url": "https://juejin.cn/post/7665035990350594054",
-      "last_hot_value": "热度:891",
+      "last_hot_value": "热度:927",
       "first_seen_at": "2026-07-23T18:56:31",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "Flutter 全新真 3D 实现，用 flutter_scene 能开发一个「我的世界」",
       "url": "https://juejin.cn/post/7665253291312316479",
-      "last_hot_value": "热度:738",
+      "last_hot_value": "热度:756",
       "first_seen_at": "2026-07-23T18:56:31",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -84,10 +64,10 @@
     {
       "title": "2026 年前端大洗牌：React 服务端到 Vite 的底层重构",
       "url": "https://juejin.cn/post/7664880484322099263",
-      "last_hot_value": "热度:729",
+      "last_hot_value": "热度:738",
       "first_seen_at": "2026-07-23T18:56:31",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 6,
       "peak_rank": 6,
       "is_new": false
     },
@@ -112,42 +92,32 @@
       "is_new": false
     },
     {
-      "title": "OpenAI官方发布最新提示词技巧！",
-      "url": "https://juejin.cn/post/7665417513739780148",
-      "last_hot_value": "热度:432",
+      "title": "HTTP 迎来 16 年来首个全新请求方法：QUERY",
+      "url": "https://juejin.cn/post/7665313565674717230",
+      "last_hot_value": "热度:450",
       "first_seen_at": "2026-07-25T14:04:36",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "HTTP 迎来 16 年来首个全新请求方法：QUERY",
-      "url": "https://juejin.cn/post/7665313565674717230",
-      "last_hot_value": "热度:414",
+      "title": "OpenAI官方发布最新提示词技巧！",
+      "url": "https://juejin.cn/post/7665417513739780148",
+      "last_hot_value": "热度:441",
       "first_seen_at": "2026-07-25T14:04:36",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "10万人都在用的 top10 skills，我帮你试了！",
-      "url": "https://juejin.cn/post/7663518981036916770",
-      "last_hot_value": "热度:540",
-      "first_seen_at": "2026-07-22T20:47:58",
-      "last_seen_at": "2026-07-22T20:47:58",
-      "consecutive_count": 0,
-      "peak_rank": 8,
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 3,
+      "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "哪个服务在跑我自己都说不清，干脆让 doubao-seed-evolving 给我撸了个服务管理器",
       "url": "https://juejin.cn/post/7665539523288563712",
-      "last_hot_value": "热度:396",
+      "last_hot_value": "热度:405",
       "first_seen_at": "2026-07-25T14:04:36",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -164,10 +134,10 @@
     {
       "title": "1k星开源！中医怪杰倪海厦，AI给他\"复活\"了",
       "url": "https://juejin.cn/post/7665266115896016905",
-      "last_hot_value": "热度:369",
+      "last_hot_value": "热度:387",
       "first_seen_at": "2026-07-25T14:04:36",
-      "last_seen_at": "2026-07-25T15:16:13",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:46",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },

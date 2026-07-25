@@ -1,23 +1,43 @@
 {
-  "update_time": "2026-07-25T15:16:25",
+  "update_time": "2026-07-25T22:12:59",
   "items": [
+    {
+      "title": "🧭 Navidash 更新啦！欢迎来定制你的主页！",
+      "url": "https://www.nodeseek.com/post-680214-1",
+      "last_hot_value": "查看:1564 回复:29",
+      "first_seen_at": "2026-07-25T22:12:59",
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
       "url": "https://www.nodeseek.com/post-824558-1",
-      "last_hot_value": "查看:5024 回复:97",
+      "last_hot_value": "查看:5217 回复:98",
       "first_seen_at": "2026-07-25T14:04:47",
-      "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 3,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
+      "url": "https://www.nodeseek.com/post-197087-1",
+      "last_hot_value": "查看:74266 回复:480",
+      "first_seen_at": "2026-07-23T07:12:46",
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
       "url": "https://www.nodeseek.com/post-810146-1",
-      "last_hot_value": "查看:5660 回复:87",
+      "last_hot_value": "查看:6089 回复:91",
       "first_seen_at": "2026-07-25T14:04:47",
-      "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -27,19 +47,29 @@
       "last_hot_value": "查看:49672 回复:181",
       "first_seen_at": "2026-07-23T18:57:04",
       "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:88449 回复:765",
+      "first_seen_at": "2026-07-23T18:57:04",
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 6,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:203221 回复:2763",
+      "last_hot_value": "查看:203591 回复:2769",
       "first_seen_at": "2026-07-25T15:16:25",
-      "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
@@ -52,22 +82,32 @@
       "is_new": false
     },
     {
+      "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
+      "url": "https://www.nodeseek.com/post-828462-1",
+      "last_hot_value": "查看:4063 回复:84",
+      "first_seen_at": "2026-07-25T22:12:59",
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "AWS更新规则后，水篇教程。",
+      "url": "https://www.nodeseek.com/post-408103-1",
+      "last_hot_value": "查看:9763 回复:163",
+      "first_seen_at": "2026-07-23T18:57:04",
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 6,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
       "url": "https://www.nodeseek.com/post-762899-1",
       "last_hot_value": "查看:3754 回复:95",
       "first_seen_at": "2026-07-23T20:07:00",
       "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 4,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "AWS更新规则后，水篇教程。",
-      "url": "https://www.nodeseek.com/post-408103-1",
-      "last_hot_value": "查看:9628 回复:161",
-      "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -82,31 +122,21 @@
       "is_new": false
     },
     {
+      "title": "【知识】简单教你鉴别假CN2GIA",
+      "url": "https://www.nodeseek.com/post-754155-1",
+      "last_hot_value": "查看:19593 回复:199",
+      "first_seen_at": "2026-07-23T18:57:04",
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
       "url": "https://www.nodeseek.com/post-219853-1",
       "last_hot_value": "查看:8078 回复:57",
       "first_seen_at": "2026-07-25T14:04:47",
       "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "【知识】简单教你鉴别假CN2GIA",
-      "url": "https://www.nodeseek.com/post-754155-1",
-      "last_hot_value": "查看:19400 回复:196",
-      "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
-      "url": "https://www.nodeseek.com/post-197087-1",
-      "last_hot_value": "查看:73752 回复:478",
-      "first_seen_at": "2026-07-23T07:12:46",
-      "last_seen_at": "2026-07-23T09:38:24",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
@@ -122,22 +152,12 @@
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:88264 回复:761",
-      "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 5,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "NS官方邮箱系统正式版(V2)",
       "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:67630 回复:577",
+      "last_hot_value": "查看:67888 回复:578",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-25T22:12:59",
+      "consecutive_count": 6,
       "peak_rank": 8,
       "is_new": false
     },
@@ -147,9 +167,9 @@
       "last_hot_value": "查看:218135 回复:2019",
       "first_seen_at": "2026-07-25T15:16:25",
       "last_seen_at": "2026-07-25T15:16:25",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【史诗级更新】【开源】OpenFlare 自建 CDN, 开源版 Cloudflare",
