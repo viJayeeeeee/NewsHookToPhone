@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-25T11:23:24",
+  "update_time": "2026-07-25T17:17:36",
   "items": [
+    {
+      "title": "1998年 30年来柬埔寨首次大选",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "1999年 俄总理斯捷帕申访美 改善俄美关系",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1998年 小渊惠三当选日本首相",
@@ -32,14 +42,24 @@
       "is_new": false
     },
     {
+      "title": "1998年 CIH病毒开始袭击美国",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "1998年 《文汇报》和《新民晚报》组成报业集团",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1998年 美国国会大厦发生枪击事件",
@@ -62,14 +82,24 @@
       "is_new": false
     },
     {
+      "title": "1998年 柬埔寨大选顺利举行 洪森获胜",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "1997年 我国与库克群岛建立外交关系",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1996年 澳天文学家测算宇宙年龄应为110亿岁",
@@ -92,14 +122,24 @@
       "is_new": false
     },
     {
+      "title": "1995年 加利授予驻前南盔总司令空袭决策权",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "1997年 美国波音公司和麦道公司股东批准合并",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1994年 加勒比国家联盟成立",
@@ -122,14 +162,24 @@
       "is_new": false
     },
     {
+      "title": "1982年 西德营救船拯救越南难民",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "1996年 中国首次参加东盟会议",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1993年 政府资产加入拍卖行列",
@@ -152,14 +202,24 @@
       "is_new": false
     },
     {
+      "title": "1978年 第一个试管婴儿在伦敦诞生",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "1996年 布隆迪发生军事政变",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1985年 第一位漂流长江的人尧茂书触礁身亡",
@@ -182,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "1965年 毛泽东提出把医疗卫生工作重点放到农村去",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "1995年 巴黎地铁爆炸案",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1982年 廖承志致信蒋经国促统一",
@@ -212,14 +282,24 @@
       "is_new": false
     },
     {
+      "title": "1963年 南斯拉夫发生地震，1000人死亡",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "1995年 亚太二号”爆炸原因调查结束",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1980年 中共中央在中南海开办科技讲座",
@@ -242,14 +322,24 @@
       "is_new": false
     },
     {
+      "title": "1956年 埃及总统纳赛尔接管苏伊士运河",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "1994年 约旦和以色列两国签署和平宣言",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1978年 迪斯科开始风靡世界",
@@ -272,14 +362,24 @@
       "is_new": false
     },
     {
+      "title": "1956年 国家开始对私营工商业进行社会主义改造",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-25T17:17:36",
+      "last_seen_at": "2026-07-25T17:17:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "1993年 抗美援朝纪念馆在丹东开馆",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T11:23:24",
       "last_seen_at": "2026-07-25T11:23:24",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1977年 作家何其芳逝世",
