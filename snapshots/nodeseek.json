@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-23T21:19:15",
+  "update_time": "2026-07-25T14:04:47",
   "items": [
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:202782 回复:2757",
-      "first_seen_at": "2026-07-21T10:50:55",
-      "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 8,
+      "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
+      "url": "https://www.nodeseek.com/post-824558-1",
+      "last_hot_value": "查看:5024 回复:97",
+      "first_seen_at": "2026-07-25T14:04:47",
+      "last_seen_at": "2026-07-25T14:04:47",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
+      "url": "https://www.nodeseek.com/post-810146-1",
+      "last_hot_value": "查看:5660 回复:87",
+      "first_seen_at": "2026-07-25T14:04:47",
+      "last_seen_at": "2026-07-25T14:04:47",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
       "url": "https://www.nodeseek.com/post-572284-1",
-      "last_hot_value": "查看:49076 回复:180",
+      "last_hot_value": "查看:49672 回复:181",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-25T14:04:47",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -27,17 +37,27 @@
       "last_hot_value": "查看:5491 回复:110",
       "first_seen_at": "2026-07-23T18:57:04",
       "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
+      "url": "https://www.nodeseek.com/post-762899-1",
+      "last_hot_value": "查看:3754 回复:95",
+      "first_seen_at": "2026-07-23T20:07:00",
+      "last_seen_at": "2026-07-25T14:04:47",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "AWS更新规则后，水篇教程。",
       "url": "https://www.nodeseek.com/post-408103-1",
-      "last_hot_value": "查看:9404 回复:157",
+      "last_hot_value": "查看:9628 回复:161",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-25T14:04:47",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -52,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
+      "url": "https://www.nodeseek.com/post-219853-1",
+      "last_hot_value": "查看:8078 回复:57",
+      "first_seen_at": "2026-07-25T14:04:47",
+      "last_seen_at": "2026-07-25T14:04:47",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "【知识】简单教你鉴别假CN2GIA",
       "url": "https://www.nodeseek.com/post-754155-1",
       "last_hot_value": "查看:19400 回复:196",
       "first_seen_at": "2026-07-23T18:57:04",
       "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -69,16 +99,6 @@
       "last_seen_at": "2026-07-23T09:38:24",
       "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:217615 回复:2016",
-      "first_seen_at": "2026-07-21T10:50:55",
-      "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 8,
-      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -94,20 +114,20 @@
     {
       "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
       "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:88074 回复:760",
+      "last_hot_value": "查看:88264 回复:761",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-25T14:04:47",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
-      "url": "https://www.nodeseek.com/post-762899-1",
-      "last_hot_value": "查看:3678 回复:94",
-      "first_seen_at": "2026-07-23T20:07:00",
-      "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 2,
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:67630 回复:577",
+      "first_seen_at": "2026-07-23T18:57:04",
+      "last_seen_at": "2026-07-25T14:04:47",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
@@ -117,18 +137,8 @@
       "last_hot_value": "查看:5081 回复:88",
       "first_seen_at": "2026-07-23T18:57:04",
       "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "NS官方邮箱系统正式版(V2)",
-      "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:67258 回复:574",
-      "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-23T21:19:15",
-      "consecutive_count": 3,
-      "peak_rank": 10,
       "is_new": false
     }
   ]
