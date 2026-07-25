@@ -1,35 +1,45 @@
 {
-  "update_time": "2026-07-25T14:04:47",
+  "update_time": "2026-07-25T15:16:25",
   "items": [
     {
       "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
       "url": "https://www.nodeseek.com/post-824558-1",
       "last_hot_value": "查看:5024 回复:97",
       "first_seen_at": "2026-07-25T14:04:47",
-      "last_seen_at": "2026-07-25T14:04:47",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
       "url": "https://www.nodeseek.com/post-810146-1",
       "last_hot_value": "查看:5660 回复:87",
       "first_seen_at": "2026-07-25T14:04:47",
-      "last_seen_at": "2026-07-25T14:04:47",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
       "url": "https://www.nodeseek.com/post-572284-1",
       "last_hot_value": "查看:49672 回复:181",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-25T14:04:47",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:203221 回复:2763",
+      "first_seen_at": "2026-07-25T15:16:25",
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
@@ -46,8 +56,8 @@
       "url": "https://www.nodeseek.com/post-762899-1",
       "last_hot_value": "查看:3754 回复:95",
       "first_seen_at": "2026-07-23T20:07:00",
-      "last_seen_at": "2026-07-25T14:04:47",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,8 +66,8 @@
       "url": "https://www.nodeseek.com/post-408103-1",
       "last_hot_value": "查看:9628 回复:161",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-25T14:04:47",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -76,10 +86,10 @@
       "url": "https://www.nodeseek.com/post-219853-1",
       "last_hot_value": "查看:8078 回复:57",
       "first_seen_at": "2026-07-25T14:04:47",
-      "last_seen_at": "2026-07-25T14:04:47",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【知识】简单教你鉴别假CN2GIA",
@@ -116,8 +126,8 @@
       "url": "https://www.nodeseek.com/post-287967-1",
       "last_hot_value": "查看:88264 回复:761",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-25T14:04:47",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
@@ -126,10 +136,20 @@
       "url": "https://www.nodeseek.com/post-647200-1",
       "last_hot_value": "查看:67630 回复:577",
       "first_seen_at": "2026-07-23T18:57:04",
-      "last_seen_at": "2026-07-25T14:04:47",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:218135 回复:2019",
+      "first_seen_at": "2026-07-25T15:16:25",
+      "last_seen_at": "2026-07-25T15:16:25",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "【史诗级更新】【开源】OpenFlare 自建 CDN, 开源版 Cloudflare",

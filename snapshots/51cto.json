@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-07-25T14:04:40",
+  "update_time": "2026-07-25T15:16:16",
   "items": [
     {
       "title": "一次 40 分钟 P0 漏推事故：聊聊 Hermes + Alertmanager 钉钉告警建设",
       "url": "https://www.51cto.com/article/850790.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI预算为何越砍越焦虑？企业最大的盲区是不会给“AI劳动力”记账",
@@ -46,10 +46,10 @@
       "url": "https://www.51cto.com/article/850789.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI最大的瓶颈，不是技术，而是老板自己：大部分企业都卡在这一步",
@@ -86,10 +86,10 @@
       "url": "https://ost.51cto.com/posts/53419",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "用 Sloth 自动生成告警规则：从手写到自动化的 SLO 工程实践",
@@ -126,10 +126,10 @@
       "url": "https://www.51cto.com/article/850744.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "高级工程师会断档！斯坦福AI经济专家：AI先挤压初级岗位，其实是正在透支未来的高级工程师",
@@ -166,10 +166,10 @@
       "url": "https://www.51cto.com/article/850738.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "JS/TS：TS 空值报错终结者：类型断言 + 可选链实操，彻底规避 Cannot read property",
@@ -206,10 +206,10 @@
       "url": "https://www.51cto.com/article/850735.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "端到端测试是什么？Cypress 与 Playwright 如何选择？",
@@ -246,10 +246,10 @@
       "url": "https://www.51cto.com/article/850731.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "重磅！无头 Vue3 UI 引擎发布！",
@@ -286,10 +286,10 @@
       "url": "https://www.51cto.com/article/850723.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【HarmonyOS AI】鸿蒙开发者需要搞懂的 AI Coding 概念",
@@ -326,10 +326,10 @@
       "url": "https://www.51cto.com/article/850703.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从“动脑”到“动手”！AI智能体或许正在跨越生物安全的红线",
@@ -356,10 +356,10 @@
       "url": "https://ost.51cto.com/posts/53325",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-25T14:04:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-25T15:16:16",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "码上鸿蒙·智绘未来# (6/6) Core Vision Kit 骨骼点检测实战：识别 17 个人体关键点，做姿态分析",
