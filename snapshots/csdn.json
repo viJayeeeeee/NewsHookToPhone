@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-26T06:27:55",
+  "update_time": "2026-07-26T08:45:49",
   "items": [
     {
       "title": "系统设计 020：数据库备份架构与分片Sharding实战｜MySQL_NoSQL双端深度解析",
       "url": "https://blog.csdn.net/2503_92624912/article/details/163141657",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,42 +22,42 @@
       "is_new": false
     },
     {
-      "title": "初探嵌入式：藏在电器里的隐形电脑",
-      "url": "https://blog.csdn.net/Chen_LSN/article/details/163087159",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T21:19:03",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "把随身WiFi改成网盘聚合器：中兴F50挂载本地存储+夸克网盘实战",
+      "url": "https://blog.csdn.net/2401_82648291/article/details/163158280",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-25T22:12:48",
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "【Linux网络】深入理解UDP：从协议解析到sk_buff内核级UDP通信流程",
       "url": "https://blog.csdn.net/Miun123/article/details/163140704",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "搭一套自己的智能自动化中枢：n8n、DeepSeek与公网Webhook实战(1)",
       "url": "https://blog.csdn.net/SDFsoul/article/details/163143703",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "一文讲透5G RedCap",
       "url": "https://blog.csdn.net/NoBack7/article/details/163137029",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "9478",
       "first_seen_at": "2026-07-25T22:12:48",
-      "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,16 +82,6 @@
       "is_new": false
     },
     {
-      "title": "把随身WiFi改成网盘聚合器：中兴F50挂载本地存储+夸克网盘实战",
-      "url": "https://blog.csdn.net/2401_82648291/article/details/163158280",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-25T22:12:48",
-      "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "【LangChain系列】 with_structured_output 详解：大模型结构化输出全教程",
       "url": "https://blog.csdn.net/hanwangyyds/article/details/162739375",
       "last_hot_value": "8926",
@@ -102,13 +92,13 @@
       "is_new": false
     },
     {
-      "title": "【Linux网络·加餐】HTTPS协议安全",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163072820",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T21:19:03",
-      "consecutive_count": 0,
-      "peak_rank": 4,
+      "title": "【Linux】系统彻底进不去怎么办？initramfs、recovery 与 chroot 救援指南",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163200601",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-07-26T06:27:55",
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -132,34 +122,34 @@
       "is_new": false
     },
     {
-      "title": "Codex Hooks 实战：给 AI 工作流增加确定性门禁",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162941582",
-      "last_hot_value": "8595",
-      "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 4,
+      "title": "【MYSQL】MYSQL学习的一大重点：基本查询（上）",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163141581",
+      "last_hot_value": "9138",
+      "first_seen_at": "2026-07-26T06:27:55",
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "【MYSQL】MYSQL学习的一大重点：基本查询（上）",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163141581",
-      "last_hot_value": "1.0w",
+      "title": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163158948",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-26T06:27:55",
-      "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "【Linux】系统彻底进不去怎么办？initramfs、recovery 与 chroot 救援指南",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/163200601",
-      "last_hot_value": "9384",
-      "first_seen_at": "2026-07-26T06:27:55",
-      "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
+      "title": "Codex Hooks 实战：给 AI 工作流增加确定性门禁",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162941582",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-25T14:04:38",
+      "last_seen_at": "2026-07-26T08:45:49",
+      "consecutive_count": 5,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "Spring Boot自动配置魔法: @EnableAutoConfiguration如何利用spring.factories加载所有配置类？",
@@ -167,16 +157,6 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-25T14:04:38",
       "last_seen_at": "2026-07-25T15:16:15",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "【计算几何 第四章】线性规划：铸模制造",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/163023661",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-23T07:12:36",
-      "last_seen_at": "2026-07-23T21:19:03",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -212,13 +192,13 @@
       "is_new": false
     },
     {
-      "title": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163158948",
-      "last_hot_value": "8460",
-      "first_seen_at": "2026-07-26T06:27:55",
-      "last_seen_at": "2026-07-26T06:27:55",
+      "title": "MySQL数据库原理与实践(三):表的约束",
+      "url": "https://blog.csdn.net/2502_93841997/article/details/163158119",
+      "last_hot_value": "7313",
+      "first_seen_at": "2026-07-26T08:45:49",
+      "last_seen_at": "2026-07-26T08:45:49",
       "consecutive_count": 1,
-      "peak_rank": 9,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -227,9 +207,9 @@
       "last_hot_value": "7444",
       "first_seen_at": "2026-07-26T06:27:55",
       "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "工业AI总是抓瞎？金仓KES时序数据库让分散数据“一处打通“",

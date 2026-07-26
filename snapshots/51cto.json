@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-26T06:27:56",
+  "update_time": "2026-07-26T08:45:51",
   "items": [
     {
       "title": "一次 40 分钟 P0 漏推事故：聊聊 Hermes + Alertmanager 钉钉告警建设",
       "url": "https://www.51cto.com/article/850790.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,22 +22,12 @@
       "is_new": false
     },
     {
-      "title": "AI幻觉最可怕的人类副作用出现了",
-      "url": "https://www.51cto.com/article/850519.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "从 AIOps 到 AI SRE：智能体自主运维的边界，守住这七条安全底线才能平稳落地",
       "url": "https://www.51cto.com/article/850789.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,22 +42,12 @@
       "is_new": false
     },
     {
-      "title": "Agent 工程思考：从 ReAct 到 Agent Harness",
-      "url": "https://www.51cto.com/article/850517.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "HarmonyOS:折叠屏 × 沉浸光感-用 @ComponentV2 做一个会\"变色\"的鸿蒙音乐播放器",
       "url": "https://ost.51cto.com/posts/53419",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,22 +62,12 @@
       "is_new": false
     },
     {
-      "title": "告警疲劳终结者：如何用 AIOps 把误报率从 45% 压到 5% 以下",
-      "url": "https://www.51cto.com/article/850516.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "CVPR'26 | 亮点清华弄了个镜像错觉艺术生成器，支持3D打印",
       "url": "https://www.51cto.com/article/850744.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -112,22 +82,12 @@
       "is_new": false
     },
     {
-      "title": "Prometheus + Dify 实战：搭建自动化巡检闭环，实现定时采集指标自动生成运维报告",
-      "url": "https://www.51cto.com/article/850515.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "从一则真实入侵案例：看懂 AI 辅助域侦察攻击的防御新思路",
       "url": "https://www.51cto.com/article/850738.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,22 +102,12 @@
       "is_new": false
     },
     {
-      "title": "面试官：“怎么写好 Prompt？”，我：“写 Prompt 主要就是把问题描述清楚”，他：“……「描述清楚」是空话”",
-      "url": "https://www.51cto.com/article/850514.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "Claude Opus5偷跑，第一波网友实测来了",
       "url": "https://www.51cto.com/article/850735.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -172,22 +122,12 @@
       "is_new": false
     },
     {
-      "title": "英伟达黄仁勋：美国无需害怕中国开源 AI 模型，应警惕国内“封禁”呼声",
-      "url": "https://www.51cto.com/article/850513.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "刚刚，Claude爆改语音！11种语言，就是没中文",
       "url": "https://www.51cto.com/article/850731.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
@@ -202,22 +142,12 @@
       "is_new": false
     },
     {
-      "title": "IMAX大战AI！诺兰刚封神，马斯克官宣Grok重拍《奥德赛》",
-      "url": "https://www.51cto.com/article/850511.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "梁文锋押注的方向，中国00后团队先交卷了！性能直逼Opus 4.8",
       "url": "https://www.51cto.com/article/850723.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
     },
@@ -232,22 +162,12 @@
       "is_new": false
     },
     {
-      "title": "Harness 工程如何进行自改进",
-      "url": "https://www.51cto.com/article/850509.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "Google 开源 OKF：先搞清楚它有什么用，再谈它是什么",
       "url": "https://www.51cto.com/article/850703.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 9,
       "is_new": false
     },
@@ -262,22 +182,12 @@
       "is_new": false
     },
     {
-      "title": "【HarmonyOS AI】DevEco CLI、Skills、知识库运用AI Coding提效详解",
-      "url": "https://ost.51cto.com/posts/53173",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-23T07:12:37",
-      "last_seen_at": "2026-07-23T09:38:15",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "我用两个豆包模型，给文章做了一个“自动配图”小工具",
       "url": "https://ost.51cto.com/posts/53325",
       "last_hot_value": "",
       "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T06:27:56",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-26T08:45:51",
+      "consecutive_count": 5,
       "peak_rank": 10,
       "is_new": false
     },

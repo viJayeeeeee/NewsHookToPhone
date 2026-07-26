@@ -1,35 +1,35 @@
 {
-  "update_time": "2026-07-26T06:28:05",
+  "update_time": "2026-07-26T08:46:23",
   "items": [
+    {
+      "title": "1.13.7Typora离线授权逆向",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-26T08:46:23",
+      "last_seen_at": "2026-07-26T08:46:23",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "电脑IP地址快速切换",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
+      "consecutive_count": 0,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "库管易仓库管理系统 v20251001",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-26T08:46:23",
+      "last_seen_at": "2026-07-26T08:46:23",
       "consecutive_count": 1,
-      "peak_rank": 1,
+      "peak_rank": 2,
       "is_new": true
-    },
-    {
-      "title": "轻量浏览器：Median Browser v2.1.9",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-23T07:12:48",
-      "last_seen_at": "2026-07-23T21:19:17",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "微信Windows版 v4.1.12.24多开&消息防撤回公测版绿色版x64位（7.22更新）",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-23T07:12:48",
-      "last_seen_at": "2026-07-23T07:12:48",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
     },
     {
       "title": "手写签名设计生成器v1.0",
@@ -37,16 +37,16 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "FFmpeg Mux Tool GUI_v0.1.0.0",
+      "title": "A股智能监控(适合打工人盯盘）",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-26T06:28:05",
-      "last_seen_at": "2026-07-26T06:28:05",
+      "first_seen_at": "2026-07-26T08:46:23",
+      "last_seen_at": "2026-07-26T08:46:23",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
@@ -56,20 +56,30 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-25T15:16:27",
-      "last_seen_at": "2026-07-25T22:13:01",
+      "last_seen_at": "2026-07-26T08:46:23",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "FFmpeg Mux Tool GUI_v0.1.0.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-26T06:28:05",
+      "last_seen_at": "2026-07-26T06:28:05",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "显卡驱动卸载工具 Display Driver Uninstaller (DDU) v18.1.5.6",
+      "title": "IP地址泄露查询工具V1.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-23T07:12:48",
-      "last_seen_at": "2026-07-23T21:19:17",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-07-26T08:46:23",
+      "last_seen_at": "2026-07-26T08:46:23",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "剪映 CapCut 国际版 V9.0.0",
@@ -77,9 +87,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "光鸭云盘Windows版(1.0.0)上线",
@@ -92,24 +102,14 @@
       "is_new": false
     },
     {
-      "title": "[更新]原创python 工具箱 v1.1|版本管理/切换|打包exe|py/SQL/JSON格式化等",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-23T07:12:48",
-      "last_seen_at": "2026-07-25T14:04:49",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "Ollama本地大模型管理器（更新）v1.1.19",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "磁力链 BT 种子获取工具 (Magnet Fetcher)版本: 1.0.0",
@@ -122,13 +122,33 @@
       "is_new": false
     },
     {
+      "title": "IT资产管理系统V1.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-26T08:46:23",
+      "last_seen_at": "2026-07-26T08:46:23",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "图片切割裁剪工具v2.0（可视化自由添加横纵切割线）",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "图片去水印工具 WatermarkRemover V1.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-26T08:46:23",
+      "last_seen_at": "2026-07-26T08:46:23",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -137,9 +157,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "流氓软件克星：专治各种“我没同意你就往电脑和右键菜单里塞东西”",
@@ -167,9 +187,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【图片分类工具】眼镜猴智图分拣TarsierClipSort",
@@ -182,14 +202,24 @@
       "is_new": false
     },
     {
+      "title": "全球网测 v4.4.8",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-26T08:46:23",
+      "last_seen_at": "2026-07-26T08:46:23",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "[2026-07-24更新]键鼠精灵1.64",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "百度网盘体验版 13.0.999",
@@ -217,9 +247,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-26T06:28:05",
       "last_seen_at": "2026-07-26T06:28:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "多功能工具箱V6.1",
