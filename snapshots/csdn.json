@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-25T22:12:48",
+  "update_time": "2026-07-26T06:27:55",
   "items": [
+    {
+      "title": "系统设计 020：数据库备份架构与分片Sharding实战｜MySQL_NoSQL双端深度解析",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/163141657",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-07-25T14:04:38",
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Agent & AI 名词大扫盲",
       "url": "https://blog.csdn.net/2401_89111612/article/details/163132016",
       "last_hot_value": "2.7w",
       "first_seen_at": "2026-07-25T14:04:38",
       "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,34 +32,34 @@
       "is_new": false
     },
     {
-      "title": "搭一套自己的智能自动化中枢：n8n、DeepSeek与公网Webhook实战(1)",
-      "url": "https://blog.csdn.net/SDFsoul/article/details/163143703",
-      "last_hot_value": "7555",
+      "title": "【Linux网络】深入理解UDP：从协议解析到sk_buff内核级UDP通信流程",
+      "url": "https://blog.csdn.net/Miun123/article/details/163140704",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "系统设计 020：数据库备份架构与分片Sharding实战｜MySQL_NoSQL双端深度解析",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/163141657",
-      "last_hot_value": "1.8w",
+      "title": "搭一套自己的智能自动化中枢：n8n、DeepSeek与公网Webhook实战(1)",
+      "url": "https://blog.csdn.net/SDFsoul/article/details/163143703",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "一文讲透5G RedCap",
       "url": "https://blog.csdn.net/NoBack7/article/details/163137029",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-25T22:12:48",
-      "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "内网穿透的应用-把飞牛NAS变成家庭录像中心：EasyNVR部署与远程回放实战",
@@ -72,22 +82,22 @@
       "is_new": false
     },
     {
+      "title": "把随身WiFi改成网盘聚合器：中兴F50挂载本地存储+夸克网盘实战",
+      "url": "https://blog.csdn.net/2401_82648291/article/details/163158280",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-25T22:12:48",
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "【LangChain系列】 with_structured_output 详解：大模型结构化输出全教程",
       "url": "https://blog.csdn.net/hanwangyyds/article/details/162739375",
       "last_hot_value": "8926",
       "first_seen_at": "2026-07-25T14:04:38",
       "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【Linux网络】深入理解UDP：从协议解析到sk_buff内核级UDP通信流程",
-      "url": "https://blog.csdn.net/Miun123/article/details/163140704",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -107,9 +117,9 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-25T22:12:48",
       "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "PyTorch强化学习实战——基于策略梯度法解决Pong环境",
@@ -124,12 +134,32 @@
     {
       "title": "Codex Hooks 实战：给 AI 工作流增加确定性门禁",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162941582",
-      "last_hot_value": "7965",
+      "last_hot_value": "8595",
       "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "【MYSQL】MYSQL学习的一大重点：基本查询（上）",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163141581",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-26T06:27:55",
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "【Linux】系统彻底进不去怎么办？initramfs、recovery 与 chroot 救援指南",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163200601",
+      "last_hot_value": "9384",
+      "first_seen_at": "2026-07-26T06:27:55",
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "Spring Boot自动配置魔法: @EnableAutoConfiguration如何利用spring.factories加载所有配置类？",
@@ -152,22 +182,12 @@
       "is_new": false
     },
     {
-      "title": "把随身WiFi改成网盘聚合器：中兴F50挂载本地存储+夸克网盘实战",
-      "url": "https://blog.csdn.net/2401_82648291/article/details/163158280",
-      "last_hot_value": "7917",
-      "first_seen_at": "2026-07-25T22:12:48",
-      "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
       "title": "KingbaseES 优化器底层逻辑：等价变换如何改写 SQL，条件调度如何驱动运行时",
       "url": "https://blog.csdn.net/qq_57761637/article/details/163175247",
       "last_hot_value": "7784",
       "first_seen_at": "2026-07-25T14:04:38",
       "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -190,6 +210,26 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163158948",
+      "last_hot_value": "8460",
+      "first_seen_at": "2026-07-26T06:27:55",
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "热词驱动，智辨声纹——从ASR热词到说话人日志的尝试：海光DCU环境部署FunASR热词语音识别系统（说话人日志已集成，含完整代码）",
+      "url": "https://blog.csdn.net/pla88888888/article/details/163133208",
+      "last_hot_value": "7444",
+      "first_seen_at": "2026-07-26T06:27:55",
+      "last_seen_at": "2026-07-26T06:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "工业AI总是抓瞎？金仓KES时序数据库让分散数据“一处打通“",
