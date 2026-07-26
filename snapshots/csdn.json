@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-26T08:45:49",
+  "update_time": "2026-07-26T21:35:19",
   "items": [
+    {
+      "title": "【Linux】系统彻底进不去怎么办？initramfs、recovery 与 chroot 救援指南",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163200601",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-26T06:27:55",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "系统设计 020：数据库备份架构与分片Sharding实战｜MySQL_NoSQL双端深度解析",
       "url": "https://blog.csdn.net/2503_92624912/article/details/163141657",
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-07-25T14:04:38",
       "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,22 +32,32 @@
       "is_new": false
     },
     {
-      "title": "把随身WiFi改成网盘聚合器：中兴F50挂载本地存储+夸克网盘实战",
-      "url": "https://blog.csdn.net/2401_82648291/article/details/163158280",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-25T22:12:48",
-      "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 3,
+      "title": "HarmonyOS应用《玄象》开发实战：玄象项目总览：ArkTS 工程结构与 module.json5 权限声明实战",
+      "url": "https://blog.csdn.net/weixin_72566747/article/details/163220142",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-26T21:35:19",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【Linux网络】深入理解UDP：从协议解析到sk_buff内核级UDP通信流程",
       "url": "https://blog.csdn.net/Miun123/article/details/163140704",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-25T14:04:38",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 6,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "把随身WiFi改成网盘聚合器：中兴F50挂载本地存储+夸克网盘实战",
+      "url": "https://blog.csdn.net/2401_82648291/article/details/163158280",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-25T22:12:48",
       "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,9 +67,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-25T14:04:38",
       "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "给 Agent 一把懂数据库的钥匙：KEMCC 如何支撑下一代智能运维",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/163175445",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-26T21:35:19",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "一文讲透5G RedCap",
@@ -57,7 +87,7 @@
       "last_hot_value": "9478",
       "first_seen_at": "2026-07-25T22:12:48",
       "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -67,16 +97,6 @@
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-07-25T14:04:38",
       "last_seen_at": "2026-07-25T15:16:15",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Nginx- 基于场景的 gzip 调优：不同资源的压缩策略",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157658242",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-23T09:38:13",
-      "last_seen_at": "2026-07-23T21:19:03",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -92,12 +112,12 @@
       "is_new": false
     },
     {
-      "title": "【Linux】系统彻底进不去怎么办？initramfs、recovery 与 chroot 救援指南",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/163200601",
+      "title": "Codex Hooks 实战：给 AI 工作流增加确定性门禁",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162941582",
       "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-26T06:27:55",
-      "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-07-25T14:04:38",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,14 +132,14 @@
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战——基于策略梯度法解决Pong环境",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159764009",
-      "last_hot_value": "9021",
-      "first_seen_at": "2026-07-23T09:38:13",
-      "last_seen_at": "2026-07-25T15:16:15",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "【数据库】CRUD--查",
+      "url": "https://blog.csdn.net/2601_95402431/article/details/162895581",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-26T21:35:19",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "【MYSQL】MYSQL学习的一大重点：基本查询（上）",
@@ -127,7 +147,7 @@
       "last_hot_value": "9138",
       "first_seen_at": "2026-07-26T06:27:55",
       "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -137,19 +157,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-26T06:27:55",
       "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "Codex Hooks 实战：给 AI 工作流增加确定性门禁",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162941582",
+      "title": "Re：Linux系统篇（四十六）信号篇·四：一文串联操作系统底层：时钟中断、内核态切换、系统调用与 Linux 信号处理全解析",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/162991793",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 5,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-07-26T21:35:19",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "Spring Boot自动配置魔法: @EnableAutoConfiguration如何利用spring.factories加载所有配置类？",
@@ -162,34 +182,34 @@
       "is_new": false
     },
     {
+      "title": "【AI智能体】Cursor 多智能体编程模式实战项目详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/161935352",
+      "last_hot_value": "8741",
+      "first_seen_at": "2026-07-26T21:35:19",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "KingbaseES 优化器底层逻辑：等价变换如何改写 SQL，条件调度如何驱动运行时",
       "url": "https://blog.csdn.net/qq_57761637/article/details/163175247",
-      "last_hot_value": "7784",
+      "last_hot_value": "8585",
       "first_seen_at": "2026-07-25T14:04:38",
-      "last_seen_at": "2026-07-25T22:12:48",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "【Linux网络】网络通信实战：UDP & TCP Socket编程实现Echo Server",
-      "url": "https://blog.csdn.net/Miun123/article/details/163002787",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-23T18:56:52",
-      "last_seen_at": "2026-07-23T21:19:03",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "低配N1也能搭家庭录像中心：Go2RTC与EasyNVR双容器实战",
-      "url": "https://blog.csdn.net/liu_chen_yang/article/details/163132276",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-23T18:56:52",
-      "last_seen_at": "2026-07-23T21:19:03",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "2kol七月限时彩蛋开源领取",
+      "url": "https://blog.csdn.net/qq_29864051/article/details/163199325",
+      "last_hot_value": "8429",
+      "first_seen_at": "2026-07-26T21:35:19",
+      "last_seen_at": "2026-07-26T21:35:19",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "MySQL数据库原理与实践(三):表的约束",
@@ -197,9 +217,9 @@
       "last_hot_value": "7313",
       "first_seen_at": "2026-07-26T08:45:49",
       "last_seen_at": "2026-07-26T08:45:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "热词驱动，智辨声纹——从ASR热词到说话人日志的尝试：海光DCU环境部署FunASR热词语音识别系统（说话人日志已集成，含完整代码）",
@@ -207,16 +227,6 @@
       "last_hot_value": "7444",
       "first_seen_at": "2026-07-26T06:27:55",
       "last_seen_at": "2026-07-26T06:27:55",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "工业AI总是抓瞎？金仓KES时序数据库让分散数据“一处打通“",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/163085452",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-23T18:56:52",
-      "last_seen_at": "2026-07-23T20:06:51",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
