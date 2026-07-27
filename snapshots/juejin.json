@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-26T21:35:17",
+  "update_time": "2026-07-27T16:14:49",
   "items": [
+    {
+      "title": "AI 会不会取代前端？我看了 2026 年 7 月整个市场，给你一个不吓人的答案",
+      "url": "https://juejin.cn/post/7666019880676622345",
+      "last_hot_value": "热度:927",
+      "first_seen_at": "2026-07-27T16:14:49",
+      "last_seen_at": "2026-07-27T16:14:49",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练",
       "url": "https://juejin.cn/post/7665614902707617827",
       "last_hot_value": "热度:1971",
       "first_seen_at": "2026-07-25T14:04:36",
       "last_seen_at": "2026-07-26T21:35:17",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,11 +34,31 @@
     {
       "title": "TRAE SOLO实战：实现一个桌面3D助手",
       "url": "https://juejin.cn/post/7665981990437797914",
-      "last_hot_value": "热度:603",
+      "last_hot_value": "热度:882",
       "first_seen_at": "2026-07-26T06:27:53",
-      "last_seen_at": "2026-07-26T21:35:17",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-27T16:14:49",
+      "consecutive_count": 4,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "Kimi K3太牛了！但老板说API太贵，让我本地化部署，我算完成本，他涨红脸沉默不语了！其实成本不高，三千万足矣。",
+      "url": "https://juejin.cn/post/7666482995197722630",
+      "last_hot_value": "热度:765",
+      "first_seen_at": "2026-07-27T16:14:49",
+      "last_seen_at": "2026-07-27T16:14:49",
+      "consecutive_count": 1,
       "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "01｜（前端转全栈）前端人第一次打开 Spring Boot 项目，应该先看哪里？",
+      "url": "https://juejin.cn/post/7665607110682918918",
+      "last_hot_value": "热度:513",
+      "first_seen_at": "2026-07-26T21:35:17",
+      "last_seen_at": "2026-07-27T16:14:49",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -37,19 +67,29 @@
       "last_hot_value": "热度:549",
       "first_seen_at": "2026-07-25T14:04:36",
       "last_seen_at": "2026-07-26T21:35:17",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "快速过下我2026年上半年的前端学了些啥",
+      "url": "https://juejin.cn/post/7665983042767781915",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-07-26T21:35:17",
+      "last_seen_at": "2026-07-27T16:14:49",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "Flutter 3D 渲染的全新选择和应用场景",
       "url": "https://juejin.cn/post/7665563875712450623",
-      "last_hot_value": "热度:378",
+      "last_hot_value": "热度:450",
       "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-26T21:35:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-27T16:14:49",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Vue 3.6 Vapor Mode vs React 19 Compiler：前端架构的两条分叉路",
@@ -57,9 +97,19 @@
       "last_hot_value": "热度:288",
       "first_seen_at": "2026-07-26T21:35:17",
       "last_seen_at": "2026-07-26T21:35:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Opus 5 深夜炸场，价格还挺香。。。",
+      "url": "https://juejin.cn/post/7665969355775049774",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-07-26T21:35:17",
+      "last_seen_at": "2026-07-27T16:14:49",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "一种前端大屏适配方案",
@@ -67,9 +117,9 @@
       "last_hot_value": "热度:288",
       "first_seen_at": "2026-07-26T21:35:17",
       "last_seen_at": "2026-07-26T21:35:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenAI官方发布最新提示词技巧！",
@@ -82,21 +132,21 @@
       "is_new": false
     },
     {
-      "title": "Opus 5 深夜炸场，价格还挺香。。。",
-      "url": "https://juejin.cn/post/7665969355775049774",
-      "last_hot_value": "热度:252",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-26T21:35:17",
+      "title": "开箱即用的 Flutter 通用脚手架——FlutterKit",
+      "url": "https://juejin.cn/post/7666446436604739611",
+      "last_hot_value": "热度:288",
+      "first_seen_at": "2026-07-27T16:14:49",
+      "last_seen_at": "2026-07-27T16:14:49",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
     },
     {
-      "title": "快速过下我2026年上半年的前端学了些啥",
-      "url": "https://juejin.cn/post/7665983042767781915",
-      "last_hot_value": "热度:234",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-26T21:35:17",
+      "title": "为什么越来越多人使用WebFlux？",
+      "url": "https://juejin.cn/post/7665981990437814298",
+      "last_hot_value": "热度:279",
+      "first_seen_at": "2026-07-27T16:14:49",
+      "last_seen_at": "2026-07-27T16:14:49",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -112,11 +162,11 @@
       "is_new": false
     },
     {
-      "title": "01｜（前端转全栈）前端人第一次打开 Spring Boot 项目，应该先看哪里？",
-      "url": "https://juejin.cn/post/7665607110682918918",
-      "last_hot_value": "热度:234",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-26T21:35:17",
+      "title": "抛弃低效SSH！这套Ansible+Web可视化神器，让你天天准点下班！",
+      "url": "https://juejin.cn/post/7665961135787933730",
+      "last_hot_value": "热度:261",
+      "first_seen_at": "2026-07-27T16:14:49",
+      "last_seen_at": "2026-07-27T16:14:49",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

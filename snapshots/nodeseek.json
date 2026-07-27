@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-26T21:35:28",
+  "update_time": "2026-07-27T16:15:10",
   "items": [
+    {
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:88665 回复:768",
+      "first_seen_at": "2026-07-27T16:15:10",
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "🧭 Navidash 更新啦！欢迎来定制你的主页！",
       "url": "https://www.nodeseek.com/post-680214-1",
       "last_hot_value": "查看:1622 回复:30",
       "first_seen_at": "2026-07-25T22:12:59",
-      "last_seen_at": "2026-07-26T21:35:28",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.nodeseek.com/post-810146-1",
       "last_hot_value": "查看:6278 回复:93",
       "first_seen_at": "2026-07-25T14:04:47",
-      "last_seen_at": "2026-07-26T21:35:28",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,18 +46,28 @@
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:204027 回复:2778",
       "first_seen_at": "2026-07-25T15:16:25",
-      "last_seen_at": "2026-07-26T21:35:28",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:68231 回复:583",
+      "first_seen_at": "2026-07-27T16:15:10",
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
       "url": "https://www.nodeseek.com/post-828462-1",
       "last_hot_value": "查看:4167 回复:85",
       "first_seen_at": "2026-07-25T22:12:59",
-      "last_seen_at": "2026-07-26T21:35:28",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,8 +76,8 @@
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:219081 回复:2022",
       "first_seen_at": "2026-07-25T15:16:25",
-      "last_seen_at": "2026-07-26T21:35:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,30 +96,30 @@
       "url": "https://www.nodeseek.com/post-116193-1",
       "last_hot_value": "查看:30898 回复:247",
       "first_seen_at": "2026-07-26T21:35:28",
-      "last_seen_at": "2026-07-26T21:35:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:735460 回复:1150",
       "first_seen_at": "2026-07-26T21:35:28",
-      "last_seen_at": "2026-07-26T21:35:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
       "url": "https://www.nodeseek.com/post-824182-1",
       "last_hot_value": "查看:691 回复:18",
       "first_seen_at": "2026-07-26T21:35:28",
-      "last_seen_at": "2026-07-26T21:35:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-27T16:15:10",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
