@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-26T23:35:48",
+  "update_time": "2026-07-27T21:48:40",
   "items": [
+    {
+      "title": "白夜行",
+      "url": "",
+      "last_hot_value": "8524人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "命运的求索——中国命理学简史及推演方法",
       "url": "",
       "last_hot_value": "1740人在读",
       "first_seen_at": "2026-07-25T11:23:20",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,9 +27,19 @@
       "last_hot_value": "1344人在读",
       "first_seen_at": "2026-07-25T11:23:20",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "解忧杂货店",
+      "url": "",
+      "last_hot_value": "3986人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "奥德赛（张秋子导读版）（全四册）",
@@ -27,9 +47,19 @@
       "last_hot_value": "2130人在读",
       "first_seen_at": "2026-07-25T17:17:32",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "恶意",
+      "url": "",
+      "last_hot_value": "5218人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "夜晚的潜水艇",
@@ -37,19 +67,19 @@
       "last_hot_value": "1716人在读",
       "first_seen_at": "2026-07-26T14:18:24",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "理想国：新译与导读",
+      "title": "嫌疑人X的献身",
       "url": "",
-      "last_hot_value": "2085人在读",
-      "first_seen_at": "2026-07-24T06:16:10",
-      "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 9,
-      "peak_rank": 3,
-      "is_new": false
+      "last_hot_value": "2717人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "长安十二时辰（全集）",
@@ -62,21 +92,21 @@
       "is_new": false
     },
     {
+      "title": "放学后",
+      "url": "",
+      "last_hot_value": "979人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "第一性原理（微信读书特别版）",
       "url": "",
       "last_hot_value": "1791人在读",
       "first_seen_at": "2026-07-26T14:18:24",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 3,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "每一句话语都坐着别的眼睛",
-      "url": "",
-      "last_hot_value": "1057人在读",
-      "first_seen_at": "2026-07-24T10:50:37",
-      "last_seen_at": "2026-07-26T14:18:24",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
@@ -102,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "时生",
+      "url": "",
+      "last_hot_value": "327人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "牧神记（同名国漫原著）",
       "url": "",
       "last_hot_value": "3250人在读",
       "first_seen_at": "2026-07-26T14:18:24",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -122,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "伊加利亚的女儿们",
+      "title": "秘密",
       "url": "",
-      "last_hot_value": "1265人在读",
-      "first_seen_at": "2026-07-24T06:16:10",
-      "last_seen_at": "2026-07-24T12:09:50",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "last_hot_value": "558人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "不要担心2小时和8公里以外的事情",
@@ -137,7 +177,7 @@
       "last_hot_value": "1473人在读",
       "first_seen_at": "2026-07-26T16:32:15",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -162,14 +202,34 @@
       "is_new": false
     },
     {
-      "title": "技术革命与金融资本",
+      "title": "祈祷落幕时",
       "url": "",
-      "last_hot_value": "315人在读",
-      "first_seen_at": "2026-07-24T10:50:37",
-      "last_seen_at": "2026-07-24T12:09:50",
-      "consecutive_count": 0,
+      "last_hot_value": "624人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "新参者",
+      "url": "",
+      "last_hot_value": "506人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "红手指",
+      "url": "",
+      "last_hot_value": "353人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-27T21:48:40",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "八字命理学教程（全三册）：手把手教你从入门到精通",
@@ -177,7 +237,7 @@
       "last_hot_value": "1325人在读",
       "first_seen_at": "2026-07-26T16:32:15",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
