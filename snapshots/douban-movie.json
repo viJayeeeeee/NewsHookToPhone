@@ -1,25 +1,55 @@
 {
-  "update_time": "2026-07-26T19:49:45",
+  "update_time": "2026-07-27T17:58:36",
   "items": [
+    {
+      "title": "年会不能停2！",
+      "url": "https://movie.douban.com/subject/36850814/",
+      "last_hot_value": "0.0",
+      "first_seen_at": "2026-07-27T17:58:36",
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "痴迷",
       "url": "https://movie.douban.com/subject/37450627/",
       "last_hot_value": "7.5",
       "first_seen_at": "2026-07-24T23:20:27",
       "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "奥德赛",
+      "url": "https://movie.douban.com/subject/36808876/",
+      "last_hot_value": "8.2",
+      "first_seen_at": "2026-07-27T17:58:36",
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "森中有林",
       "url": "https://movie.douban.com/subject/36372941/",
       "last_hot_value": "6.3",
       "first_seen_at": "2026-07-24T18:45:10",
-      "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 9,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "群体",
+      "url": "https://movie.douban.com/subject/37096700/",
+      "last_hot_value": "6.2",
+      "first_seen_at": "2026-07-27T17:58:36",
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "公民义警",
@@ -27,19 +57,39 @@
       "last_hot_value": "6.4",
       "first_seen_at": "2026-07-24T18:45:10",
       "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "寒战1994",
+      "url": "https://movie.douban.com/subject/36857924/",
+      "last_hot_value": "7.1",
+      "first_seen_at": "2026-07-27T17:58:36",
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "大濛",
       "url": "https://movie.douban.com/subject/36680492/",
       "last_hot_value": "8.2",
       "first_seen_at": "2026-07-24T23:20:27",
-      "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 8,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "10间敢死队",
+      "url": "https://movie.douban.com/subject/37379599/",
+      "last_hot_value": "6.8",
+      "first_seen_at": "2026-07-27T17:58:36",
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "鬼上车",
@@ -47,17 +97,27 @@
       "last_hot_value": "6.0",
       "first_seen_at": "2026-07-24T18:45:10",
       "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "永远心跳漏一拍",
+      "url": "https://movie.douban.com/subject/37326018/",
+      "last_hot_value": "7.4",
+      "first_seen_at": "2026-07-27T17:58:36",
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "绵羊侦探团",
       "url": "https://movie.douban.com/subject/36918069/",
       "last_hot_value": "7.5",
       "first_seen_at": "2026-07-24T18:45:10",
-      "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 9,
       "peak_rank": 6,
       "is_new": false
     },
@@ -67,8 +127,18 @@
       "last_hot_value": "5.6",
       "first_seen_at": "2026-07-24T18:45:10",
       "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "寻找艾米丽",
+      "url": "https://movie.douban.com/subject/36912404/",
+      "last_hot_value": "7.5",
+      "first_seen_at": "2026-07-24T18:45:10",
+      "last_seen_at": "2026-07-27T17:58:36",
+      "consecutive_count": 9,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -77,7 +147,7 @@
       "last_hot_value": "7.0",
       "first_seen_at": "2026-07-24T18:45:10",
       "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -87,18 +157,8 @@
       "last_hot_value": "6.4",
       "first_seen_at": "2026-07-24T18:45:10",
       "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "寻找艾米丽",
-      "url": "https://movie.douban.com/subject/36912404/",
-      "last_hot_value": "7.5",
-      "first_seen_at": "2026-07-24T18:45:10",
-      "last_seen_at": "2026-07-26T19:49:45",
-      "consecutive_count": 8,
-      "peak_rank": 10,
       "is_new": false
     }
   ]
