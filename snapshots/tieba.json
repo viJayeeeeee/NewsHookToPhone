@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-26T22:37:44",
+  "update_time": "2026-07-27T20:43:00",
   "items": [
+    {
+      "title": "真逗,DeepSeek说要去吃饭",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+      "last_hot_value": "228.8W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "下路对位打穿,BLG三连胜到手",
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356526&topic_name=%E4%B8%8B%E8%B7%AF%E5%AF%B9%E4%BD%8D%E6%89%93%E7%A9%BF%2CBLG%E4%B8%89%E8%BF%9E%E8%83%9C%E5%88%B0%E6%89%8B",
       "last_hot_value": "274.3W讨论",
       "first_seen_at": "2026-07-26T22:37:44",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "资深二次元!菲奖得主桌面有亮点",
@@ -17,7 +27,7 @@
       "last_hot_value": "255.6W讨论",
       "first_seen_at": "2026-07-26T03:53:04",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,14 +52,14 @@
       "is_new": false
     },
     {
-      "title": "BLG.hoya连接,Bin赌气不打",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356467&topic_name=BLG.hoya%E8%BF%9E%E6%8E%A5%2CBin%E8%B5%8C%E6%B0%94%E4%B8%8D%E6%89%93",
-      "last_hot_value": "219.3W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "国Gal坠机,全因主创未成年",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356552&topic_name=%E5%9B%BDGal%E5%9D%A0%E6%9C%BA%2C%E5%85%A8%E5%9B%A0%E4%B8%BB%E5%88%9B%E6%9C%AA%E6%88%90%E5%B9%B4",
+      "last_hot_value": "193.5W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "全员韭菜,动画官推变炒股号",
@@ -57,7 +67,7 @@
       "last_hot_value": "109W讨论",
       "first_seen_at": "2026-07-26T15:32:40",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,24 +92,14 @@
       "is_new": false
     },
     {
-      "title": "言出必行!Shy哥坦言回归原因",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356486&topic_name=%E8%A8%80%E5%87%BA%E5%BF%85%E8%A1%8C%21Shy%E5%93%A5%E5%9D%A6%E8%A8%80%E5%9B%9E%E5%BD%92%E5%8E%9F%E5%9B%A0",
-      "last_hot_value": "203.8W讨论",
-      "first_seen_at": "2026-07-24T15:40:44",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "考古!数学大佬邓煜也是吧友",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356457&topic_name=%E8%80%83%E5%8F%A4%21%E6%95%B0%E5%AD%A6%E5%A4%A7%E4%BD%AC%E9%82%93%E7%85%9C%E4%B9%9F%E6%98%AF%E5%90%A7%E5%8F%8B",
-      "last_hot_value": "202.6W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "台湾爆毒油事件,食安危机升温",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356545&topic_name=%E5%8F%B0%E6%B9%BE%E7%88%86%E6%AF%92%E6%B2%B9%E4%BA%8B%E4%BB%B6%2C%E9%A3%9F%E5%AE%89%E5%8D%B1%E6%9C%BA%E5%8D%87%E6%B8%A9",
+      "last_hot_value": "190.8W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "侵权零成本!电竞选手遭AI换脸",
@@ -107,9 +107,9 @@
       "last_hot_value": "200.6W讨论",
       "first_seen_at": "2026-07-26T22:37:44",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "硬核逃犯32年不用手机终被逮",
@@ -117,7 +117,7 @@
       "last_hot_value": "135.1W讨论",
       "first_seen_at": "2026-07-26T15:32:40",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -142,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "10万悬赏!旭宝全网抓黑粉",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356462&topic_name=10%E4%B8%87%E6%82%AC%E8%B5%8F%21%E6%97%AD%E5%AE%9D%E5%85%A8%E7%BD%91%E6%8A%93%E9%BB%91%E7%B2%89",
-      "last_hot_value": "144.3W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "第十届挺好萌启幕!光头强入围",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356555&topic_name=%E7%AC%AC%E5%8D%81%E5%B1%8A%E6%8C%BA%E5%A5%BD%E8%90%8C%E5%90%AF%E5%B9%95%21%E5%85%89%E5%A4%B4%E5%BC%BA%E5%85%A5%E5%9B%B4",
+      "last_hot_value": "141W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "Hoya辟谣加盟,Bin起驾回宫",
@@ -157,9 +157,9 @@
       "last_hot_value": "149.1W讨论",
       "first_seen_at": "2026-07-26T22:37:44",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "山西路塌现白骨,竟是古战场",
@@ -167,7 +167,7 @@
       "last_hot_value": "104.5W讨论",
       "first_seen_at": "2026-07-26T15:32:40",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -192,24 +192,14 @@
       "is_new": false
     },
     {
-      "title": "菲奖得主被圈走,越南人还在蹭",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356477&topic_name=%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E8%A2%AB%E5%9C%88%E8%B5%B0%2C%E8%B6%8A%E5%8D%97%E4%BA%BA%E8%BF%98%E5%9C%A8%E8%B9%AD",
-      "last_hot_value": "161.8W讨论",
-      "first_seen_at": "2026-07-24T15:40:44",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "显卡再次暴涨,等等党气哭",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356469&topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%2C%E7%AD%89%E7%AD%89%E5%85%9A%E6%B0%94%E5%93%AD",
-      "last_hot_value": "131W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "模特脸变鞋拔子,卫健委介入",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356541&topic_name=%E6%A8%A1%E7%89%B9%E8%84%B8%E5%8F%98%E9%9E%8B%E6%8B%94%E5%AD%90%2C%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A5",
+      "last_hot_value": "110.3W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "哀鸿制作人:风尘女也能是女侠",
@@ -217,7 +207,7 @@
       "last_hot_value": "99.7W讨论",
       "first_seen_at": "2026-07-26T15:32:40",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -242,14 +232,14 @@
       "is_new": false
     },
     {
-      "title": "惨剧重演,高分考生误报厦大分校",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356463&topic_name=%E6%83%A8%E5%89%A7%E9%87%8D%E6%BC%94%2C%E9%AB%98%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%8E%A6%E5%A4%A7%E5%88%86%E6%A0%A1",
-      "last_hot_value": "127.9W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "闹剧结束!Bin哥回归BLG",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356536&topic_name=%E9%97%B9%E5%89%A7%E7%BB%93%E6%9D%9F%21Bin%E5%93%A5%E5%9B%9E%E5%BD%92BLG",
+      "last_hot_value": "84W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "明日方舟羊妈被批媚宅",
@@ -257,7 +247,7 @@
       "last_hot_value": "83.9W讨论",
       "first_seen_at": "2026-07-26T15:32:40",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -272,14 +262,14 @@
       "is_new": false
     },
     {
-      "title": "马克龙致电王虹,硬吹法国教育",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356472&topic_name=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%87%B4%E7%94%B5%E7%8E%8B%E8%99%B9%2C%E7%A1%AC%E5%90%B9%E6%B3%95%E5%9B%BD%E6%95%99%E8%82%B2",
-      "last_hot_value": "86.2W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "碧蓝卡池大改,玩家怒冲策划",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356537&topic_name=%E7%A2%A7%E8%93%9D%E5%8D%A1%E6%B1%A0%E5%A4%A7%E6%94%B9%2C%E7%8E%A9%E5%AE%B6%E6%80%92%E5%86%B2%E7%AD%96%E5%88%92",
+      "last_hot_value": "81.1W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "余霜大方晒孕照,吧友看尴尬",
@@ -287,7 +277,7 @@
       "last_hot_value": "75.5W讨论",
       "first_seen_at": "2026-07-26T15:32:40",
       "last_seen_at": "2026-07-26T22:37:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -302,14 +292,14 @@
       "is_new": false
     },
     {
-      "title": "日本游客锐减,仇越情绪爆发",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356470&topic_name=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%2C%E4%BB%87%E8%B6%8A%E6%83%85%E7%BB%AA%E7%88%86%E5%8F%91",
-      "last_hot_value": "102W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T08:44:59",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "强闯我使馆日本男子被起诉",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356553&topic_name=%E5%BC%BA%E9%97%AF%E6%88%91%E4%BD%BF%E9%A6%86%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%A2%AB%E8%B5%B7%E8%AF%89",
+      "last_hot_value": "65W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "分手败人品,Rookie遭女粉攻击",
@@ -332,24 +322,14 @@
       "is_new": false
     },
     {
-      "title": "JDG开局两连跪,世界赛门票要飞",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356483&topic_name=JDG%E5%BC%80%E5%B1%80%E4%B8%A4%E8%BF%9E%E8%B7%AA%2C%E4%B8%96%E7%95%8C%E8%B5%9B%E9%97%A8%E7%A5%A8%E8%A6%81%E9%A3%9E",
-      "last_hot_value": "102W讨论",
-      "first_seen_at": "2026-07-24T15:40:44",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "左手发际线告急,上单全责",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356466&topic_name=%E5%B7%A6%E6%89%8B%E5%8F%91%E9%99%85%E7%BA%BF%E5%91%8A%E6%80%A5%2C%E4%B8%8A%E5%8D%95%E5%85%A8%E8%B4%A3",
-      "last_hot_value": "73.4W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T08:44:59",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "空调买不起,日本人硬扛高温",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356547&topic_name=%E7%A9%BA%E8%B0%83%E4%B9%B0%E4%B8%8D%E8%B5%B7%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%A1%AC%E6%89%9B%E9%AB%98%E6%B8%A9",
+      "last_hot_value": "56W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "未成年服刑期发现漏罪,被判12年",
@@ -372,24 +352,14 @@
       "is_new": false
     },
     {
-      "title": "麦克阿瑟成韩国守护神",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356481&topic_name=%E9%BA%A6%E5%85%8B%E9%98%BF%E7%91%9F%E6%88%90%E9%9F%A9%E5%9B%BD%E5%AE%88%E6%8A%A4%E7%A5%9E",
-      "last_hot_value": "97.1W讨论",
-      "first_seen_at": "2026-07-24T15:40:44",
-      "last_seen_at": "2026-07-24T15:40:44",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "斩杀尼卡!伊姆双剑捅穿路飞",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356473&topic_name=%E6%96%A9%E6%9D%80%E5%B0%BC%E5%8D%A1%21%E4%BC%8A%E5%A7%86%E5%8F%8C%E5%89%91%E6%8D%85%E7%A9%BF%E8%B7%AF%E9%A3%9E",
-      "last_hot_value": "61.3W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T08:44:59",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "极客湾测续航,安卓机被打脸",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356544&topic_name=%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%B5%8B%E7%BB%AD%E8%88%AA%2C%E5%AE%89%E5%8D%93%E6%9C%BA%E8%A2%AB%E6%89%93%E8%84%B8",
+      "last_hot_value": "54.9W讨论",
+      "first_seen_at": "2026-07-27T20:43:00",
+      "last_seen_at": "2026-07-27T20:43:00",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "爆冷!王楚钦不敌30岁老将",
@@ -397,16 +367,6 @@
       "last_hot_value": "52.3W讨论",
       "first_seen_at": "2026-07-25T16:15:56",
       "last_seen_at": "2026-07-25T16:15:56",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "女生午睡5小时遭领导训斥",
-      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356458&topic_name=%E5%A5%B3%E7%94%9F%E5%8D%88%E7%9D%A15%E5%B0%8F%E6%97%B6%E9%81%AD%E9%A2%86%E5%AF%BC%E8%AE%AD%E6%96%A5",
-      "last_hot_value": "52.1W讨论",
-      "first_seen_at": "2026-07-24T08:44:59",
-      "last_seen_at": "2026-07-24T08:44:59",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

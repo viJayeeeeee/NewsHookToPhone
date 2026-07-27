@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-26T22:37:26",
+  "update_time": "2026-07-27T20:42:52",
   "items": [
+    {
+      "title": "金鹰奖 提名名单",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96+%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23",
+      "last_hot_value": "185013",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "杭州已经发展成这样了吗",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B7%B2%E7%BB%8F%E5%8F%91%E5%B1%95%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23",
       "last_hot_value": "415887",
       "first_seen_at": "2026-07-26T15:32:31",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,24 +62,14 @@
       "is_new": false
     },
     {
-      "title": "歌手排名",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23",
-      "last_hot_value": "4003031",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "赛里木湖打人事件",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%23",
-      "last_hot_value": "2685393",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "美股",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%23",
+      "last_hot_value": "96091",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "群星闪耀时撤档",
@@ -77,9 +77,9 @@
       "last_hot_value": "299428",
       "first_seen_at": "2026-07-26T22:37:26",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "四川九寨沟景区泥石流",
@@ -112,24 +112,14 @@
       "is_new": false
     },
     {
-      "title": "微信撤回消息后可删除提示字",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E6%B6%88%E6%81%AF%E5%90%8E%E5%8F%AF%E5%88%A0%E9%99%A4%E6%8F%90%E7%A4%BA%E5%AD%97%23",
-      "last_hot_value": "1339942",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "王虹教授在清华大学开讲挂谷猜想",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%99%B9%E6%95%99%E6%8E%88%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%BC%80%E8%AE%B2%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3%23",
-      "last_hot_value": "1336222",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "数说中国硬核经济亮点",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%BB%8F%E6%B5%8E%E4%BA%AE%E7%82%B9%23",
+      "last_hot_value": "90638",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "2.5万件物资支持粤赣湘台风救灾",
@@ -137,9 +127,9 @@
       "last_hot_value": "245897",
       "first_seen_at": "2026-07-26T22:37:26",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "新产业跑出中国加速度",
@@ -182,24 +172,14 @@
       "is_new": false
     },
     {
-      "title": "我国社会稳定形势持续向好",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A%E5%BD%A2%E5%8A%BF%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD%23",
-      "last_hot_value": "904549",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "长江十年行",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E5%8D%81%E5%B9%B4%E8%A1%8C%23",
-      "last_hot_value": "1142132",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "徐正溪赵今麦好有药味的父女线",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E6%BA%AA%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%A5%BD%E6%9C%89%E8%8D%AF%E5%91%B3%E7%9A%84%E7%88%B6%E5%A5%B3%E7%BA%BF%23",
+      "last_hot_value": "90001",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "原来请假是不需要理由的",
@@ -207,7 +187,7 @@
       "last_hot_value": "125473",
       "first_seen_at": "2026-07-26T15:32:31",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -232,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "林依轮复刻白鹿周生如故红衣造型",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E8%BD%AE%E5%A4%8D%E5%88%BB%E7%99%BD%E9%B9%BF%E5%91%A8%E7%94%9F%E5%A6%82%E6%95%85%E7%BA%A2%E8%A1%A3%E9%80%A0%E5%9E%8B%23",
-      "last_hot_value": "721200",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "双休和五点下班是什么感觉",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%91%E5%92%8C%E4%BA%94%E7%82%B9%E4%B8%8B%E7%8F%AD%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23",
-      "last_hot_value": "1112085",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "肠癌留了10年逃生窗口期",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%82%A0%E7%99%8C%E7%95%99%E4%BA%8610%E5%B9%B4%E9%80%83%E7%94%9F%E7%AA%97%E5%8F%A3%E6%9C%9F%23",
+      "last_hot_value": "89094",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "怪不得总打不到蚊子",
@@ -257,9 +227,9 @@
       "last_hot_value": "101215",
       "first_seen_at": "2026-07-26T22:37:26",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "不要长期向AI倾泻心事",
@@ -267,7 +237,7 @@
       "last_hot_value": "96640",
       "first_seen_at": "2026-07-26T15:32:31",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -292,24 +262,14 @@
       "is_new": false
     },
     {
-      "title": "Wenbo Bin",
-      "url": "https://s.weibo.com/weibo?q=%23Wenbo+Bin%23",
-      "last_hot_value": "612349",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "白鹿戴假发没遮全",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%88%B4%E5%81%87%E5%8F%91%E6%B2%A1%E9%81%AE%E5%85%A8%23",
-      "last_hot_value": "1064860",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "超过五年没联系的朋友直接删",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%BF%87%E4%BA%94%E5%B9%B4%E6%B2%A1%E8%81%94%E7%B3%BB%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9B%B4%E6%8E%A5%E5%88%A0%23",
+      "last_hot_value": "87658",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "深圳台风",
@@ -342,24 +302,14 @@
       "is_new": false
     },
     {
-      "title": "年会不能停2口碑",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%E5%8F%A3%E7%A2%91%23",
-      "last_hot_value": "533653",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "产妇羊水栓塞抢救11小时换3次血",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E6%8A%A2%E6%95%9111%E5%B0%8F%E6%97%B6%E6%8D%A23%E6%AC%A1%E8%A1%80%23",
-      "last_hot_value": "948082",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "各个行业被AI取代的概率",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87%23",
+      "last_hot_value": "68136",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "电影功夫女足",
@@ -367,9 +317,9 @@
       "last_hot_value": "93759",
       "first_seen_at": "2026-07-26T22:37:26",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "终于明白职场没有朋友的含义了",
@@ -377,7 +327,7 @@
       "last_hot_value": "69531",
       "first_seen_at": "2026-07-26T15:32:31",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -412,24 +362,14 @@
       "is_new": false
     },
     {
-      "title": "小伙在土耳其为孕妻买甜品被刺6刀",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%BA%E5%AD%95%E5%A6%BB%E4%B9%B0%E7%94%9C%E5%93%81%E8%A2%AB%E5%88%BA6%E5%88%80%23",
-      "last_hot_value": "446690",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "瘦了二十斤后手的变化",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%BA%86%E4%BA%8C%E5%8D%81%E6%96%A4%E5%90%8E%E6%89%8B%E7%9A%84%E5%8F%98%E5%8C%96%23",
-      "last_hot_value": "845220",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "肠癌很多人发现就是中晚期",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%82%A0%E7%99%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%91%E7%8E%B0%E5%B0%B1%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F%23",
+      "last_hot_value": "51545",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "亲密关系容易产生轻视",
@@ -437,9 +377,9 @@
       "last_hot_value": "70757",
       "first_seen_at": "2026-07-26T22:37:26",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "张靓颖张天爱看薛之谦演唱会",
@@ -472,14 +412,14 @@
       "is_new": false
     },
     {
-      "title": "周星驰叫迪丽热巴巴爷",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8F%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%B4%E7%88%B7%23",
-      "last_hot_value": "401168",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "第一次对内蒙的地广人稀有了实感",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E5%86%85%E8%92%99%E7%9A%84%E5%9C%B0%E5%B9%BF%E4%BA%BA%E7%A8%80%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F%23",
+      "last_hot_value": "50030",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "长鑫上市 合肥能赚多少",
@@ -512,24 +452,14 @@
       "is_new": false
     },
     {
-      "title": "四字名已经满足不了90后家长了",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%AD%97%E5%90%8D%E5%B7%B2%E7%BB%8F%E6%BB%A1%E8%B6%B3%E4%B8%8D%E4%BA%8690%E5%90%8E%E5%AE%B6%E9%95%BF%E4%BA%86%23",
-      "last_hot_value": "380639",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "彭冠英单手抱白鹿",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%8D%95%E6%89%8B%E6%8A%B1%E7%99%BD%E9%B9%BF%23",
-      "last_hot_value": "401690",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "20岁女孩从18楼坠落奇迹生还",
+      "url": "https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BB%8E18%E6%A5%BC%E5%9D%A0%E8%90%BD%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98%23",
+      "last_hot_value": "46575",
+      "first_seen_at": "2026-07-27T20:42:52",
+      "last_seen_at": "2026-07-27T20:42:52",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "甘肃渭源山洪",
@@ -537,9 +467,9 @@
       "last_hot_value": "55851",
       "first_seen_at": "2026-07-26T22:37:26",
       "last_seen_at": "2026-07-26T22:37:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "张凌赫回复付辛博",
@@ -577,26 +507,6 @@
       "last_hot_value": "426733",
       "first_seen_at": "2026-07-25T16:15:46",
       "last_seen_at": "2026-07-25T16:15:46",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "孙颖莎说我们国乒是一个整体",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%88%91%E4%BB%AC%E5%9B%BD%E4%B9%92%E6%98%AF%E4%B8%80%E4%B8%AA%E6%95%B4%E4%BD%93%23",
-      "last_hot_value": "343499",
-      "first_seen_at": "2026-07-24T15:40:35",
-      "last_seen_at": "2026-07-24T15:40:35",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "BLG Hoya",
-      "url": "https://s.weibo.com/weibo?q=%23BLG+Hoya%23",
-      "last_hot_value": "329348",
-      "first_seen_at": "2026-07-24T08:44:50",
-      "last_seen_at": "2026-07-24T08:44:50",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
