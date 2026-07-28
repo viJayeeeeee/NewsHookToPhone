@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-27T16:14:49",
+  "update_time": "2026-07-28T13:17:12",
   "items": [
+    {
+      "title": "Kimi K3太牛了！但老板说API太贵，让我本地化部署，我算完成本，他涨红脸沉默不语了！其实成本不高，三千万足矣。",
+      "url": "https://juejin.cn/post/7666482995197722630",
+      "last_hot_value": "热度:1755",
+      "first_seen_at": "2026-07-27T16:14:49",
+      "last_seen_at": "2026-07-28T13:17:12",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "AI 会不会取代前端？我看了 2026 年 7 月整个市场，给你一个不吓人的答案",
       "url": "https://juejin.cn/post/7666019880676622345",
       "last_hot_value": "热度:927",
       "first_seen_at": "2026-07-27T16:14:49",
       "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "三伏天正是减肥天：我在 EdgeOne Makers 上从 0 到 1 上线了一个 AI 健康教练",
@@ -34,22 +44,32 @@
     {
       "title": "TRAE SOLO实战：实现一个桌面3D助手",
       "url": "https://juejin.cn/post/7665981990437797914",
-      "last_hot_value": "热度:882",
+      "last_hot_value": "热度:1116",
       "first_seen_at": "2026-07-26T06:27:53",
-      "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-28T13:17:12",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "Kimi K3太牛了！但老板说API太贵，让我本地化部署，我算完成本，他涨红脸沉默不语了！其实成本不高，三千万足矣。",
-      "url": "https://juejin.cn/post/7666482995197722630",
-      "last_hot_value": "热度:765",
-      "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-27T16:14:49",
+      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
+      "url": "https://juejin.cn/post/7667096004731846682",
+      "last_hot_value": "热度:729",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-28T13:17:12",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
+    },
+    {
+      "title": "开箱即用的 Flutter 通用脚手架——FlutterKit",
+      "url": "https://juejin.cn/post/7666446436604739611",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-07-27T16:14:49",
+      "last_seen_at": "2026-07-28T13:17:12",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "01｜（前端转全栈）前端人第一次打开 Spring Boot 项目，应该先看哪里？",
@@ -57,7 +77,7 @@
       "last_hot_value": "热度:513",
       "first_seen_at": "2026-07-26T21:35:17",
       "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -72,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "为什么越来越多人使用WebFlux？",
+      "url": "https://juejin.cn/post/7665981990437814298",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-07-27T16:14:49",
+      "last_seen_at": "2026-07-28T13:17:12",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "快速过下我2026年上半年的前端学了些啥",
       "url": "https://juejin.cn/post/7665983042767781915",
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-07-26T21:35:17",
       "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -87,9 +117,19 @@
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-07-26T21:35:17",
       "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "AI不是万能的，大家要专注实践！",
+      "url": "https://juejin.cn/post/7666700111079292943",
+      "last_hot_value": "热度:360",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-28T13:17:12",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "Vue 3.6 Vapor Mode vs React 19 Compiler：前端架构的两条分叉路",
@@ -102,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "白嫖 Claude Max 20x 漏洞完整事件始末",
+      "url": "https://juejin.cn/post/7666793612337152041",
+      "last_hot_value": "热度:351",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-28T13:17:12",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "Opus 5 深夜炸场，价格还挺香。。。",
       "url": "https://juejin.cn/post/7665969355775049774",
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-07-26T21:35:17",
       "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -132,21 +182,21 @@
       "is_new": false
     },
     {
-      "title": "开箱即用的 Flutter 通用脚手架——FlutterKit",
-      "url": "https://juejin.cn/post/7666446436604739611",
-      "last_hot_value": "热度:288",
-      "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-27T16:14:49",
+      "title": "我把 22 篇 RAG 论文喂给了 RAG，让 AI 自己给我讲明白什么是 RAG",
+      "url": "https://juejin.cn/post/7666646110229020712",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-28T13:17:12",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
     },
     {
-      "title": "为什么越来越多人使用WebFlux？",
-      "url": "https://juejin.cn/post/7665981990437814298",
-      "last_hot_value": "热度:279",
-      "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-27T16:14:49",
+      "title": "Vue 弹窗新范式——代码减少、复用翻倍与 AI 时代的前端基建",
+      "url": "https://juejin.cn/post/7666771393113767982",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-28T13:17:12",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -162,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "别再\"学工具\"了，先搭你的 AI 工作流",
+      "url": "https://juejin.cn/post/7666014608419323955",
+      "last_hot_value": "热度:288",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-28T13:17:12",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "抛弃低效SSH！这套Ansible+Web可视化神器，让你天天准点下班！",
       "url": "https://juejin.cn/post/7665961135787933730",
       "last_hot_value": "热度:261",
       "first_seen_at": "2026-07-27T16:14:49",
       "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1k星开源！中医怪杰倪海厦，AI给他\"复活\"了",
