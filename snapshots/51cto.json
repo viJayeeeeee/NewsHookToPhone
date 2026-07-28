@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-28T13:17:15",
+  "update_time": "2026-07-28T15:37:36",
   "items": [
     {
       "title": "让应用\"悬浮\"起来：HarmonyOS 闪控球（floatingBall）从接入到实战",
       "url": "https://ost.51cto.com/posts/53893",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "鸿蒙开发中的所有生命周期详解",
       "url": "https://ost.51cto.com/posts/53537",
       "last_hot_value": "",
       "first_seen_at": "2026-07-26T21:35:20",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,24 +32,14 @@
       "is_new": false
     },
     {
-      "title": "一次 40 分钟 P0 漏推事故：聊聊 Hermes + Alertmanager 钉钉告警建设",
-      "url": "https://www.51cto.com/article/850790.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T21:35:20",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "大模型工程化怎么做？LLMOps 九大环节自动化实现方案",
       "url": "https://www.51cto.com/article/851009.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "系统提示砍掉 80% 之后：短 AGENTS.md、JIT Skill，和确定性校验",
@@ -62,24 +52,14 @@
       "is_new": false
     },
     {
-      "title": "从 AIOps 到 AI SRE：智能体自主运维的边界，守住这七条安全底线才能平稳落地",
-      "url": "https://www.51cto.com/article/850789.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T21:35:20",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "搜索智能体也需要「操作系统」：SearchOS 开源多智能体协作框架",
       "url": "https://www.51cto.com/article/851056.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Loop 已凉？Graph Engineering 已到来！",
@@ -92,24 +72,14 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS:折叠屏 × 沉浸光感-用 @ComponentV2 做一个会\"变色\"的鸿蒙音乐播放器",
-      "url": "https://ost.51cto.com/posts/53419",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-27T16:14:53",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "四十万美元、两亿张图：华为联合六校训出2K模型 Boogu-Image-0.1，比肩闭源",
       "url": "https://www.51cto.com/article/851055.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenAI超强模型为抄答案黑进服务器！抱抱脸CEO要一亿美元算力做补偿",
@@ -122,24 +92,14 @@
       "is_new": false
     },
     {
-      "title": "CVPR'26 | 亮点清华弄了个镜像错觉艺术生成器，支持3D打印",
-      "url": "https://www.51cto.com/article/850744.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T21:35:20",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "全球⾸个⼤规模 Agentic 扩散模型来了！",
       "url": "https://www.51cto.com/article/851053.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你的AI在干活，还是在刷分？OpenAI揭开模型讨好机制",
@@ -152,24 +112,14 @@
       "is_new": false
     },
     {
-      "title": "从一则真实入侵案例：看懂 AI 辅助域侦察攻击的防御新思路",
-      "url": "https://www.51cto.com/article/850738.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T21:35:20",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "别再无脑开高推理！Opus 5高配会擅自重构代码乱加戏",
       "url": "https://www.51cto.com/article/851052.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "奥特曼马斯克豪言：我们已进入奇点！AGI加速窗口已至",
@@ -182,24 +132,14 @@
       "is_new": false
     },
     {
-      "title": "Claude Opus5偷跑，第一波网友实测来了",
-      "url": "https://www.51cto.com/article/850735.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T21:35:20",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "一句话搭出九人旅行网站！奥特曼：ChatGPT Work名字起小了",
       "url": "https://www.51cto.com/article/851050.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "20岁拿下博士、答辩席坐着费曼的狂人：AI是第一种「外星智能」",
@@ -212,24 +152,14 @@
       "is_new": false
     },
     {
-      "title": "刚刚，Claude爆改语音！11种语言，就是没中文",
-      "url": "https://www.51cto.com/article/850731.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T21:35:20",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "马斯克彻底向ASI投降！十年后万亿财富都将「归零」",
       "url": "https://www.51cto.com/article/851048.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "深度拆解计数变更与底层逻辑，告别面试和编码误区",
@@ -242,43 +172,13 @@
       "is_new": false
     },
     {
-      "title": "梁文锋押注的方向，中国00后团队先交卷了！性能直逼Opus 4.8",
-      "url": "https://www.51cto.com/article/850723.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T21:35:20",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
       "url": "https://www.51cto.com/article/851045.html",
       "last_hot_value": "",
       "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T13:17:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T15:37:36",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "Google 开源 OKF：先搞清楚它有什么用，再谈它是什么",
-      "url": "https://www.51cto.com/article/850703.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T21:35:20",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "我用两个豆包模型，给文章做了一个“自动配图”小工具",
-      "url": "https://ost.51cto.com/posts/53325",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-25T14:04:40",
-      "last_seen_at": "2026-07-26T08:45:51",
-      "consecutive_count": 0,
-      "peak_rank": 10,
       "is_new": false
     }
   ]
