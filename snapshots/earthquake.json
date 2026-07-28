@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-28T09:28:21",
+  "update_time": "2026-07-28T21:03:34",
   "items": [
+    {
+      "title": "M3.0 甘肃临夏州积石山县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-07-28T21:03:34",
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M5.0 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.0级",
       "first_seen_at": "2026-07-28T09:28:21",
-      "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.1 甘肃酒泉市肃北县",
@@ -32,14 +42,14 @@
       "is_new": false
     },
     {
-      "title": "M5.9 瓦努阿图群岛",
+      "title": "M3.2 云南德宏州盈江县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.9级",
-      "first_seen_at": "2026-07-25T11:23:23",
-      "last_seen_at": "2026-07-27T21:48:43",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "last_hot_value": "3.2级",
+      "first_seen_at": "2026-07-28T21:03:34",
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M6.7 日本九州岛附近海域",
@@ -47,9 +57,9 @@
       "last_hot_value": "6.7级",
       "first_seen_at": "2026-07-28T09:28:21",
       "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.6 新疆昌吉州呼图壁县",
@@ -62,24 +72,24 @@
       "is_new": false
     },
     {
-      "title": "M6.2 瓦努阿图群岛",
+      "title": "M3.7 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.2级",
-      "first_seen_at": "2026-07-25T11:23:23",
-      "last_seen_at": "2026-07-26T00:12:18",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "last_hot_value": "3.7级",
+      "first_seen_at": "2026-07-28T21:03:34",
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "M6.8 日本九州岛",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.8级",
       "first_seen_at": "2026-07-28T09:28:21",
-      "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.0 台湾台南市",
@@ -92,42 +102,32 @@
       "is_new": false
     },
     {
-      "title": "M3.4 新疆阿克苏地区库车市",
+      "title": "M4.0 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.4级",
-      "first_seen_at": "2026-07-25T11:23:23",
-      "last_seen_at": "2026-07-27T21:48:43",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "last_hot_value": "4.0级",
+      "first_seen_at": "2026-07-28T21:03:34",
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "M3.1 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-07-28T09:28:21",
-      "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.0 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-07-28T09:28:21",
-      "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "M3.1 云南普洱市墨江县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.1级",
-      "first_seen_at": "2026-07-25T17:17:35",
-      "last_seen_at": "2026-07-27T21:48:43",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
@@ -136,18 +136,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.3级",
       "first_seen_at": "2026-07-28T09:28:21",
-      "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "M3.3 云南普洱市墨江县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.3级",
-      "first_seen_at": "2026-07-25T17:17:35",
-      "last_seen_at": "2026-07-27T21:48:43",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
@@ -156,18 +146,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.8级",
       "first_seen_at": "2026-07-28T09:28:21",
-      "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "M5.0 云南普洱市墨江县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.0级",
-      "first_seen_at": "2026-07-25T17:17:35",
-      "last_seen_at": "2026-07-27T21:48:43",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-28T21:03:34",
+      "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
     },
@@ -177,16 +157,6 @@
       "last_hot_value": "5.7级",
       "first_seen_at": "2026-07-28T09:28:21",
       "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "M3.2 新疆克孜勒苏州阿图什市",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.2级",
-      "first_seen_at": "2026-07-25T17:17:35",
-      "last_seen_at": "2026-07-26T23:35:51",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
@@ -197,9 +167,9 @@
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-07-28T09:28:21",
       "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.3 新疆阿克苏地区沙雅县",
@@ -207,9 +177,9 @@
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-28T09:28:21",
       "last_seen_at": "2026-07-28T09:28:21",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
