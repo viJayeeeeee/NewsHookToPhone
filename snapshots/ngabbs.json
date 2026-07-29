@@ -1,13 +1,33 @@
 {
-  "update_time": "2026-07-29T00:12:37",
+  "update_time": "2026-07-29T15:23:35",
   "items": [
+    {
+      "title": "[活动氵] 绝区零3.1版本签到打卡处",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-29T15:23:35",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "中立观众，新开一个户外团播的帖子吧(绝不隐藏和删帖，欢迎讨论)",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-27T23:48:43",
-      "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 6,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "存储人…向南，还是向北",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-27T17:58:41",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,18 +37,28 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-26T18:39:50",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "存储人…向南，还是向北",
+      "title": "自立自强，科学技术打头阵(去伪存真)",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-27T17:58:41",
-      "last_seen_at": "2026-07-28T06:45:48",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "first_seen_at": "2026-07-27T23:48:43",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "左光右存算电协同",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-28T04:21:55",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -37,26 +67,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T00:12:37",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "左光右存算电协同",
-      "url": "https://bbs.nga.cn/read.php?tid=",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-28T04:21:55",
-      "last_seen_at": "2026-07-28T18:25:33",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "自立自强，科学技术打头阵(去伪存真)",
-      "url": "https://bbs.nga.cn/read.php?tid=",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-27T23:48:43",
-      "last_seen_at": "2026-07-28T06:45:48",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -92,14 +102,24 @@
       "is_new": false
     },
     {
+      "title": "临时超短(趋势)楼交流贴",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-27T23:48:43",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "关于BiaoGe插件是否涉及泄露玩家隐私，我的回答是肯定的！",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T00:12:37",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[A股全明星] 朋友们，每周瞎逼逼再次启动",
@@ -107,16 +127,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-27T19:07:43",
       "last_seen_at": "2026-07-28T18:25:33",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "临时超短(趋势)楼交流贴",
-      "url": "https://bbs.nga.cn/read.php?tid=",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-27T23:48:43",
-      "last_seen_at": "2026-07-28T06:45:48",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -142,13 +152,13 @@
       "is_new": false
     },
     {
-      "title": "[现实考证] 2026年日本夏季竞马集中帖",
+      "title": "[外赛区赛事] 2026LCK联赛讨论帖",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-26T10:26:23",
-      "last_seen_at": "2026-07-26T12:47:49",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "first_seen_at": "2026-07-27T17:58:41",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -157,9 +167,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T00:12:37",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[安科/安价][Fate/Thunderlocked Archipelago]稻妻国圣杯战争，雷鸣封锁海祇之战(第三回合进行中)",
@@ -192,16 +202,6 @@
       "is_new": false
     },
     {
-      "title": "[外赛区赛事] 2026LCK联赛讨论帖",
-      "url": "https://bbs.nga.cn/read.php?tid=",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-27T17:58:41",
-      "last_seen_at": "2026-07-27T17:58:41",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "请问biaoge作者，您公司卖了那么多“产品”，报税了吗",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
@@ -212,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "[黑泥氵]咱就是说也该借着小羊皮肤这事清洗清洗了吧",
-      "url": "https://bbs.nga.cn/read.php?tid=",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-26T12:47:49",
-      "last_seen_at": "2026-07-26T12:47:49",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "这部蜘蛛侠拍真好",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T00:12:37",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[港区深夜的秘密酒会] 港区水楼第十期开业！",
@@ -272,14 +262,14 @@
       "is_new": false
     },
     {
-      "title": "个人私心更希望联动的是p5",
+      "title": "[集中讨论，单开锁隐][国服]大家所长池战绩如何？",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-26T10:26:23",
-      "last_seen_at": "2026-07-26T12:47:49",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-07-29T15:23:35",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "[同人][忍者杀手][三创]铁桩vs斯巴达克斯：无残缺的月(Intact Moon)(原作-三下永不灭)",
@@ -287,9 +277,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T00:12:37",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "通天是不是封神原著里最菜的大罗金仙",
@@ -352,24 +342,14 @@
       "is_new": false
     },
     {
-      "title": "事已至此，看看多少抽出异格洁哥吧",
-      "url": "https://bbs.nga.cn/read.php?tid=",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-26T10:26:23",
-      "last_seen_at": "2026-07-26T12:47:49",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "[杂谈氵]明天国际服就上线了，日本人会喜欢这个竞拍的玩法吗",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T00:12:37",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "硬件茶谈怎么也传起涨价的话来了",
@@ -422,14 +402,14 @@
       "is_new": false
     },
     {
-      "title": "biaoge没了，天道出手了，已封禁",
+      "title": "FGO版水楼Ver 5.0(原水楼快溢出了)",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-26T10:26:23",
-      "last_seen_at": "2026-07-26T12:47:49",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-07-29T15:23:35",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "首映看了一半多！",
@@ -437,9 +417,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T00:12:37",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[同人] [安科] [忍者杀手]三下永不灭",
@@ -482,16 +462,6 @@
       "is_new": false
     },
     {
-      "title": "[闲聊杂谈][彼阳双生短小助长]这里是水楼v2.0",
-      "url": "https://bbs.nga.cn/read.php?tid=",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-26T10:26:23",
-      "last_seen_at": "2026-07-27T17:58:41",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "神了，绿龙阿努比斯t开只拿六分",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
@@ -512,14 +482,14 @@
       "is_new": false
     },
     {
-      "title": "这就是墙倒众人推的魔兽版了",
+      "title": "[国服] 12点准时炸服了 编辑：开完又炸了",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-26T12:47:49",
-      "last_seen_at": "2026-07-26T12:47:49",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-07-29T15:23:35",
+      "last_seen_at": "2026-07-29T15:23:35",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "[本赛区赛事]大师天赋是不是非常高，他年轻时巅峰有多强",
@@ -527,9 +497,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T00:12:37",
       "last_seen_at": "2026-07-29T00:12:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "砂金v3 格调复活",
