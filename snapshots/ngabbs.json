@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-29T20:05:10",
+  "update_time": "2026-07-29T21:11:00",
   "items": [
     {
       "title": "[赛事讨论楼] 2026 EWC 街霸6 (官方已更新分组)",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T20:05:10",
-      "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[活动氵] 绝区零3.1版本签到打卡处",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T15:23:35",
-      "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-27T23:48:43",
-      "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
@@ -92,6 +92,16 @@
       "is_new": false
     },
     {
+      "title": "[ROLL] 送一块酷冷V SFX 1100W电源",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-29T20:05:10",
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "临时超短(趋势)楼交流贴",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
@@ -120,16 +130,6 @@
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
-    },
-    {
-      "title": "[ROLL] 送一块酷冷V SFX 1100W电源",
-      "url": "https://bbs.nga.cn/read.php?tid=",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-29T20:05:10",
-      "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
     },
     {
       "title": "[外赛区赛事] 2026LCK联赛讨论帖",
@@ -176,10 +176,10 @@
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T20:05:10",
-      "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "这部蜘蛛侠拍真好",
@@ -222,14 +222,24 @@
       "is_new": false
     },
     {
+      "title": "大胆开了nvda的空单",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-29T21:11:00",
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "[电影] 赞达亚到底是怎么火起来的",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T20:05:10",
-      "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[集中讨论，单开锁隐][国服]大家所长池战绩如何？",
@@ -302,14 +312,24 @@
       "is_new": false
     },
     {
+      "title": "[比赛讨论]这也太难了吧，打个液体打成这样",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-29T21:11:00",
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "今年真的不一样了(悲)",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T20:05:10",
       "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[杂谈氵]明天国际服就上线了，日本人会喜欢这个竞拍的玩法吗",
@@ -362,14 +382,24 @@
       "is_new": false
     },
     {
+      "title": "[水楼]蔚蓝档案水楼：夏莱办公室",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-29T21:11:00",
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "[比赛讨论] 我必须马上打开nga 谁说这液体很弱",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T20:05:10",
       "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "FGO版水楼Ver 5.0(原水楼快溢出了)",
@@ -432,14 +462,24 @@
       "is_new": false
     },
     {
+      "title": "[比赛讨论]sunzo太牛了",
+      "url": "https://bbs.nga.cn/read.php?tid=",
+      "last_hot_value": "",
+      "first_seen_at": "2026-07-29T21:11:00",
+      "last_seen_at": "2026-07-29T21:11:00",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "[比赛讨论]今天最期待的t1打tm来了",
       "url": "https://bbs.nga.cn/read.php?tid=",
       "last_hot_value": "",
       "first_seen_at": "2026-07-29T20:05:10",
       "last_seen_at": "2026-07-29T20:05:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[国服] 12点准时炸服了 编辑：开完又炸了",
