@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-28T21:03:31",
+  "update_time": "2026-07-29T13:20:49",
   "items": [
     {
       "title": "解忧杂货店",
       "url": "",
-      "last_hot_value": "7794人在读",
+      "last_hot_value": "8122人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,18 +16,18 @@
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "恶意",
       "url": "",
-      "last_hot_value": "8841人在读",
+      "last_hot_value": "9890人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,22 +42,32 @@
       "is_new": false
     },
     {
+      "title": "花落了：一个民间大了的生死笔记",
+      "url": "",
+      "last_hot_value": "589人在读",
+      "first_seen_at": "2026-07-29T13:20:49",
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "嫌疑人X的献身",
       "url": "",
-      "last_hot_value": "4411人在读",
+      "last_hot_value": "4829人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "放学后",
       "url": "",
-      "last_hot_value": "1972人在读",
+      "last_hot_value": "2041人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -77,7 +87,7 @@
       "last_hot_value": "862人在读",
       "first_seen_at": "2026-07-27T21:48:40",
       "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -92,12 +102,22 @@
       "is_new": false
     },
     {
+      "title": "奥德赛（张秋子导读版）（全四册）",
+      "url": "",
+      "last_hot_value": "1501人在读",
+      "first_seen_at": "2026-07-29T13:20:49",
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "秘密",
       "url": "",
       "last_hot_value": "1089人在读",
       "first_seen_at": "2026-07-27T21:48:40",
       "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -112,14 +132,34 @@
       "is_new": false
     },
     {
-      "title": "祈祷落幕时",
+      "title": "从前我死去的家",
       "url": "",
-      "last_hot_value": "1097人在读",
-      "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "last_hot_value": "958人在读",
+      "first_seen_at": "2026-07-28T09:28:18",
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "祈祷落幕时",
+      "url": "",
+      "last_hot_value": "1471人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 4,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "AI未来已来：CEO、组织、个人的时代红利（微信读书特别版）",
+      "url": "",
+      "last_hot_value": "4094人在读",
+      "first_seen_at": "2026-07-29T13:20:49",
+      "last_seen_at": "2026-07-29T13:20:49",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "新参者",
@@ -127,7 +167,7 @@
       "last_hot_value": "888人在读",
       "first_seen_at": "2026-07-27T21:48:40",
       "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -137,16 +177,6 @@
       "last_hot_value": "545人在读",
       "first_seen_at": "2026-07-28T21:03:31",
       "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "从前我死去的家",
-      "url": "",
-      "last_hot_value": "807人在读",
-      "first_seen_at": "2026-07-28T09:28:18",
-      "last_seen_at": "2026-07-28T09:28:18",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
@@ -167,16 +197,6 @@
       "last_hot_value": "1325人在读",
       "first_seen_at": "2026-07-26T16:32:15",
       "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "我身上有个不可战胜的夏天",
-      "url": "",
-      "last_hot_value": "720人在读",
-      "first_seen_at": "2026-07-26T00:12:15",
-      "last_seen_at": "2026-07-26T00:12:15",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
