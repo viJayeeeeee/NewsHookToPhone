@@ -1,53 +1,63 @@
 {
-  "update_time": "2026-07-30T03:22:52",
+  "update_time": "2026-07-30T16:13:49",
   "items": [
     {
       "title": "你一生的故事（译林幻系列）",
       "url": "",
-      "last_hot_value": "880人在读",
+      "last_hot_value": "1773人在读",
       "first_seen_at": "2026-07-30T03:22:52",
-      "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "白夜行",
-      "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "解忧杂货店",
       "url": "",
-      "last_hot_value": "7899人在读",
+      "last_hot_value": "7493人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "恶意",
+      "title": "白夜行",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 6,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "马驹桥的时间：清华博士的日结手记",
+      "url": "",
+      "last_hot_value": "982人在读",
+      "first_seen_at": "2026-07-30T16:13:49",
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "恶意",
+      "url": "",
+      "last_hot_value": "9860人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "嫌疑人X的献身",
       "url": "",
-      "last_hot_value": "4917人在读",
+      "last_hot_value": "5192人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -57,17 +67,17 @@
       "last_hot_value": "720人在读",
       "first_seen_at": "2026-07-29T13:20:49",
       "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "放学后",
       "url": "",
-      "last_hot_value": "2036人在读",
+      "last_hot_value": "2048人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -77,9 +87,9 @@
       "last_hot_value": "799人在读",
       "first_seen_at": "2026-07-30T03:22:52",
       "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "时生",
@@ -94,20 +104,20 @@
     {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "1481人在读",
+      "last_hot_value": "1402人在读",
       "first_seen_at": "2026-07-29T13:20:49",
-      "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "秘密",
       "url": "",
-      "last_hot_value": "1089人在读",
+      "last_hot_value": "1080人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-28T21:03:31",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": false
     },
@@ -117,7 +127,7 @@
       "last_hot_value": "1057人在读",
       "first_seen_at": "2026-07-28T09:28:18",
       "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -150,6 +160,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "不要担心2小时和8公里以外的事情",
+      "url": "",
+      "last_hot_value": "2079人在读",
+      "first_seen_at": "2026-07-30T16:13:49",
+      "last_seen_at": "2026-07-30T16:13:49",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "圣女的救济",
