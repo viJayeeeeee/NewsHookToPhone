@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-30T00:11:09",
+  "update_time": "2026-07-30T06:05:00",
   "items": [
+    {
+      "title": "【MYSQL】MYSQL学习的一大重点：表的内外连接",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163200338",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-07-30T00:11:09",
+      "last_seen_at": "2026-07-30T06:05:00",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "我把 22 篇 RAG 论文喂给了 RAG，让 AI 自己给我讲明白什么是 RAG",
       "url": "https://blog.csdn.net/2302_78391795/article/details/163230194",
       "last_hot_value": "3.4w",
       "first_seen_at": "2026-07-28T13:17:14",
       "last_seen_at": "2026-07-30T00:11:09",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,14 +42,24 @@
       "is_new": false
     },
     {
+      "title": "【Linux网络】深入 HTTP 协议（四）架构设计、协议解析与 Nginx 生产级部署",
+      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163183689",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-07-28T13:17:14",
+      "last_seen_at": "2026-07-30T06:05:00",
+      "consecutive_count": 4,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "远程工具实测：UU · 远程 10 项核心深度解析",
       "url": "https://blog.csdn.net/a_hong_sen/article/details/163282454",
       "last_hot_value": "2.4w",
       "first_seen_at": "2026-07-30T00:11:09",
       "last_seen_at": "2026-07-30T00:11:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Nginx- 高并发下 Nginx 崩溃的原因分析与解决方案",
@@ -52,14 +72,24 @@
       "is_new": false
     },
     {
-      "title": "时序大模型 TimechoAI：重塑时间序列智能分析新范式",
-      "url": "https://blog.csdn.net/user340/article/details/163250720",
-      "last_hot_value": "2.3w",
-      "first_seen_at": "2026-07-30T00:11:09",
-      "last_seen_at": "2026-07-30T00:11:09",
+      "title": "国产算力实战——海光DCU K100_AI部署KAT-Coder-V2.5-Dev：350亿MoE编程模型部署与智能编程实践",
+      "url": "https://blog.csdn.net/pla88888888/article/details/163241681",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-07-28T13:17:14",
+      "last_seen_at": "2026-07-30T06:05:00",
       "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "时序大模型 TimechoAI：重塑时间序列智能分析新范式",
+      "url": "https://blog.csdn.net/user340/article/details/163250720",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-07-30T00:11:09",
+      "last_seen_at": "2026-07-30T06:05:00",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "【AI 测评】Prometheus怎么监控PostgreSQL？Postgres Exporter部署教程",
@@ -82,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "【Linux网络】深入 HTTP 协议（四）架构设计、协议解析与 Nginx 生产级部署",
-      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163183689",
-      "last_hot_value": "2.1w",
-      "first_seen_at": "2026-07-28T13:17:14",
-      "last_seen_at": "2026-07-30T00:11:09",
-      "consecutive_count": 3,
+      "title": "一个人也能做AI漫剧：从选题到成片的完整生产系统",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163270686",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-07-30T06:05:00",
+      "last_seen_at": "2026-07-30T06:05:00",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Codex Memory、AGENTS.md 与 Skills：上下文分层指南",
@@ -97,7 +127,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-28T13:17:14",
       "last_seen_at": "2026-07-30T00:11:09",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -112,16 +142,6 @@
       "is_new": false
     },
     {
-      "title": "【MYSQL】MYSQL学习的一大重点：表的内外连接",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163200338",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-30T00:11:09",
-      "last_seen_at": "2026-07-30T00:11:09",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
       "title": "NAT技术如何让私有IP伪装公网身份？内网穿透怎样打通内外网通信壁垒？代理服务器（正向/反向）如何实现安全加速？交换机如何终结局域网数据冲突？一文看懂现代网络通信的底层逻辑",
       "url": "https://blog.csdn.net/2401_82648291/article/details/150516171",
       "last_hot_value": "1.3w",
@@ -132,14 +152,24 @@
       "is_new": false
     },
     {
+      "title": "PyTorch计算机视觉（3）——卷积神经网络（CNN）详解与实现",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/162009088",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-07-30T06:05:00",
+      "last_seen_at": "2026-07-30T06:05:00",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "【Codex】掌握 Codex 渐进加载 Skills，高效拓展自动化工作流",
       "url": "https://blog.csdn.net/2401_87342824/article/details/163233776",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-30T00:11:09",
       "last_seen_at": "2026-07-30T00:11:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "别只会调用大模型 API：用 Python 实现一个能干活的 AI Agent",
@@ -162,21 +192,21 @@
       "is_new": false
     },
     {
+      "title": "2026远程游戏横测，暑假用手机接管电脑，ToDesk VS 向日葵怎么选？",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/163299982",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-30T00:11:09",
+      "last_seen_at": "2026-07-30T06:05:00",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "【Reactor模式】Reactor 反应堆模式——用事件驱动取代人海战术，手写 C++ 高性能网络框架的核心骨架",
       "url": "https://blog.csdn.net/2302_80243065/article/details/163238799",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-07-30T00:11:09",
       "last_seen_at": "2026-07-30T00:11:09",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "国产算力实战——海光DCU K100_AI部署KAT-Coder-V2.5-Dev：350亿MoE编程模型部署与智能编程实践",
-      "url": "https://blog.csdn.net/pla88888888/article/details/163241681",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-28T13:17:14",
-      "last_seen_at": "2026-07-28T15:37:35",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -192,11 +222,11 @@
       "is_new": false
     },
     {
-      "title": "2026远程游戏横测，暑假用手机接管电脑，ToDesk VS 向日葵怎么选？",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/163299982",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-30T00:11:09",
-      "last_seen_at": "2026-07-30T00:11:09",
+      "title": "【Linux】没有公网 IP 也能 SSH 回内网：反向 SSH、ProxyJump 与 systemd 保活实战",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/161982260",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-30T06:05:00",
+      "last_seen_at": "2026-07-30T06:05:00",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -222,14 +252,24 @@
       "is_new": false
     },
     {
+      "title": "从蓝耘元生代到扣子编程:我用DeepSeek-V4-Flash搭建Dreambox-AI生图工具箱的实操复盘",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/163280984",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-07-30T06:05:00",
+      "last_seen_at": "2026-07-30T06:05:00",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "中级OpenGL教程 027：加载 FBX 模型材质贴图完全指南",
       "url": "https://blog.csdn.net/2503_92624912/article/details/163198445",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-30T00:11:09",
-      "last_seen_at": "2026-07-30T00:11:09",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-30T06:05:00",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AI】RAG 生成阶段的最后一公里：Prompt 设计、幻觉抑制与引用对齐",
