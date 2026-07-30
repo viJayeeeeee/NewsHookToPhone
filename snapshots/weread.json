@@ -1,85 +1,85 @@
 {
-  "update_time": "2026-07-29T13:20:49",
+  "update_time": "2026-07-30T03:22:52",
   "items": [
     {
-      "title": "解忧杂货店",
+      "title": "你一生的故事（译林幻系列）",
       "url": "",
-      "last_hot_value": "8122人在读",
-      "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 4,
+      "last_hot_value": "880人在读",
+      "first_seen_at": "2026-07-30T03:22:52",
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "白夜行",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "解忧杂货店",
+      "url": "",
+      "last_hot_value": "7899人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "恶意",
       "url": "",
-      "last_hot_value": "9890人在读",
+      "last_hot_value": "1人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "夜晚的潜水艇",
+      "title": "嫌疑人X的献身",
       "url": "",
-      "last_hot_value": "1716人在读",
-      "first_seen_at": "2026-07-26T14:18:24",
-      "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "last_hot_value": "4917人在读",
+      "first_seen_at": "2026-07-27T21:48:40",
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 5,
+      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "花落了：一个民间大了的生死笔记",
       "url": "",
-      "last_hot_value": "589人在读",
+      "last_hot_value": "720人在读",
       "first_seen_at": "2026-07-29T13:20:49",
-      "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "嫌疑人X的献身",
-      "url": "",
-      "last_hot_value": "4829人在读",
-      "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "放学后",
       "url": "",
-      "last_hot_value": "2041人在读",
+      "last_hot_value": "2036人在读",
       "first_seen_at": "2026-07-27T21:48:40",
-      "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "第一性原理（微信读书特别版）",
+      "title": "海鸥才不管那么多",
       "url": "",
-      "last_hot_value": "1791人在读",
-      "first_seen_at": "2026-07-26T14:18:24",
-      "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "last_hot_value": "799人在读",
+      "first_seen_at": "2026-07-30T03:22:52",
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "时生",
@@ -92,24 +92,14 @@
       "is_new": false
     },
     {
-      "title": "牧神记（同名国漫原著）",
-      "url": "",
-      "last_hot_value": "3250人在读",
-      "first_seen_at": "2026-07-26T14:18:24",
-      "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "1501人在读",
+      "last_hot_value": "1481人在读",
       "first_seen_at": "2026-07-29T13:20:49",
-      "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "秘密",
@@ -122,22 +112,12 @@
       "is_new": false
     },
     {
-      "title": "不要担心2小时和8公里以外的事情",
-      "url": "",
-      "last_hot_value": "1473人在读",
-      "first_seen_at": "2026-07-26T16:32:15",
-      "last_seen_at": "2026-07-26T23:35:48",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "从前我死去的家",
       "url": "",
-      "last_hot_value": "958人在读",
+      "last_hot_value": "1057人在读",
       "first_seen_at": "2026-07-28T09:28:18",
-      "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-30T03:22:52",
+      "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
     },
@@ -147,7 +127,7 @@
       "last_hot_value": "1471人在读",
       "first_seen_at": "2026-07-27T21:48:40",
       "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -157,9 +137,9 @@
       "last_hot_value": "4094人在读",
       "first_seen_at": "2026-07-29T13:20:49",
       "last_seen_at": "2026-07-29T13:20:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "新参者",
@@ -187,16 +167,6 @@
       "last_hot_value": "353人在读",
       "first_seen_at": "2026-07-27T21:48:40",
       "last_seen_at": "2026-07-27T21:48:40",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "八字命理学教程（全三册）：手把手教你从入门到精通",
-      "url": "",
-      "last_hot_value": "1325人在读",
-      "first_seen_at": "2026-07-26T16:32:15",
-      "last_seen_at": "2026-07-26T23:35:48",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
