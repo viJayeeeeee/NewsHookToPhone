@@ -1,25 +1,15 @@
 {
-  "update_time": "2026-07-28T15:37:44",
+  "update_time": "2026-07-30T00:11:17",
   "items": [
     {
-      "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
-      "url": "https://www.nodeseek.com/post-828462-1",
-      "last_hot_value": "查看:4551 回复:102",
-      "first_seen_at": "2026-07-25T22:12:59",
-      "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 7,
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:220750 回复:2036",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "🧭 Navidash 更新啦！欢迎来定制你的主页！",
-      "url": "https://www.nodeseek.com/post-680214-1",
-      "last_hot_value": "查看:1699 回复:33",
-      "first_seen_at": "2026-07-25T22:12:59",
-      "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
@@ -27,9 +17,19 @@
       "last_hot_value": "查看:88915 回复:769",
       "first_seen_at": "2026-07-27T16:15:10",
       "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
+      "url": "https://www.nodeseek.com/post-824558-1",
+      "last_hot_value": "查看:5716 回复:100",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
@@ -37,19 +37,29 @@
       "last_hot_value": "查看:33530 回复:443",
       "first_seen_at": "2026-07-28T13:17:26",
       "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
-      "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:738882 回复:1153",
-      "first_seen_at": "2026-07-26T21:35:28",
-      "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 4,
+      "title": "[新人看一看]老鸟请直接忽略",
+      "url": "https://www.nodeseek.com/post-348342-1",
+      "last_hot_value": "查看:21653 回复:415",
+      "first_seen_at": "2026-07-28T13:17:26",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "NAT机商家合集-置顶每月更新中",
+      "url": "https://www.nodeseek.com/post-54366-1",
+      "last_hot_value": "查看:141273 回复:378",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "NS官方邮箱系统正式版(V2)",
@@ -62,44 +72,64 @@
       "is_new": false
     },
     {
+      "title": "还是很多人不懂啥是IX，IX不是专线！科普一下！",
+      "url": "https://www.nodeseek.com/post-645982-1",
+      "last_hot_value": "查看:9235 回复:159",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
       "url": "https://www.nodeseek.com/post-286885-1",
       "last_hot_value": "查看:240474 回复:504",
       "first_seen_at": "2026-07-28T13:17:26",
       "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "【比“史上最强”更强】满屏讨论dd gcp居然没有人提到我的脚本😭",
-      "url": "https://www.nodeseek.com/post-116193-1",
-      "last_hot_value": "查看:30898 回复:247",
-      "first_seen_at": "2026-07-26T21:35:28",
-      "last_seen_at": "2026-07-27T16:15:10",
-      "consecutive_count": 0,
+      "title": "HashPay | 一站式加密货币支付网关",
+      "url": "https://www.nodeseek.com/post-808616-1",
+      "last_hot_value": "查看:3056 回复:63",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "[新人看一看]老鸟请直接忽略",
-      "url": "https://www.nodeseek.com/post-348342-1",
-      "last_hot_value": "查看:21294 回复:405",
-      "first_seen_at": "2026-07-28T13:17:26",
-      "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 2,
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:205498 回复:2793",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
-      "url": "https://www.nodeseek.com/post-824182-1",
-      "last_hot_value": "查看:691 回复:18",
-      "first_seen_at": "2026-07-26T21:35:28",
-      "last_seen_at": "2026-07-27T16:15:10",
-      "consecutive_count": 0,
+      "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
+      "url": "https://www.nodeseek.com/post-197087-1",
+      "last_hot_value": "查看:74884 回复:483",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
+      "url": "https://www.nodeseek.com/post-105666-1",
+      "last_hot_value": "查看:103624 回复:268",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-07-30T00:11:17",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     }
   ]
 }

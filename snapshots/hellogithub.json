@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-07-28T15:37:43",
+  "update_time": "2026-07-30T00:11:16",
   "items": [
     {
       "title": "《深入理解 AI Agent：设计原理与工程实践》",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "last_hot_value": "369",
+      "last_hot_value": "716",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "把多张网卡的带宽叠加起来",
+      "url": "https://github.com/Hypostasis-Cat/HypoMux",
+      "last_hot_value": "410",
+      "first_seen_at": "2026-07-28T13:17:25",
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "可多人协作的旅行规划平台",
       "url": "https://github.com/liketrek/TREK",
-      "last_hot_value": "322",
+      "last_hot_value": "538",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -34,10 +44,20 @@
     {
       "title": "上千个健身动作的集合",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "last_hot_value": "254",
+      "last_hot_value": "464",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "在线 AI 简历编辑器",
+      "url": "https://github.com/JOYCEQL/magic-resume",
+      "last_hot_value": "295",
+      "first_seen_at": "2026-07-28T13:17:25",
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -57,57 +77,47 @@
       "last_hot_value": "230",
       "first_seen_at": "2026-07-28T13:17:25",
       "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "《强化学习小册子》",
-      "url": "https://github.com/alxndrTL/little-book-rl",
-      "last_hot_value": "153",
-      "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
-      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "让 AI 读代码画出架构图",
       "url": "https://github.com/tt-a1i/archify",
-      "last_hot_value": "239",
+      "last_hot_value": "446",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
-      "peak_rank": 6,
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "在线 AI 简历编辑器",
-      "url": "https://github.com/JOYCEQL/magic-resume",
-      "last_hot_value": "140",
+      "title": "《强化学习小册子》",
+      "url": "https://github.com/alxndrTL/little-book-rl",
+      "last_hot_value": "242",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
-      "peak_rank": 7,
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "把多张网卡的带宽叠加起来",
-      "url": "https://github.com/Hypostasis-Cat/HypoMux",
-      "last_hot_value": "116",
-      "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
+      "title": "写论文用的文献管理工具",
+      "url": "https://github.com/JabRef/jabref",
+      "last_hot_value": "128",
+      "first_seen_at": "2026-07-30T00:11:16",
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Meta 开源的 React 设计系统",
       "url": "https://github.com/facebook/astryx",
-      "last_hot_value": "99",
+      "last_hot_value": "175",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -117,7 +127,7 @@
       "last_hot_value": "168",
       "first_seen_at": "2026-07-28T13:17:25",
       "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -130,6 +140,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "把 AI 编程助手变成视频工作室",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "last_hot_value": "205",
+      "first_seen_at": "2026-07-30T00:11:16",
+      "last_seen_at": "2026-07-30T00:11:16",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

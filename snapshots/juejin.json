@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-28T15:37:34",
+  "update_time": "2026-07-30T00:11:07",
   "items": [
     {
       "title": "Kimi K3太牛了！但老板说API太贵，让我本地化部署，我算完成本，他涨红脸沉默不语了！其实成本不高，三千万足矣。",
       "url": "https://juejin.cn/post/7666482995197722630",
-      "last_hot_value": "热度:1791",
+      "last_hot_value": "热度:3141",
       "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,54 +22,44 @@
       "is_new": false
     },
     {
-      "title": "如何设计一个优秀的 Skills",
-      "url": "https://juejin.cn/post/7664905579035410441",
-      "last_hot_value": "热度:2088",
-      "first_seen_at": "2026-07-26T06:27:53",
-      "last_seen_at": "2026-07-26T08:45:47",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "TRAE SOLO实战：实现一个桌面3D助手",
-      "url": "https://juejin.cn/post/7665981990437797914",
-      "last_hot_value": "热度:1143",
-      "first_seen_at": "2026-07-26T06:27:53",
-      "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 6,
+      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
+      "url": "https://juejin.cn/post/7667096004731846682",
+      "last_hot_value": "热度:1791",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
-      "url": "https://juejin.cn/post/7667096004731846682",
-      "last_hot_value": "热度:738",
-      "first_seen_at": "2026-07-28T13:17:12",
-      "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 2,
+      "title": "携程员工：在携程4年，月薪3万左右，基本没涨薪了。不过挺满足的，毕竟稳定，福利也不错（附Agent面试题）",
+      "url": "https://juejin.cn/post/7667495083470471177",
+      "last_hot_value": "热度:963",
+      "first_seen_at": "2026-07-30T00:11:07",
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "开箱即用的 Flutter 通用脚手架——FlutterKit",
       "url": "https://juejin.cn/post/7666446436604739611",
-      "last_hot_value": "热度:513",
+      "last_hot_value": "热度:855",
       "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "01｜（前端转全栈）前端人第一次打开 Spring Boot 项目，应该先看哪里？",
-      "url": "https://juejin.cn/post/7665607110682918918",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "为什么在 2026 年，MPA（多页面应用）正在悄悄复辟？",
+      "url": "https://juejin.cn/post/7667127162155581449",
+      "last_hot_value": "热度:756",
+      "first_seen_at": "2026-07-30T00:11:07",
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "为什么越来越多人使用WebFlux？",
@@ -77,28 +67,28 @@
       "last_hot_value": "热度:423",
       "first_seen_at": "2026-07-27T16:14:49",
       "last_seen_at": "2026-07-28T15:37:34",
+      "consecutive_count": 0,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Vue 弹窗新范式——代码减少、复用翻倍与 AI 时代的前端基建",
+      "url": "https://juejin.cn/post/7666771393113767982",
+      "last_hot_value": "热度:675",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-30T00:11:07",
       "consecutive_count": 3,
-      "peak_rank": 5,
+      "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "快速过下我2026年上半年的前端学了些啥",
-      "url": "https://juejin.cn/post/7665983042767781915",
-      "last_hot_value": "热度:450",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "Flutter 3D 渲染的全新选择和应用场景",
-      "url": "https://juejin.cn/post/7665563875712450623",
-      "last_hot_value": "热度:450",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "title": "AI不是万能的，大家要专注实践！",
+      "url": "https://juejin.cn/post/7666700111079292943",
+      "last_hot_value": "热度:540",
+      "first_seen_at": "2026-07-28T13:17:12",
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 3,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -107,48 +97,28 @@
       "last_hot_value": "热度:360",
       "first_seen_at": "2026-07-28T13:17:12",
       "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "AI不是万能的，大家要专注实践！",
-      "url": "https://juejin.cn/post/7666700111079292943",
-      "last_hot_value": "热度:360",
+      "title": "那就和前端好好道个别吧",
+      "url": "https://juejin.cn/post/7667757814613934143",
+      "last_hot_value": "热度:612",
+      "first_seen_at": "2026-07-30T00:11:07",
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "别再\"学工具\"了，先搭你的 AI 工作流",
+      "url": "https://juejin.cn/post/7666014608419323955",
+      "last_hot_value": "热度:576",
       "first_seen_at": "2026-07-28T13:17:12",
-      "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Vue 3.6 Vapor Mode vs React 19 Compiler：前端架构的两条分叉路",
-      "url": "https://juejin.cn/post/7665539523288055808",
-      "last_hot_value": "热度:288",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-26T21:35:17",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Opus 5 深夜炸场，价格还挺香。。。",
-      "url": "https://juejin.cn/post/7665969355775049774",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "一种前端大屏适配方案",
-      "url": "https://juejin.cn/post/7665261723714207796",
-      "last_hot_value": "热度:288",
-      "first_seen_at": "2026-07-26T21:35:17",
-      "last_seen_at": "2026-07-26T21:35:17",
-      "consecutive_count": 0,
-      "peak_rank": 7,
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 3,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -157,29 +127,19 @@
       "last_hot_value": "热度:315",
       "first_seen_at": "2026-07-28T13:17:12",
       "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "Vue 弹窗新范式——代码减少、复用翻倍与 AI 时代的前端基建",
-      "url": "https://juejin.cn/post/7666771393113767982",
-      "last_hot_value": "热度:306",
-      "first_seen_at": "2026-07-28T13:17:12",
-      "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 2,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "别再\"学工具\"了，先搭你的 AI 工作流",
-      "url": "https://juejin.cn/post/7666014608419323955",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-07-28T13:17:12",
-      "last_seen_at": "2026-07-28T15:37:34",
-      "consecutive_count": 2,
+      "title": "上线一个人静态网站需要多少钱，难不难？",
+      "url": "https://juejin.cn/post/7666490925375815718",
+      "last_hot_value": "热度:486",
+      "first_seen_at": "2026-07-30T00:11:07",
+      "last_seen_at": "2026-07-30T00:11:07",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "抛弃低效SSH！这套Ansible+Web可视化神器，让你天天准点下班！",
