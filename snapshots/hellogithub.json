@@ -1,74 +1,64 @@
 {
-  "update_time": "2026-07-30T06:05:14",
+  "update_time": "2026-07-30T17:48:38",
   "items": [
     {
       "title": "《深入理解 AI Agent：设计原理与工程实践》",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "last_hot_value": "819",
+      "last_hot_value": "959",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "把多张网卡的带宽叠加起来",
       "url": "https://github.com/Hypostasis-Cat/HypoMux",
-      "last_hot_value": "502",
+      "last_hot_value": "662",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "可多人协作的旅行规划平台",
       "url": "https://github.com/liketrek/TREK",
-      "last_hot_value": "605",
+      "last_hot_value": "697",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 4,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "把英语音频变成听说训练的应用",
-      "url": "https://github.com/echo-loop/Echo-Loop",
-      "last_hot_value": "3099",
-      "first_seen_at": "2026-07-27T16:15:00",
-      "last_seen_at": "2026-07-27T16:15:00",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "上千个健身动作的集合",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "last_hot_value": "551",
+      "last_hot_value": "633",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "在线 AI 简历编辑器",
       "url": "https://github.com/JOYCEQL/magic-resume",
-      "last_hot_value": "347",
+      "last_hot_value": "447",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "开源的 AI 互动课堂平台",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "last_hot_value": "2759",
-      "first_seen_at": "2026-07-27T16:15:00",
-      "last_seen_at": "2026-07-27T16:15:00",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "让 AI 读代码画出架构图",
+      "url": "https://github.com/tt-a1i/archify",
+      "last_hot_value": "630",
+      "first_seen_at": "2026-07-28T13:17:25",
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 5,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -82,52 +72,42 @@
       "is_new": false
     },
     {
-      "title": "让 AI 读代码画出架构图",
-      "url": "https://github.com/tt-a1i/archify",
-      "last_hot_value": "524",
-      "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 4,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "《强化学习小册子》",
       "url": "https://github.com/alxndrTL/little-book-rl",
-      "last_hot_value": "273",
+      "last_hot_value": "333",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 5,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "写论文用的文献管理工具",
-      "url": "https://github.com/JabRef/jabref",
-      "last_hot_value": "159",
-      "first_seen_at": "2026-07-30T00:11:16",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 2,
-      "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "复古 PC 模拟器",
       "url": "https://github.com/86Box/86Box",
-      "last_hot_value": "251",
+      "last_hot_value": "333",
       "first_seen_at": "2026-07-30T06:05:14",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "写论文用的文献管理工具",
+      "url": "https://github.com/JabRef/jabref",
+      "last_hot_value": "195",
+      "first_seen_at": "2026-07-30T00:11:16",
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 3,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "Meta 开源的 React 设计系统",
       "url": "https://github.com/facebook/astryx",
-      "last_hot_value": "202",
+      "last_hot_value": "245",
       "first_seen_at": "2026-07-28T13:17:25",
-      "last_seen_at": "2026-07-30T06:05:14",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-30T17:48:38",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
     },
@@ -137,16 +117,6 @@
       "last_hot_value": "168",
       "first_seen_at": "2026-07-28T13:17:25",
       "last_seen_at": "2026-07-28T15:37:43",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "极简的 Windows 桌面便签工具",
-      "url": "https://github.com/snownico0722/PaperTodo",
-      "last_hot_value": "2490",
-      "first_seen_at": "2026-07-27T16:15:00",
-      "last_seen_at": "2026-07-27T16:15:00",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false

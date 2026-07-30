@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-30T06:05:00",
+  "update_time": "2026-07-30T17:48:31",
   "items": [
     {
       "title": "【MYSQL】MYSQL学习的一大重点：表的内外连接",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163200338",
-      "last_hot_value": "2.4w",
+      "last_hot_value": "2.5w",
       "first_seen_at": "2026-07-30T00:11:09",
-      "last_seen_at": "2026-07-30T06:05:00",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-30T17:48:31",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,13 +32,13 @@
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战（20）——优势演员-评论家（Advantage Actor-Critic, A2C）",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159731989",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-27T16:14:51",
-      "last_seen_at": "2026-07-28T13:17:14",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "PyTorch计算机视觉（3）——卷积神经网络（CNN）详解与实现",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/162009088",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-07-30T06:05:00",
+      "last_seen_at": "2026-07-30T17:48:31",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -47,7 +47,7 @@
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-07-28T13:17:14",
       "last_seen_at": "2026-07-30T06:05:00",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,13 +62,13 @@
       "is_new": false
     },
     {
-      "title": "Nginx- 高并发下 Nginx 崩溃的原因分析与解决方案",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157658480",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-07-27T16:14:51",
-      "last_seen_at": "2026-07-27T16:14:51",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "一个人也能做AI漫剧：从选题到成片的完整生产系统",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163270686",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-07-30T06:05:00",
+      "last_seen_at": "2026-07-30T17:48:31",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -77,7 +77,7 @@
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-07-28T13:17:14",
       "last_seen_at": "2026-07-30T06:05:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -87,7 +87,7 @@
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-07-30T00:11:09",
       "last_seen_at": "2026-07-30T06:05:00",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -102,24 +102,14 @@
       "is_new": false
     },
     {
-      "title": "ERNIE-Image + InfiniteTalk，从文生图到无限时长视频——国产DCU部署：从图像生成到音画同步数字人视频的全链路实现（含完整代码）",
-      "url": "https://blog.csdn.net/pla88888888/article/details/163217566",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-07-27T16:14:51",
-      "last_seen_at": "2026-07-27T16:14:51",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "一个人也能做AI漫剧：从选题到成片的完整生产系统",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163270686",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-07-30T06:05:00",
-      "last_seen_at": "2026-07-30T06:05:00",
-      "consecutive_count": 1,
+      "title": "中级OpenGL教程 027：加载 FBX 模型材质贴图完全指南",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/163198445",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-07-30T00:11:09",
+      "last_seen_at": "2026-07-30T17:48:31",
+      "consecutive_count": 3,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Codex Memory、AGENTS.md 与 Skills：上下文分层指南",
@@ -132,31 +122,21 @@
       "is_new": false
     },
     {
-      "title": "Grafana只能在局域网访问?配置公网地址实现远程查看",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163240763",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-27T16:14:51",
-      "last_seen_at": "2026-07-27T16:14:51",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "NAT技术如何让私有IP伪装公网身份？内网穿透怎样打通内外网通信壁垒？代理服务器（正向/反向）如何实现安全加速？交换机如何终结局域网数据冲突？一文看懂现代网络通信的底层逻辑",
-      "url": "https://blog.csdn.net/2401_82648291/article/details/150516171",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-07-27T16:14:51",
-      "last_seen_at": "2026-07-27T16:14:51",
-      "consecutive_count": 0,
+      "title": "内网穿透的应用-服务器日志出现异常怎么办？Python监控、钉钉告警与远程处理教程",
+      "url": "https://blog.csdn.net/weixin_42878111/article/details/163331286",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-30T17:48:31",
+      "last_seen_at": "2026-07-30T17:48:31",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "PyTorch计算机视觉（3）——卷积神经网络（CNN）详解与实现",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/162009088",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-07-30T06:05:00",
-      "last_seen_at": "2026-07-30T06:05:00",
+      "title": "Codex Scheduled Tasks：让任务自动醒来继续工作",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/162941657",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-07-30T17:48:31",
+      "last_seen_at": "2026-07-30T17:48:31",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -182,22 +162,12 @@
       "is_new": false
     },
     {
-      "title": "Agent 时代的数据库自治运维：智能之外，更需要原生确定性",
-      "url": "https://blog.csdn.net/mrdeam/article/details/163175662",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-07-27T16:14:51",
-      "last_seen_at": "2026-07-27T16:14:51",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "2026远程游戏横测，暑假用手机接管电脑，ToDesk VS 向日葵怎么选？",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/163299982",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-30T00:11:09",
-      "last_seen_at": "2026-07-30T06:05:00",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-30T17:48:31",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -212,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "传统数据库迁移国产化过程中的隐性 SQL 逻辑陷阱——以 WHERE 子句函数顺序依赖为例",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/163218887",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-07-27T16:14:51",
-      "last_seen_at": "2026-07-27T16:14:51",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "【Linux 篇】数字世界的通信管道 —— 命名管道深度实战解析",
+      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163292448",
+      "last_hot_value": "9346",
+      "first_seen_at": "2026-07-30T17:48:31",
+      "last_seen_at": "2026-07-30T17:48:31",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "【Linux】没有公网 IP 也能 SSH 回内网：反向 SSH、ProxyJump 与 systemd 保活实战",
@@ -227,9 +197,9 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-07-30T06:05:00",
       "last_seen_at": "2026-07-30T06:05:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GitHub 热榜项目 - 周榜(2026-07-26)",
@@ -252,24 +222,34 @@
       "is_new": false
     },
     {
-      "title": "从蓝耘元生代到扣子编程:我用DeepSeek-V4-Flash搭建Dreambox-AI生图工具箱的实操复盘",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163280984",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-30T06:05:00",
-      "last_seen_at": "2026-07-30T06:05:00",
+      "title": "Spring Boot 集成硅基流动免费Qwen大模型实战——从零搭建支持多轮对话的网页应用",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163313796",
+      "last_hot_value": "9312",
+      "first_seen_at": "2026-07-30T17:48:31",
+      "last_seen_at": "2026-07-30T17:48:31",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "中级OpenGL教程 027：加载 FBX 模型材质贴图完全指南",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/163198445",
+      "title": "从蓝耘元生代到扣子编程:我用DeepSeek-V4-Flash搭建Dreambox-AI生图工具箱的实操复盘",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/163280984",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-30T00:11:09",
+      "first_seen_at": "2026-07-30T06:05:00",
       "last_seen_at": "2026-07-30T06:05:00",
-      "consecutive_count": 2,
-      "peak_rank": 10,
+      "consecutive_count": 0,
+      "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【Codex】OpenAI Codex CLI 完整实操指南｜模型切换、权限管控、AGENTS.md 全技巧解锁",
+      "url": "https://blog.csdn.net/2401_87342824/article/details/163324119",
+      "last_hot_value": "9244",
+      "first_seen_at": "2026-07-30T17:48:31",
+      "last_seen_at": "2026-07-30T17:48:31",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【AI】RAG 生成阶段的最后一公里：Prompt 设计、幻觉抑制与引用对齐",
@@ -277,16 +257,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-28T15:37:35",
       "last_seen_at": "2026-07-28T15:37:35",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Claude HUD 给 Claude Code 装上实时状态栏插件，告别上下文盲区",
-      "url": "https://blog.csdn.net/zhangay1998/article/details/162974918",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-07-27T16:14:51",
-      "last_seen_at": "2026-07-27T16:14:51",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

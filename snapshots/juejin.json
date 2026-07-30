@@ -1,44 +1,34 @@
 {
-  "update_time": "2026-07-30T06:04:56",
+  "update_time": "2026-07-30T17:48:29",
   "items": [
     {
       "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
       "url": "https://juejin.cn/post/7667096004731846682",
-      "last_hot_value": "热度:1917",
+      "last_hot_value": "热度:2070",
       "first_seen_at": "2026-07-28T13:17:12",
-      "last_seen_at": "2026-07-30T06:04:56",
-      "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "Kimi K3太牛了！但老板说API太贵，让我本地化部署，我算完成本，他涨红脸沉默不语了！其实成本不高，三千万足矣。",
-      "url": "https://juejin.cn/post/7666482995197722630",
-      "last_hot_value": "热度:3141",
-      "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-30T00:11:07",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "AI 会不会取代前端？我看了 2026 年 7 月整个市场，给你一个不吓人的答案",
-      "url": "https://juejin.cn/post/7666019880676622345",
-      "last_hot_value": "热度:927",
-      "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-07-30T17:48:29",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "携程员工：在携程4年，月薪3万左右，基本没涨薪了。不过挺满足的，毕竟稳定，福利也不错（附Agent面试题）",
       "url": "https://juejin.cn/post/7667495083470471177",
-      "last_hot_value": "热度:1377",
+      "last_hot_value": "热度:1935",
       "first_seen_at": "2026-07-30T00:11:07",
-      "last_seen_at": "2026-07-30T06:04:56",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-30T17:48:29",
+      "consecutive_count": 3,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "为什么在 2026 年，MPA（多页面应用）正在悄悄复辟？",
+      "url": "https://juejin.cn/post/7667127162155581449",
+      "last_hot_value": "热度:1035",
+      "first_seen_at": "2026-07-30T00:11:07",
+      "last_seen_at": "2026-07-30T17:48:29",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -47,28 +37,28 @@
       "last_hot_value": "热度:1089",
       "first_seen_at": "2026-07-30T00:11:07",
       "last_seen_at": "2026-07-30T06:04:56",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "为什么在 2026 年，MPA（多页面应用）正在悄悄复辟？",
-      "url": "https://juejin.cn/post/7667127162155581449",
-      "last_hot_value": "热度:891",
-      "first_seen_at": "2026-07-30T00:11:07",
-      "last_seen_at": "2026-07-30T06:04:56",
+      "title": "2026 了，前端转 AI 全栈我是这么学的 😍😍😍",
+      "url": "https://juejin.cn/post/7667503991685857290",
+      "last_hot_value": "热度:882",
+      "first_seen_at": "2026-07-30T06:04:56",
+      "last_seen_at": "2026-07-30T17:48:29",
       "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "开箱即用的 Flutter 通用脚手架——FlutterKit",
-      "url": "https://juejin.cn/post/7666446436604739611",
-      "last_hot_value": "热度:855",
-      "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-30T00:11:07",
-      "consecutive_count": 0,
-      "peak_rank": 4,
+      "title": "上线一个人静态网站需要多少钱，难不难？",
+      "url": "https://juejin.cn/post/7666490925375815718",
+      "last_hot_value": "热度:720",
+      "first_seen_at": "2026-07-30T00:11:07",
+      "last_seen_at": "2026-07-30T17:48:29",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -77,26 +67,16 @@
       "last_hot_value": "热度:738",
       "first_seen_at": "2026-07-28T13:17:12",
       "last_seen_at": "2026-07-30T06:04:56",
-      "consecutive_count": 4,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "为什么越来越多人使用WebFlux？",
-      "url": "https://juejin.cn/post/7665981990437814298",
-      "last_hot_value": "热度:423",
-      "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-28T15:37:34",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "上线一个人静态网站需要多少钱，难不难？",
-      "url": "https://juejin.cn/post/7666490925375815718",
-      "last_hot_value": "热度:567",
-      "first_seen_at": "2026-07-30T00:11:07",
-      "last_seen_at": "2026-07-30T06:04:56",
+      "title": "A 社官方：我们删掉了 80% 的 skills",
+      "url": "https://juejin.cn/post/7667756207138848819",
+      "last_hot_value": "热度:612",
+      "first_seen_at": "2026-07-30T06:04:56",
+      "last_seen_at": "2026-07-30T17:48:29",
       "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
@@ -107,7 +87,7 @@
       "last_hot_value": "热度:513",
       "first_seen_at": "2026-07-28T13:17:12",
       "last_seen_at": "2026-07-30T06:04:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -122,14 +102,24 @@
       "is_new": false
     },
     {
-      "title": "2026 了，前端转 AI 全栈我是这么学的 😍😍😍",
-      "url": "https://juejin.cn/post/7667503991685857290",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-07-30T06:04:56",
-      "last_seen_at": "2026-07-30T06:04:56",
+      "title": "给 AI 的 Agent 实现指南，可控 Agent 的关键",
+      "url": "https://juejin.cn/post/7667103725047431174",
+      "last_hot_value": "热度:495",
+      "first_seen_at": "2026-07-30T17:48:29",
+      "last_seen_at": "2026-07-30T17:48:29",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
+    },
+    {
+      "title": "人选择不了能活多久，但能选择怎么活着",
+      "url": "https://juejin.cn/post/7667140974343880714",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-07-30T06:04:56",
+      "last_seen_at": "2026-07-30T17:48:29",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "别再\"学工具\"了，先搭你的 AI 工作流",
@@ -152,34 +142,24 @@
       "is_new": false
     },
     {
-      "title": "A 社官方：我们删掉了 80% 的 skills",
-      "url": "https://juejin.cn/post/7667756207138848819",
-      "last_hot_value": "热度:459",
-      "first_seen_at": "2026-07-30T06:04:56",
-      "last_seen_at": "2026-07-30T06:04:56",
+      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
+      "url": "https://juejin.cn/post/7667440437864300544",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-07-30T17:48:29",
+      "last_seen_at": "2026-07-30T17:48:29",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "人选择不了能活多久，但能选择怎么活着",
-      "url": "https://juejin.cn/post/7667140974343880714",
-      "last_hot_value": "热度:423",
-      "first_seen_at": "2026-07-30T06:04:56",
-      "last_seen_at": "2026-07-30T06:04:56",
+      "title": "原来 AI Agent 的核心循环这么简单：手搓一个 Agent Loop",
+      "url": "https://juejin.cn/post/7666403249923473459",
+      "last_hot_value": "热度:432",
+      "first_seen_at": "2026-07-30T17:48:29",
+      "last_seen_at": "2026-07-30T17:48:29",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
-    },
-    {
-      "title": "抛弃低效SSH！这套Ansible+Web可视化神器，让你天天准点下班！",
-      "url": "https://juejin.cn/post/7665961135787933730",
-      "last_hot_value": "热度:261",
-      "first_seen_at": "2026-07-27T16:14:49",
-      "last_seen_at": "2026-07-27T16:14:49",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
     }
   ]
 }

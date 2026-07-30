@@ -1,22 +1,32 @@
 {
-  "update_time": "2026-07-30T06:05:18",
+  "update_time": "2026-07-30T17:48:41",
   "items": [
     {
-      "title": "护眼宝【适合长期盯电脑人群】",
+      "title": "RDO v1.4.7汉化版 远程桌面管理器",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-30T00:11:19",
-      "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-07-30T17:48:41",
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "WPS一键免登录软件",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-30T00:11:19",
-      "last_seen_at": "2026-07-30T00:11:19",
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "护眼宝【适合长期盯电脑人群】",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-30T00:11:19",
+      "last_seen_at": "2026-07-30T06:05:18",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -42,13 +52,23 @@
       "is_new": false
     },
     {
-      "title": "Excel图表生成工具v2.4.6（功能升级：新增9个图表）",
+      "title": "局域网内网IP扫描工具NetworkAssistant V1.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-27T16:15:11",
-      "last_seen_at": "2026-07-27T16:15:11",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "first_seen_at": "2026-07-30T17:48:41",
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "闲鱼低价提醒工具V1.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-30T00:11:19",
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -57,9 +77,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-30T06:05:18",
       "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Chrome Win64_v150.0.7871.187",
@@ -67,28 +87,28 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-28T15:37:46",
       "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "闲鱼低价提醒工具V1.0",
+      "title": "自动滑动屏幕器 AutoSlide v2.5.2",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-30T17:48:41",
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "PDF提取原图 & 图片缩放 —— 批量工具",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-30T00:11:19",
-      "last_seen_at": "2026-07-30T00:11:19",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "微信 4.1.12 for windows 多开、防撤回补丁",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-27T16:15:11",
-      "last_seen_at": "2026-07-27T16:15:11",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -97,7 +117,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-30T00:11:19",
       "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -107,16 +127,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-28T13:17:27",
       "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "PDF提取原图 & 图片缩放 —— 批量工具",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-30T00:11:19",
-      "last_seen_at": "2026-07-30T00:11:19",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -132,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "foobar2000 2.25.10 简体中文汉化绿色单文件版",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-30T17:48:41",
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "FastTableOCR智能表格识别软件V1.1（增加复制表格按钮）",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-30T06:05:18",
       "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Line v1.0.0 屏幕参考线工具",
@@ -147,7 +167,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-28T13:17:27",
       "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -170,6 +190,16 @@
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "千问输入法 windows 版发布了 QianwenIMEInstaller_V0.5.0.3",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-30T17:48:41",
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "文本转手写生成器handwriterV2.4.1",
@@ -197,9 +227,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-30T06:05:18",
       "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "音乐去重 v 1.0",
@@ -252,14 +282,24 @@
       "is_new": false
     },
     {
+      "title": "星辰超级智能体 TeleAgent V2.1.3 win+mac",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-07-30T17:48:41",
+      "last_seen_at": "2026-07-30T17:48:41",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "【7月29日更新】手写签名设计生成器V2.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-07-30T06:05:18",
       "last_seen_at": "2026-07-30T06:05:18",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "桌面文件快速分类整理归档",
@@ -272,21 +312,21 @@
       "is_new": false
     },
     {
-      "title": "C盘清理工具 v1.2.0",
+      "title": "PDF 转 Word（仅转图片整理，非OCR功能） v1.2",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-30T06:05:18",
-      "last_seen_at": "2026-07-30T06:05:18",
+      "first_seen_at": "2026-07-30T17:48:41",
+      "last_seen_at": "2026-07-30T17:48:41",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
     },
     {
-      "title": "PDF文件裁剪工具 PDF Page Cut3.5中文版",
+      "title": "C盘清理工具 v1.2.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-07-27T16:15:11",
-      "last_seen_at": "2026-07-27T16:15:11",
+      "first_seen_at": "2026-07-30T06:05:18",
+      "last_seen_at": "2026-07-30T06:05:18",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
