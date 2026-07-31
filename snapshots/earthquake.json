@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-07-31T17:58:37",
+  "update_time": "2026-07-31T19:04:57",
   "items": [
     {
       "title": "M5.6 秘鲁",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.6级",
       "first_seen_at": "2026-07-31T17:58:37",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.3 四川泸州市泸县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-30T16:13:53",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-07-30T03:22:56",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -56,18 +56,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-07-31T17:58:37",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.8 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-07-29T13:20:53",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-30T16:13:53",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.3级",
       "first_seen_at": "2026-07-30T03:22:56",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -106,18 +106,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-07-31T17:58:37",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M5.1 印尼巴布亚省",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.1级",
       "first_seen_at": "2026-07-30T16:13:53",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -146,10 +146,10 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.0级",
       "first_seen_at": "2026-07-31T17:58:37",
-      "last_seen_at": "2026-07-31T17:58:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-31T19:04:57",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-07-31T17:58:35",
+  "update_time": "2026-07-31T19:04:54",
   "items": [
     {
       "title": "海鸥才不管那么多",
       "url": "",
       "last_hot_value": "2030人在读",
       "first_seen_at": "2026-07-30T03:22:52",
-      "last_seen_at": "2026-07-31T17:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "",
       "last_hot_value": "1838人在读",
       "first_seen_at": "2026-07-30T03:22:52",
-      "last_seen_at": "2026-07-31T17:58:35",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,30 +26,40 @@
       "url": "",
       "last_hot_value": "2128人在读",
       "first_seen_at": "2026-07-31T17:58:35",
-      "last_seen_at": "2026-07-31T17:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "马驹桥的时间：清华博士的日结手记",
       "url": "",
       "last_hot_value": "1908人在读",
       "first_seen_at": "2026-07-30T16:13:49",
-      "last_seen_at": "2026-07-31T17:58:35",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "恶意",
+      "url": "",
+      "last_hot_value": "9013人在读",
+      "first_seen_at": "2026-07-31T19:04:54",
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "山居杂忆",
       "url": "",
       "last_hot_value": "551人在读",
       "first_seen_at": "2026-07-31T17:58:35",
-      "last_seen_at": "2026-07-31T17:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "花落了：一个民间大了的生死笔记",
@@ -62,14 +72,44 @@
       "is_new": false
     },
     {
+      "title": "解忧杂货店",
+      "url": "",
+      "last_hot_value": "7852人在读",
+      "first_seen_at": "2026-07-31T19:04:54",
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "白夜行",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-07-31T19:04:54",
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
       "last_hot_value": "1282人在读",
       "first_seen_at": "2026-07-29T13:20:49",
-      "last_seen_at": "2026-07-31T17:58:35",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "嫌疑人X的献身",
+      "url": "",
+      "last_hot_value": "4952人在读",
+      "first_seen_at": "2026-07-31T19:04:54",
+      "last_seen_at": "2026-07-31T19:04:54",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "AI未来已来：CEO、组织、个人的时代红利（微信读书特别版）",
