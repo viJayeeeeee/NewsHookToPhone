@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-07-31T19:04:54",
+  "update_time": "2026-08-01T17:18:41",
   "items": [
+    {
+      "title": "制造消费者：消费主义全球史",
+      "url": "",
+      "last_hot_value": "784人在读",
+      "first_seen_at": "2026-08-01T17:18:41",
+      "last_seen_at": "2026-08-01T17:18:41",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "海鸥才不管那么多",
       "url": "",
       "last_hot_value": "2030人在读",
       "first_seen_at": "2026-07-30T03:22:52",
       "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,17 +27,27 @@
       "last_hot_value": "1838人在读",
       "first_seen_at": "2026-07-30T03:22:52",
       "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
+      "title": "工作、消费主义和新穷人",
+      "url": "",
+      "last_hot_value": "2234人在读",
+      "first_seen_at": "2026-08-01T17:18:41",
+      "last_seen_at": "2026-08-01T17:18:41",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "夜晚的潜水艇",
       "url": "",
-      "last_hot_value": "2128人在读",
+      "last_hot_value": "2871人在读",
       "first_seen_at": "2026-07-31T17:58:35",
-      "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-01T17:18:41",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,48 +57,58 @@
       "last_hot_value": "1908人在读",
       "first_seen_at": "2026-07-30T16:13:49",
       "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "山居杂忆",
+      "url": "",
+      "last_hot_value": "1418人在读",
+      "first_seen_at": "2026-07-31T17:58:35",
+      "last_seen_at": "2026-08-01T17:18:41",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "恶意",
       "url": "",
-      "last_hot_value": "9013人在读",
+      "last_hot_value": "9245人在读",
       "first_seen_at": "2026-07-31T19:04:54",
-      "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "山居杂忆",
-      "url": "",
-      "last_hot_value": "551人在读",
-      "first_seen_at": "2026-07-31T17:58:35",
-      "last_seen_at": "2026-07-31T19:04:54",
+      "last_seen_at": "2026-08-01T17:18:41",
       "consecutive_count": 2,
-      "peak_rank": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "花落了：一个民间大了的生死笔记",
+      "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "720人在读",
-      "first_seen_at": "2026-07-29T13:20:49",
-      "last_seen_at": "2026-07-30T03:22:52",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "last_hot_value": "732人在读",
+      "first_seen_at": "2026-08-01T17:18:41",
+      "last_seen_at": "2026-08-01T17:18:41",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "解忧杂货店",
       "url": "",
-      "last_hot_value": "7852人在读",
+      "last_hot_value": "6739人在读",
       "first_seen_at": "2026-07-31T19:04:54",
-      "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T17:18:41",
+      "consecutive_count": 2,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "命运的求索——中国命理学简史及推演方法",
+      "url": "",
+      "last_hot_value": "797人在读",
+      "first_seen_at": "2026-08-01T17:18:41",
+      "last_seen_at": "2026-08-01T17:18:41",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -87,19 +117,19 @@
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-07-31T19:04:54",
       "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "奥德赛（张秋子导读版）（全四册）",
+      "title": "愤怒的葡萄",
       "url": "",
-      "last_hot_value": "1282人在读",
-      "first_seen_at": "2026-07-29T13:20:49",
-      "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 5,
-      "peak_rank": 7,
-      "is_new": false
+      "last_hot_value": "582人在读",
+      "first_seen_at": "2026-08-01T17:18:41",
+      "last_seen_at": "2026-08-01T17:18:41",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "嫌疑人X的献身",
@@ -107,18 +137,8 @@
       "last_hot_value": "4952人在读",
       "first_seen_at": "2026-07-31T19:04:54",
       "last_seen_at": "2026-07-31T19:04:54",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "AI未来已来：CEO、组织、个人的时代红利（微信读书特别版）",
-      "url": "",
-      "last_hot_value": "4094人在读",
-      "first_seen_at": "2026-07-29T13:20:49",
-      "last_seen_at": "2026-07-29T13:20:49",
       "consecutive_count": 0,
-      "peak_rank": 9,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -127,16 +147,6 @@
       "last_hot_value": "2079人在读",
       "first_seen_at": "2026-07-30T16:13:49",
       "last_seen_at": "2026-07-30T16:13:49",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "圣女的救济",
-      "url": "",
-      "last_hot_value": "545人在读",
-      "first_seen_at": "2026-07-28T21:03:31",
-      "last_seen_at": "2026-07-28T21:03:31",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
