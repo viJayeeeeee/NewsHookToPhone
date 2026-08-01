@@ -1,45 +1,45 @@
 {
-  "update_time": "2026-07-30T17:48:40",
+  "update_time": "2026-08-01T01:12:22",
   "items": [
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:220750 回复:2036",
+      "last_hot_value": "查看:221804 回复:2043",
       "first_seen_at": "2026-07-30T00:11:17",
-      "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
+      "title": "【史诗级更新】【开源】OpenFlare 自建 CDN, 开源版 Cloudflare",
+      "url": "https://www.nodeseek.com/post-760916-1",
+      "last_hot_value": "查看:5491 回复:92",
+      "first_seen_at": "2026-08-01T01:12:22",
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
       "url": "https://www.nodeseek.com/post-824558-1",
-      "last_hot_value": "查看:5716 回复:100",
+      "last_hot_value": "查看:6390 回复:111",
       "first_seen_at": "2026-07-30T00:11:17",
-      "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "【拒绝“送中”与 IP 黑名单】IP-Sentinel 分布式哨兵系统v3.1.0重装上阵！让你的小鸡完美伪装成“当地人”",
-      "url": "https://www.nodeseek.com/post-683468-1",
-      "last_hot_value": "查看:33530 回复:443",
-      "first_seen_at": "2026-07-28T13:17:26",
-      "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "[新人看一看]老鸟请直接忽略",
-      "url": "https://www.nodeseek.com/post-348342-1",
-      "last_hot_value": "查看:21653 回复:415",
-      "first_seen_at": "2026-07-28T13:17:26",
-      "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 5,
+      "title": "QD ～ 不仅限于自动签到的定时任务自动执行框架",
+      "url": "https://www.nodeseek.com/post-17695-1",
+      "last_hot_value": "查看:7304 回复:29",
+      "first_seen_at": "2026-08-01T01:12:22",
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "NAT机商家合集-置顶每月更新中",
@@ -47,8 +47,18 @@
       "last_hot_value": "查看:141273 回复:378",
       "first_seen_at": "2026-07-30T00:11:17",
       "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:206275 回复:2800",
+      "first_seen_at": "2026-07-30T00:11:17",
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 4,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -57,19 +67,19 @@
       "last_hot_value": "查看:9235 回复:159",
       "first_seen_at": "2026-07-30T00:11:17",
       "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
-      "url": "https://www.nodeseek.com/post-286885-1",
-      "last_hot_value": "查看:240474 回复:504",
-      "first_seen_at": "2026-07-28T13:17:26",
-      "last_seen_at": "2026-07-28T15:37:44",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "NodeWarden 1.2.0，新增WebVault网页密码管理页面、send功能、多用户管理、logo",
+      "url": "https://www.nodeseek.com/post-633350-1",
+      "last_hot_value": "查看:8012 回复:162",
+      "first_seen_at": "2026-08-01T01:12:22",
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "HashPay | 一站式加密货币支付网关",
@@ -77,19 +87,29 @@
       "last_hot_value": "查看:3056 回复:63",
       "first_seen_at": "2026-07-30T00:11:17",
       "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:205498 回复:2793",
-      "first_seen_at": "2026-07-30T00:11:17",
-      "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 3,
+      "title": "【教程】搭建自己的邮局用于收发邮件📧，老太太看了都直呼ez",
+      "url": "https://www.nodeseek.com/post-140032-1",
+      "last_hot_value": "查看:10949 回复:127",
+      "first_seen_at": "2026-08-01T01:12:22",
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:752055 回复:1156",
+      "first_seen_at": "2026-08-01T01:12:22",
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
@@ -97,7 +117,7 @@
       "last_hot_value": "查看:74884 回复:483",
       "first_seen_at": "2026-07-30T00:11:17",
       "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -107,9 +127,19 @@
       "last_hot_value": "查看:103624 回复:268",
       "first_seen_at": "2026-07-30T00:11:17",
       "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:69743 回复:584",
+      "first_seen_at": "2026-08-01T01:12:22",
+      "last_seen_at": "2026-08-01T01:12:22",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
@@ -117,7 +147,7 @@
       "last_hot_value": "查看:5013 回复:112",
       "first_seen_at": "2026-07-30T06:05:16",
       "last_seen_at": "2026-07-30T17:48:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

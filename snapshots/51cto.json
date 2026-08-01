@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-07-30T17:48:32",
+  "update_time": "2026-08-01T01:12:15",
   "items": [
+    {
+      "title": "让应用听懂中文——用 HarmonyOS Core Speech Kit 实现端侧语音识别",
+      "url": "https://ost.51cto.com/posts/54291",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HarmonyOS｜Natural Language Kit 学习实录01：从分词结果到实体字段解析",
       "url": "https://ost.51cto.com/posts/54166",
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T17:48:32",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么越来越多人用Apache Tika？",
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T06:05:02",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,14 +42,14 @@
       "is_new": false
     },
     {
-      "title": "让应用\"悬浮\"起来：HarmonyOS 闪控球（floatingBall）从接入到实战",
-      "url": "https://ost.51cto.com/posts/53893",
+      "title": "PostgreSQL 表膨胀完整治理指南：Vacuum 原理、阻塞根因、应急处理与长期预防方案",
+      "url": "https://www.51cto.com/article/851467.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "HarmonyOS 6.1｜NearLink ArkTS 实战指南：从设备发现到会话通信的项目落地",
@@ -47,9 +57,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T17:48:32",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 如何理解流体力学？从一个点涡问题看大模型的科学推理能力",
@@ -57,7 +67,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T06:05:02",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,14 +82,14 @@
       "is_new": false
     },
     {
-      "title": "大模型工程化怎么做？LLMOps 九大环节自动化实现方案",
-      "url": "https://www.51cto.com/article/851009.html",
+      "title": "告警救火、薪资触顶！传统运维出路在哪？AIOps 开启运维下一代晋升通道",
+      "url": "https://www.51cto.com/article/851514.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "CSS-in-JS 要凉了吗？这个新项目给出了答案",
@@ -87,7 +97,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T06:05:02",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -102,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "搜索智能体也需要「操作系统」：SearchOS 开源多智能体协作框架",
-      "url": "https://www.51cto.com/article/851056.html",
+      "title": "直接优化策略：策略梯度、Actor-Critic、Advantage 与重要性采样",
+      "url": "https://www.51cto.com/article/851511.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "C++20 协程：你以为很难，其实看完这篇就懂了",
@@ -117,7 +127,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T06:05:02",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -132,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "四十万美元、两亿张图：华为联合六校训出2K模型 Boogu-Image-0.1，比肩闭源",
-      "url": "https://www.51cto.com/article/851055.html",
+      "title": "Claude Code 越聪明越烧钱？先检查后端有没有让它猜",
+      "url": "https://www.51cto.com/article/851510.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "当KimiK3冲向 2.8 万亿，医院却停在 32B：Agent 真正难的是变小",
@@ -147,7 +157,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T06:05:02",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -162,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "全球⾸个⼤规模 Agentic 扩散模型来了！",
-      "url": "https://www.51cto.com/article/851053.html",
+      "title": "GPT-5.6一夜爆砍80%，一元屠杀最贵Claude！",
+      "url": "https://www.51cto.com/article/851509.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "从 175 人到 30 人：AI Native 组织的尽头，是降本增效",
@@ -177,7 +187,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T06:05:02",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -192,14 +202,14 @@
       "is_new": false
     },
     {
-      "title": "别再无脑开高推理！Opus 5高配会擅自重构代码乱加戏",
-      "url": "https://www.51cto.com/article/851052.html",
+      "title": "循环里的 Task.Run 与无界 Parallel.ForEach：离生产事故只差一步",
+      "url": "https://www.51cto.com/article/851508.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "史上首次完全自主 AI Agent 网络攻击：利用 0Day 漏洞渗透 Hugging Face",
@@ -207,7 +217,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T06:05:02",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -222,14 +232,14 @@
       "is_new": false
     },
     {
-      "title": "一句话搭出九人旅行网站！奥特曼：ChatGPT Work名字起小了",
-      "url": "https://www.51cto.com/article/851050.html",
+      "title": "OpenAI突然杀疯！GPT 5.6系列价格最高暴降80%，AI竟开始自己改代码实现原地飞升",
+      "url": "https://www.51cto.com/article/851499.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "火山引擎开源 Agent 驱动的搜索自迭代技术",
@@ -237,7 +247,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-07-30T06:05:02",
       "last_seen_at": "2026-07-30T17:48:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -252,14 +262,14 @@
       "is_new": false
     },
     {
-      "title": "马斯克彻底向ASI投降！十年后万亿财富都将「归零」",
-      "url": "https://www.51cto.com/article/851048.html",
+      "title": "ChatGPT突发封杀令！全球AI写手一夜断粮",
+      "url": "https://www.51cto.com/article/851506.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "SIGCOMM 2026｜两小时复现顶会网络系统！厦大团队让论文自动变成可运行代码",
@@ -272,14 +282,14 @@
       "is_new": false
     },
     {
-      "title": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
-      "url": "https://www.51cto.com/article/851045.html",
+      "title": "HarmonyOS 6.1｜Remote Communication Kit 自学实录04：从一次 RCP 请求到完整会话治理",
+      "url": "https://ost.51cto.com/posts/54172",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-28T13:17:15",
-      "last_seen_at": "2026-07-28T15:37:36",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-08-01T01:12:15",
+      "last_seen_at": "2026-08-01T01:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "他让GPT-5.6 Sol连跑33小时攻关费马大定理，被系统强制终止",
