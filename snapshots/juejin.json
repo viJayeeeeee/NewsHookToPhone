@@ -1,13 +1,33 @@
 {
-  "update_time": "2026-08-01T01:12:12",
+  "update_time": "2026-08-01T07:06:03",
   "items": [
+    {
+      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
+      "url": "https://juejin.cn/post/7667096004731846682",
+      "last_hot_value": "热度:2439",
+      "first_seen_at": "2026-08-01T07:06:03",
+      "last_seen_at": "2026-08-01T07:06:03",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "上线一个人静态网站需要多少钱，难不难？",
+      "url": "https://juejin.cn/post/7666490925375815718",
+      "last_hot_value": "热度:1152",
+      "first_seen_at": "2026-07-30T00:11:07",
+      "last_seen_at": "2026-08-01T07:06:03",
+      "consecutive_count": 5,
+      "peak_rank": 2,
+      "is_new": false
+    },
     {
       "title": "2026 了，前端转 AI 全栈我是这么学的 😍😍😍",
       "url": "https://juejin.cn/post/7667503991685857290",
       "last_hot_value": "热度:1845",
       "first_seen_at": "2026-07-30T06:04:56",
       "last_seen_at": "2026-08-01T01:12:12",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -22,11 +42,11 @@
       "is_new": false
     },
     {
-      "title": "上线一个人静态网站需要多少钱，难不难？",
-      "url": "https://juejin.cn/post/7666490925375815718",
-      "last_hot_value": "热度:1098",
-      "first_seen_at": "2026-07-30T00:11:07",
-      "last_seen_at": "2026-08-01T01:12:12",
+      "title": "A 社官方：我们删掉了 80% 的 skills",
+      "url": "https://juejin.cn/post/7667756207138848819",
+      "last_hot_value": "热度:1008",
+      "first_seen_at": "2026-07-30T06:04:56",
+      "last_seen_at": "2026-08-01T07:06:03",
       "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
@@ -52,44 +72,44 @@
       "is_new": false
     },
     {
-      "title": "A 社官方：我们删掉了 80% 的 skills",
-      "url": "https://juejin.cn/post/7667756207138848819",
-      "last_hot_value": "热度:945",
-      "first_seen_at": "2026-07-30T06:04:56",
-      "last_seen_at": "2026-08-01T01:12:12",
+      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
+      "url": "https://juejin.cn/post/7667440437864300544",
+      "last_hot_value": "热度:657",
+      "first_seen_at": "2026-07-30T17:48:29",
+      "last_seen_at": "2026-08-01T07:06:03",
       "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
-      "url": "https://juejin.cn/post/7667440437864300544",
-      "last_hot_value": "热度:639",
-      "first_seen_at": "2026-07-30T17:48:29",
-      "last_seen_at": "2026-08-01T01:12:12",
+      "title": "为什么越来越多人用Apache Tika？",
+      "url": "https://juejin.cn/post/7667853684410302490",
+      "last_hot_value": "热度:540",
+      "first_seen_at": "2026-08-01T01:12:12",
+      "last_seen_at": "2026-08-01T07:06:03",
       "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "为什么越来越多人用Apache Tika？",
-      "url": "https://juejin.cn/post/7667853684410302490",
-      "last_hot_value": "热度:504",
-      "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T01:12:12",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
       "title": "终于在今天入选了 Gitee GVP，这真值得庆祝~",
       "url": "https://juejin.cn/post/7667399814504202275",
-      "last_hot_value": "热度:486",
+      "last_hot_value": "热度:504",
       "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T01:12:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:03",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "工作 5 年后，决定你薪资上限的究竟是什么？",
+      "url": "https://juejin.cn/post/7667750500683120675",
+      "last_hot_value": "热度:468",
+      "first_seen_at": "2026-08-01T01:12:12",
+      "last_seen_at": "2026-08-01T07:06:03",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "给 AI 的 Agent 实现指南，可控 Agent 的关键",
@@ -102,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "工作 5 年后，决定你薪资上限的究竟是什么？",
-      "url": "https://juejin.cn/post/7667750500683120675",
-      "last_hot_value": "热度:441",
+      "title": "谷歌的一个优化建议，让我重新学了一遍Android里面如何正确处理位图",
+      "url": "https://juejin.cn/post/7667097178154319912",
+      "last_hot_value": "热度:423",
       "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T01:12:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:03",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "人选择不了能活多久，但能选择怎么活着",
@@ -122,11 +142,11 @@
       "is_new": false
     },
     {
-      "title": "谷歌的一个优化建议，让我重新学了一遍Android里面如何正确处理位图",
-      "url": "https://juejin.cn/post/7667097178154319912",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T01:12:12",
+      "title": "AI 短剧出海，门槛已经低到离谱了",
+      "url": "https://juejin.cn/post/7667552613815959598",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-08-01T07:06:03",
+      "last_seen_at": "2026-08-01T07:06:03",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -134,12 +154,12 @@
     {
       "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
       "url": "https://juejin.cn/post/7667863898348126271",
-      "last_hot_value": "热度:369",
+      "last_hot_value": "热度:396",
       "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T01:12:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:03",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "原来 AI Agent 的核心循环这么简单：手搓一个 Agent Loop",

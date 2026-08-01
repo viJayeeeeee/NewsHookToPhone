@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-01T01:12:22",
+  "update_time": "2026-08-01T07:06:15",
   "items": [
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:221804 回复:2043",
       "first_seen_at": "2026-07-30T00:11:17",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,18 +16,18 @@
       "url": "https://www.nodeseek.com/post-760916-1",
       "last_hot_value": "查看:5491 回复:92",
       "first_seen_at": "2026-08-01T01:12:22",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
       "url": "https://www.nodeseek.com/post-824558-1",
       "last_hot_value": "查看:6390 回复:111",
       "first_seen_at": "2026-07-30T00:11:17",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,10 +36,10 @@
       "url": "https://www.nodeseek.com/post-17695-1",
       "last_hot_value": "查看:7304 回复:29",
       "first_seen_at": "2026-08-01T01:12:22",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NAT机商家合集-置顶每月更新中",
@@ -56,8 +56,8 @@
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:206275 回复:2800",
       "first_seen_at": "2026-07-30T00:11:17",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,10 +76,10 @@
       "url": "https://www.nodeseek.com/post-633350-1",
       "last_hot_value": "查看:8012 回复:162",
       "first_seen_at": "2026-08-01T01:12:22",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HashPay | 一站式加密货币支付网关",
@@ -96,20 +96,20 @@
       "url": "https://www.nodeseek.com/post-140032-1",
       "last_hot_value": "查看:10949 回复:127",
       "first_seen_at": "2026-08-01T01:12:22",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:752055 回复:1156",
       "first_seen_at": "2026-08-01T01:12:22",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
@@ -120,6 +120,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "[新人看一看]老鸟请直接忽略",
+      "url": "https://www.nodeseek.com/post-348342-1",
+      "last_hot_value": "查看:21844 回复:417",
+      "first_seen_at": "2026-08-01T07:06:15",
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
@@ -136,10 +146,10 @@
       "url": "https://www.nodeseek.com/post-647200-1",
       "last_hot_value": "查看:69743 回复:584",
       "first_seen_at": "2026-08-01T01:12:22",
-      "last_seen_at": "2026-08-01T01:12:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-01T07:06:15",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
