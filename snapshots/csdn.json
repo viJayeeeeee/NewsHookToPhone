@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-01T07:06:05",
+  "update_time": "2026-08-01T22:19:42",
   "items": [
+    {
+      "title": "干货版《算法导论》16：比较模型与随机访问下的算法进阶之路",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/163376176",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-08-01T22:19:42",
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "深入解析 Vue 架构：MVVM、MVC 和 MVP 模式的区别与实战对比",
       "url": "https://blog.csdn.net/qq_41840843/article/details/163362623",
-      "last_hot_value": "3.1w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "3.0w",
       "first_seen_at": "2026-07-30T06:05:00",
       "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "【从零实现C++AI大模型接入SDK（标准项目）】《系列（一）------项目简介+AI知识科普》",
+      "url": "https://blog.csdn.net/2501_93351213/article/details/163364363",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-08-01T07:06:05",
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "PyTorch计算机视觉（3）——卷积神经网络（CNN）详解与实现",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/162009088",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-07-30T06:05:00",
-      "last_seen_at": "2026-08-01T01:12:13",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
     },
@@ -54,10 +74,10 @@
     {
       "title": "手机上怎么远程处理PDF？Stirling-PDF部署与公网访问教程",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/163371254",
-      "last_hot_value": "2.7w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -84,10 +104,10 @@
     {
       "title": "2026远程桌面横向对比：ToDesk、向日葵、TeamViewer，谁才是真正的“零距离“体验？",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/163353738",
-      "last_hot_value": "2.6w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "通关打怪SpringMVC之传递参数篇3",
+      "url": "https://blog.csdn.net/2501_93392325/article/details/163373420",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-01T22:19:42",
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "Codex Scheduled Tasks：让任务自动醒来继续工作",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/162941657",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-07-30T17:48:31",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -117,7 +147,7 @@
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-01T01:12:13",
       "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -132,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "【从零实现C++AI大模型接入SDK（标准项目）】《系列（一）------项目简介+AI知识科普》",
-      "url": "https://blog.csdn.net/2501_93351213/article/details/163364363",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-08-01T07:06:05",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 1,
+      "title": "Zookeeper - Zookeeper 的设计理念与核心解决的分布式问题",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157688044",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-01T01:12:13",
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 3,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Codex】掌握 Codex 渐进加载 Skills，高效拓展自动化工作流",
@@ -172,14 +202,24 @@
       "is_new": false
     },
     {
+      "title": "AI 辅助研发内部复盘（2/5）：老项目改造的工程化实践",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/163374865",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-01T22:19:42",
+      "last_seen_at": "2026-08-01T22:19:42",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "【粉丝福利社】OpenClaw深度解析：从架构原理到Agent工程实践",
       "url": "https://blog.csdn.net/aa2528877987/article/details/163345860",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-01T07:06:05",
       "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Linux指南】动静态库系列（三）：静态库制作实战：ar、Makefile 与 .a 文件全流程",
@@ -187,7 +227,7 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-01T01:12:13",
       "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -199,16 +239,6 @@
       "last_seen_at": "2026-07-30T17:48:31",
       "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "Zookeeper - Zookeeper 的设计理念与核心解决的分布式问题",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157688044",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 2,
-      "peak_rank": 9,
       "is_new": false
     },
     {
