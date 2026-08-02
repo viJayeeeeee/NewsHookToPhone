@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-01T22:19:41",
+  "update_time": "2026-08-02T06:28:19",
   "items": [
     {
       "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
       "url": "https://juejin.cn/post/7667440437864300544",
-      "last_hot_value": "热度:720",
+      "last_hot_value": "热度:747",
       "first_seen_at": "2026-07-30T17:48:29",
-      "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-02T06:28:19",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,43 +22,33 @@
       "is_new": false
     },
     {
+      "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
+      "url": "https://juejin.cn/post/7667863898348126271",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-08-01T01:12:12",
+      "last_seen_at": "2026-08-02T06:28:19",
+      "consecutive_count": 4,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "为什么越来越多人用Apache Tika？",
       "url": "https://juejin.cn/post/7667853684410302490",
       "last_hot_value": "热度:612",
       "first_seen_at": "2026-08-01T01:12:12",
       "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "上线一个人静态网站需要多少钱，难不难？",
-      "url": "https://juejin.cn/post/7666490925375815718",
-      "last_hot_value": "热度:1152",
-      "first_seen_at": "2026-07-30T00:11:07",
-      "last_seen_at": "2026-08-01T07:06:03",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "2026 了，前端转 AI 全栈我是这么学的 😍😍😍",
-      "url": "https://juejin.cn/post/7667503991685857290",
-      "last_hot_value": "热度:1845",
-      "first_seen_at": "2026-07-30T06:04:56",
-      "last_seen_at": "2026-08-01T01:12:12",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "携程员工：在携程4年，月薪3万左右，基本没涨薪了。不过挺满足的，毕竟稳定，福利也不错（附Agent面试题）",
-      "url": "https://juejin.cn/post/7667495083470471177",
-      "last_hot_value": "热度:1935",
-      "first_seen_at": "2026-07-30T00:11:07",
-      "last_seen_at": "2026-07-30T17:48:29",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "我的AI工作流整理【个人向】",
+      "url": "https://juejin.cn/post/7668309258707386378",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-08-01T22:19:41",
+      "last_seen_at": "2026-08-02T06:28:19",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -67,69 +57,39 @@
       "last_hot_value": "热度:495",
       "first_seen_at": "2026-08-01T22:19:41",
       "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "A 社官方：我们删掉了 80% 的 skills",
-      "url": "https://juejin.cn/post/7667756207138848819",
-      "last_hot_value": "热度:1008",
-      "first_seen_at": "2026-07-30T06:04:56",
-      "last_seen_at": "2026-08-01T07:06:03",
       "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "为什么在 2026 年，MPA（多页面应用）正在悄悄复辟？",
-      "url": "https://juejin.cn/post/7667127162155581449",
-      "last_hot_value": "热度:1035",
-      "first_seen_at": "2026-07-30T00:11:07",
-      "last_seen_at": "2026-07-30T17:48:29",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "那就和前端好好道个别吧",
-      "url": "https://juejin.cn/post/7667757814613934143",
-      "last_hot_value": "热度:1089",
-      "first_seen_at": "2026-07-30T00:11:07",
-      "last_seen_at": "2026-07-30T06:04:56",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
-      "url": "https://juejin.cn/post/7667863898348126271",
-      "last_hot_value": "热度:423",
-      "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 3,
-      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "Flutter Starling : 用 Swift和 Flutter 写了一个 Linux 桌面系统，震惊我一整年",
       "url": "https://juejin.cn/post/7668191994554073142",
-      "last_hot_value": "热度:387",
+      "last_hot_value": "热度:414",
       "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
+      "last_seen_at": "2026-08-02T06:28:19",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "MCP协议第5次更新，从打电话到微信聊天的巨大变革",
       "url": "https://juejin.cn/post/7668204673984135178",
-      "last_hot_value": "热度:378",
+      "last_hot_value": "热度:396",
       "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-02T06:28:19",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Android R8 为什么可以让 Kotlin 协程提速 2 倍？",
+      "url": "https://juejin.cn/post/7667459437695778870",
+      "last_hot_value": "热度:324",
+      "first_seen_at": "2026-08-01T22:19:41",
+      "last_seen_at": "2026-08-02T06:28:19",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "终于在今天入选了 Gitee GVP，这真值得庆祝~",
@@ -142,14 +102,14 @@
       "is_new": false
     },
     {
-      "title": "我的AI工作流整理【个人向】",
-      "url": "https://juejin.cn/post/7668309258707386378",
-      "last_hot_value": "热度:342",
+      "title": "手把手书写你的第一个 AI Skill：从原则到工程化",
+      "url": "https://juejin.cn/post/7667440437864448000",
+      "last_hot_value": "热度:288",
       "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-02T06:28:19",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "工作 5 年后，决定你薪资上限的究竟是什么？",
@@ -172,11 +132,11 @@
       "is_new": false
     },
     {
-      "title": "Android R8 为什么可以让 Kotlin 协程提速 2 倍？",
-      "url": "https://juejin.cn/post/7667459437695778870",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-01T22:19:41",
+      "title": "DeepSeek-V4-Flash 正式版来了！这次提升有点夸张。",
+      "url": "https://juejin.cn/post/7668634785267695625",
+      "last_hot_value": "热度:261",
+      "first_seen_at": "2026-08-02T06:28:19",
+      "last_seen_at": "2026-08-02T06:28:19",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -192,21 +152,11 @@
       "is_new": false
     },
     {
-      "title": "人选择不了能活多久，但能选择怎么活着",
-      "url": "https://juejin.cn/post/7667140974343880714",
-      "last_hot_value": "热度:477",
-      "first_seen_at": "2026-07-30T06:04:56",
-      "last_seen_at": "2026-07-30T17:48:29",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "手把手书写你的第一个 AI Skill：从原则到工程化",
-      "url": "https://juejin.cn/post/7667440437864448000",
-      "last_hot_value": "热度:252",
-      "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-01T22:19:41",
+      "title": "DeepSeek V4-Flash 更新：代码与 Agent 能力全面增强",
+      "url": "https://juejin.cn/post/7668540866239529010",
+      "last_hot_value": "热度:261",
+      "first_seen_at": "2026-08-02T06:28:19",
+      "last_seen_at": "2026-08-02T06:28:19",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -222,14 +172,24 @@
       "is_new": false
     },
     {
+      "title": "提升 Web 开发效率：我常用的 10 个 TypeScript 实战技巧",
+      "url": "https://juejin.cn/post/7667736324415701027",
+      "last_hot_value": "热度:207",
+      "first_seen_at": "2026-08-02T06:28:19",
+      "last_seen_at": "2026-08-02T06:28:19",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "Android 面试系列：Retrofit 的 suspend 是如何实现的？",
       "url": "https://juejin.cn/post/7667873177859047470",
       "last_hot_value": "热度:207",
       "first_seen_at": "2026-08-01T22:19:41",
       "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "原来 AI Agent 的核心循环这么简单：手搓一个 Agent Loop",
