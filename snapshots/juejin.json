@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-02T08:45:44",
+  "update_time": "2026-08-02T21:33:01",
   "items": [
     {
-      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
-      "url": "https://juejin.cn/post/7667440437864300544",
-      "last_hot_value": "热度:747",
-      "first_seen_at": "2026-07-30T17:48:29",
-      "last_seen_at": "2026-08-02T08:45:44",
-      "consecutive_count": 6,
+      "title": "我的AI工作流整理【个人向】",
+      "url": "https://juejin.cn/post/7668309258707386378",
+      "last_hot_value": "热度:603",
+      "first_seen_at": "2026-08-01T22:19:41",
+      "last_seen_at": "2026-08-02T21:33:01",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,22 +22,12 @@
       "is_new": false
     },
     {
-      "title": "我的AI工作流整理【个人向】",
-      "url": "https://juejin.cn/post/7668309258707386378",
-      "last_hot_value": "热度:459",
-      "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-02T08:45:44",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
       "url": "https://juejin.cn/post/7667863898348126271",
-      "last_hot_value": "热度:450",
+      "last_hot_value": "热度:504",
       "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-02T08:45:44",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-02T21:33:01",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,6 +42,16 @@
       "is_new": false
     },
     {
+      "title": "Flutter Starling : 用 Swift和 Flutter 写了一个 Linux 桌面系统，震惊我一整年",
+      "url": "https://juejin.cn/post/7668191994554073142",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-08-01T22:19:41",
+      "last_seen_at": "2026-08-02T21:33:01",
+      "consecutive_count": 4,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "Nest.js 和 Spring Boot 为何如此像？写给前端转 Java 的同学",
       "url": "https://juejin.cn/post/7667863898348093503",
       "last_hot_value": "热度:495",
@@ -62,13 +62,23 @@
       "is_new": false
     },
     {
-      "title": "Flutter Starling : 用 Swift和 Flutter 写了一个 Linux 桌面系统，震惊我一整年",
-      "url": "https://juejin.cn/post/7668191994554073142",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-02T08:45:44",
+      "title": "DeepSeek V4-Flash 更新：代码与 Agent 能力全面增强",
+      "url": "https://juejin.cn/post/7668540866239529010",
+      "last_hot_value": "热度:405",
+      "first_seen_at": "2026-08-02T06:28:19",
+      "last_seen_at": "2026-08-02T21:33:01",
       "consecutive_count": 3,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "DeepSeek-V4-Flash 正式版来了！这次提升有点夸张。",
+      "url": "https://juejin.cn/post/7668634785267695625",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-08-02T06:28:19",
+      "last_seen_at": "2026-08-02T21:33:01",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -77,8 +87,18 @@
       "last_hot_value": "热度:405",
       "first_seen_at": "2026-08-01T22:19:41",
       "last_seen_at": "2026-08-02T08:45:44",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Spring之父再次出山，开发了新的AI框架！",
+      "url": "https://juejin.cn/post/7668305038255521838",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-08-02T08:45:44",
+      "last_seen_at": "2026-08-02T21:33:01",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -87,7 +107,7 @@
       "last_hot_value": "热度:324",
       "first_seen_at": "2026-08-01T22:19:41",
       "last_seen_at": "2026-08-02T08:45:44",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -102,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "别再只用 Loading、Success、Error 表示所有页面状态了",
+      "url": "https://juejin.cn/post/7667895598095826970",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-08-02T21:33:01",
+      "last_seen_at": "2026-08-02T21:33:01",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "手把手书写你的第一个 AI Skill：从原则到工程化",
       "url": "https://juejin.cn/post/7667440437864448000",
       "last_hot_value": "热度:306",
       "first_seen_at": "2026-08-01T22:19:41",
       "last_seen_at": "2026-08-02T08:45:44",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -122,24 +152,14 @@
       "is_new": false
     },
     {
-      "title": "给 AI 的 Agent 实现指南，可控 Agent 的关键",
-      "url": "https://juejin.cn/post/7667103725047431174",
-      "last_hot_value": "热度:495",
-      "first_seen_at": "2026-07-30T17:48:29",
-      "last_seen_at": "2026-07-30T17:48:29",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek-V4-Flash 正式版来了！这次提升有点夸张。",
-      "url": "https://juejin.cn/post/7668634785267695625",
-      "last_hot_value": "热度:270",
-      "first_seen_at": "2026-08-02T06:28:19",
-      "last_seen_at": "2026-08-02T08:45:44",
-      "consecutive_count": 2,
+      "title": "我用AI写了半年代码——回头看，这5个能力正在退化",
+      "url": "https://juejin.cn/post/7668535450420019236",
+      "last_hot_value": "热度:207",
+      "first_seen_at": "2026-08-02T21:33:01",
+      "last_seen_at": "2026-08-02T21:33:01",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "谷歌的一个优化建议，让我重新学了一遍Android里面如何正确处理位图",
@@ -152,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek V4-Flash 更新：代码与 Agent 能力全面增强",
-      "url": "https://juejin.cn/post/7668540866239529010",
-      "last_hot_value": "热度:270",
-      "first_seen_at": "2026-08-02T06:28:19",
-      "last_seen_at": "2026-08-02T08:45:44",
-      "consecutive_count": 2,
+      "title": "公司取消前端岗后，做了 10 年 Java 的我，第一次认真拥抱 AI",
+      "url": "https://juejin.cn/post/7668341210563870720",
+      "last_hot_value": "热度:207",
+      "first_seen_at": "2026-08-02T21:33:01",
+      "last_seen_at": "2026-08-02T21:33:01",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "AI 短剧出海，门槛已经低到离谱了",
@@ -172,11 +192,11 @@
       "is_new": false
     },
     {
-      "title": "Spring之父再次出山，开发了新的AI框架！",
-      "url": "https://juejin.cn/post/7668305038255521838",
-      "last_hot_value": "热度:216",
-      "first_seen_at": "2026-08-02T08:45:44",
-      "last_seen_at": "2026-08-02T08:45:44",
+      "title": "用户埋点怎么设计",
+      "url": "https://juejin.cn/post/7667863898349289535",
+      "last_hot_value": "热度:189",
+      "first_seen_at": "2026-08-02T21:33:01",
+      "last_seen_at": "2026-08-02T21:33:01",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
@@ -197,16 +217,6 @@
       "last_hot_value": "热度:207",
       "first_seen_at": "2026-08-01T22:19:41",
       "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "原来 AI Agent 的核心循环这么简单：手搓一个 Agent Loop",
-      "url": "https://juejin.cn/post/7666403249923473459",
-      "last_hot_value": "热度:432",
-      "first_seen_at": "2026-07-30T17:48:29",
-      "last_seen_at": "2026-07-30T17:48:29",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
