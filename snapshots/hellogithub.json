@@ -1,75 +1,95 @@
 {
-  "update_time": "2026-08-02T06:28:28",
+  "update_time": "2026-08-02T08:45:54",
   "items": [
     {
       "title": "把多张网卡的带宽叠加起来",
       "url": "https://github.com/Hypostasis-Cat/HypoMux",
-      "last_hot_value": "1108",
+      "last_hot_value": "1127",
       "first_seen_at": "2026-08-01T07:06:13",
-      "last_seen_at": "2026-08-02T06:28:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "《深入理解 AI Agent：设计原理与工程实践》",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "last_hot_value": "1423",
+      "last_hot_value": "1436",
       "first_seen_at": "2026-08-01T07:06:13",
-      "last_seen_at": "2026-08-02T06:28:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "让 AI 读代码画出架构图",
       "url": "https://github.com/tt-a1i/archify",
-      "last_hot_value": "967",
+      "last_hot_value": "977",
       "first_seen_at": "2026-08-01T07:06:13",
-      "last_seen_at": "2026-08-02T06:28:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "在线 AI 简历编辑器",
       "url": "https://github.com/JOYCEQL/magic-resume",
-      "last_hot_value": "689",
+      "last_hot_value": "704",
       "first_seen_at": "2026-08-01T07:06:13",
-      "last_seen_at": "2026-08-02T06:28:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "上千个健身动作的集合",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "last_hot_value": "925",
+      "last_hot_value": "938",
       "first_seen_at": "2026-08-01T07:06:13",
-      "last_seen_at": "2026-08-02T06:28:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "拒绝 AI 味的网页设计技能",
       "url": "https://github.com/Nutlope/hallmark",
-      "last_hot_value": "687",
+      "last_hot_value": "695",
       "first_seen_at": "2026-08-01T07:06:13",
-      "last_seen_at": "2026-08-02T06:28:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "可多人协作的旅行规划平台",
       "url": "https://github.com/liketrek/TREK",
-      "last_hot_value": "946",
+      "last_hot_value": "959",
       "first_seen_at": "2026-08-01T07:06:13",
-      "last_seen_at": "2026-08-02T06:28:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "复古 PC 模拟器",
+      "url": "https://github.com/86Box/86Box",
+      "last_hot_value": "532",
+      "first_seen_at": "2026-08-02T08:45:54",
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "写论文用的文献管理工具",
+      "url": "https://github.com/JabRef/jabref",
+      "last_hot_value": "327",
+      "first_seen_at": "2026-08-02T08:45:54",
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "更好用的 Windows 系统清理工具",
@@ -80,6 +100,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "把 AI 编程助手变成视频工作室",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "last_hot_value": "465",
+      "first_seen_at": "2026-08-02T08:45:54",
+      "last_seen_at": "2026-08-02T08:45:54",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

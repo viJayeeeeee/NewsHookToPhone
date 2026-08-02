@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-02T06:28:19",
+  "update_time": "2026-08-02T08:45:44",
   "items": [
     {
       "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
       "url": "https://juejin.cn/post/7667440437864300544",
       "last_hot_value": "热度:747",
       "first_seen_at": "2026-07-30T17:48:29",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,12 +22,22 @@
       "is_new": false
     },
     {
+      "title": "我的AI工作流整理【个人向】",
+      "url": "https://juejin.cn/post/7668309258707386378",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-08-01T22:19:41",
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
       "url": "https://juejin.cn/post/7667863898348126271",
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -39,16 +49,6 @@
       "last_seen_at": "2026-08-01T22:19:41",
       "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "我的AI工作流整理【个人向】",
-      "url": "https://juejin.cn/post/7668309258707386378",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 2,
-      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -66,18 +66,18 @@
       "url": "https://juejin.cn/post/7668191994554073142",
       "last_hot_value": "热度:414",
       "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "MCP协议第5次更新，从打电话到微信聊天的巨大变革",
       "url": "https://juejin.cn/post/7668204673984135178",
-      "last_hot_value": "热度:396",
+      "last_hot_value": "热度:405",
       "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://juejin.cn/post/7667459437695778870",
       "last_hot_value": "热度:324",
       "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -104,10 +104,10 @@
     {
       "title": "手把手书写你的第一个 AI Skill：从原则到工程化",
       "url": "https://juejin.cn/post/7667440437864448000",
-      "last_hot_value": "热度:288",
+      "last_hot_value": "热度:306",
       "first_seen_at": "2026-08-01T22:19:41",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -134,12 +134,12 @@
     {
       "title": "DeepSeek-V4-Flash 正式版来了！这次提升有点夸张。",
       "url": "https://juejin.cn/post/7668634785267695625",
-      "last_hot_value": "热度:261",
+      "last_hot_value": "热度:270",
       "first_seen_at": "2026-08-02T06:28:19",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "谷歌的一个优化建议，让我重新学了一遍Android里面如何正确处理位图",
@@ -154,12 +154,12 @@
     {
       "title": "DeepSeek V4-Flash 更新：代码与 Agent 能力全面增强",
       "url": "https://juejin.cn/post/7668540866239529010",
-      "last_hot_value": "热度:261",
+      "last_hot_value": "热度:270",
       "first_seen_at": "2026-08-02T06:28:19",
-      "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 短剧出海，门槛已经低到离谱了",
@@ -172,14 +172,24 @@
       "is_new": false
     },
     {
+      "title": "Spring之父再次出山，开发了新的AI框架！",
+      "url": "https://juejin.cn/post/7668305038255521838",
+      "last_hot_value": "热度:216",
+      "first_seen_at": "2026-08-02T08:45:44",
+      "last_seen_at": "2026-08-02T08:45:44",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "提升 Web 开发效率：我常用的 10 个 TypeScript 实战技巧",
       "url": "https://juejin.cn/post/7667736324415701027",
       "last_hot_value": "热度:207",
       "first_seen_at": "2026-08-02T06:28:19",
       "last_seen_at": "2026-08-02T06:28:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Android 面试系列：Retrofit 的 suspend 是如何实现的？",
