@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-02T15:24:40",
+  "update_time": "2026-08-03T18:10:31",
   "items": [
+    {
+      "title": "M3.2 云南大理州洱源县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.2级",
+      "first_seen_at": "2026-08-03T18:10:31",
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M3.6 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-08-02T15:24:40",
-      "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.1 青海海西州唐古拉地区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-08-02T14:16:43",
-      "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,39 +37,29 @@
       "last_hot_value": "5.5级",
       "first_seen_at": "2026-08-01T17:18:44",
       "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M5.6 秘鲁",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.6级",
-      "first_seen_at": "2026-07-31T17:58:37",
-      "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M3.3 四川泸州市泸县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.3级",
-      "first_seen_at": "2026-07-30T16:13:53",
-      "last_seen_at": "2026-08-02T00:16:35",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "M4.2 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "4.2级",
+      "first_seen_at": "2026-08-03T18:10:31",
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M4.8 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.8级",
       "first_seen_at": "2026-08-02T15:24:40",
-      "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.0 青海海南州兴海县",
@@ -67,7 +67,7 @@
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-08-02T14:16:43",
       "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -77,29 +77,19 @@
       "last_hot_value": "3.9级",
       "first_seen_at": "2026-08-01T17:18:44",
       "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 5,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M3.4 新疆巴音郭楞州轮台县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.4级",
-      "first_seen_at": "2026-07-31T17:58:37",
-      "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 7,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M3.3 越南",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.3级",
-      "first_seen_at": "2026-07-30T16:13:53",
-      "last_seen_at": "2026-08-02T00:16:35",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "M3.6 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.6级",
+      "first_seen_at": "2026-08-03T18:10:31",
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "M4.4 云南普洱市墨江县",
@@ -107,39 +97,49 @@
       "last_hot_value": "4.4级",
       "first_seen_at": "2026-08-01T17:18:44",
       "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "M3.3 新疆巴音郭楞州轮台县",
+      "title": "M3.3 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
-      "first_seen_at": "2026-07-31T17:58:37",
-      "last_seen_at": "2026-08-02T15:24:40",
-      "consecutive_count": 7,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-03T18:10:31",
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
-      "title": "M5.1 印尼巴布亚省",
+      "title": "M3.3 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.1级",
-      "first_seen_at": "2026-07-30T16:13:53",
-      "last_seen_at": "2026-07-31T19:04:57",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "M4.0 台湾台东县海域",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "4.0级",
-      "first_seen_at": "2026-07-31T17:58:37",
-      "last_seen_at": "2026-08-02T14:16:43",
-      "consecutive_count": 0,
+      "last_hot_value": "3.3级",
+      "first_seen_at": "2026-08-03T18:10:31",
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "M3.0 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-08-03T18:10:31",
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "M4.8 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "4.8级",
+      "first_seen_at": "2026-08-03T18:10:31",
+      "last_seen_at": "2026-08-03T18:10:31",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "M3.8 青海海南州兴海县",
