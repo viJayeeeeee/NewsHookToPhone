@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-03T01:05:31",
+  "update_time": "2026-08-03T08:05:28",
   "items": [
+    {
+      "title": "AI漫剧制作、运营与商业化：从 0 到 1 搭建一个人的内容生产系统",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/163400136",
+      "last_hot_value": "2.3w",
+      "first_seen_at": "2026-08-02T21:33:02",
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Jenkins自动部署实战：Vue与Spring Boot构建、Nginx发布及Webhook触发",
       "url": "https://blog.csdn.net/2301_80840905/article/details/163374763",
-      "last_hot_value": "2.4w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-02T06:28:20",
-      "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-01T22:19:42",
       "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-01T22:19:42",
       "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "8月份AI套餐怎么选，GLM、Kimi、Minimax、火山等整理汇总",
+      "url": "https://blog.csdn.net/zhangay1998/article/details/163389680",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-03T08:05:28",
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "AI 辅助研发内部复盘（3/5）：上下文工程与认知解码",
       "url": "https://blog.csdn.net/beautifulmemory/article/details/163375142",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-08-02T06:28:20",
       "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,22 +102,32 @@
       "is_new": false
     },
     {
-      "title": "蓝牙PBP公共广播协议：解锁LE Audio的公共音频新生态",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/163252188",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-02T06:28:20",
-      "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 4,
+      "title": "Re：Linux系统篇（四十九）线程篇 · 二：为什么现代操作系统选择分页式存储？分页如何解决物理内存碎片？分页结构如何演化到页表、页目录、MMU？",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/163282016",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-02T21:33:02",
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "Ansible定时清空日志实战：Playbook、Cron与远程主机接入",
       "url": "https://blog.csdn.net/2401_86326742/article/details/163383163",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-02T06:28:20",
-      "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 5,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "蓝牙PBP公共广播协议：解锁LE Audio的公共音频新生态",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/163252188",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-02T06:28:20",
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -110,6 +140,16 @@
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "PyTorch强化学习实战（21）——异步优势演员-评论家（Asynchronous Advantage Actor-Critic, A3C）",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766138",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-03T08:05:28",
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "2026年远程维修横评：三款主流工具，远程协助修电脑谁更好用？",
@@ -132,23 +172,13 @@
       "is_new": false
     },
     {
-      "title": "Re：Linux系统篇（四十九）线程篇 · 二：为什么现代操作系统选择分页式存储？分页如何解决物理内存碎片？分页结构如何演化到页表、页目录、MMU？",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/163282016",
-      "last_hot_value": "1.3w",
+      "title": "【AI智能体】Claude Code +Superpowers 项目实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162770920",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-02T21:33:02",
-      "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 3,
       "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "AI漫剧制作、运营与商业化：从 0 到 1 搭建一个人的内容生产系统",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163400136",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-02T21:33:02",
-      "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 2,
-      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -182,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "【AI智能体】Claude Code +Superpowers 项目实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162770920",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-02T21:33:02",
-      "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 2,
+      "title": "SpringBoot+PostgreSQL + 硅基流动大模型从零搭建 Text-to-SQL 智能问答系统",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163398167",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-03T08:05:28",
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "处理2026年全国大学只能汽车竞赛分赛区比赛数据",
@@ -202,14 +232,24 @@
       "is_new": false
     },
     {
+      "title": "Linux 权限详解：从 rwx、chmod 到 umask、目录权限与粘滞位",
+      "url": "https://blog.csdn.net/Face_FeaR/article/details/163419309",
+      "last_hot_value": "9458",
+      "first_seen_at": "2026-08-03T08:05:28",
+      "last_seen_at": "2026-08-03T08:05:28",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "群晖NAS也能当开发机?Code-Server部署与远程编程完整教程",
       "url": "https://blog.csdn.net/2401_87629362/article/details/163358188",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-03T01:05:31",
       "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Ansible自动化部署Nginx实战：Playbook编写、服务验证与远程主机接入",

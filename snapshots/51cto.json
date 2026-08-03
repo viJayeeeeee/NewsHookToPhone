@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-08-03T01:05:32",
+  "update_time": "2026-08-03T08:05:29",
   "items": [
+    {
+      "title": "HarmonyOS 互动卡片实战：把番茄钟专注工具放到桌面（FormKit 全链路）",
+      "url": "https://ost.51cto.com/posts/54607",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "让应用听懂中文——用 HarmonyOS Core Speech Kit 实现端侧语音识别",
       "url": "https://ost.51cto.com/posts/54291",
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "【HarmonyOS 7 沉浸光感深度实战】 01 ArkUI 与 HDS 两套接口如何选择",
+      "url": "https://ost.51cto.com/posts/54584",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "PostgreSQL 表膨胀完整治理指南：Vacuum 原理、阻塞根因、应急处理与长期预防方案",
@@ -17,9 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "云网智算篇-第五篇：RoCE 无损数据网络配置实战",
+      "url": "https://www.51cto.com/article/851694.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "告警救火、薪资触顶！传统运维出路在哪？AIOps 开启运维下一代晋升通道",
@@ -27,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "DeepSeek-V4-Flash正式版发布并开源，全面超越V4-Pro预览版",
+      "url": "https://www.51cto.com/article/851693.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "直接优化策略：策略梯度、Actor-Critic、Advantage 与重要性采样",
@@ -37,9 +77,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "Karpathy入职A厂第一条长推文：用Opus 5把《指环王》第一段变成了3D动画，暴露LLM大缺陷",
+      "url": "https://www.51cto.com/article/851692.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Claude Code 越聪明越烧钱？先检查后端有没有让它猜",
@@ -47,9 +97,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
+      "url": "https://www.51cto.com/article/851649.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "GPT-5.6一夜爆砍80%，一元屠杀最贵Claude！",
@@ -57,9 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "从「看见」到「补全」：哈佛、MIT与港科大Stream3D打通流式3D重建与生成",
+      "url": "https://www.51cto.com/article/851647.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "循环里的 Task.Run 与无界 Parallel.ForEach：离生产事故只差一步",
@@ -67,9 +137,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "五万条网页众源轨迹，真能把机器人模型练强吗？AXIS基准给出答案",
+      "url": "https://www.51cto.com/article/851645.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "OpenAI突然杀疯！GPT 5.6系列价格最高暴降80%，AI竟开始自己改代码实现原地飞升",
@@ -77,9 +157,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "Agent终于不再「用完即忘」：华为诺亚开源MindMemOS，让记忆和Skill一起进化",
+      "url": "https://www.51cto.com/article/851643.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "ChatGPT突发封杀令！全球AI写手一夜断粮",
@@ -87,9 +177,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "我们，已在奇点之中！",
+      "url": "https://www.51cto.com/article/851642.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-03T08:05:29",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "HarmonyOS 6.1｜Remote Communication Kit 自学实录04：从一次 RCP 请求到完整会话治理",
@@ -97,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:15",
       "last_seen_at": "2026-08-03T01:05:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
