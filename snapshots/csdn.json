@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-03T16:18:34",
+  "update_time": "2026-08-03T20:52:40",
   "items": [
     {
       "title": "AI漫剧制作、运营与商业化：从 0 到 1 搭建一个人的内容生产系统",
       "url": "https://blog.csdn.net/weixin_52908342/article/details/163400136",
-      "last_hot_value": "4.8w",
+      "last_hot_value": "4.0w",
       "first_seen_at": "2026-08-02T21:33:02",
-      "last_seen_at": "2026-08-03T16:18:34",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-03T20:52:40",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -54,20 +54,20 @@
     {
       "title": "【MYSQL】MYSQL学习的一大重点：事务（上）- 原子性与持久性",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163377285",
-      "last_hot_value": "2.2w",
+      "last_hot_value": "2.1w",
       "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-03T16:18:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T20:52:40",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "8月份AI套餐怎么选，GLM、Kimi、Minimax、火山等整理汇总",
       "url": "https://blog.csdn.net/zhangay1998/article/details/163389680",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-03T16:18:34",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-03T20:52:40",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -89,6 +89,16 @@
       "last_seen_at": "2026-08-01T22:19:42",
       "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "SpringBoot+PostgreSQL + 硅基流动大模型从零搭建 Text-to-SQL 智能问答系统",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163398167",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-08-03T08:05:28",
+      "last_seen_at": "2026-08-03T20:52:40",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -114,10 +124,10 @@
     {
       "title": "PyTorch强化学习实战（21）——异步优势演员-评论家（Asynchronous Advantage Actor-Critic, A3C）",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766138",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-03T16:18:34",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-03T20:52:40",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -127,7 +137,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-02T21:33:02",
       "last_seen_at": "2026-08-03T16:18:34",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -162,11 +172,11 @@
       "is_new": false
     },
     {
-      "title": "SpringBoot+PostgreSQL + 硅基流动大模型从零搭建 Text-to-SQL 智能问答系统",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163398167",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-03T16:18:34",
+      "title": "私密日记不想放在云端？极空间部署DailyTxT完整教程",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163449761",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-08-03T16:18:34",
+      "last_seen_at": "2026-08-03T20:52:40",
       "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
@@ -186,8 +196,8 @@
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162770920",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-02T21:33:02",
-      "last_seen_at": "2026-08-03T16:18:34",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-03T20:52:40",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -202,24 +212,34 @@
       "is_new": false
     },
     {
-      "title": "私密日记不想放在云端？极空间部署DailyTxT完整教程",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163449761",
+      "title": "查库存的 SQL 时灵时不灵，最后发现是 WHERE 里两个函数在打架",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163446440",
       "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-03T16:18:34",
+      "first_seen_at": "2026-08-03T20:52:40",
+      "last_seen_at": "2026-08-03T20:52:40",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
     },
     {
-      "title": "PyTorch模型训练:权重、偏置和参数初始化会怎样影响训练",
-      "url": "https://blog.csdn.net/weixin_61731209/article/details/163444871",
+      "title": "React 的createClass 是怎么实现的?：深入解析 React 早期组件工厂的底层原理",
+      "url": "https://blog.csdn.net/qq_41840843/article/details/163437536",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-03T16:18:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T20:52:40",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "PyTorch模型训练:权重、偏置和参数初始化会怎样影响训练",
+      "url": "https://blog.csdn.net/weixin_61731209/article/details/163444871",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-03T16:18:34",
+      "last_seen_at": "2026-08-03T20:52:40",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "AI 辅助研发内部复盘（2/5）：老项目改造的工程化实践",
@@ -260,16 +280,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "React 的createClass 是怎么实现的?：深入解析 React 早期组件工厂的底层原理",
-      "url": "https://blog.csdn.net/qq_41840843/article/details/163437536",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-03T16:18:34",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "Linux 权限详解：从 rwx、chmod 到 umask、目录权限与粘滞位",
