@@ -1,45 +1,85 @@
 {
-  "update_time": "2026-08-03T08:05:35",
+  "update_time": "2026-08-03T16:18:45",
   "items": [
+    {
+      "title": "实测千问办公：阿里这个 AI 专家，真的能帮你带货",
+      "url": "https://www.ifanr.com/1673793",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T16:18:45",
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新",
       "url": "https://www.ifanr.com/1673624",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:35",
-      "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "马斯克要用 AI 打造《奥德赛》电影，我用小云雀 Seedance 2.5 提前实现了",
       "url": "https://www.ifanr.com/1673556",
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:19",
-      "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "对话卓驭 CEO 沈劭劼：汽车在被撞前 0.01 秒退出智驾肯定是不行的",
+      "url": "https://www.ifanr.com/1673777",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T16:18:45",
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "实测 DeepSeek V4 正式版：3 块钱干完 5 件事，AI「智价比」之战开打了",
       "url": "https://www.ifanr.com/1673553",
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:19",
-      "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 9,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "AI 改变打工人之后，千问办公盯上了企业 Agent 化",
+      "url": "https://www.ifanr.com/1673691",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T16:18:45",
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "三腔空悬、16° 后轮转向，岚图「虎踞」率先落地泰山 X8",
       "url": "https://www.ifanr.com/1673544",
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:19",
-      "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 9,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "大五座市场又有新产品：小鹏 G9L 增程纯电两手抓，既要好开还要好坐",
+      "url": "https://www.ifanr.com/1673763",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T16:18:45",
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "25.99 万元预售，小米澎程 N70 Max 开始抢家庭用户，理想问界多了一个对手",
@@ -47,9 +87,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:19",
       "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "机器人刷一段「短视频」，就能学会新技能？自变量 HOST 技术「神器」来了",
+      "url": "https://www.ifanr.com/1673600",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T16:18:45",
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "29.99 万元！小米澎程 N90 开启预售，同级唯一大七座 SUV",
@@ -57,9 +107,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:19",
       "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么",
+      "url": "https://www.ifanr.com/1673651",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T16:18:45",
+      "last_seen_at": "2026-08-03T16:18:45",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "Seedance 级别的全模态控制，MiniMax H3 的商业视频成片新解法",
@@ -67,7 +127,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:19",
       "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -77,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T01:12:19",
       "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -87,7 +147,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T01:05:37",
       "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -97,7 +157,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T01:05:37",
       "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },

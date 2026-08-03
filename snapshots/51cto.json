@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-08-03T08:05:29",
+  "update_time": "2026-08-03T16:18:36",
   "items": [
     {
       "title": "HarmonyOS 互动卡片实战：把番茄钟专注工具放到桌面（FormKit 全链路）",
       "url": "https://ost.51cto.com/posts/54607",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "让应用听懂中文——用 HarmonyOS Core Speech Kit 实现端侧语音识别",
@@ -26,10 +26,10 @@
       "url": "https://ost.51cto.com/posts/54584",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "PostgreSQL 表膨胀完整治理指南：Vacuum 原理、阻塞根因、应急处理与长期预防方案",
@@ -46,10 +46,10 @@
       "url": "https://www.51cto.com/article/851694.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "告警救火、薪资触顶！传统运维出路在哪？AIOps 开启运维下一代晋升通道",
@@ -66,10 +66,10 @@
       "url": "https://www.51cto.com/article/851693.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "直接优化策略：策略梯度、Actor-Critic、Advantage 与重要性采样",
@@ -86,10 +86,10 @@
       "url": "https://www.51cto.com/article/851692.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Claude Code 越聪明越烧钱？先检查后端有没有让它猜",
@@ -106,10 +106,10 @@
       "url": "https://www.51cto.com/article/851649.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GPT-5.6一夜爆砍80%，一元屠杀最贵Claude！",
@@ -126,10 +126,10 @@
       "url": "https://www.51cto.com/article/851647.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "循环里的 Task.Run 与无界 Parallel.ForEach：离生产事故只差一步",
@@ -146,10 +146,10 @@
       "url": "https://www.51cto.com/article/851645.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenAI突然杀疯！GPT 5.6系列价格最高暴降80%，AI竟开始自己改代码实现原地飞升",
@@ -166,10 +166,10 @@
       "url": "https://www.51cto.com/article/851643.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "ChatGPT突发封杀令！全球AI写手一夜断粮",
@@ -186,10 +186,10 @@
       "url": "https://www.51cto.com/article/851642.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-03T08:05:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T16:18:36",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 6.1｜Remote Communication Kit 自学实录04：从一次 RCP 请求到完整会话治理",
