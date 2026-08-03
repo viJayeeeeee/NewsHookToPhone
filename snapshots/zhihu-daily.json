@@ -1,14 +1,24 @@
 {
-  "update_time": "2026-08-03T11:26:33",
+  "update_time": "2026-08-03T21:55:17",
   "items": [
     {
       "title": "《哈利波特》中1加隆=17银西可，1银西可=29纳特，jk罗琳为什么设计了一种难以快速计算的货币体系？",
       "url": "https://daily.zhihu.com/story/9791630",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T11:26:33",
-      "last_seen_at": "2026-08-03T11:26:33",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 2,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "王虹、邓煜获「菲尔兹奖」，这是中国籍数学家首次获得该奖，获得这个奖有多难？他们攻克了什么数学难题？",
+      "url": "https://daily.zhihu.com/story/9791626",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T21:55:17",
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -16,8 +26,8 @@
       "url": "https://daily.zhihu.com/story/9791601",
       "last_hot_value": "",
       "first_seen_at": "2026-08-02T03:57:36",
-      "last_seen_at": "2026-08-03T11:26:33",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -26,48 +36,38 @@
       "url": "https://daily.zhihu.com/story/9791589",
       "last_hot_value": "",
       "first_seen_at": "2026-08-01T04:34:16",
-      "last_seen_at": "2026-08-03T11:26:33",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 9,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "为什么鲁宾逊漂流记这样一部以热带海岛为背景的作品，完全没有任何关于蚊虫的描写？",
-      "url": "https://daily.zhihu.com/story/9791497",
+      "title": "一直拍打蚊子不让蚊子落地，让它只能一直飞，蚊子会累死吗？",
+      "url": "https://daily.zhihu.com/story/9791570",
       "last_hot_value": "",
-      "first_seen_at": "2026-07-31T21:37:34",
-      "last_seen_at": "2026-08-01T23:15:25",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "尼安德特人是一种怎样的存在？",
-      "url": "https://daily.zhihu.com/story/9791480",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-31T12:14:28",
-      "last_seen_at": "2026-07-31T22:40:20",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-03T21:55:17",
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "西藏人口直到今天也没超过500万，为何却能在7世纪时建造如此庞大的布达拉宫？",
       "url": "https://daily.zhihu.com/story/9791517",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T11:26:33",
-      "last_seen_at": "2026-08-03T11:26:33",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "中世纪的大学在教什么？",
       "url": "https://daily.zhihu.com/story/9791605",
       "last_hot_value": "",
       "first_seen_at": "2026-08-02T03:57:36",
-      "last_seen_at": "2026-08-03T11:26:33",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -82,32 +82,22 @@
       "is_new": false
     },
     {
-      "title": "如果塔里木河最终流入大海的话长度将会如何？",
-      "url": "https://daily.zhihu.com/story/9791575",
-      "last_hot_value": "",
-      "first_seen_at": "2026-07-31T12:14:28",
-      "last_seen_at": "2026-08-01T23:15:25",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "人类历史上交换比最夸张的战役是哪次？",
       "url": "https://daily.zhihu.com/story/9791637",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T11:26:33",
-      "last_seen_at": "2026-08-03T11:26:33",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "既然人类没有到过木星内部，又怎么断言木星没有陆地的呢？",
       "url": "https://daily.zhihu.com/story/9791611",
       "last_hot_value": "",
       "first_seen_at": "2026-08-02T03:57:36",
-      "last_seen_at": "2026-08-03T11:26:33",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -120,6 +110,16 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "瞎扯 · 如何正确地吐槽",
+      "url": "https://daily.zhihu.com/story/9791640",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-03T21:55:17",
+      "last_seen_at": "2026-08-03T21:55:17",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "为什么很多文物「破破烂烂」却价值连城，它到底贵在哪里？",
