@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-03T18:10:28",
+  "update_time": "2026-08-04T01:13:59",
   "items": [
     {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "2967人在读",
+      "last_hot_value": "3046人在读",
       "first_seen_at": "2026-08-01T19:38:03",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-04T01:13:59",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -44,12 +44,12 @@
     {
       "title": "世说新语",
       "url": "",
-      "last_hot_value": "226人在读",
+      "last_hot_value": "235人在读",
       "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-04T01:13:59",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "工作、消费主义和新穷人",
@@ -64,60 +64,30 @@
     {
       "title": "少年自有未来",
       "url": "",
-      "last_hot_value": "1129人在读",
+      "last_hot_value": "1202人在读",
       "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "恶意",
-      "url": "",
-      "last_hot_value": "8253人在读",
-      "first_seen_at": "2026-07-31T19:04:54",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-04T01:13:59",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
       "url": "",
-      "last_hot_value": "3860人在读",
+      "last_hot_value": "3932人在读",
       "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-04T01:13:59",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "世上为什么要有图书馆（微信读书特别版）",
       "url": "",
-      "last_hot_value": "931人在读",
+      "last_hot_value": "925人在读",
       "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "白夜行",
-      "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-07-31T19:04:54",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "解忧杂货店",
-      "url": "",
-      "last_hot_value": "6253人在读",
-      "first_seen_at": "2026-07-31T19:04:54",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-04T01:13:59",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
@@ -126,8 +96,8 @@
       "url": "",
       "last_hot_value": "937人在读",
       "first_seen_at": "2026-08-01T17:18:41",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-04T01:13:59",
+      "consecutive_count": 7,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "嫌疑人X的献身",
+      "title": "理想国：新译与导读",
       "url": "",
-      "last_hot_value": "4121人在读",
-      "first_seen_at": "2026-07-31T19:04:54",
-      "last_seen_at": "2026-08-03T18:10:28",
-      "consecutive_count": 3,
-      "peak_rank": 8,
-      "is_new": false
+      "last_hot_value": "1439人在读",
+      "first_seen_at": "2026-08-04T01:13:59",
+      "last_seen_at": "2026-08-04T01:13:59",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
