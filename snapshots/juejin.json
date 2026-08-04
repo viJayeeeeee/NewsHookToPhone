@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-03T20:52:38",
+  "update_time": "2026-08-04T09:49:48",
   "items": [
+    {
+      "title": "2026 上半年，前端圈已经炸了五次",
+      "url": "https://juejin.cn/post/7669622241974632490",
+      "last_hot_value": "热度:1458",
+      "first_seen_at": "2026-08-03T16:18:33",
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Flutter Starling : 用 Swift和 Flutter 写了一个 Linux 桌面系统，震惊我一整年",
       "url": "https://juejin.cn/post/7668191994554073142",
       "last_hot_value": "热度:648",
       "first_seen_at": "2026-08-01T22:19:41",
       "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,13 +32,13 @@
       "is_new": false
     },
     {
-      "title": "解剖 Claude Code：逆向工程视角下的入口架构分析",
-      "url": "https://juejin.cn/post/7667096004731846682",
-      "last_hot_value": "热度:2439",
-      "first_seen_at": "2026-08-01T07:06:03",
-      "last_seen_at": "2026-08-01T07:06:03",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "Spring之父再次出山，开发了新的AI框架！",
+      "url": "https://juejin.cn/post/7668305038255521838",
+      "last_hot_value": "热度:900",
+      "first_seen_at": "2026-08-02T08:45:44",
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 7,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -37,7 +47,7 @@
       "last_hot_value": "热度:639",
       "first_seen_at": "2026-08-02T06:28:19",
       "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,34 +62,14 @@
       "is_new": false
     },
     {
-      "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
-      "url": "https://juejin.cn/post/7667863898348126271",
-      "last_hot_value": "热度:594",
-      "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-03T08:05:23",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "为什么越来越多人用Apache Tika？",
-      "url": "https://juejin.cn/post/7667853684410302490",
-      "last_hot_value": "热度:612",
-      "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T22:19:41",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "Spring之父再次出山，开发了新的AI框架！",
-      "url": "https://juejin.cn/post/7668305038255521838",
-      "last_hot_value": "热度:621",
-      "first_seen_at": "2026-08-02T08:45:44",
-      "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 6,
+      "title": "我全程用 AI开发了一款微信小游戏，上线了",
+      "url": "https://juejin.cn/post/7669058712007147539",
+      "last_hot_value": "热度:603",
+      "first_seen_at": "2026-08-04T09:49:48",
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Nest.js 和 Spring Boot 为何如此像？写给前端转 Java 的同学",
@@ -92,22 +82,32 @@
       "is_new": false
     },
     {
+      "title": "hvv员工家属爆料：老公22年入职的，普通员工，老是被误以为高薪多奖金，实际上还没配股，暂时钱没存多少，我倒是很心疼他工作辛苦。",
+      "url": "https://juejin.cn/post/7669710672626089994",
+      "last_hot_value": "热度:558",
+      "first_seen_at": "2026-08-04T09:49:48",
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "我用AI写了半年代码——回头看，这5个能力正在退化",
       "url": "https://juejin.cn/post/7668535450420019236",
       "last_hot_value": "热度:549",
       "first_seen_at": "2026-08-02T21:33:01",
       "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "2026 上半年，前端圈已经炸了五次",
-      "url": "https://juejin.cn/post/7669622241974632490",
-      "last_hot_value": "热度:450",
+      "title": "网页端OCR, 加载6mb大小模型, 又快又准, 百度这次真香",
+      "url": "https://juejin.cn/post/7669068704309329960",
+      "last_hot_value": "热度:477",
       "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -122,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "Spring Boot 接入金仓数据库：配置分层、启动自检与常见错误",
+      "url": "https://juejin.cn/post/7669601359986262025",
+      "last_hot_value": "热度:378",
+      "first_seen_at": "2026-08-03T16:18:33",
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 3,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "别再只用 Loading、Success、Error 表示所有页面状态了",
       "url": "https://juejin.cn/post/7667895598095826970",
       "last_hot_value": "热度:414",
       "first_seen_at": "2026-08-02T21:33:01",
       "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -142,22 +152,12 @@
       "is_new": false
     },
     {
-      "title": "终于在今天入选了 Gitee GVP，这真值得庆祝~",
-      "url": "https://juejin.cn/post/7667399814504202275",
-      "last_hot_value": "热度:504",
-      "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T07:06:03",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Spring Boot 接入金仓数据库：配置分层、启动自检与常见错误",
-      "url": "https://juejin.cn/post/7669601359986262025",
-      "last_hot_value": "热度:342",
+      "title": "架构没变、规模没变，DeepSeek V4 Flash 正式版凭什么暴涨 47 分？",
+      "url": "https://juejin.cn/post/7668933720747638834",
+      "last_hot_value": "热度:378",
       "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -172,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "工作 5 年后，决定你薪资上限的究竟是什么？",
-      "url": "https://juejin.cn/post/7667750500683120675",
-      "last_hot_value": "热度:468",
-      "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T07:06:03",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "DeepSeek-V4-Flash 正式版上线了，但这 3 个坑我帮你提前踩了",
+      "url": "https://juejin.cn/post/7669024144831168518",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-08-04T09:49:48",
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "DeepSeek V4-Flash 正式版深度解读：一行 changelog 里的暗涌与野心",
@@ -187,29 +187,19 @@
       "last_hot_value": "热度:333",
       "first_seen_at": "2026-08-03T16:18:33",
       "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "谷歌的一个优化建议，让我重新学了一遍Android里面如何正确处理位图",
-      "url": "https://juejin.cn/post/7667097178154319912",
-      "last_hot_value": "热度:423",
-      "first_seen_at": "2026-08-01T01:12:12",
-      "last_seen_at": "2026-08-01T07:06:03",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "架构没变、规模没变，DeepSeek V4 Flash 正式版凭什么暴涨 47 分？",
-      "url": "https://juejin.cn/post/7668933720747638834",
-      "last_hot_value": "热度:306",
-      "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 2,
+      "title": "🔥 oiyo & unibest = 颠覆以往认知的 uniapp 模板",
+      "url": "https://juejin.cn/post/7669335296040730650",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-08-04T09:49:48",
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "公司取消前端岗后，做了 10 年 Java 的我，第一次认真拥抱 AI",
@@ -222,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "AI 短剧出海，门槛已经低到离谱了",
-      "url": "https://juejin.cn/post/7667552613815959598",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-08-01T07:06:03",
-      "last_seen_at": "2026-08-01T07:06:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "网页端OCR, 加载6mb大小模型, 又快又准, 百度这次真香",
-      "url": "https://juejin.cn/post/7669068704309329960",
-      "last_hot_value": "热度:288",
-      "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 2,
+      "title": "AI时代，程序员该往哪走？",
+      "url": "https://juejin.cn/post/7668613701018583046",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-08-04T09:49:48",
+      "last_seen_at": "2026-08-04T09:49:48",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "DeepSeek-V4-Flash 接入 Codex（Windows 版）",

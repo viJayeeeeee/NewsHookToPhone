@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-03T20:52:40",
+  "update_time": "2026-08-04T09:49:49",
   "items": [
     {
       "title": "AI漫剧制作、运营与商业化：从 0 到 1 搭建一个人的内容生产系统",
       "url": "https://blog.csdn.net/weixin_52908342/article/details/163400136",
-      "last_hot_value": "4.0w",
+      "last_hot_value": "3.2w",
       "first_seen_at": "2026-08-02T21:33:02",
-      "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,32 +42,32 @@
       "is_new": false
     },
     {
-      "title": "深入解析 Vue 架构：MVVM、MVC 和 MVP 模式的区别与实战对比",
-      "url": "https://blog.csdn.net/qq_41840843/article/details/163362623",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-02T06:28:20",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "私密日记不想放在云端？极空间部署DailyTxT完整教程",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163449761",
+      "last_hot_value": "2.2w",
+      "first_seen_at": "2026-08-03T16:18:34",
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "【MYSQL】MYSQL学习的一大重点：事务（上）- 原子性与持久性",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163377285",
-      "last_hot_value": "2.1w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "8月份AI套餐怎么选，GLM、Kimi、Minimax、火山等整理汇总",
       "url": "https://blog.csdn.net/zhangay1998/article/details/163389680",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,43 +82,23 @@
       "is_new": false
     },
     {
-      "title": "【从零实现C++AI大模型接入SDK（标准项目）】《系列（一）------项目简介+AI知识科普》",
-      "url": "https://blog.csdn.net/2501_93351213/article/details/163364363",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-01T07:06:05",
-      "last_seen_at": "2026-08-01T22:19:42",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "SpringBoot+PostgreSQL + 硅基流动大模型从零搭建 Text-to-SQL 智能问答系统",
       "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163398167",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "Zookeeper - Zookeeper 的设计理念与核心解决的分布式问题",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157688044",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-02T21:33:02",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "手机上怎么远程处理PDF？Stirling-PDF部署与公网访问教程",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/163371254",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-02T08:45:46",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "【AI智能体】Claude Code +Superpowers 项目实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162770920",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-08-02T21:33:02",
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 6,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -127,7 +107,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-03T08:05:28",
       "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -162,42 +142,12 @@
       "is_new": false
     },
     {
-      "title": "2026远程桌面横向对比：ToDesk、向日葵、TeamViewer，谁才是真正的“零距离“体验？",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/163353738",
+      "title": "查库存的 SQL 时灵时不灵，最后发现是 WHERE 里两个函数在打架",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163446440",
       "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-01T22:19:42",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "私密日记不想放在云端？极空间部署DailyTxT完整教程",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163449761",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-03T20:52:40",
+      "first_seen_at": "2026-08-03T20:52:40",
+      "last_seen_at": "2026-08-04T09:49:49",
       "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "2026年远程维修横评：三款主流工具，远程协助修电脑谁更好用？",
-      "url": "https://blog.csdn.net/2302_79177254/article/details/163359046",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】Claude Code +Superpowers 项目实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162770920",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-02T21:33:02",
-      "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -212,23 +162,13 @@
       "is_new": false
     },
     {
-      "title": "查库存的 SQL 时灵时不灵，最后发现是 WHERE 里两个函数在打架",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163446440",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-03T20:52:40",
-      "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
       "title": "React 的createClass 是怎么实现的?：深入解析 React 早期组件工厂的底层原理",
       "url": "https://blog.csdn.net/qq_41840843/article/details/163437536",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 2,
-      "peak_rank": 8,
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 3,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -237,7 +177,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-03T16:18:34",
       "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -252,24 +192,14 @@
       "is_new": false
     },
     {
-      "title": "【粉丝福利社】OpenClaw深度解析：从架构原理到Agent工程实践",
-      "url": "https://blog.csdn.net/aa2528877987/article/details/163345860",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-01T07:06:05",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "【Linux指南】动静态库系列（三）：静态库制作实战：ar、Makefile 与 .a 文件全流程",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/163324789",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-01T07:06:05",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "代码漏洞还在逐行排查?用DeepAudit做一轮AI辅助审计",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/163442974",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-04T09:49:49",
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "处理2026年全国大学只能汽车竞赛分赛区比赛数据",
@@ -280,6 +210,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "Zookeeper - 临时节点的生命周期与核心特性详解",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157688356",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-04T09:49:49",
+      "last_seen_at": "2026-08-04T09:49:49",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "Linux 权限详解：从 rwx、chmod 到 umask、目录权限与粘滞位",
@@ -297,16 +237,6 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-03T01:05:31",
       "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Ansible自动化部署Nginx实战：Playbook编写、服务验证与远程主机接入",
-      "url": "https://blog.csdn.net/weixin_62765017/article/details/163329384",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-01T01:12:13",
-      "last_seen_at": "2026-08-01T01:12:13",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
