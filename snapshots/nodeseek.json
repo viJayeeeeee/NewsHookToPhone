@@ -1,34 +1,44 @@
 {
-  "update_time": "2026-08-04T19:05:37",
+  "update_time": "2026-08-04T23:48:15",
   "items": [
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:207803 回复:2813",
+      "first_seen_at": "2026-08-02T08:45:55",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
       "url": "https://www.nodeseek.com/post-762899-1",
       "last_hot_value": "查看:4116 回复:104",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "从零搭建 Obsidian 个人知识库：PARA + 中文目录 + Git 备份完整实战",
-      "url": "https://www.nodeseek.com/post-711247-1",
-      "last_hot_value": "查看:2919 回复:44",
-      "first_seen_at": "2026-08-01T22:19:55",
-      "last_seen_at": "2026-08-03T20:52:49",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "【开源】realm全功能一键转发脚本,流量统计,MPTCP，负载均衡权重,故障转移，备注,导出/导入,搭建隧道",
-      "url": "https://www.nodeseek.com/post-391214-1",
-      "last_hot_value": "查看:33527 回复:305",
-      "first_seen_at": "2026-08-01T22:19:55",
-      "last_seen_at": "2026-08-02T21:33:13",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
+      "url": "https://www.nodeseek.com/post-68572-1",
+      "last_hot_value": "查看:104208 回复:621",
+      "first_seen_at": "2026-08-04T23:48:15",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:223822 回复:2061",
+      "first_seen_at": "2026-08-02T08:45:55",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -37,26 +47,6 @@
       "last_hot_value": "查看:7628 回复:68",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:222746 回复:2057",
-      "first_seen_at": "2026-08-02T08:45:55",
-      "last_seen_at": "2026-08-03T20:52:49",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【开源】Inkstone —— 部署在 Cloudflare workers 上的全能 Markdown 笔记（更新0.2.0）",
-      "url": "https://www.nodeseek.com/post-849481-1",
-      "last_hot_value": "查看:2571 回复:81",
-      "first_seen_at": "2026-08-01T22:19:55",
-      "last_seen_at": "2026-08-02T21:33:13",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -67,7 +57,7 @@
       "last_hot_value": "查看:3275 回复:35",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
+      "url": "https://www.nodeseek.com/post-809285-1",
+      "last_hot_value": "查看:3106 回复:68",
+      "first_seen_at": "2026-08-04T23:48:15",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "常见VPS测试方法",
       "url": "https://www.nodeseek.com/post-726469-1",
       "last_hot_value": "查看:4689 回复:107",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -107,7 +107,7 @@
       "last_hot_value": "查看:13153 回复:190",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -132,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
+      "url": "https://www.nodeseek.com/post-373751-1",
+      "last_hot_value": "查看:252531 回复:502",
+      "first_seen_at": "2026-08-04T23:48:15",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
       "url": "https://www.nodeseek.com/post-767126-1",
       "last_hot_value": "查看:5980 回复:112",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -152,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:206608 回复:2802",
-      "first_seen_at": "2026-08-02T08:45:55",
-      "last_seen_at": "2026-08-02T21:33:13",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:71051 回复:591",
+      "first_seen_at": "2026-08-04T23:48:15",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
@@ -167,7 +177,7 @@
       "last_hot_value": "查看:5516 回复:95",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -182,14 +192,14 @@
       "is_new": false
     },
     {
-      "title": "全民 oneman 魔方云开心版开kvm小鸡教程",
-      "url": "https://www.nodeseek.com/post-472368-1",
-      "last_hot_value": "查看:6150 回复:67",
-      "first_seen_at": "2026-08-01T22:19:55",
-      "last_seen_at": "2026-08-02T21:33:13",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
+      "url": "https://www.nodeseek.com/post-828462-1",
+      "last_hot_value": "查看:5532 回复:118",
+      "first_seen_at": "2026-08-04T23:48:15",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "MJJ常用脚本合集",
@@ -197,7 +207,7 @@
       "last_hot_value": "查看:6656 回复:127",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -212,12 +222,22 @@
       "is_new": false
     },
     {
+      "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
+      "url": "https://www.nodeseek.com/post-810146-1",
+      "last_hot_value": "查看:7565 回复:102",
+      "first_seen_at": "2026-08-04T23:48:15",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "【教程】Alice又发了一波新鸡，来看看如何通过一键脚本使用家宽出口",
       "url": "https://www.nodeseek.com/post-369093-1",
       "last_hot_value": "查看:15494 回复:106",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -232,14 +252,14 @@
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:89939 回复:772",
-      "first_seen_at": "2026-08-01T22:19:55",
-      "last_seen_at": "2026-08-02T21:33:13",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:764767 回复:1163",
+      "first_seen_at": "2026-08-04T23:48:15",
+      "last_seen_at": "2026-08-04T23:48:15",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "什么叫你的BitWarden是跑在Cloudflare上的？教你薅干大善人！",
@@ -247,7 +267,7 @@
       "last_hot_value": "查看:13188 回复:164",
       "first_seen_at": "2026-08-04T09:49:59",
       "last_seen_at": "2026-08-04T19:05:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -257,16 +277,6 @@
       "last_hot_value": "查看:1027 回复:12",
       "first_seen_at": "2026-08-03T01:05:40",
       "last_seen_at": "2026-08-03T20:52:49",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "eSIM 折腾留存记+一点补充心得",
-      "url": "https://www.nodeseek.com/post-783926-1",
-      "last_hot_value": "查看:8473 回复:122",
-      "first_seen_at": "2026-08-01T22:19:55",
-      "last_seen_at": "2026-08-02T21:33:13",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

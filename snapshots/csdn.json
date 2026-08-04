@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-08-04T19:05:27",
+  "update_time": "2026-08-04T23:48:03",
   "items": [
     {
       "title": "AI聊天也能拥有Live2D形象？Open-LLM-VTuber部署实战",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163470652",
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-04T19:05:27",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI漫剧制作、运营与商业化：从 0 到 1 搭建一个人的内容生产系统",
@@ -32,32 +32,12 @@
       "is_new": false
     },
     {
-      "title": "通关打怪SpringMVC之传递参数篇3",
-      "url": "https://blog.csdn.net/2501_93392325/article/details/163373420",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-08-01T22:19:42",
-      "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "干货版《算法导论》16：比较模型与随机访问下的算法进阶之路",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/163376176",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-01T22:19:42",
-      "last_seen_at": "2026-08-03T01:05:31",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "【MYSQL】MYSQL学习的一大重点：事务（上）- 原子性与持久性",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163377285",
-      "last_hot_value": "8541",
+      "last_hot_value": "8300",
       "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -66,8 +46,8 @@
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162770920",
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-02T21:33:02",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 8,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,8 +56,8 @@
       "url": "https://blog.csdn.net/zhangay1998/article/details/163389680",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -106,8 +86,8 @@
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163446440",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-03T20:52:40",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -124,10 +104,10 @@
     {
       "title": "PyTorch强化学习实战（21）——异步优势演员-评论家（Asynchronous Advantage Actor-Critic, A3C）",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766138",
-      "last_hot_value": "8826",
+      "last_hot_value": "8206",
       "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
@@ -166,18 +146,18 @@
       "url": "https://blog.csdn.net/qq_41187124/article/details/157688356",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-04T09:49:49",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "React 的createClass 是怎么实现的?：深入解析 React 早期组件工厂的底层原理",
       "url": "https://blog.csdn.net/qq_41840843/article/details/163437536",
-      "last_hot_value": "9396",
+      "last_hot_value": "8917",
       "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -202,24 +182,14 @@
       "is_new": false
     },
     {
-      "title": "AI 辅助研发内部复盘（2/5）：老项目改造的工程化实践",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/163374865",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-01T22:19:42",
-      "last_seen_at": "2026-08-01T22:19:42",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "【AVDTP】规范精讲[8-1]: 从报文封装到分片机制，吃透蓝牙音视频流控制信令底层逻辑",
       "url": "https://blog.csdn.net/weixin_37800531/article/details/163314299",
-      "last_hot_value": "8318",
+      "last_hot_value": "8159",
       "first_seen_at": "2026-08-04T19:05:27",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "代码漏洞还在逐行排查?用DeepAudit做一轮AI辅助审计",
@@ -244,12 +214,12 @@
     {
       "title": "【Linux网络】深入 HTTP 协议（五）:从 Cookie/Session 原理到 C++ 源码实战",
       "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163411345",
-      "last_hot_value": "8094",
+      "last_hot_value": "8112",
       "first_seen_at": "2026-08-04T19:05:27",
-      "last_seen_at": "2026-08-04T19:05:27",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-04T23:48:03",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Linux 权限详解：从 rwx、chmod 到 umask、目录权限与粘滞位",

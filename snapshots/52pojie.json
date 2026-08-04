@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-04T19:05:38",
+  "update_time": "2026-08-04T23:48:18",
   "items": [
+    {
+      "title": "磁盘清理工具 Glary Disk Cleaner v6.0.1.45",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-04T09:50:01",
+      "last_seen_at": "2026-08-04T23:48:18",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "迅雷Thunder 9.1.49160 极限精简融合版",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-04T19:05:38",
       "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "注册表修复工具 Glary Registry Repair v6.0.1.21",
@@ -17,7 +27,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-04T09:50:01",
       "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-02T21:33:14",
       "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,22 +62,12 @@
       "is_new": false
     },
     {
-      "title": "文件清理工具 Czkawka v12.0.1",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-01T22:19:56",
-      "last_seen_at": "2026-08-03T08:05:41",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "磁盘清理工具 Glary Disk Cleaner v6.0.1.45",
+      "title": "图片分割工具——九宫格切片神器",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-04T09:50:01",
-      "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-04T23:48:18",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -77,16 +77,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-02T21:33:14",
       "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "小恐龙公文排版助手 for Word/WPS 3.8.0.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-01T22:19:56",
-      "last_seen_at": "2026-08-04T09:50:01",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -102,12 +92,22 @@
       "is_new": false
     },
     {
-      "title": "图片分割工具——九宫格切片神器",
+      "title": "刷抖音、红果等 视频自动滑屏器 AutoSlide v2.6.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-04T09:50:01",
-      "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-04T23:48:18",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "局域网内网IP扫描工具NetworkAssistant V1.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-03T20:52:51",
+      "last_seen_at": "2026-08-04T23:48:18",
+      "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": false
     },
@@ -117,28 +117,8 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-02T21:33:14",
       "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "局域网内网IP扫描工具NetworkAssistant V1.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-03T20:52:51",
-      "last_seen_at": "2026-08-03T20:52:51",
       "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "刷抖音、红果等 视频自动滑屏器 AutoSlide v2.6.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-04T09:50:01",
-      "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 2,
-      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -146,8 +126,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-02T21:33:14",
-      "last_seen_at": "2026-08-04T09:50:01",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-04T23:48:18",
+      "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": false
     },
@@ -156,20 +136,20 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-03T08:05:41",
-      "last_seen_at": "2026-08-03T20:52:51",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-04T23:48:18",
+      "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "pdf办公工具 1.0版",
+      "title": "论文去重小助手2026V3.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-01T22:19:56",
-      "last_seen_at": "2026-08-03T20:52:51",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-04T23:48:18",
+      "last_seen_at": "2026-08-04T23:48:18",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "foobar2000 2.25.10 简体中文汉化绿色单文件版",
@@ -207,9 +187,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-04T19:05:38",
       "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Pixelle-Video v0.1.15 AI 全自动短视频工具",
@@ -227,9 +207,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-04T19:05:38",
       "last_seen_at": "2026-08-04T19:05:38",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "PDF提取原图 & 图片缩放 —— 批量工具",
@@ -252,21 +232,21 @@
       "is_new": false
     },
     {
+      "title": "千问输入法 windows 版发布了 QianwenIMEInstaller_V0.5.0.3",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-03T20:52:51",
+      "last_seen_at": "2026-08-04T23:48:18",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "PDF / 电子书阅读器 Sumatra PDF Plus 3.7.21 + 3.7.24 主文件升级",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-04T09:50:01",
       "last_seen_at": "2026-08-04T09:50:01",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "千问输入法 windows 版发布了 QianwenIMEInstaller_V0.5.0.3",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-03T20:52:51",
-      "last_seen_at": "2026-08-03T20:52:51",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
