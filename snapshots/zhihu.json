@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-03T21:55:06",
+  "update_time": "2026-08-04T07:10:43",
   "items": [
+    {
+      "title": "消息称网易仙侠单机《剑心雕龙》项目组解散，前不久游戏刚刚结束首测，具体情况如何？你怎么看？",
+      "url": "https://www.zhihu.com/question/2067693720145867718",
+      "last_hot_value": "1089 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
       "url": "https://www.zhihu.com/question/2067512422555029717",
       "last_hot_value": "265 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？",
@@ -62,14 +72,14 @@
       "is_new": false
     },
     {
-      "title": "《国务院关于出境入境管理的规定》将于 9 月 15 日起施行，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2066576404393583263",
-      "last_hot_value": "720 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T12:46:12",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
+      "url": "https://www.zhihu.com/question/2065477563548546516",
+      "last_hot_value": "525 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "竹知了视频被投诉下架，对品牌来说，这类事情有没有更好的公关办法？你知道哪些可供借鉴的经典案例？",
@@ -77,9 +87,9 @@
       "last_hot_value": "196 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
@@ -142,13 +152,13 @@
       "is_new": false
     },
     {
-      "title": "如何看待 Anthropic 公布 Claude 也发生了沙箱逃逸，真实入侵了三家机构？",
-      "url": "https://www.zhihu.com/question/2066465758503252393",
-      "last_hot_value": "375 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T04:34:06",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "美将 43 家中企拉黑，涵盖食品、医药等民生领域，这是否意味着全面脱钩已深入底层供应链？如何解读美方意图？",
+      "url": "https://www.zhihu.com/question/2066891275412977022",
+      "last_hot_value": "420 万热度",
+      "first_seen_at": "2026-08-03T21:55:06",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -157,9 +167,9 @@
       "last_hot_value": "188 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "精神科医生「10 级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
@@ -202,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "字节系在移动互联网用户时长的占比升至 40.1%，正式超越腾讯系的 29.7%，你怎么看？",
-      "url": "https://www.zhihu.com/question/2066465522137260391",
-      "last_hot_value": "568 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T09:17:29",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
-      "url": "https://www.zhihu.com/question/2066223484309434997",
-      "last_hot_value": "364 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T04:34:06",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+      "url": "https://www.zhihu.com/question/2066578072997049748",
+      "last_hot_value": "391 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "消费者因银鹭抽奖码被提前核销维权，获赔后却被备注「敲诈」，企业后称财务失误，这个回应站得住脚吗？",
@@ -227,9 +227,9 @@
       "last_hot_value": "181 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
@@ -292,11 +292,11 @@
       "is_new": false
     },
     {
-      "title": "美将 43 家中企拉黑，涵盖食品、医药等民生领域，这是否意味着全面脱钩已深入底层供应链？如何解读美方意图？",
-      "url": "https://www.zhihu.com/question/2066891275412977022",
-      "last_hot_value": "131 万热度",
-      "first_seen_at": "2026-08-03T21:55:06",
-      "last_seen_at": "2026-08-03T21:55:06",
+      "title": "对领导总是「能躲就躲」，电梯里碰到就尴尬，这是社交恐惧还是职业成熟度不够？",
+      "url": "https://www.zhihu.com/question/2062470329155465396",
+      "last_hot_value": "347 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -352,24 +352,14 @@
       "is_new": false
     },
     {
-      "title": "「白海豚」爆发式增强，已成超强台风，中心最大风力 17 级，或直奔华东，最新动向如何？应做好哪些应对？",
-      "url": "https://www.zhihu.com/question/2065082521570600023",
-      "last_hot_value": "356 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T12:46:12",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "如何评价 Deepseek-V4-Flash 正式版？",
-      "url": "https://www.zhihu.com/question/2066525148576998707",
-      "last_hot_value": "169 万热度",
-      "first_seen_at": "2026-07-31T22:40:10",
-      "last_seen_at": "2026-07-31T22:40:10",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+      "url": "https://www.zhihu.com/question/2067873642554156045",
+      "last_hot_value": "304 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "建设银行多网点试行午休制度，如何看待这一调整？网友反对称未来办业务会更难，你支持银行午休推广吗？",
@@ -377,9 +367,9 @@
       "last_hot_value": "131 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
@@ -412,16 +402,6 @@
       "is_new": false
     },
     {
-      "title": "青铜器普遍认同是金色的，现在都绿了一帮人说「美啊，美啊！」，原因是什么？",
-      "url": "https://www.zhihu.com/question/2049427129285321969",
-      "last_hot_value": "368 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T12:46:12",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "喜羊羊新作画面疑似擦边，美羊羊抬手捂住裙摆引发争议，是过度解读吗？面向少儿的动画须把握怎样的创作边界？",
       "url": "https://www.zhihu.com/question/2066829239035196838",
       "last_hot_value": "412 万热度",
@@ -432,14 +412,14 @@
       "is_new": false
     },
     {
-      "title": "如何评价最新发布的人民军队宣传片《制胜》？有哪些值得关注的细节？",
-      "url": "https://www.zhihu.com/question/2065877408276918979",
-      "last_hot_value": "217 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T04:34:06",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "「精神小伙」一篇《致我十年未见的妈妈》获赞 200 万，看完这篇文章你有哪些感触？",
+      "url": "https://www.zhihu.com/question/2067703500390097949",
+      "last_hot_value": "299 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "如何看待蜘蛛侠片方呼吁拒绝屏摄，结果评论区很多人都在发《蜘蛛侠：崭新之日》屏摄？你怎么看屏摄这一行为？",
@@ -447,9 +427,9 @@
       "last_hot_value": "131 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
@@ -492,14 +472,14 @@
       "is_new": false
     },
     {
-      "title": "好莱坞女星赞达亚 2026 年有 4 部电影上映，其中 3 部都是大片，她怎么崛起的？如何评价其演技？",
-      "url": "https://www.zhihu.com/question/2066119170039572343",
-      "last_hot_value": "215 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T04:34:06",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "为什么《潜伏》里面说佛龛价值连城，明明佛龛一直在潜伏寸功未立，而且换回来之后基本就是个普通特务了？",
+      "url": "https://www.zhihu.com/question/1979905139356747069",
+      "last_hot_value": "223 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "樊振东逆转张本智和，这场球到底神在哪？",
@@ -507,9 +487,9 @@
       "last_hot_value": "126 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
@@ -552,14 +532,24 @@
       "is_new": false
     },
     {
+      "title": "男孩不吃早饭偷吃魔芋爽，妈妈发现后罚他一次性吃完 30 袋，这样做是否太过极端？能有效教育孩子吗？",
+      "url": "https://www.zhihu.com/question/2067560345724523004",
+      "last_hot_value": "201 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
       "url": "https://www.zhihu.com/question/2067266099025011702",
       "last_hot_value": "108 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么我觉得贵的耳机反倒不如几十块的好用呢？",
@@ -622,24 +612,14 @@
       "is_new": false
     },
     {
-      "title": "提拔你当了部门负责人，第一件事该干啥？",
-      "url": "https://www.zhihu.com/question/1978759645523907490",
-      "last_hot_value": "213 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T04:34:06",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "为什么梦幻西游端游能活将近 19 年？",
-      "url": "https://www.zhihu.com/question/550082623",
-      "last_hot_value": "92 万热度",
-      "first_seen_at": "2026-07-31T22:40:10",
-      "last_seen_at": "2026-07-31T22:40:10",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "如何评价继小米拆车直播之后，理想、极氪也官宣直播拆车？",
+      "url": "https://www.zhihu.com/question/2067668934749427118",
+      "last_hot_value": "200 万热度",
+      "first_seen_at": "2026-08-04T07:10:43",
+      "last_seen_at": "2026-08-04T07:10:43",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "米莱推出「让阿根廷再次伟大」改革，主动戴上「财政脚镣」，甚至禁止央行为财政融资，对此你怎么看？",
@@ -647,9 +627,9 @@
       "last_hot_value": "91 万热度",
       "first_seen_at": "2026-08-03T21:55:06",
       "last_seen_at": "2026-08-03T21:55:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "一夜无梦才是高质量的睡眠是真的吗？",
@@ -697,16 +677,6 @@
       "last_hot_value": "375 万热度",
       "first_seen_at": "2026-08-01T09:17:29",
       "last_seen_at": "2026-08-01T09:17:29",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "为什么说「战士知道为什么而战很重要」？",
-      "url": "https://www.zhihu.com/question/796560164",
-      "last_hot_value": "202 万热度",
-      "first_seen_at": "2026-08-01T04:34:06",
-      "last_seen_at": "2026-08-01T04:34:06",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
