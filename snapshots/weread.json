@@ -1,65 +1,25 @@
 {
-  "update_time": "2026-08-04T01:13:59",
+  "update_time": "2026-08-05T13:20:59",
   "items": [
-    {
-      "title": "奥德赛（张秋子导读版）（全四册）",
-      "url": "",
-      "last_hot_value": "3046人在读",
-      "first_seen_at": "2026-08-01T19:38:03",
-      "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "命运的求索——中国命理学简史及推演方法",
-      "url": "",
-      "last_hot_value": "2561人在读",
-      "first_seen_at": "2026-08-01T17:18:41",
-      "last_seen_at": "2026-08-02T15:24:37",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "制造消费者：消费主义全球史",
-      "url": "",
-      "last_hot_value": "1387人在读",
-      "first_seen_at": "2026-08-01T17:18:41",
-      "last_seen_at": "2026-08-02T15:24:37",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "渺小一生",
-      "url": "",
-      "last_hot_value": "234人在读",
-      "first_seen_at": "2026-08-01T19:38:03",
-      "last_seen_at": "2026-08-02T00:16:31",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "世说新语",
       "url": "",
       "last_hot_value": "235人在读",
       "first_seen_at": "2026-08-03T18:10:28",
       "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "工作、消费主义和新穷人",
+      "title": "人鱼（黄杨钿甜、董勇主演同名影视剧原著）",
       "url": "",
-      "last_hot_value": "3578人在读",
-      "first_seen_at": "2026-08-01T17:18:41",
-      "last_seen_at": "2026-08-02T15:24:37",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "last_hot_value": "852人在读",
+      "first_seen_at": "2026-08-05T13:20:59",
+      "last_seen_at": "2026-08-05T13:20:59",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "少年自有未来",
@@ -67,17 +27,27 @@
       "last_hot_value": "1202人在读",
       "first_seen_at": "2026-08-03T18:10:28",
       "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
+      "title": "恶意",
+      "url": "",
+      "last_hot_value": "7465人在读",
+      "first_seen_at": "2026-08-05T13:20:59",
+      "last_seen_at": "2026-08-05T13:20:59",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
       "url": "",
-      "last_hot_value": "3932人在读",
+      "last_hot_value": "4355人在读",
       "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-05T13:20:59",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -87,29 +57,59 @@
       "last_hot_value": "925人在读",
       "first_seen_at": "2026-08-03T18:10:28",
       "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "查拉图斯特拉如是说",
-      "url": "",
-      "last_hot_value": "937人在读",
-      "first_seen_at": "2026-08-01T17:18:41",
-      "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 7,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "愤怒的葡萄",
-      "url": "",
-      "last_hot_value": "761人在读",
-      "first_seen_at": "2026-08-01T17:18:41",
-      "last_seen_at": "2026-08-02T15:24:37",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "解忧杂货店",
+      "url": "",
+      "last_hot_value": "5512人在读",
+      "first_seen_at": "2026-08-05T13:20:59",
+      "last_seen_at": "2026-08-05T13:20:59",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "白夜行",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-08-05T13:20:59",
+      "last_seen_at": "2026-08-05T13:20:59",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "我的帝王生涯",
+      "url": "",
+      "last_hot_value": "960人在读",
+      "first_seen_at": "2026-08-05T13:20:59",
+      "last_seen_at": "2026-08-05T13:20:59",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "幸福之路",
+      "url": "",
+      "last_hot_value": "447人在读",
+      "first_seen_at": "2026-08-05T13:20:59",
+      "last_seen_at": "2026-08-05T13:20:59",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "动机心理学",
+      "url": "",
+      "last_hot_value": "469人在读",
+      "first_seen_at": "2026-08-05T13:20:59",
+      "last_seen_at": "2026-08-05T13:20:59",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "理想国：新译与导读",
@@ -117,9 +117,9 @@
       "last_hot_value": "1439人在读",
       "first_seen_at": "2026-08-04T01:13:59",
       "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
