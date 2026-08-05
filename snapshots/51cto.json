@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-04T23:48:04",
+  "update_time": "2026-08-05T04:25:22",
   "items": [
     {
-      "title": "程序员远没到“完了”的时候！Sam Altman：OpenAI不包办一切，模型只是底座，开发者仍是AI生态的主角",
-      "url": "https://www.51cto.com/article/851894.html",
+      "title": "文件上传即可检索｜实时多模态向量链路落地实践分享",
+      "url": "https://www.51cto.com/article/852000.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-08-05T04:25:22",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "HarmonyOS 互动卡片实战：把番茄钟专注工具放到桌面（FormKit 全链路）",
       "url": "https://ost.51cto.com/posts/54607",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 7,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "程序员远没到“完了”的时候！Sam Altman：OpenAI不包办一切，模型只是底座，开发者仍是AI生态的主角",
+      "url": "https://www.51cto.com/article/851894.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-04T09:49:51",
       "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,24 +42,44 @@
       "is_new": false
     },
     {
-      "title": "Orange Cyberdefense视角下的2026网络安全：韧性比完美防御更重要，协同比单打独斗更有效",
-      "url": "https://www.51cto.com/article/851891.html",
+      "title": "一张表 17PB？记一次 MySQL 统计查询卡住与数据统计量爆炸的排查实录",
+      "url": "https://www.51cto.com/article/851965.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-08-05T04:25:22",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【HarmonyOS 7 沉浸光感深度实战】 01 ArkUI 与 HDS 两套接口如何选择",
       "url": "https://ost.51cto.com/posts/54584",
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "Orange Cyberdefense视角下的2026网络安全：韧性比完美防御更重要，协同比单打独斗更有效",
+      "url": "https://www.51cto.com/article/851891.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-04T09:49:51",
+      "last_seen_at": "2026-08-04T23:48:04",
+      "consecutive_count": 0,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "draw.io 要凉了！一句话生成专业技术图，这个开源 Skill 火了",
+      "url": "https://www.51cto.com/article/851997.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-05T04:25:22",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "为什么越来越多人用Sa-Token？",
@@ -57,7 +87,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T09:49:51",
       "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,12 +102,22 @@
       "is_new": false
     },
     {
+      "title": "公司要统一买 AI 开发工具了，Codex、Claude Code、Cursor 到底该选谁？",
+      "url": "https://www.51cto.com/article/851996.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-05T04:25:22",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "深入理解 Linux I2C 框架：内核子系统分层解析",
       "url": "https://www.51cto.com/article/851836.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T09:49:51",
       "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -92,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "Java 开发：彻底搞定！MyBatis 批量插入/更新性能优化，告别慢 SQL 瓶颈",
+      "url": "https://www.51cto.com/article/851964.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-05T04:25:22",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "颠覆 RN、Flutter、Electron！TypeScript 一夜翻盘！",
       "url": "https://www.51cto.com/article/851835.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T09:49:51",
       "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,12 +162,22 @@
       "is_new": false
     },
     {
+      "title": "Vite+ DevTools 发布！功能太强大了！",
+      "url": "https://www.51cto.com/article/851995.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-05T04:25:22",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Electron 太重了！这个 Rust 框架让桌面应用体积缩小 90%",
       "url": "https://www.51cto.com/article/851832.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T09:49:51",
       "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -132,12 +192,22 @@
       "is_new": false
     },
     {
+      "title": "OpenAI彻底干掉语音延迟！六个月重写底层架构，GPT Live全双工技术揭秘",
+      "url": "https://www.51cto.com/article/851993.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-05T04:25:22",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "TCP核心篇-第四篇：拥塞控制——别把网络挤爆了",
       "url": "https://www.51cto.com/article/851805.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T09:49:51",
       "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -152,12 +222,22 @@
       "is_new": false
     },
     {
+      "title": "老黄垒二十年的CUDA护城河，AI刚刚用十小时凿开了",
+      "url": "https://www.51cto.com/article/851962.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-05T04:25:22",
+      "last_seen_at": "2026-08-05T04:25:22",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "面试官冷笑：“什么是 Scaling Law？大模型的「涌现能力」是怎么回事？”，我：“就是模型越大越好嘛，参数越多效果越强”",
       "url": "https://www.51cto.com/article/851830.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T09:49:51",
       "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },

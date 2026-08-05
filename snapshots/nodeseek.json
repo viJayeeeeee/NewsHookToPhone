@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-04T23:48:15",
+  "update_time": "2026-08-05T04:25:30",
   "items": [
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:207803 回复:2813",
       "first_seen_at": "2026-08-02T08:45:55",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,18 +26,18 @@
       "url": "https://www.nodeseek.com/post-68572-1",
       "last_hot_value": "查看:104208 回复:621",
       "first_seen_at": "2026-08-04T23:48:15",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:223822 回复:2061",
       "first_seen_at": "2026-08-02T08:45:55",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -50,6 +50,16 @@
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "【开源】Inkstone —— 部署在 Cloudflare workers 上的全能 Markdown 笔记（更新0.2.0）",
+      "url": "https://www.nodeseek.com/post-849481-1",
+      "last_hot_value": "查看:3377 回复:89",
+      "first_seen_at": "2026-08-05T04:25:30",
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
@@ -76,10 +86,10 @@
       "url": "https://www.nodeseek.com/post-809285-1",
       "last_hot_value": "查看:3106 回复:68",
       "first_seen_at": "2026-08-04T23:48:15",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "常见VPS测试方法",
@@ -136,10 +146,10 @@
       "url": "https://www.nodeseek.com/post-373751-1",
       "last_hot_value": "查看:252531 回复:502",
       "first_seen_at": "2026-08-04T23:48:15",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
@@ -166,10 +176,10 @@
       "url": "https://www.nodeseek.com/post-647200-1",
       "last_hot_value": "查看:71051 回复:591",
       "first_seen_at": "2026-08-04T23:48:15",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
@@ -196,10 +206,10 @@
       "url": "https://www.nodeseek.com/post-828462-1",
       "last_hot_value": "查看:5532 回复:118",
       "first_seen_at": "2026-08-04T23:48:15",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "MJJ常用脚本合集",
@@ -226,10 +236,10 @@
       "url": "https://www.nodeseek.com/post-810146-1",
       "last_hot_value": "查看:7565 回复:102",
       "first_seen_at": "2026-08-04T23:48:15",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【教程】Alice又发了一波新鸡，来看看如何通过一键脚本使用家宽出口",
@@ -256,10 +266,10 @@
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:764767 回复:1163",
       "first_seen_at": "2026-08-04T23:48:15",
-      "last_seen_at": "2026-08-04T23:48:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T04:25:30",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "什么叫你的BitWarden是跑在Cloudflare上的？教你薅干大善人！",
