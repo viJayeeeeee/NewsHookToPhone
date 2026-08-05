@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-05T04:25:22",
+  "update_time": "2026-08-05T18:22:09",
   "items": [
+    {
+      "title": "【HarmonyOS 7 沉浸光感深度实战】 03 五档 ImmersiveStyle 到底怎么选",
+      "url": "https://ost.51cto.com/posts/54811",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-05T18:22:09",
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "文件上传即可检索｜实时多模态向量链路落地实践分享",
       "url": "https://www.51cto.com/article/852000.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:22",
-      "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 互动卡片实战：把番茄钟专注工具放到桌面（FormKit 全链路）",
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
       "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,14 +52,24 @@
       "is_new": false
     },
     {
+      "title": "深度解读HarmonyOS 7沉浸光感特性",
+      "url": "https://ost.51cto.com/posts/54792",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-05T18:22:09",
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "一张表 17PB？记一次 MySQL 统计查询卡住与数据统计量爆炸的排查实录",
       "url": "https://www.51cto.com/article/851965.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:22",
-      "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【HarmonyOS 7 沉浸光感深度实战】 01 ArkUI 与 HDS 两套接口如何选择",
@@ -57,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-03T08:05:29",
       "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,10 +96,10 @@
       "url": "https://www.51cto.com/article/851997.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:22",
-      "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么越来越多人用Sa-Token？",
@@ -106,10 +126,10 @@
       "url": "https://www.51cto.com/article/851996.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:22",
-      "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "深入理解 Linux I2C 框架：内核子系统分层解析",
@@ -136,10 +156,10 @@
       "url": "https://www.51cto.com/article/851964.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:22",
-      "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "颠覆 RN、Flutter、Electron！TypeScript 一夜翻盘！",
@@ -166,10 +186,10 @@
       "url": "https://www.51cto.com/article/851995.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:22",
-      "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Electron 太重了！这个 Rust 框架让桌面应用体积缩小 90%",
@@ -196,10 +216,10 @@
       "url": "https://www.51cto.com/article/851993.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:22",
-      "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "TCP核心篇-第四篇：拥塞控制——别把网络挤爆了",
@@ -226,10 +246,10 @@
       "url": "https://www.51cto.com/article/851962.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:22",
-      "last_seen_at": "2026-08-05T04:25:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-05T18:22:09",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "面试官冷笑：“什么是 Scaling Law？大模型的「涌现能力」是怎么回事？”，我：“就是模型越大越好嘛，参数越多效果越强”",
