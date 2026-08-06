@@ -1,85 +1,95 @@
 {
-  "update_time": "2026-08-05T18:22:15",
+  "update_time": "2026-08-06T00:15:52",
   "items": [
     {
       "title": "《深入理解 AI Agent：设计原理与工程实践》",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "last_hot_value": "2243",
+      "last_hot_value": "2248",
       "first_seen_at": "2026-08-04T19:05:35",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "把多张网卡的带宽叠加起来",
       "url": "https://github.com/Hypostasis-Cat/HypoMux",
-      "last_hot_value": "1876",
+      "last_hot_value": "1885",
       "first_seen_at": "2026-08-04T19:05:35",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "在线 AI 简历编辑器",
       "url": "https://github.com/JOYCEQL/magic-resume",
-      "last_hot_value": "1169",
+      "last_hot_value": "1173",
       "first_seen_at": "2026-08-04T19:05:35",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "让 AI 读代码画出架构图",
       "url": "https://github.com/tt-a1i/archify",
-      "last_hot_value": "1543",
+      "last_hot_value": "1547",
       "first_seen_at": "2026-08-04T19:05:35",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "更好用的 Windows 系统清理工具",
       "url": "https://github.com/builtbybel/FluentCleaner",
-      "last_hot_value": "1130",
+      "last_hot_value": "1139",
       "first_seen_at": "2026-08-04T19:05:35",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "上千个健身动作的集合",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "last_hot_value": "1383",
+      "last_hot_value": "1387",
       "first_seen_at": "2026-08-04T19:05:35",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "整本翻译外文小说的工具",
       "url": "https://github.com/BigDawnGhost/wenyi",
-      "last_hot_value": "514",
+      "last_hot_value": "516",
       "first_seen_at": "2026-08-04T09:49:58",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
     {
+      "title": "写论文用的文献管理工具",
+      "url": "https://github.com/JabRef/jabref",
+      "last_hot_value": "500",
+      "first_seen_at": "2026-08-06T00:15:52",
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "《强化学习小册子》",
       "url": "https://github.com/alxndrTL/little-book-rl",
-      "last_hot_value": "678",
+      "last_hot_value": "681",
       "first_seen_at": "2026-08-05T18:22:15",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "可多人协作的旅行规划平台",
@@ -94,10 +104,10 @@
     {
       "title": "拒绝 AI 味的网页设计技能",
       "url": "https://github.com/Nutlope/hallmark",
-      "last_hot_value": "1031",
+      "last_hot_value": "1039",
       "first_seen_at": "2026-08-04T19:05:35",
-      "last_seen_at": "2026-08-05T18:22:15",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-06T00:15:52",
+      "consecutive_count": 5,
       "peak_rank": 10,
       "is_new": false
     }
