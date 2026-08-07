@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-06T11:36:22",
+  "update_time": "2026-08-07T09:43:26",
   "items": [
+    {
+      "title": "2002年 哥伦比亚新总统宣誓就职",
+      "url": "",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "1998年 邓兆祥同志逝世",
       "url": "",
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,14 +32,14 @@
       "is_new": false
     },
     {
-      "title": "1998年 中国人首次登顶博格达峰",
+      "title": "2002年 北京大学山鹰社登山队五名队员不幸遇难",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "1997年 “微软”与“苹果”宣布合作计划",
@@ -37,7 +47,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,14 +62,14 @@
       "is_new": false
     },
     {
-      "title": "1998年 长江学者奖励计划全面启动",
+      "title": "2001年 东京都市民集会，抗议使用歪曲史实教科书",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "1997年 韩国一客机坠毁关岛",
@@ -67,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "1996年 第26届奥运会落下帷幕",
+      "title": "1998年 九江市长江大堤决口",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "1990年 中国第一次大规模性文明调查结束",
@@ -97,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -112,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "1996年 我国科学家提出生命起源新说",
+      "title": "1998年 美国驻肯尼亚大使馆遭汽车炸弹袭击",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "1986年 使用人工心脏时间最长的病人逝世",
@@ -127,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,14 +152,14 @@
       "is_new": false
     },
     {
-      "title": "1996年 第三十届国际地质大会在北京召开",
+      "title": "1998年 兰西拉光缆干线全线开通",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "1981年 美国航管人员罢工",
@@ -157,7 +167,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -172,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "1974年 江青树立小靳庄为“批林批孔”新典型",
+      "title": "1997年 翁霍担任柬埔寨第一首相",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "1980年 我国人造血液的研究在上海获得成功",
@@ -187,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -202,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "1971年 我国与土耳其建立外交关系",
+      "title": "1997年 铁英、黄纪诚犯受贿罪被判刑",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "1978年 教皇保罗六世逝世，继任者仅在位33天",
@@ -217,7 +227,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -232,14 +242,14 @@
       "is_new": false
     },
     {
-      "title": "1966年 曹汝霖病死",
+      "title": "1994年 国画艺术大师刘海粟辞世",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "1954年 新中国组建生产建设兵团",
@@ -247,7 +257,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -262,14 +272,14 @@
       "is_new": false
     },
     {
-      "title": "1949年 程潜、陈明仁率部起义",
+      "title": "1985年 哥伦比亚广播公司拒绝给特纳收购",
       "url": "",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-08-07T09:43:26",
+      "last_seen_at": "2026-08-07T09:43:26",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "1952年 新中国财政首次实现收支平衡",
@@ -277,7 +287,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:52",
       "last_seen_at": "2026-08-06T11:36:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -287,16 +297,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T13:21:04",
       "last_seen_at": "2026-08-05T13:21:04",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "1944年 日军大规模掳掠劳工",
-      "url": "",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-03T18:10:32",
-      "last_seen_at": "2026-08-04T01:14:03",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

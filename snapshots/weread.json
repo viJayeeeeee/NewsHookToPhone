@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-06T11:36:17",
+  "update_time": "2026-08-07T09:43:21",
   "items": [
+    {
+      "title": "章鱼学会冷静",
+      "url": "",
+      "last_hot_value": "668人在读",
+      "first_seen_at": "2026-08-07T09:43:21",
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "3610人在读",
+      "last_hot_value": "3496人在读",
       "first_seen_at": "2026-08-06T09:11:47",
-      "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,18 +27,28 @@
       "last_hot_value": "1642人在读",
       "first_seen_at": "2026-08-05T13:20:59",
       "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "世说新语",
+      "title": "暮色将尽",
       "url": "",
-      "last_hot_value": "235人在读",
-      "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "last_hot_value": "1307人在读",
+      "first_seen_at": "2026-08-07T09:43:21",
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "人鱼（黄杨钿甜、董勇主演同名影视剧原著）",
+      "url": "",
+      "last_hot_value": "1729人在读",
+      "first_seen_at": "2026-08-05T13:20:59",
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -37,26 +57,6 @@
       "last_hot_value": "439人在读",
       "first_seen_at": "2026-08-06T09:11:47",
       "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "人鱼（黄杨钿甜、董勇主演同名影视剧原著）",
-      "url": "",
-      "last_hot_value": "1492人在读",
-      "first_seen_at": "2026-08-05T13:20:59",
-      "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "少年自有未来",
-      "url": "",
-      "last_hot_value": "1202人在读",
-      "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-04T01:13:59",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -64,31 +64,31 @@
     {
       "title": "大地上我们转瞬即逝的绚烂",
       "url": "",
-      "last_hot_value": "351人在读",
+      "last_hot_value": "1001人在读",
       "first_seen_at": "2026-08-06T09:11:47",
-      "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "恶意",
       "url": "",
-      "last_hot_value": "6983人在读",
+      "last_hot_value": "6653人在读",
       "first_seen_at": "2026-08-05T13:20:59",
-      "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
+      "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "4355人在读",
-      "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-05T13:20:59",
-      "consecutive_count": 0,
-      "peak_rank": 4,
+      "last_hot_value": "917人在读",
+      "first_seen_at": "2026-08-06T09:11:47",
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -97,16 +97,6 @@
       "last_hot_value": "4854人在读",
       "first_seen_at": "2026-08-06T09:11:47",
       "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "世上为什么要有图书馆（微信读书特别版）",
-      "url": "",
-      "last_hot_value": "925人在读",
-      "first_seen_at": "2026-08-03T18:10:28",
-      "last_seen_at": "2026-08-04T01:13:59",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
@@ -114,20 +104,20 @@
     {
       "title": "解忧杂货店",
       "url": "",
-      "last_hot_value": "4986人在读",
+      "last_hot_value": "4589人在读",
       "first_seen_at": "2026-08-05T13:20:59",
-      "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "白夜行",
       "url": "",
-      "last_hot_value": "9827人在读",
+      "last_hot_value": "9364人在读",
       "first_seen_at": "2026-08-05T13:20:59",
-      "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -142,16 +132,6 @@
       "is_new": false
     },
     {
-      "title": "查拉图斯特拉如是说",
-      "url": "",
-      "last_hot_value": "886人在读",
-      "first_seen_at": "2026-08-06T09:11:47",
-      "last_seen_at": "2026-08-06T11:36:17",
-      "consecutive_count": 2,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "幸福之路",
       "url": "",
       "last_hot_value": "447人在读",
@@ -162,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "理想国：新译与导读",
+      "title": "不要担心2小时和8公里以外的事情",
       "url": "",
-      "last_hot_value": "1439人在读",
-      "first_seen_at": "2026-08-04T01:13:59",
-      "last_seen_at": "2026-08-04T01:13:59",
-      "consecutive_count": 0,
+      "last_hot_value": "1983人在读",
+      "first_seen_at": "2026-08-07T09:43:21",
+      "last_seen_at": "2026-08-07T09:43:21",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
