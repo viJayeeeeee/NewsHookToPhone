@@ -1,14 +1,14 @@
 {
-  "update_time": "2026-08-07T07:46:59",
+  "update_time": "2026-08-07T22:54:50",
   "items": [
     {
-      "title": "走进 AI Agent",
-      "url": "https://juejin.cn/post/7670003108343513122",
-      "last_hot_value": "热度:4698",
-      "first_seen_at": "2026-08-04T19:05:25",
-      "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 6,
-      "peak_rank": 1,
+      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
+      "url": "https://juejin.cn/post/7670447828808007718",
+      "last_hot_value": "热度:1323",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-07T22:54:50",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,39 +17,39 @@
       "last_hot_value": "热度:2493",
       "first_seen_at": "2026-08-05T18:22:06",
       "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "hvv员工家属爆料：老公22年入职的，普通员工，老是被误以为高薪多奖金，实际上还没配股，暂时钱没存多少，我倒是很心疼他工作辛苦。",
-      "url": "https://juejin.cn/post/7669710672626089994",
-      "last_hot_value": "热度:1629",
-      "first_seen_at": "2026-08-04T09:49:48",
-      "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 7,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "我全程用 AI开发了一款微信小游戏，上线了",
-      "url": "https://juejin.cn/post/7669058712007147539",
-      "last_hot_value": "热度:1341",
-      "first_seen_at": "2026-08-04T09:49:48",
-      "last_seen_at": "2026-08-06T00:15:44",
       "consecutive_count": 0,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "天天 AI Coding 的你，如果出去面试，你的竞争力是什么？",
+      "url": "https://juejin.cn/post/7670094721701445672",
+      "last_hot_value": "热度:846",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-07T22:54:50",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
-      "url": "https://juejin.cn/post/7670447828808007718",
-      "last_hot_value": "热度:1134",
+      "title": "当 AI 一天写完一周的代码，我们还剩什么优势？",
+      "url": "https://juejin.cn/post/7670092136001060907",
+      "last_hot_value": "热度:756",
       "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:50",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "连接池参数治理-HikariCP怎么配才稳",
+      "url": "https://juejin.cn/post/7670453050885472266",
+      "last_hot_value": "热度:540",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-07T22:54:50",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "FFmpeg 9.0 发布，代号 Lei，音视频处理再升级",
@@ -57,9 +57,19 @@
       "last_hot_value": "热度:819",
       "first_seen_at": "2026-08-05T18:22:06",
       "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "Flutter hit，一个可以灵活控制溢出点击的第三方包",
+      "url": "https://juejin.cn/post/7670078525111861254",
+      "last_hot_value": "热度:522",
+      "first_seen_at": "2026-08-07T22:54:50",
+      "last_seen_at": "2026-08-07T22:54:50",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "TRAE Work 实战复盘：从 4 小时到 7 分钟，提效近 40 倍",
@@ -67,49 +77,39 @@
       "last_hot_value": "热度:720",
       "first_seen_at": "2026-08-07T07:46:59",
       "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "前端真的比后端简单吗？",
-      "url": "https://juejin.cn/post/7669696162708504630",
-      "last_hot_value": "热度:837",
-      "first_seen_at": "2026-08-04T19:05:25",
-      "last_seen_at": "2026-08-06T00:15:44",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "天天 AI Coding 的你，如果出去面试，你的竞争力是什么？",
-      "url": "https://juejin.cn/post/7670094721701445672",
-      "last_hot_value": "热度:657",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-07T07:46:59",
+      "title": "竹知了很火？于是我用Cocos做了一个",
+      "url": "https://juejin.cn/post/7670488556980469786",
+      "last_hot_value": "热度:432",
+      "first_seen_at": "2026-08-07T22:54:50",
+      "last_seen_at": "2026-08-07T22:54:50",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
     },
     {
-      "title": "当 AI 一天写完一周的代码，我们还剩什么优势？",
-      "url": "https://juejin.cn/post/7670092136001060907",
-      "last_hot_value": "热度:621",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-07T07:46:59",
+      "title": "shadcn/ui 默认改用 Base UI，Radix 被放弃了吗？",
+      "url": "https://juejin.cn/post/7670135131277213696",
+      "last_hot_value": "热度:423",
+      "first_seen_at": "2026-08-07T22:54:50",
+      "last_seen_at": "2026-08-07T22:54:50",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
     },
     {
-      "title": "DeepSeek-V4-Flash 正式版上线了，但这 3 个坑我帮你提前踩了",
-      "url": "https://juejin.cn/post/7669024144831168518",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-08-04T09:49:48",
-      "last_seen_at": "2026-08-05T04:25:19",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "DeepSeek 预计要涨价，而且涨幅较大，你怎么看？",
+      "url": "https://juejin.cn/post/7670739142733381672",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-08-07T22:54:50",
+      "last_seen_at": "2026-08-07T22:54:50",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Codex 接入 DeepSeek-V4-Flash，丝滑的一批",
@@ -122,21 +122,11 @@
       "is_new": false
     },
     {
-      "title": "🔥 oiyo & unibest = 颠覆以往认知的 uniapp 模板",
-      "url": "https://juejin.cn/post/7669335296040730650",
-      "last_hot_value": "热度:405",
-      "first_seen_at": "2026-08-04T09:49:48",
-      "last_seen_at": "2026-08-05T04:25:19",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "连接池参数治理-HikariCP怎么配才稳",
-      "url": "https://juejin.cn/post/7670453050885472266",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-07T07:46:59",
+      "title": "让 Codex “用上”Android Studio：JetBrains MCP Server 接入与实践",
+      "url": "https://juejin.cn/post/7669649119754879026",
+      "last_hot_value": "热度:387",
+      "first_seen_at": "2026-08-07T22:54:50",
+      "last_seen_at": "2026-08-07T22:54:50",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
@@ -147,16 +137,6 @@
       "last_hot_value": "热度:486",
       "first_seen_at": "2026-08-05T18:22:06",
       "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "AI时代，程序员该往哪走？",
-      "url": "https://juejin.cn/post/7668613701018583046",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-08-04T09:49:48",
-      "last_seen_at": "2026-08-04T09:49:48",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

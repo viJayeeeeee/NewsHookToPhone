@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-07T07:47:00",
+  "update_time": "2026-08-07T22:54:52",
   "items": [
+    {
+      "title": "Zookeeper - 超级管理员权限的配置与使用实操",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157688499",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-07T22:54:52",
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "企业Agent落地为什么需要RAG？",
       "url": "https://blog.csdn.net/2401_89111612/article/details/163479542",
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "QQ 接入 DeepSeek：Docker 部署 AstrBot + NapCat 打造 AI 智能机器人（超详细教程）",
@@ -32,24 +42,24 @@
       "is_new": false
     },
     {
-      "title": "AI聊天也能拥有Live2D形象？Open-LLM-VTuber部署实战",
-      "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163470652",
+      "title": "【CMake】换台机器就编译失败？用 Presets + vcpkg 固定依赖、工具链与 CI",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163514465",
       "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-04T19:05:27",
-      "last_seen_at": "2026-08-05T04:25:20",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-07T22:54:52",
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【金仓数据库征文】让 AI 直接读懂你的金仓：基于 KES MCP Server 的自然语言数据库助手实战（Trae + DeepSeek）",
       "url": "https://blog.csdn.net/2302_78391795/article/details/163510716",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从Q/K/V到拼音转汉字:用PyTorch从零拆解Transformer编码器)",
@@ -74,21 +84,41 @@
     {
       "title": "Nous Research 开源AI Agent 框架",
       "url": "https://blog.csdn.net/2602_94956987/article/details/163541684",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 2,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "远程玩飞车类游戏,ToDesk三款功能免费体验:游戏键盘、游戏鼠标和外接手柄",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/163564164",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-07T22:54:52",
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
       "title": "从 Vibe Coding 到 LangGraph：AI 时代编程范式的演进与重构",
       "url": "https://blog.csdn.net/2502_94387000/article/details/163513233",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 2,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "一库融万象：金仓数据库多模融合在复杂业务场景下的实战落地",
+      "url": "https://blog.csdn.net/2501_91062530/article/details/163562777",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-07T22:54:52",
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -97,9 +127,9 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Pixelle-Video部署教程：AI短视频生成配置与远程访问",
@@ -112,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "Zookeeper - 临时节点的生命周期与核心特性详解",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157688356",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-04T09:49:49",
-      "last_seen_at": "2026-08-04T23:48:03",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "从慢 SQL 到系统瓶颈：一次金仓数据库性能调优实战复盘",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/163562693",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-07T22:54:52",
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "PyTorch计算机视觉（4）——迁移学习（Transfer Learning）详解与实现",
@@ -127,9 +157,9 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【自旋锁】用“忙等待“换“低延迟“——自旋锁原理与实战",
@@ -137,9 +167,9 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "KingbaseES V9 性能诊断三件套实战：从 KWR 报告到慢 SQL 定位与索引优化的全链路复现",
@@ -152,13 +182,33 @@
       "is_new": false
     },
     {
+      "title": "一句话做出会下五子棋的 AI：Claude Code × 蓝耘 GLM-5.2 实战",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/163559594",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "实战落地 SpringBoot+LLM 搭建 Text-to-SQL 智能查询系统-如何安全执行sql和性能优化",
       "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163483507",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "我搭了人生第一个能开口说话的 AI：一次跑通语音 Agent 的全过程记录",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/163542254",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-07T22:54:52",
+      "last_seen_at": "2026-08-07T22:54:52",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -167,9 +217,9 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "FFmpeg 9.0 发布，代号“Lei“，纪念中国开发者雷霄骅",
@@ -192,36 +242,6 @@
       "is_new": false
     },
     {
-      "title": "【AVDTP】规范精讲[8-1]: 从报文封装到分片机制，吃透蓝牙音视频流控制信令底层逻辑",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/163314299",
-      "last_hot_value": "8159",
-      "first_seen_at": "2026-08-04T19:05:27",
-      "last_seen_at": "2026-08-04T23:48:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "代码漏洞还在逐行排查?用DeepAudit做一轮AI辅助审计",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163442974",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-04T09:49:49",
-      "last_seen_at": "2026-08-04T09:49:49",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "一句话做出会下五子棋的 AI：Claude Code × 蓝耘 GLM-5.2 实战",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/163559594",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
       "title": "Java 应用数据库接入层工程实践：驱动、连接池与故障排查全解析",
       "url": "https://blog.csdn.net/2301_80350265/article/details/163481154",
       "last_hot_value": "1.1w",
@@ -237,16 +257,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-05T18:22:07",
       "last_seen_at": "2026-08-05T18:22:07",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "【Linux网络】深入 HTTP 协议（五）:从 Cookie/Session 原理到 C++ 源码实战",
-      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163411345",
-      "last_hot_value": "8112",
-      "first_seen_at": "2026-08-04T19:05:27",
-      "last_seen_at": "2026-08-04T23:48:03",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

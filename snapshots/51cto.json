@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-07T07:47:02",
+  "update_time": "2026-08-07T22:54:53",
   "items": [
+    {
+      "title": "未来 3 年运维人员就业前景：Agent 智能体岗位需求 vs 传统运维淘汰率",
+      "url": "https://www.51cto.com/article/852305.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-07T22:54:53",
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【HarmonyOS 7 沉浸光感深度实战】 05 Popup、Menu、Tips 和 Sheet 的材质如何配置",
       "url": "https://ost.51cto.com/posts/54847",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
-      "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【HarmonyOS 7 沉浸光感深度实战】 03 五档 ImmersiveStyle 到底怎么选",
@@ -32,24 +42,14 @@
       "is_new": false
     },
     {
-      "title": "程序员远没到“完了”的时候！Sam Altman：OpenAI不包办一切，模型只是底座，开发者仍是AI生态的主角",
-      "url": "https://www.51cto.com/article/851894.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "Coding Agent 下一步，不是写更多代码，而是学会像工程师一样工作",
       "url": "https://www.51cto.com/article/852298.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
-      "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "深度解读HarmonyOS 7沉浸光感特性",
@@ -72,24 +72,24 @@
       "is_new": false
     },
     {
-      "title": "Orange Cyberdefense视角下的2026网络安全：韧性比完美防御更重要，协同比单打独斗更有效",
-      "url": "https://www.51cto.com/article/851891.html",
+      "title": "智能体 SDLC 落地指南：运维如何驾驭 AI 重构自动化工程体系",
+      "url": "https://www.51cto.com/article/852302.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-07T22:54:53",
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "一篇讲透 Agent 工程全景：工具、记忆、多智能体、安全与最终交付",
       "url": "https://www.51cto.com/article/852297.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
-      "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "draw.io 要凉了！一句话生成专业技术图，这个开源 Skill 火了",
@@ -102,24 +102,14 @@
       "is_new": false
     },
     {
-      "title": "为什么越来越多人用Sa-Token？",
-      "url": "https://www.51cto.com/article/851838.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "Handroid：当一台机器人既可以是灵巧手，也可以是人形机器人",
       "url": "https://www.51cto.com/article/852296.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
-      "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "公司要统一买 AI 开发工具了，Codex、Claude Code、Cursor 到底该选谁？",
@@ -132,24 +122,14 @@
       "is_new": false
     },
     {
-      "title": "深入理解 Linux I2C 框架：内核子系统分层解析",
-      "url": "https://www.51cto.com/article/851836.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
       "url": "https://www.51cto.com/article/852295.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
-      "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Java 开发：彻底搞定！MyBatis 批量插入/更新性能优化，告别慢 SQL 瓶颈",
@@ -162,24 +142,14 @@
       "is_new": false
     },
     {
-      "title": "颠覆 RN、Flutter、Electron！TypeScript 一夜翻盘！",
-      "url": "https://www.51cto.com/article/851835.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "Java 开发：不止 @EventListener！Spring Boot 事件机制深度解析，吃透业务解耦核心技巧",
       "url": "https://www.51cto.com/article/852259.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
-      "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Vite+ DevTools 发布！功能太强大了！",
@@ -192,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "Electron 太重了！这个 Rust 框架让桌面应用体积缩小 90%",
-      "url": "https://www.51cto.com/article/851832.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
       "url": "https://www.51cto.com/article/852290.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
-      "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenAI彻底干掉语音延迟！六个月重写底层架构，GPT Live全双工技术揭秘",
@@ -222,24 +182,14 @@
       "is_new": false
     },
     {
-      "title": "TCP核心篇-第四篇：拥塞控制——别把网络挤爆了",
-      "url": "https://www.51cto.com/article/851805.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "Go 密码学前掌门人亲自提案：crypto/passkey 要把“免密登录”这件事一次性做对",
       "url": "https://www.51cto.com/article/852294.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
       "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "老黄垒二十年的CUDA护城河，AI刚刚用十小时凿开了",
@@ -252,34 +202,24 @@
       "is_new": false
     },
     {
-      "title": "面试官冷笑：“什么是 Scaling Law？大模型的「涌现能力」是怎么回事？”，我：“就是模型越大越好嘛，参数越多效果越强”",
-      "url": "https://www.51cto.com/article/851830.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-04T09:49:51",
-      "last_seen_at": "2026-08-04T23:48:04",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "早于LeCun相似研究一年！千诀科技联合清华团队让神经网络「简单性」可测可优化",
       "url": "https://www.51cto.com/article/852274.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
       "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【HarmonyOS 7 沉浸光感深度实战】 04 interactive、lightEffect 与完整参数实验",
       "url": "https://ost.51cto.com/posts/54827",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:02",
-      "last_seen_at": "2026-08-07T07:47:02",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-07T22:54:53",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
