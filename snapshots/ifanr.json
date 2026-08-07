@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-06T00:15:51",
+  "update_time": "2026-08-07T07:47:07",
   "items": [
+    {
+      "title": "解读｜OpenAI 音箱：果味设计，但比苹果多走一步",
+      "url": "https://www.ifanr.com/1674363",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "华为全场景新品齐发，尊界 V800 领航版售价破百万，埃尔法们的加价生意不好做了",
       "url": "https://www.ifanr.com/1674060",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T18:22:13",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:27",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T19:05:34",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -37,29 +47,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T09:49:55",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "实测千问办公：阿里这个 AI 专家，真的能帮你带货",
-      "url": "https://www.ifanr.com/1673793",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-03T16:18:45",
-      "last_seen_at": "2026-08-04T23:48:11",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新",
-      "url": "https://www.ifanr.com/1673624",
+      "title": "独家体验｜千问大更新，把 Agent 装进了电脑和手机",
+      "url": "https://www.ifanr.com/1674265",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T08:05:35",
-      "last_seen_at": "2026-08-03T20:52:46",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "MacBook Air 快断货了，等等党不能再等了",
@@ -67,7 +67,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T18:22:13",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -77,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T04:25:27",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -87,7 +87,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T19:05:34",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -102,14 +102,14 @@
       "is_new": false
     },
     {
-      "title": "对话卓驭 CEO 沈劭劼：汽车在被撞前 0.01 秒退出智驾肯定是不行的",
-      "url": "https://www.ifanr.com/1673777",
+      "title": "宝马 3 系换代、奔驰 C 级改款，谁更有机会翻盘？",
+      "url": "https://www.ifanr.com/1674199",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T16:18:45",
-      "last_seen_at": "2026-08-04T23:48:11",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
@@ -117,7 +117,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T18:22:13",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -127,7 +127,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T19:05:34",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -142,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "AI 改变打工人之后，千问办公盯上了企业 Agent 化",
-      "url": "https://www.ifanr.com/1673691",
+      "title": "早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台",
+      "url": "https://www.ifanr.com/1674259",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T16:18:45",
-      "last_seen_at": "2026-08-04T09:49:55",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "天凉了，该让 AI 浏览器破产了",
@@ -157,7 +157,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-04T19:05:34",
       "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -172,54 +172,64 @@
       "is_new": false
     },
     {
-      "title": "大五座市场又有新产品：小鹏 G9L 增程纯电两手抓，既要好开还要好坐",
-      "url": "https://www.ifanr.com/1673763",
+      "title": "Wan 3.0 有了自己的镜头美学",
+      "url": "https://www.ifanr.com/1674218",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T16:18:45",
-      "last_seen_at": "2026-08-04T09:49:55",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "机器人刷一段「短视频」，就能学会新技能？自变量 HOST 技术「神器」来了",
-      "url": "https://www.ifanr.com/1673600",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-03T16:18:45",
-      "last_seen_at": "2026-08-04T09:49:55",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么",
-      "url": "https://www.ifanr.com/1673651",
+      "title": "价格一分没涨，非晶电驱上车：2027 款埃安 RT 上市，9.98 万元起",
+      "url": "https://www.ifanr.com/1674178",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T16:18:45",
-      "last_seen_at": "2026-08-04T09:49:55",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "AI 加速了科学，也在掏空大学",
-      "url": "https://www.ifanr.com/1673384",
+      "title": "下个月的 iPhone 发布会，可能是五年来最有「活人感」的一次",
+      "url": "https://www.ifanr.com/1674187",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T01:05:37",
-      "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "20.18 万元起，唯一直接挂「长城」名号的 H10，要抢家庭 SUV 市场",
+      "url": "https://www.ifanr.com/1674168",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "高通和 IDC 说，智能眼镜会是手机之外，最重要的 AI 设备",
-      "url": "https://www.ifanr.com/1673429",
+      "title": "新内存战争",
+      "url": "https://www.ifanr.com/1674075",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-03T01:05:37",
-      "last_seen_at": "2026-08-03T08:05:35",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "降价 3 万元！理想 i8 新增后驱长续航版，升级电动前备箱",
+      "url": "https://www.ifanr.com/1674159",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-07T07:47:07",
+      "last_seen_at": "2026-08-07T07:47:07",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

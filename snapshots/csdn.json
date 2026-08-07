@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-06T00:15:45",
+  "update_time": "2026-08-07T07:47:00",
   "items": [
+    {
+      "title": "企业Agent落地为什么需要RAG？",
+      "url": "https://blog.csdn.net/2401_89111612/article/details/163479542",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "QQ 接入 DeepSeek：Docker 部署 AstrBot + NapCat 打造 AI 智能机器人（超详细教程）",
       "url": "https://blog.csdn.net/mrdeam/article/details/163469822",
       "last_hot_value": "2.2w",
       "first_seen_at": "2026-08-05T18:22:07",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "2.2w",
       "first_seen_at": "2026-08-05T04:25:20",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "【金仓数据库征文】让 AI 直接读懂你的金仓：基于 KES MCP Server 的自然语言数据库助手实战（Trae + DeepSeek）",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/163510716",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从Q/K/V到拼音转汉字:用PyTorch从零拆解Transformer编码器)",
       "url": "https://blog.csdn.net/2401_87629362/article/details/163221683",
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-08-05T04:25:20",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,69 +67,39 @@
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-08-05T04:25:20",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【MYSQL】MYSQL学习的一大重点：事务（上）- 原子性与持久性",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163377285",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "8月份AI套餐怎么选，GLM、Kimi、Minimax、火山等整理汇总",
-      "url": "https://blog.csdn.net/zhangay1998/article/details/163389680",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-05T18:22:07",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "私密日记不想放在云端？极空间部署DailyTxT完整教程",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163449761",
-      "last_hot_value": "2.2w",
-      "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-04T09:49:49",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "查库存的 SQL 时灵时不灵，最后发现是 WHERE 里两个函数在打架",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163446440",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-08-03T20:52:40",
-      "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 7,
+      "title": "Nous Research 开源AI Agent 框架",
+      "url": "https://blog.csdn.net/2602_94956987/article/details/163541684",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "SpringBoot+PostgreSQL + 硅基流动大模型从零搭建 Text-to-SQL 智能问答系统",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163398167",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-04T09:49:49",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "PyTorch强化学习实战（21）——异步优势演员-评论家（Asynchronous Advantage Actor-Critic, A3C）",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766138",
-      "last_hot_value": "8933",
-      "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-05T04:25:20",
-      "consecutive_count": 0,
+      "title": "从 Vibe Coding 到 LangGraph：AI 时代编程范式的演进与重构",
+      "url": "https://blog.csdn.net/2502_94387000/article/details/163513233",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "OpenClaw 成本优化实战：Token 使用效率提升完全指南",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/163472890",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Pixelle-Video部署教程：AI短视频生成配置与远程访问",
@@ -117,7 +107,7 @@
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-08-05T18:22:07",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -132,14 +122,24 @@
       "is_new": false
     },
     {
-      "title": "React 的createClass 是怎么实现的?：深入解析 React 早期组件工厂的底层原理",
-      "url": "https://blog.csdn.net/qq_41840843/article/details/163437536",
-      "last_hot_value": "8592",
-      "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-05T04:25:20",
-      "consecutive_count": 0,
+      "title": "PyTorch计算机视觉（4）——迁移学习（Transfer Learning）详解与实现",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/162009128",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "【自旋锁】用“忙等待“换“低延迟“——自旋锁原理与实战",
+      "url": "https://blog.csdn.net/2302_80243065/article/details/163478424",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "KingbaseES V9 性能诊断三件套实战：从 KWR 报告到慢 SQL 定位与索引优化的全链路复现",
@@ -147,19 +147,29 @@
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-05T18:22:07",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "PyTorch模型训练:权重、偏置和参数初始化会怎样影响训练",
-      "url": "https://blog.csdn.net/weixin_61731209/article/details/163444871",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-03T16:18:34",
-      "last_seen_at": "2026-08-03T20:52:40",
-      "consecutive_count": 0,
+      "title": "实战落地 SpringBoot+LLM 搭建 Text-to-SQL 智能查询系统-如何安全执行sql和性能优化",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163483507",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "【AI 测评】PostgreSQL主从流复制实战：数据同步、状态验证与故障切换",
+      "url": "https://blog.csdn.net/2402_87298751/article/details/163537884",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "FFmpeg 9.0 发布，代号“Lei“，纪念中国开发者雷霄骅",
@@ -167,9 +177,9 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-06T00:15:45",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Linux网络】深入理解传输层 UDP 协议：从原理、源码分析到实战应用",
@@ -202,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "一句话做出会下五子棋的 AI：Claude Code × 蓝耘 GLM-5.2 实战",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/163559594",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-07T07:47:00",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "Java 应用数据库接入层工程实践：驱动、连接池与故障排查全解析",
       "url": "https://blog.csdn.net/2301_80350265/article/details/163481154",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-06T00:15:45",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Codex Security：从扫描漏洞到验证攻击路径",
@@ -227,26 +247,6 @@
       "last_hot_value": "8112",
       "first_seen_at": "2026-08-04T19:05:27",
       "last_seen_at": "2026-08-04T23:48:03",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Linux 权限详解：从 rwx、chmod 到 umask、目录权限与粘滞位",
-      "url": "https://blog.csdn.net/Face_FeaR/article/details/163419309",
-      "last_hot_value": "9458",
-      "first_seen_at": "2026-08-03T08:05:28",
-      "last_seen_at": "2026-08-03T08:05:28",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "群晖NAS也能当开发机?Code-Server部署与远程编程完整教程",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163358188",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-03T01:05:31",
-      "last_seen_at": "2026-08-03T01:05:31",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

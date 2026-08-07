@@ -1,33 +1,33 @@
 {
-  "update_time": "2026-08-06T00:15:44",
+  "update_time": "2026-08-07T07:46:59",
   "items": [
     {
       "title": "走进 AI Agent",
       "url": "https://juejin.cn/post/7670003108343513122",
-      "last_hot_value": "热度:3564",
+      "last_hot_value": "热度:4698",
       "first_seen_at": "2026-08-04T19:05:25",
-      "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "2026 上半年，前端圈已经炸了五次",
-      "url": "https://juejin.cn/post/7669622241974632490",
-      "last_hot_value": "热度:3096",
-      "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 8,
-      "peak_rank": 1,
+      "title": "公司不给你配 AI，你会自己掏钱吗？",
+      "url": "https://juejin.cn/post/7670011027535921202",
+      "last_hot_value": "热度:2493",
+      "first_seen_at": "2026-08-05T18:22:06",
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "hvv员工家属爆料：老公22年入职的，普通员工，老是被误以为高薪多奖金，实际上还没配股，暂时钱没存多少，我倒是很心疼他工作辛苦。",
       "url": "https://juejin.cn/post/7669710672626089994",
-      "last_hot_value": "热度:1296",
+      "last_hot_value": "热度:1629",
       "first_seen_at": "2026-08-04T09:49:48",
-      "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,29 +37,39 @@
       "last_hot_value": "热度:1341",
       "first_seen_at": "2026-08-04T09:49:48",
       "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "公司不给你配 AI，你会自己掏钱吗？",
-      "url": "https://juejin.cn/post/7670011027535921202",
-      "last_hot_value": "热度:1107",
+      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
+      "url": "https://juejin.cn/post/7670447828808007718",
+      "last_hot_value": "热度:1134",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "FFmpeg 9.0 发布，代号 Lei，音视频处理再升级",
+      "url": "https://juejin.cn/post/7670139135173132322",
+      "last_hot_value": "热度:819",
       "first_seen_at": "2026-08-05T18:22:06",
-      "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "网页端OCR, 加载6mb大小模型, 又快又准, 百度这次真香",
-      "url": "https://juejin.cn/post/7669068704309329960",
-      "last_hot_value": "热度:963",
-      "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 8,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "TRAE Work 实战复盘：从 4 小时到 7 分钟，提效近 40 倍",
+      "url": "https://juejin.cn/post/7669126369356398592",
+      "last_hot_value": "热度:720",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "前端真的比后端简单吗？",
@@ -67,39 +77,29 @@
       "last_hot_value": "热度:837",
       "first_seen_at": "2026-08-04T19:05:25",
       "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 5,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "架构没变、规模没变，DeepSeek V4 Flash 正式版凭什么暴涨 47 分？",
-      "url": "https://juejin.cn/post/7668933720747638834",
-      "last_hot_value": "热度:486",
-      "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-05T04:25:19",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "Spring Boot 接入金仓数据库：配置分层、启动自检与常见错误",
-      "url": "https://juejin.cn/post/7669601359986262025",
-      "last_hot_value": "热度:423",
-      "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-05T04:25:19",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "天天 AI Coding 的你，如果出去面试，你的竞争力是什么？",
+      "url": "https://juejin.cn/post/7670094721701445672",
+      "last_hot_value": "热度:657",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
-      "title": "FFmpeg 9.0 发布，代号 Lei，音视频处理再升级",
-      "url": "https://juejin.cn/post/7670139135173132322",
-      "last_hot_value": "热度:585",
-      "first_seen_at": "2026-08-05T18:22:06",
-      "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 2,
+      "title": "当 AI 一天写完一周的代码，我们还剩什么优势？",
+      "url": "https://juejin.cn/post/7670092136001060907",
+      "last_hot_value": "热度:621",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "DeepSeek-V4-Flash 正式版上线了，但这 3 个坑我帮你提前踩了",
@@ -112,22 +112,12 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek V4-Flash 正式版深度解读：一行 changelog 里的暗涌与野心",
-      "url": "https://juejin.cn/post/7668608790367682595",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-08-03T16:18:33",
-      "last_seen_at": "2026-08-03T20:52:38",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "Codex 接入 DeepSeek-V4-Flash，丝滑的一批",
       "url": "https://juejin.cn/post/7669635386160201768",
       "last_hot_value": "热度:540",
       "first_seen_at": "2026-08-05T18:22:06",
       "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -142,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "连接池参数治理-HikariCP怎么配才稳",
+      "url": "https://juejin.cn/post/7670453050885472266",
+      "last_hot_value": "热度:513",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-07T07:46:59",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "🔥 oiyo × unibest 绝对没见过的 uniapp 模板",
       "url": "https://juejin.cn/post/7669335296040730650",
       "last_hot_value": "热度:486",
       "first_seen_at": "2026-08-05T18:22:06",
       "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -157,16 +157,6 @@
       "last_hot_value": "热度:297",
       "first_seen_at": "2026-08-04T09:49:48",
       "last_seen_at": "2026-08-04T09:49:48",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek-V4-Flash 接入 Codex（Windows 版）",
-      "url": "https://juejin.cn/post/7668490153107783732",
-      "last_hot_value": "热度:270",
-      "first_seen_at": "2026-08-03T01:05:29",
-      "last_seen_at": "2026-08-03T08:05:23",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
