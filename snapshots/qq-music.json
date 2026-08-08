@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-07T20:15:25",
+  "update_time": "2026-08-08T05:33:18",
   "items": [
     {
       "title": "恋人",
       "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T12:09:35",
-      "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "每个人 (舒楠监制 官方正式版)",
+      "url": "https://y.qq.com/n/ryqq/songDetail/000bvwA03DH7qt",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-08T05:33:18",
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "甲乙丙丁 (你我怎么两清)",
       "url": "https://y.qq.com/n/ryqq/songDetail/002AZauQ1UKQxe",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T12:09:35",
-      "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,8 +66,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/001Y2S0F1OaM2s",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T12:09:35",
-      "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -66,8 +76,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:44",
-      "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000BO3xy4fd8BJ",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T12:09:35",
-      "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -86,8 +96,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/004fneUm24gD2c",
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:44",
-      "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 6,
       "peak_rank": 6,
       "is_new": false
     },
@@ -96,8 +106,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/0016znix01HNzO",
       "last_hot_value": "",
       "first_seen_at": "2026-08-06T09:11:44",
-      "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
@@ -106,10 +116,20 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/0031PqYN0sj8K3",
       "last_hot_value": "",
       "first_seen_at": "2026-08-05T13:20:58",
-      "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 7,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "盛夏的果实",
+      "url": "https://y.qq.com/n/ryqq/songDetail/0009BoCc0C2KFN",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-08T05:33:18",
+      "last_seen_at": "2026-08-08T05:33:18",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Always Online",
@@ -117,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T09:43:19",
       "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -127,7 +147,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T09:43:19",
       "last_seen_at": "2026-08-07T20:15:25",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
