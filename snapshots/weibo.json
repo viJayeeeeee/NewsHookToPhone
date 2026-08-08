@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-08T10:21:08",
+  "update_time": "2026-08-08T13:58:28",
   "items": [
+    {
+      "title": "台风白海豚",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
+      "last_hot_value": "1118951",
+      "first_seen_at": "2026-08-08T10:21:08",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "峰哥实名举报汪海林偷税漏税",
       "url": "https://s.weibo.com/weibo?q=%23%E5%B3%B0%E5%93%A5%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%B1%AA%E6%B5%B7%E6%9E%97%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23",
       "last_hot_value": "2534454",
       "first_seen_at": "2026-08-08T09:12:13",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -122,11 +132,11 @@
       "is_new": false
     },
     {
-      "title": "台风白海豚",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
-      "last_hot_value": "1123039",
-      "first_seen_at": "2026-08-08T10:21:08",
-      "last_seen_at": "2026-08-08T10:21:08",
+      "title": "奥德赛",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%BE%B7%E8%B5%9B%23",
+      "last_hot_value": "805779",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
@@ -137,7 +147,7 @@
       "last_hot_value": "398101",
       "first_seen_at": "2026-08-08T08:01:22",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -232,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "黄土高原上的绿色长征",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E7%BB%BF%E8%89%B2%E9%95%BF%E5%BE%81%23",
+      "last_hot_value": "793155",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "2026我们的家园幸福美丽西藏",
       "url": "https://s.weibo.com/weibo?q=%232026%E6%88%91%E4%BB%AC%E7%9A%84%E5%AE%B6%E5%9B%AD%E5%B9%B8%E7%A6%8F%E7%BE%8E%E4%B8%BD%E8%A5%BF%E8%97%8F%23",
       "last_hot_value": "1066115",
       "first_seen_at": "2026-08-08T10:21:08",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "白海豚已闭眼",
@@ -342,14 +362,24 @@
       "is_new": false
     },
     {
+      "title": "沈腾演技",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%BC%94%E6%8A%80%23",
+      "last_hot_value": "785387",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "西村力演唱会的状态",
       "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%8A%B6%E6%80%81%23",
       "last_hot_value": "1065634",
       "first_seen_at": "2026-08-08T10:21:08",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小夜灯 性早熟",
@@ -357,7 +387,7 @@
       "last_hot_value": "1063612",
       "first_seen_at": "2026-08-08T09:12:13",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -452,12 +482,22 @@
       "is_new": false
     },
     {
+      "title": "情侣平潭翻墙拍日出坠崖",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%B9%B3%E6%BD%AD%E7%BF%BB%E5%A2%99%E6%8B%8D%E6%97%A5%E5%87%BA%E5%9D%A0%E5%B4%96%23",
+      "last_hot_value": "390122",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "刘宇宁抱王玉雯林一的区别",
       "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%8A%B1%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%9E%97%E4%B8%80%E7%9A%84%E5%8C%BA%E5%88%AB%23",
       "last_hot_value": "583244",
       "first_seen_at": "2026-08-08T09:12:13",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -552,12 +592,22 @@
       "is_new": false
     },
     {
+      "title": "陈伟霆说我还以为去了成毅的演唱会",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E8%AF%B4%E6%88%91%E8%BF%98%E4%BB%A5%E4%B8%BA%E5%8E%BB%E4%BA%86%E6%88%90%E6%AF%85%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23",
+      "last_hot_value": "382324",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "两个淡人谈恋爱是极其美味的",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E6%B7%A1%E4%BA%BA%E8%B0%88%E6%81%8B%E7%88%B1%E6%98%AF%E6%9E%81%E5%85%B6%E7%BE%8E%E5%91%B3%E7%9A%84%23",
       "last_hot_value": "427588",
       "first_seen_at": "2026-08-08T09:12:13",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -662,6 +712,16 @@
       "is_new": false
     },
     {
+      "title": "西平县刑案嫌犯伤害多名无辜群众",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B9%B3%E5%8E%BF%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E4%BC%A4%E5%AE%B3%E5%A4%9A%E5%90%8D%E6%97%A0%E8%BE%9C%E7%BE%A4%E4%BC%97%23",
+      "last_hot_value": "359844",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "这就是跟老人的有效沟通",
       "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%B7%9F%E8%80%81%E4%BA%BA%E7%9A%84%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A%23",
       "last_hot_value": "554471",
@@ -740,6 +800,16 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "只有小时候发烧才有这种感觉",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E5%B0%8F%E6%97%B6%E5%80%99%E5%8F%91%E7%83%A7%E6%89%8D%E6%9C%89%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89%23",
+      "last_hot_value": "358903",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "T1首发调整",
@@ -842,14 +912,24 @@
       "is_new": false
     },
     {
+      "title": "AG对战KSG",
+      "url": "https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98KSG%23",
+      "last_hot_value": "354087",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "丁俊晖1比6吉尔伯特",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E4%BF%8A%E6%99%961%E6%AF%946%E5%90%89%E5%B0%94%E4%BC%AF%E7%89%B9%23",
       "last_hot_value": "302947",
       "first_seen_at": "2026-08-08T10:21:08",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "张本智和说面对国乒年轻选手压力消失了",
@@ -932,14 +1012,24 @@
       "is_new": false
     },
     {
+      "title": "苹果AI 千问",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CAI+%E5%8D%83%E9%97%AE%23",
+      "last_hot_value": "350860",
+      "first_seen_at": "2026-08-08T13:58:28",
+      "last_seen_at": "2026-08-08T13:58:28",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "男子因噪音狂斩邻居30多刀后坠楼",
       "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%99%AA%E9%9F%B3%E7%8B%82%E6%96%A9%E9%82%BB%E5%B1%8530%E5%A4%9A%E5%88%80%E5%90%8E%E5%9D%A0%E6%A5%BC%23",
       "last_hot_value": "296149",
       "first_seen_at": "2026-08-08T10:21:08",
       "last_seen_at": "2026-08-08T10:21:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "金饰克价一夜涨回1300元",
