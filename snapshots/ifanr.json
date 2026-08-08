@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-07T22:54:58",
+  "update_time": "2026-08-08T04:49:52",
   "items": [
+    {
+      "title": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+      "url": "https://www.ifanr.com/1674478",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-08T04:49:52",
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "最后一辆 W16 布加迪，成为了拥有 1600 马力的艺术品",
       "url": "https://www.ifanr.com/1674436",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T22:54:58",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "解读｜OpenAI 音箱：果味设计，但比苹果多走一步",
       "url": "https://www.ifanr.com/1674363",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:07",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,32 +42,22 @@
       "is_new": false
     },
     {
-      "title": "31.98 万元的腾势 Z9S，开始为腾势「去登味」",
-      "url": "https://www.ifanr.com/1673908",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:27",
-      "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "在 ChinaJoy ，我看到了第一台「科技潮玩」机器人",
       "url": "https://www.ifanr.com/1674308",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T22:54:58",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "独家体验｜千问大更新，把 Agent 装进了电脑和手机",
       "url": "https://www.ifanr.com/1674265",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:07",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,22 +72,12 @@
       "is_new": false
     },
     {
-      "title": "早报｜OpenAI发文回击苹果:你做错了/我国发布L3、L4自动驾驶国标/鸿蒙智行回应「竹知了」事件",
-      "url": "https://www.ifanr.com/1673981",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:27",
-      "last_seen_at": "2026-08-06T00:15:51",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "宝马 3 系换代、奔驰 C 级改款，谁更有机会翻盘？",
       "url": "https://www.ifanr.com/1674199",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:07",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -106,8 +96,8 @@
       "url": "https://www.ifanr.com/1674259",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:07",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -116,8 +106,8 @@
       "url": "https://www.ifanr.com/1674218",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:07",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -126,8 +116,8 @@
       "url": "https://www.ifanr.com/1674178",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:07",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -136,8 +126,8 @@
       "url": "https://www.ifanr.com/1674187",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:07",
-      "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T04:49:52",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -147,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:47:07",
       "last_seen_at": "2026-08-07T22:54:58",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },

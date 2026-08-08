@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-07T22:54:48",
+  "update_time": "2026-08-08T04:49:42",
   "items": [
+    {
+      "title": "从 windows 切换到 MacOS，感觉 MacOS 不好用。",
+      "url": "https://www.v2ex.com/t/1232697",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-07T22:54:48",
+      "last_seen_at": "2026-08-08T04:49:42",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "尝了尝动态血糖仪的咸淡，我觉得很 OK",
       "url": "https://www.v2ex.com/t/1232632",
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:46:56",
       "last_seen_at": "2026-08-07T22:54:48",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,13 +42,13 @@
       "is_new": false
     },
     {
-      "title": "广西被大水冲垮的房子，国家会给重建或者补助吗？",
-      "url": "https://www.v2ex.com/t/1232165#reply75",
+      "title": "如果女朋友转发这个，你们会给吗",
+      "url": "https://www.v2ex.com/t/1232701",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-05T04:25:17",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "first_seen_at": "2026-08-07T22:54:48",
+      "last_seen_at": "2026-08-08T04:49:42",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -47,7 +57,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:46:56",
       "last_seen_at": "2026-08-07T22:54:48",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,13 +82,13 @@
       "is_new": false
     },
     {
-      "title": "有没有好喝的冰饮推荐啊！热昏了",
-      "url": "https://www.v2ex.com/t/1232172",
+      "title": "沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布",
+      "url": "https://www.v2ex.com/t/1232738",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-06T00:15:42",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "first_seen_at": "2026-08-07T22:54:48",
+      "last_seen_at": "2026-08-08T04:49:42",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -87,49 +97,29 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:46:56",
       "last_seen_at": "2026-08-07T22:54:48",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "推广中转站 codex 0.09 起，送 5u 速蹬",
-      "url": "https://www.v2ex.com/t/1232189",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-06T00:15:42",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "失业后，你们会继续交社保吗？",
-      "url": "https://www.v2ex.com/t/1232160",
+      "title": "WorkBuddy 是真好用",
+      "url": "https://www.v2ex.com/t/1232713",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-06T00:15:42",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "从 windows 切换到 MacOS，感觉 MacOS 不好用。",
-      "url": "https://www.v2ex.com/t/1232697",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-07T22:54:48",
-      "last_seen_at": "2026-08-07T22:54:48",
+      "first_seen_at": "2026-08-08T04:49:42",
+      "last_seen_at": "2026-08-08T04:49:42",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
     },
     {
-      "title": "有没有人觉得 gpt 太啰嗦？",
-      "url": "https://www.v2ex.com/t/1232147",
+      "title": "如果是这种情况你们还跑路吗？",
+      "url": "https://www.v2ex.com/t/1232711",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-06T00:15:42",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-08T04:49:42",
+      "last_seen_at": "2026-08-08T04:49:42",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "[分享创造] 16 年业余时间写 PDF 核心，近两年做了一款 Mac PDF 编辑器：全功能编辑 + AI 智能体， 1.0 已上 Mac App Store，送 20 个终生会员求反馈",
@@ -137,9 +127,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T22:54:48",
       "last_seen_at": "2026-08-07T22:54:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "二审可能有转机吗？",
@@ -152,21 +142,11 @@
       "is_new": false
     },
     {
-      "title": "京东京造的硬盘体质太差了",
-      "url": "https://www.v2ex.com/t/1232154",
+      "title": "两台 dgx-spark 部署满血 deepseek v4 flash 完全指南,稳定 60~70tok/s 单流",
+      "url": "https://www.v2ex.com/t/1232688",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-06T00:15:42",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "如果女朋友转发这个，你们会给吗",
-      "url": "https://www.v2ex.com/t/1232701",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-07T22:54:48",
-      "last_seen_at": "2026-08-07T22:54:48",
+      "first_seen_at": "2026-08-08T04:49:42",
+      "last_seen_at": "2026-08-08T04:49:42",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -202,21 +182,11 @@
       "is_new": false
     },
     {
-      "title": "小弟准备软考高级，大神坛友你在哪里？",
-      "url": "https://www.v2ex.com/t/1232155#reply28",
+      "title": "AI Coding 还看源代码吗？要是不看，会害怕血崩吗？",
+      "url": "https://www.v2ex.com/t/1232732",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-05T04:25:17",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "沉浸式翻译开源轻量替代 Duo Translator v2.1.0 发布",
-      "url": "https://www.v2ex.com/t/1232738",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-07T22:54:48",
-      "last_seen_at": "2026-08-07T22:54:48",
+      "first_seen_at": "2026-08-08T04:49:42",
+      "last_seen_at": "2026-08-08T04:49:42",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -232,14 +202,14 @@
       "is_new": false
     },
     {
-      "title": "租了四年的房子退租,被房东老太克扣了 500 押金",
-      "url": "https://www.v2ex.com/t/1232171#reply56",
+      "title": "抽奖：量产 AI 硬件的通讯协议和小程序源码全开源了，配合 AI 编程可以直接改成自己的产品",
+      "url": "https://www.v2ex.com/t/1232693",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-05T18:22:04",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-08-08T04:49:42",
+      "last_seen_at": "2026-08-08T04:49:42",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "干部带头休假 人在无语的时候真的会笑出来",
@@ -247,19 +217,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:46:56",
       "last_seen_at": "2026-08-07T22:54:48",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "甲骨文免费降到 2CPU， 12G",
-      "url": "https://www.v2ex.com/t/1232146#reply22",
+      "title": "准备做一个反假货网站，有得搞吗？",
+      "url": "https://www.v2ex.com/t/1232714",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-05T04:25:17",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-08-08T04:49:42",
+      "last_seen_at": "2026-08-08T04:49:42",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "大家有用小米或者其他手机替代 iPhone 的吗",
@@ -267,9 +237,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T22:54:48",
       "last_seen_at": "2026-08-07T22:54:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我发明了一个情趣用品，男的用的电动的，上半身的，怎么才能在国内销售呢，直接咸鱼卖有法律风险吗",
@@ -277,16 +247,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-07T07:46:56",
       "last_seen_at": "2026-08-07T07:46:56",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "请教黄金首饰金价格问题",
-      "url": "https://www.v2ex.com/t/1232167#reply18",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-05T04:25:17",
-      "last_seen_at": "2026-08-05T04:25:17",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
