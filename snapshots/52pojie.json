@@ -1,23 +1,13 @@
 {
-  "update_time": "2026-08-08T04:49:57",
+  "update_time": "2026-08-08T19:53:11",
   "items": [
     {
       "title": "抖音直播间（手动/自动监控）录制小工具",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-07T07:47:12",
-      "last_seen_at": "2026-08-08T04:49:57",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "TVFileBox v1.2.2",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-05T18:22:18",
-      "last_seen_at": "2026-08-05T18:22:18",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,28 +16,28 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-08T04:49:57",
-      "last_seen_at": "2026-08-08T04:49:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Python代码跨平台打包工具v7.0.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-08T04:49:57",
-      "last_seen_at": "2026-08-08T04:49:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "文件加密工具v4",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-07T22:55:03",
-      "last_seen_at": "2026-08-08T04:49:57",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,8 +46,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-07T07:47:12",
-      "last_seen_at": "2026-08-08T04:49:57",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,8 +66,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-07T07:47:12",
-      "last_seen_at": "2026-08-08T04:49:57",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -96,8 +86,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-07T07:47:12",
-      "last_seen_at": "2026-08-08T04:49:57",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -112,14 +102,34 @@
       "is_new": false
     },
     {
+      "title": "小恐龙公文排版助手 for Word/WPS 3.8.0.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-08T19:53:11",
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "Everything 1.5.0.1419b 简体中文完全汉化版",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-07T07:47:12",
-      "last_seen_at": "2026-08-08T04:49:57",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "PDF工具集套装 PDFgear v2.1.18",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-08T19:53:11",
+      "last_seen_at": "2026-08-08T19:53:11",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

@@ -1,43 +1,43 @@
 {
-  "update_time": "2026-08-08T04:49:44",
+  "update_time": "2026-08-08T19:52:59",
   "items": [
+    {
+      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
+      "url": "https://juejin.cn/post/7670447828808007718",
+      "last_hot_value": "热度:1503",
+      "first_seen_at": "2026-08-07T07:46:59",
+      "last_seen_at": "2026-08-08T19:52:59",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "hvv员工家属爆料：老公22年入职的，普通员工，老是被误以为高薪多奖金，实际上还没配股，暂时钱没存多少，我倒是很心疼他工作辛苦。",
       "url": "https://juejin.cn/post/7669710672626089994",
       "last_hot_value": "热度:1764",
       "first_seen_at": "2026-08-08T04:49:44",
       "last_seen_at": "2026-08-08T04:49:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
-      "url": "https://juejin.cn/post/7670447828808007718",
-      "last_hot_value": "热度:1377",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-08T04:49:44",
-      "consecutive_count": 3,
-      "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "公司不给你配 AI，你会自己掏钱吗？",
-      "url": "https://juejin.cn/post/7670011027535921202",
-      "last_hot_value": "热度:2493",
-      "first_seen_at": "2026-08-05T18:22:06",
-      "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 0,
+      "title": "竹知了很火？于是我用Cocos做了一个",
+      "url": "https://juejin.cn/post/7670488556980469786",
+      "last_hot_value": "热度:666",
+      "first_seen_at": "2026-08-07T22:54:50",
+      "last_seen_at": "2026-08-08T19:52:59",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "连接池参数治理-HikariCP怎么配才稳",
       "url": "https://juejin.cn/post/7670453050885472266",
-      "last_hot_value": "热度:558",
+      "last_hot_value": "热度:612",
       "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-08T04:49:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-08T19:52:59",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "一线大厂的Git规范",
+      "url": "https://juejin.cn/post/7671106436446011443",
+      "last_hot_value": "热度:567",
+      "first_seen_at": "2026-08-08T04:49:44",
+      "last_seen_at": "2026-08-08T19:52:59",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "Flutter hit，一个可以灵活控制溢出点击的第三方包",
       "url": "https://juejin.cn/post/7670078525111861254",
-      "last_hot_value": "热度:531",
+      "last_hot_value": "热度:567",
       "first_seen_at": "2026-08-07T22:54:50",
-      "last_seen_at": "2026-08-08T04:49:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T19:52:59",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -72,23 +82,13 @@
       "is_new": false
     },
     {
-      "title": "竹知了很火？于是我用Cocos做了一个",
-      "url": "https://juejin.cn/post/7670488556980469786",
-      "last_hot_value": "热度:459",
+      "title": "DeepSeek 预计要涨价，而且涨幅较大，你怎么看？",
+      "url": "https://juejin.cn/post/7670739142733381672",
+      "last_hot_value": "热度:513",
       "first_seen_at": "2026-08-07T22:54:50",
-      "last_seen_at": "2026-08-08T04:49:44",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "FFmpeg 9.0 发布，代号 Lei，音视频处理再升级",
-      "url": "https://juejin.cn/post/7670139135173132322",
-      "last_hot_value": "热度:819",
-      "first_seen_at": "2026-08-05T18:22:06",
-      "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "last_seen_at": "2026-08-08T19:52:59",
+      "consecutive_count": 3,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -97,7 +97,7 @@
       "last_hot_value": "热度:459",
       "first_seen_at": "2026-08-07T22:54:50",
       "last_seen_at": "2026-08-08T04:49:44",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -112,23 +112,33 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek 预计要涨价，而且涨幅较大，你怎么看？",
-      "url": "https://juejin.cn/post/7670739142733381672",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-08-07T22:54:50",
-      "last_seen_at": "2026-08-08T04:49:44",
+      "title": "速度太快了！本地可以跑 DeepSeek-V4-Flash 了",
+      "url": "https://juejin.cn/post/7670558003235717135",
+      "last_hot_value": "热度:432",
+      "first_seen_at": "2026-08-08T04:49:44",
+      "last_seen_at": "2026-08-08T19:52:59",
       "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "一线大厂的Git规范",
-      "url": "https://juejin.cn/post/7671106436446011443",
-      "last_hot_value": "热度:405",
-      "first_seen_at": "2026-08-08T04:49:44",
-      "last_seen_at": "2026-08-08T04:49:44",
+      "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」",
+      "url": "https://juejin.cn/post/7670092136000716843",
+      "last_hot_value": "热度:360",
+      "first_seen_at": "2026-08-08T19:52:59",
+      "last_seen_at": "2026-08-08T19:52:59",
       "consecutive_count": 1,
       "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "从“白菜价”到大幅涨价，DeepSeek正在经历什么？",
+      "url": "https://juejin.cn/post/7670757585832820776",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-08-08T19:52:59",
+      "last_seen_at": "2026-08-08T19:52:59",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -137,39 +147,19 @@
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-08-07T22:54:50",
       "last_seen_at": "2026-08-08T04:49:44",
-      "consecutive_count": 2,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "Codex 接入 DeepSeek-V4-Flash，丝滑的一批",
-      "url": "https://juejin.cn/post/7669635386160201768",
-      "last_hot_value": "热度:540",
-      "first_seen_at": "2026-08-05T18:22:06",
-      "last_seen_at": "2026-08-06T00:15:44",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "速度太快了！本地可以跑 DeepSeek-V4-Flash 了",
-      "url": "https://juejin.cn/post/7670558003235717135",
-      "last_hot_value": "热度:360",
-      "first_seen_at": "2026-08-08T04:49:44",
-      "last_seen_at": "2026-08-08T04:49:44",
+      "title": "为什么在 Flowable 时代还要写一个轻量工作流引擎",
+      "url": "https://juejin.cn/post/7670053235008258099",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-08-08T19:52:59",
+      "last_seen_at": "2026-08-08T19:52:59",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
-    },
-    {
-      "title": "🔥 oiyo × unibest 绝对没见过的 uniapp 模板",
-      "url": "https://juejin.cn/post/7669335296040730650",
-      "last_hot_value": "热度:486",
-      "first_seen_at": "2026-08-05T18:22:06",
-      "last_seen_at": "2026-08-06T00:15:44",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
     }
   ]
 }

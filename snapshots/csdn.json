@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-08T04:49:46",
+  "update_time": "2026-08-08T19:53:00",
   "items": [
+    {
+      "title": "从 Vibe Coding 到 LangGraph：AI 时代编程范式的演进与重构",
+      "url": "https://blog.csdn.net/2502_94387000/article/details/163513233",
+      "last_hot_value": "2.7w",
+      "first_seen_at": "2026-08-07T07:47:00",
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Zookeeper - 超级管理员权限的配置与使用实操",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157688499",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,13 +32,13 @@
       "is_new": false
     },
     {
-      "title": "QQ 接入 DeepSeek：Docker 部署 AstrBot + NapCat 打造 AI 智能机器人（超详细教程）",
-      "url": "https://blog.csdn.net/mrdeam/article/details/163469822",
-      "last_hot_value": "2.2w",
-      "first_seen_at": "2026-08-05T18:22:07",
-      "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "【CMake】换台机器就编译失败？用 Presets + vcpkg 固定依赖、工具链与 CI",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163514465",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-08-07T22:54:52",
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -37,28 +47,8 @@
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【CMake】换台机器就编译失败？用 Presets + vcpkg 固定依赖、工具链与 CI",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/163514465",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "从 Vibe Coding 到 LangGraph：AI 时代编程范式的演进与重构",
-      "url": "https://blog.csdn.net/2502_94387000/article/details/163513233",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 3,
-      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -67,27 +57,47 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "DeepSeek 要涨价 30 倍？我算了一笔账：涨完可能比 GPT-5.5 还贵",
+      "url": "https://blog.csdn.net/qq_40374604/article/details/163595472",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-08-08T19:53:00",
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "远程玩飞车类游戏,ToDesk三款功能免费体验:游戏键盘、游戏鼠标和外接手柄",
       "url": "https://blog.csdn.net/2401_87629362/article/details/163564164",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
+      "title": "KingbaseES 全文检索实战：中文分词、GIN 索引与相关性排名",
+      "url": "https://blog.csdn.net/m0_71592416/article/details/163558520",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-08T19:53:00",
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "一句话做出会下五子棋的 AI：Claude Code × 蓝耘 GLM-5.2 实战",
       "url": "https://blog.csdn.net/qq_57761637/article/details/163559594",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -97,7 +107,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-07T22:54:52",
       "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "Pixelle-Video部署教程：AI短视频生成配置与远程访问",
-      "url": "https://blog.csdn.net/qq_61024956/article/details/163449742",
-      "last_hot_value": "2.0w",
-      "first_seen_at": "2026-08-05T18:22:07",
-      "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "Re：Linux系统篇（五十二）线程篇 · 五：直击 Linux 内核底层：TCB 与 LWP 一体两面全解析（附自定义线程封装）",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/163481224",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-08T19:53:00",
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "从慢 SQL 到系统瓶颈：一次金仓数据库性能调优实战复盘",
@@ -142,14 +152,24 @@
       "is_new": false
     },
     {
+      "title": "Day 10 · 邮件 + AI：智能分类与自动回复",
+      "url": "https://blog.csdn.net/2601_96428997/article/details/163397280",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-08T19:53:00",
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "从144G到64G的极致压缩：K100_AI单卡部署MiniMax-H3全模态模型的实战（含详细部署步骤）",
       "url": "https://blog.csdn.net/pla88888888/article/details/163570600",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-08T04:49:46",
       "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【自旋锁】用“忙等待“换“低延迟“——自旋锁原理与实战",
@@ -162,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "KingbaseES V9 性能诊断三件套实战：从 KWR 报告到慢 SQL 定位与索引优化的全链路复现",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163469514",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-08-05T18:22:07",
-      "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "从聊天到委派：AI Agent 如何推进长期任务",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/163494733",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-08T19:53:00",
+      "last_seen_at": "2026-08-08T19:53:00",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "实战落地 SpringBoot+LLM 搭建 Text-to-SQL 智能查询系统-如何安全执行sql和性能优化",
@@ -187,7 +207,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T22:54:52",
       "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -217,16 +237,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-06T00:15:45",
       "last_seen_at": "2026-08-06T00:15:45",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Codex Security：从扫描漏洞到验证攻击路径",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/162941799",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-05T18:22:07",
-      "last_seen_at": "2026-08-05T18:22:07",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
