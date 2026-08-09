@@ -1,43 +1,53 @@
 {
-  "update_time": "2026-08-09T07:34:48",
+  "update_time": "2026-08-09T23:53:14",
   "items": [
+    {
+      "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
+      "url": "https://sspai.com/post/113158",
+      "last_hot_value": "评论:3 点赞:13",
+      "first_seen_at": "2026-08-09T23:53:14",
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
       "url": "https://sspai.com/post/113191",
-      "last_hot_value": "评论:6 点赞:12",
+      "last_hot_value": "评论:6 点赞:13",
       "first_seen_at": "2026-08-08T04:49:50",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "新玩意 248｜少数派的编辑们最近买了啥？",
       "url": "https://sspai.com/post/113139",
-      "last_hot_value": "评论:27 点赞:35",
+      "last_hot_value": "评论:28 点赞:37",
       "first_seen_at": "2026-08-07T07:47:06",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
       "url": "https://sspai.com/post/113108",
-      "last_hot_value": "评论:1 点赞:12",
+      "last_hot_value": "评论:1 点赞:15",
       "first_seen_at": "2026-08-07T22:54:56",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
       "url": "https://sspai.com/post/112916",
-      "last_hot_value": "评论:3 点赞:6",
+      "last_hot_value": "评论:6 点赞:6",
       "first_seen_at": "2026-08-07T07:47:06",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 8,
       "peak_rank": 2,
       "is_new": false
     },
@@ -46,28 +56,28 @@
       "url": "https://sspai.com/post/113144",
       "last_hot_value": "评论:9 点赞:23",
       "first_seen_at": "2026-08-07T22:54:56",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 7,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "Bookology：从藏书到笔记，打造你的私人阅读档案",
       "url": "https://sspai.com/post/112953",
-      "last_hot_value": "评论:3 点赞:18",
+      "last_hot_value": "评论:4 点赞:19",
       "first_seen_at": "2026-08-09T07:34:48",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "派评 | 近期值得关注的 App",
       "url": "https://sspai.com/post/113040",
       "last_hot_value": "评论:7 点赞:19",
       "first_seen_at": "2026-08-07T22:54:56",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 7,
       "peak_rank": 7,
       "is_new": false
     },
@@ -82,14 +92,24 @@
       "is_new": false
     },
     {
+      "title": "角落新声｜音乐，刻在时光里的私人地图",
+      "url": "https://sspai.com/post/113017",
+      "last_hot_value": "评论:2 点赞:17",
+      "first_seen_at": "2026-08-07T07:47:06",
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 5,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "196 张盗版碟，和我的游戏启蒙史",
       "url": "https://sspai.com/post/112831",
-      "last_hot_value": "评论:13 点赞:47",
+      "last_hot_value": "评论:13 点赞:48",
       "first_seen_at": "2026-08-09T07:34:48",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-09T23:53:14",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我们会低估遇到的困难，也会低估我们的创造力",
@@ -102,22 +122,12 @@
       "is_new": false
     },
     {
-      "title": "角落新声｜音乐，刻在时光里的私人地图",
-      "url": "https://sspai.com/post/113017",
-      "last_hot_value": "评论:2 点赞:17",
-      "first_seen_at": "2026-08-07T07:47:06",
-      "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 4,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
       "url": "https://sspai.com/post/113060",
       "last_hot_value": "评论:3 点赞:10",
       "first_seen_at": "2026-08-08T19:53:05",
       "last_seen_at": "2026-08-09T07:34:48",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

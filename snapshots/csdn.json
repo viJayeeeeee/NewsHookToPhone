@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-09T07:34:44",
+  "update_time": "2026-08-09T23:53:10",
   "items": [
+    {
+      "title": "KingbaseES 全文检索实战：中文分词、GIN 索引与相关性排名",
+      "url": "https://blog.csdn.net/m0_71592416/article/details/163558520",
+      "last_hot_value": "2.2w",
+      "first_seen_at": "2026-08-08T19:53:00",
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "从 Vibe Coding 到 LangGraph：AI 时代编程范式的演进与重构",
       "url": "https://blog.csdn.net/2502_94387000/article/details/163513233",
       "last_hot_value": "2.8w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,12 @@
       "is_new": false
     },
     {
-      "title": "KingbaseES 全文检索实战：中文分词、GIN 索引与相关性排名",
-      "url": "https://blog.csdn.net/m0_71592416/article/details/163558520",
-      "last_hot_value": "2.4w",
-      "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 4,
+      "title": "【LangChain】 LLM 与 Embedding 深度解析：底层原理、提示词工程、原生接入与实战指南",
+      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163474924",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-08-09T07:34:44",
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -66,8 +76,8 @@
       "url": "https://blog.csdn.net/weixin_52908342/article/details/163573581",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-09T04:02:12",
-      "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,11 +92,11 @@
       "is_new": false
     },
     {
-      "title": "【LangChain】 LLM 与 Embedding 深度解析：底层原理、提示词工程、原生接入与实战指南",
-      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163474924",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-09T07:34:44",
-      "last_seen_at": "2026-08-09T07:34:44",
+      "title": "KingbaseES多模架构下的MongoDB迁移方案",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/163592630",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-09T23:53:10",
+      "last_seen_at": "2026-08-09T23:53:10",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -97,7 +107,7 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-08T19:53:00",
       "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -122,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "【MYSQL】MYSQL学习的一大重点：用户与权限管理",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163281396",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-09T04:02:12",
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 3,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "Day 10 · 邮件 + AI：智能分类与自动回复",
       "url": "https://blog.csdn.net/2601_96428997/article/details/163397280",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-08T19:53:00",
       "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -137,7 +157,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -162,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "【MYSQL】MYSQL学习的一大重点：用户与权限管理",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163281396",
+      "title": "AI 前沿日报 | 2026年08月08日 星期六",
+      "url": "https://blog.csdn.net/qq_36729037/article/details/163588873",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-09T04:02:12",
-      "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-08-09T23:53:10",
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "从慢 SQL 到系统瓶颈：一次金仓数据库性能调优实战复盘",
@@ -192,6 +212,16 @@
       "is_new": false
     },
     {
+      "title": "【金仓数据库征文】从 MySQL 迁移到金仓数据库：哈工大智能造价项目的一次信创改造实践",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/163609837",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-09T23:53:10",
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "从144G到64G的极致压缩：K100_AI单卡部署MiniMax-H3全模态模型的实战（含详细部署步骤）",
       "url": "https://blog.csdn.net/pla88888888/article/details/163570600",
       "last_hot_value": "1.2w",
@@ -212,22 +242,22 @@
       "is_new": false
     },
     {
+      "title": "从聊天到委派：AI Agent 如何推进长期任务",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/163494733",
+      "last_hot_value": "8981",
+      "first_seen_at": "2026-08-08T19:53:00",
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 5,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "让日志清理自己跑起来：Ansible、Cron和远程SSH自动化实战",
       "url": "https://blog.csdn.net/2302_78391795/article/details/163562981",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-09T07:34:44",
-      "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "从聊天到委派：AI Agent 如何推进长期任务",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/163494733",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
     },
@@ -240,6 +270,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "【金仓数据库征文】M4 Mac上把Spring Boot + MyBatis接到KingbaseES:一次带事务和并发扣库存的实测",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/163593545",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-09T23:53:10",
+      "last_seen_at": "2026-08-09T23:53:10",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "我搭了人生第一个能开口说话的 AI：一次跑通语音 Agent 的全过程记录",
