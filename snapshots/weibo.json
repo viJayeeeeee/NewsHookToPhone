@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-09T14:29:03",
+  "update_time": "2026-08-09T15:30:15",
   "items": [
     {
       "title": "百花奖",
       "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%23",
-      "last_hot_value": "1719418",
+      "last_hot_value": "2411348",
       "first_seen_at": "2026-08-07T06:21:09",
-      "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "台风白海豚",
       "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
-      "last_hot_value": "1496968",
+      "last_hot_value": "1375218",
       "first_seen_at": "2026-08-08T10:21:08",
-      "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -274,10 +274,10 @@
     {
       "title": "中国制造硬核瞬间",
       "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E7%9E%AC%E9%97%B4%23",
-      "last_hot_value": "1429074",
+      "last_hot_value": "1260935",
       "first_seen_at": "2026-08-09T13:15:52",
-      "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -404,10 +404,10 @@
     {
       "title": "沈腾 影帝",
       "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE+%E5%BD%B1%E5%B8%9D%23",
-      "last_hot_value": "1422606",
+      "last_hot_value": "1212014",
       "first_seen_at": "2026-08-09T12:09:46",
-      "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -552,12 +552,22 @@
       "is_new": false
     },
     {
+      "title": "我叫巴威 是的我重生了",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%AB%E5%B7%B4%E5%A8%81+%E6%98%AF%E7%9A%84%E6%88%91%E9%87%8D%E7%94%9F%E4%BA%86%23",
+      "last_hot_value": "846895",
+      "first_seen_at": "2026-08-09T15:30:15",
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "龙餐馆 奥斯卡",
       "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%A4%90%E9%A6%86+%E5%A5%A5%E6%96%AF%E5%8D%A1%23",
-      "last_hot_value": "1303694",
+      "last_hot_value": "628254",
       "first_seen_at": "2026-08-09T13:15:52",
-      "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -682,14 +692,24 @@
       "is_new": false
     },
     {
-      "title": "上海地铁",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23",
-      "last_hot_value": "524151",
-      "first_seen_at": "2026-08-09T14:29:03",
-      "last_seen_at": "2026-08-09T14:29:03",
+      "title": "张本兄妹 乒坛格局松动",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E5%85%84%E5%A6%B9+%E4%B9%92%E5%9D%9B%E6%A0%BC%E5%B1%80%E6%9D%BE%E5%8A%A8%23",
+      "last_hot_value": "718693",
+      "first_seen_at": "2026-08-09T15:30:15",
+      "last_seen_at": "2026-08-09T15:30:15",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
+    },
+    {
+      "title": "上海地铁",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23",
+      "last_hot_value": "625307",
+      "first_seen_at": "2026-08-09T14:29:03",
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "朱一龙鼻子怎么了",
@@ -697,7 +717,7 @@
       "last_hot_value": "499492",
       "first_seen_at": "2026-08-09T12:09:46",
       "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -822,6 +842,16 @@
       "is_new": false
     },
     {
+      "title": "上海地铁停运",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90%23",
+      "last_hot_value": "699361",
+      "first_seen_at": "2026-08-09T15:30:15",
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "迪丽热巴素颜香港plog",
       "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%B4%A0%E9%A2%9C%E9%A6%99%E6%B8%AFplog%23",
       "last_hot_value": "886685",
@@ -927,9 +957,9 @@
       "last_hot_value": "457751",
       "first_seen_at": "2026-08-09T14:29:03",
       "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "苏醒 控制内娱几乎实锤了",
@@ -1034,12 +1064,12 @@
     {
       "title": "极氪7X充电起火",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA7X%E5%85%85%E7%94%B5%E8%B5%B7%E7%81%AB%23",
-      "last_hot_value": "455967",
+      "last_hot_value": "624994",
       "first_seen_at": "2026-08-09T14:29:03",
-      "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-09T15:30:15",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "耳机左右耳电量未解之谜",
@@ -1137,9 +1167,9 @@
       "last_hot_value": "455227",
       "first_seen_at": "2026-08-09T14:29:03",
       "last_seen_at": "2026-08-09T14:29:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "张本美和 国乒最大威胁",
