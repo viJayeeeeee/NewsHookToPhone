@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-09T04:02:12",
+  "update_time": "2026-08-09T07:34:44",
   "items": [
     {
       "title": "从 Vibe Coding 到 LangGraph：AI 时代编程范式的演进与重构",
       "url": "https://blog.csdn.net/2502_94387000/article/details/163513233",
       "last_hot_value": "2.8w",
       "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +17,7 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-07T22:54:52",
       "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -34,10 +34,10 @@
     {
       "title": "KingbaseES 全文检索实战：中文分词、GIN 索引与相关性排名",
       "url": "https://blog.csdn.net/m0_71592416/article/details/163558520",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "2.4w",
       "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +47,7 @@
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-07T22:54:52",
       "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,6 +62,16 @@
       "is_new": false
     },
     {
+      "title": "读懂 MCP 与 A2A 架构：AI 多智能体时代的企业级开发实践",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/163573581",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-09T04:02:12",
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "Nous Research 开源AI Agent 框架",
       "url": "https://blog.csdn.net/2602_94956987/article/details/163541684",
       "last_hot_value": "1.2w",
@@ -72,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "【LangChain】 LLM 与 Embedding 深度解析：底层原理、提示词工程、原生接入与实战指南",
+      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163474924",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-09T07:34:44",
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "Re：Linux系统篇（五十二）线程篇 · 五：直击 Linux 内核底层：TCB 与 LWP 一体两面全解析（附自定义线程封装）",
       "url": "https://blog.csdn.net/Z2314246476/article/details/163481224",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -106,8 +126,8 @@
       "url": "https://blog.csdn.net/2601_96428997/article/details/163397280",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -116,8 +136,8 @@
       "url": "https://blog.csdn.net/qq_57761637/article/details/163559594",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 7,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,6 +162,16 @@
       "is_new": false
     },
     {
+      "title": "【MYSQL】MYSQL学习的一大重点：用户与权限管理",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163281396",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-09T04:02:12",
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "从慢 SQL 到系统瓶颈：一次金仓数据库性能调优实战复盘",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/163562693",
       "last_hot_value": "1.0w",
@@ -160,16 +190,6 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
-    },
-    {
-      "title": "读懂 MCP 与 A2A 架构：AI 多智能体时代的企业级开发实践",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163573581",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-09T04:02:12",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
     },
     {
       "title": "从144G到64G的极致压缩：K100_AI单卡部署MiniMax-H3全模态模型的实战（含详细部署步骤）",
@@ -192,11 +212,11 @@
       "is_new": false
     },
     {
-      "title": "【MYSQL】MYSQL学习的一大重点：用户与权限管理",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163281396",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-09T04:02:12",
-      "last_seen_at": "2026-08-09T04:02:12",
+      "title": "让日志清理自己跑起来：Ansible、Cron和远程SSH自动化实战",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/163562981",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-09T07:34:44",
+      "last_seen_at": "2026-08-09T07:34:44",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -206,8 +226,8 @@
       "url": "https://blog.csdn.net/weixin_74809706/article/details/163494733",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-09T07:34:44",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
