@@ -1,64 +1,14 @@
 {
-  "update_time": "2026-08-08T23:21:17",
+  "update_time": "2026-08-09T04:02:21",
   "items": [
-    {
-      "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
-      "url": "https://www.nodeseek.com/post-824558-1",
-      "last_hot_value": "查看:7344 回复:125",
-      "first_seen_at": "2026-08-06T00:15:54",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:224238 回复:2066",
-      "first_seen_at": "2026-08-06T00:15:54",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 6,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "eSIM 折腾留存记+一点补充心得",
-      "url": "https://www.nodeseek.com/post-783926-1",
-      "last_hot_value": "查看:8845 回复:123",
-      "first_seen_at": "2026-08-06T00:15:54",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 6,
-      "peak_rank": 3,
-      "is_new": false
-    },
     {
       "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
       "url": "https://www.nodeseek.com/post-809285-1",
       "last_hot_value": "查看:3211 回复:70",
       "first_seen_at": "2026-08-08T19:53:10",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-09T04:02:21",
+      "consecutive_count": 3,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:208178 回复:2815",
-      "first_seen_at": "2026-08-06T00:15:54",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 6,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
-      "url": "https://www.nodeseek.com/post-105666-1",
-      "last_hot_value": "查看:104644 回复:269",
-      "first_seen_at": "2026-08-06T00:15:54",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 6,
-      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -66,8 +16,8 @@
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:768152 回复:1165",
       "first_seen_at": "2026-08-08T19:53:10",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-09T04:02:21",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -76,8 +26,8 @@
       "url": "https://www.nodeseek.com/post-68572-1",
       "last_hot_value": "查看:104387 回复:621",
       "first_seen_at": "2026-08-08T19:53:10",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-09T04:02:21",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -86,8 +36,8 @@
       "url": "https://www.nodeseek.com/post-849481-1",
       "last_hot_value": "查看:3503 回复:89",
       "first_seen_at": "2026-08-08T19:53:10",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-09T04:02:21",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -96,8 +46,8 @@
       "url": "https://www.nodeseek.com/post-373751-1",
       "last_hot_value": "查看:252801 回复:502",
       "first_seen_at": "2026-08-08T19:53:10",
-      "last_seen_at": "2026-08-08T23:21:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-09T04:02:21",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     }
