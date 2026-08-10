@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-08-10T05:51:28",
+  "update_time": "2026-08-10T07:03:46",
   "items": [
     {
       "title": "从热词迭代读懂鲜活中国",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%BB%8E%E7%83%AD%E8%AF%8D%E8%BF%AD%E4%BB%A3%E8%AF%BB%E6%87%82%E9%B2%9C%E6%B4%BB%E4%B8%AD%E5%9B%BD",
-      "last_hot_value": "429万",
+      "last_hot_value": "415万",
       "first_seen_at": "2026-08-10T05:51:28",
-      "last_seen_at": "2026-08-10T05:51:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-10T07:03:46",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "白海豚快速减弱",
@@ -132,14 +132,24 @@
       "is_new": false
     },
     {
-      "title": "大疆错失宇树",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%A4%A7%E7%96%86%E9%94%99%E5%A4%B1%E5%AE%87%E6%A0%91",
-      "last_hot_value": "373万",
-      "first_seen_at": "2026-08-10T05:51:28",
-      "last_seen_at": "2026-08-10T05:51:28",
+      "title": "宇树科技创始人曾短暂入职大疆",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E7%9F%AD%E6%9A%82%E5%85%A5%E8%81%8C%E5%A4%A7%E7%96%86",
+      "last_hot_value": "391万",
+      "first_seen_at": "2026-08-10T07:03:46",
+      "last_seen_at": "2026-08-10T07:03:46",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "大疆错失宇树",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%A4%A7%E7%96%86%E9%94%99%E5%A4%B1%E5%AE%87%E6%A0%91",
+      "last_hot_value": "288万",
+      "first_seen_at": "2026-08-10T05:51:28",
+      "last_seen_at": "2026-08-10T07:03:46",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "上海地铁停运",
@@ -242,14 +252,24 @@
       "is_new": false
     },
     {
-      "title": "C罗婚礼闹乌龙",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=C%E7%BD%97%E5%A9%9A%E7%A4%BC%E9%97%B9%E4%B9%8C%E9%BE%99",
-      "last_hot_value": "305万",
-      "first_seen_at": "2026-08-10T05:51:28",
-      "last_seen_at": "2026-08-10T05:51:28",
+      "title": "偶像来了 重启回归",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%81%B6%E5%83%8F%E6%9D%A5%E4%BA%86%20%E9%87%8D%E5%90%AF%E5%9B%9E%E5%BD%92",
+      "last_hot_value": "313万",
+      "first_seen_at": "2026-08-10T07:03:46",
+      "last_seen_at": "2026-08-10T07:03:46",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
+    },
+    {
+      "title": "C罗婚礼闹乌龙",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=C%E7%BD%97%E5%A9%9A%E7%A4%BC%E9%97%B9%E4%B9%8C%E9%BE%99",
+      "last_hot_value": "280万",
+      "first_seen_at": "2026-08-10T05:51:28",
+      "last_seen_at": "2026-08-10T07:03:46",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "中国制造硬核瞬间",
@@ -372,14 +392,24 @@
       "is_new": false
     },
     {
+      "title": "胚胎案丈夫称患癌妻子是雷",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E6%98%AF%E9%9B%B7",
+      "last_hot_value": "290万",
+      "first_seen_at": "2026-08-10T07:03:46",
+      "last_seen_at": "2026-08-10T07:03:46",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "贺涵 能来接我吗",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%B4%BA%E6%B6%B5%20%E8%83%BD%E6%9D%A5%E6%8E%A5%E6%88%91%E5%90%97",
       "last_hot_value": "304万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T05:51:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "乒乓球多人上榜中国品牌青年榜",
@@ -507,9 +537,9 @@
       "last_hot_value": "302万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T05:51:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "南京 弹性办公",
@@ -637,9 +667,9 @@
       "last_hot_value": "287万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T05:51:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大家都走到职场的哪一步了",
@@ -742,14 +772,24 @@
       "is_new": false
     },
     {
-      "title": "iPhone18Pro发布会时间",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=iPhone18Pro%E5%8F%91%E5%B8%83%E4%BC%9A%E6%97%B6%E9%97%B4",
-      "last_hot_value": "287万",
-      "first_seen_at": "2026-08-10T05:51:28",
-      "last_seen_at": "2026-08-10T05:51:28",
+      "title": "DeepSeek会偷偷给人取外号",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+      "last_hot_value": "278万",
+      "first_seen_at": "2026-08-10T07:03:46",
+      "last_seen_at": "2026-08-10T07:03:46",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
+    },
+    {
+      "title": "iPhone18Pro发布会时间",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=iPhone18Pro%E5%8F%91%E5%B8%83%E4%BC%9A%E6%97%B6%E9%97%B4",
+      "last_hot_value": "274万",
+      "first_seen_at": "2026-08-10T05:51:28",
+      "last_seen_at": "2026-08-10T07:03:46",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "阿森纳vs多特蒙德",
@@ -852,12 +892,22 @@
       "is_new": false
     },
     {
+      "title": "北横通道出现积水？辟谣！",
+      "url": "https://news.sina.com.cn/minsheng/2026-08-09/doc-inimtchp3472479.shtml",
+      "last_hot_value": "276万",
+      "first_seen_at": "2026-08-10T07:03:46",
+      "last_seen_at": "2026-08-10T07:03:46",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "杜绝二次造谣！网络“跟风评论、随意脑补”素养课",
       "url": "https://news.sina.com.cn/2026-08-09/doc-inimssst8962350.shtml",
       "last_hot_value": "286万",
       "first_seen_at": "2026-08-09T10:08:19",
       "last_seen_at": "2026-08-10T05:51:28",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -882,14 +932,24 @@
       "is_new": false
     },
     {
+      "title": "物业费的欠费原因",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%89%A9%E4%B8%9A%E8%B4%B9%E7%9A%84%E6%AC%A0%E8%B4%B9%E5%8E%9F%E5%9B%A0",
+      "last_hot_value": "275万",
+      "first_seen_at": "2026-08-10T07:03:46",
+      "last_seen_at": "2026-08-10T07:03:46",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "武汉天桥摊主 先动手",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%AD%A6%E6%B1%89%E5%A4%A9%E6%A1%A5%E6%91%8A%E4%B8%BB%20%E5%85%88%E5%8A%A8%E6%89%8B",
       "last_hot_value": "286万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T05:51:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "耳机左右耳电量未解之谜",
@@ -987,9 +1047,9 @@
       "last_hot_value": "285万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T05:51:28",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "母亲看自闭症孩子独自玩耍情绪失控",
