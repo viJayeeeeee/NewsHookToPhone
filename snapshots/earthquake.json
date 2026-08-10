@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-10T04:18:41",
+  "update_time": "2026-08-10T18:16:05",
   "items": [
+    {
+      "title": "M7.5 哥伦比亚",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "7.5级",
+      "first_seen_at": "2026-08-10T18:16:05",
+      "last_seen_at": "2026-08-10T18:16:05",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M3.2 新疆阿克苏地区库车市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-08-08T20:47:07",
-      "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-10T18:16:05",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-08-08T11:23:10",
-      "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-10T18:16:05",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.2级",
       "first_seen_at": "2026-08-08T05:33:22",
-      "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-10T18:16:05",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,17 +46,7 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-08-07T20:15:31",
-      "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 10,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M3.0 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-08-07T12:09:40",
-      "last_seen_at": "2026-08-10T04:18:41",
+      "last_seen_at": "2026-08-10T18:16:05",
       "consecutive_count": 11,
       "peak_rank": 1,
       "is_new": false
@@ -56,18 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-08-08T05:33:22",
-      "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 9,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M4.9 四川宜宾市高县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "4.9级",
-      "first_seen_at": "2026-08-07T09:43:24",
-      "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-10T18:16:05",
+      "consecutive_count": 10,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,18 +66,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.5级",
       "first_seen_at": "2026-08-08T05:33:22",
-      "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 9,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "M3.1 青海海西州茫崖市",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.1级",
-      "first_seen_at": "2026-08-07T09:43:24",
-      "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-10T18:16:05",
+      "consecutive_count": 10,
       "peak_rank": 3,
       "is_new": false
     },
@@ -97,9 +77,9 @@
       "last_hot_value": "3.9级",
       "first_seen_at": "2026-08-10T04:18:41",
       "last_seen_at": "2026-08-10T04:18:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
