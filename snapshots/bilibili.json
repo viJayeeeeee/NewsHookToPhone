@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-09T21:20:10",
+  "update_time": "2026-08-10T12:34:49",
   "items": [
+    {
+      "title": "《人民の少爷》",
+      "url": "https://www.bilibili.com/video/BV1rJuu6XE66",
+      "last_hot_value": "866699播放",
+      "first_seen_at": "2026-08-10T12:34:49",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "发烧梗",
+      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
+      "last_hot_value": "4045519播放",
+      "first_seen_at": "2026-08-07T13:29:13",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "王从天降",
       "url": "https://www.bilibili.com/video/BV1vtMy63E4G",
       "last_hot_value": "5490235播放",
       "first_seen_at": "2026-08-09T10:52:25",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 9,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "发烧梗",
-      "url": "https://www.bilibili.com/video/BV1Unub69EpX",
-      "last_hot_value": "3562354播放",
-      "first_seen_at": "2026-08-07T13:29:13",
-      "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "6178592播放",
       "first_seen_at": "2026-08-08T08:01:28",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -62,33 +72,23 @@
       "is_new": false
     },
     {
-      "title": "《死》死亡是什么？",
-      "url": "https://www.bilibili.com/video/BV115un6dE9a",
-      "last_hot_value": "2223962播放",
-      "first_seen_at": "2026-08-07T00:33:07",
-      "last_seen_at": "2026-08-07T23:56:26",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "史上最难！只有一块黑曜石该如何通关？",
+      "url": "https://www.bilibili.com/video/BV1dcuV6HEig",
+      "last_hot_value": "1568405播放",
+      "first_seen_at": "2026-08-09T19:08:28",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "听说洛克王国的精灵原型很难猜？",
-      "url": "https://www.bilibili.com/video/BV1hTup6uERS",
-      "last_hot_value": "1580287播放",
-      "first_seen_at": "2026-08-07T08:45:52",
-      "last_seen_at": "2026-08-07T14:35:13",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "本想简单吃个见手青小炒，却被云南厨师火焰魔法吓晕了...",
-      "url": "https://www.bilibili.com/video/BV1e8Mk6wEWZ",
-      "last_hot_value": "2713871播放",
-      "first_seen_at": "2026-08-07T06:21:14",
-      "last_seen_at": "2026-08-07T06:21:14",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "四代同框",
+      "url": "https://www.bilibili.com/video/BV1Bqum6dET6",
+      "last_hot_value": "2020377播放",
+      "first_seen_at": "2026-08-09T12:09:53",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -97,16 +97,6 @@
       "last_hot_value": "2058689播放",
       "first_seen_at": "2026-08-08T22:06:25",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 4,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "四代同框",
-      "url": "https://www.bilibili.com/video/BV1Bqum6dET6",
-      "last_hot_value": "887595播放",
-      "first_seen_at": "2026-08-09T12:09:53",
-      "last_seen_at": "2026-08-09T20:10:51",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -152,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "中国人能飞！(物理)",
-      "url": "https://www.bilibili.com/video/BV1XsuW61EbR",
-      "last_hot_value": "317186播放",
-      "first_seen_at": "2026-08-07T08:45:52",
-      "last_seen_at": "2026-08-07T08:45:52",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "CF出新作，居然是3A单机？深度对话《穿越火线：潜伏》首席创意官【视频播客EP.64】",
+      "url": "https://www.bilibili.com/video/BV1PvuQ6CEwK",
+      "last_hot_value": "731058播放",
+      "first_seen_at": "2026-08-10T12:34:49",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "不打游戏这件事害惨了我",
@@ -167,7 +157,7 @@
       "last_hot_value": "802272播放",
       "first_seen_at": "2026-08-09T17:56:51",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -242,14 +232,14 @@
       "is_new": false
     },
     {
-      "title": "把课本搬进现实，送娃入住有1000个兵马俑的奇葩酒店！他惊呆了！",
-      "url": "https://www.bilibili.com/video/BV1qyu76BE7F",
-      "last_hot_value": "1236328播放",
-      "first_seen_at": "2026-08-07T00:33:07",
-      "last_seen_at": "2026-08-07T00:33:07",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "山海兽医 第三集",
+      "url": "https://www.bilibili.com/video/BV1pQuU6NEE3",
+      "last_hot_value": "758176播放",
+      "first_seen_at": "2026-08-10T12:34:49",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【独家】牧神记 第95集 皇帝“驾崩”",
@@ -257,7 +247,7 @@
       "last_hot_value": "2274397播放",
       "first_seen_at": "2026-08-09T10:52:25",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -302,24 +292,14 @@
       "is_new": false
     },
     {
-      "title": "囊 里 有 根 线 ？",
-      "url": "https://www.bilibili.com/video/BV1AcMS6NEYQ",
-      "last_hot_value": "1665547播放",
-      "first_seen_at": "2026-08-07T08:45:52",
-      "last_seen_at": "2026-08-07T13:29:13",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【独家】《将夜》第17集 痛其不通【4月国创】",
-      "url": "https://www.bilibili.com/video/BV1LDM16LEfU",
-      "last_hot_value": "797209播放",
-      "first_seen_at": "2026-08-07T00:33:07",
-      "last_seen_at": "2026-08-07T06:21:14",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "2026和平精英刺激之夜完整高清回放",
+      "url": "https://www.bilibili.com/video/BV1ffuU6bEHj",
+      "last_hot_value": "2566933播放",
+      "first_seen_at": "2026-08-10T12:34:49",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【同人动画】致以辉煌的人 【奥特曼光之创想季】",
@@ -327,7 +307,7 @@
       "last_hot_value": "1014263播放",
       "first_seen_at": "2026-08-09T19:08:28",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -337,7 +317,7 @@
       "last_hot_value": "3183631播放",
       "first_seen_at": "2026-08-08T22:06:25",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -422,24 +402,14 @@
       "is_new": false
     },
     {
-      "title": "高中尊者？本科圣人？小明修仙传25分钟优化纯享版【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1U8MS65Efm",
-      "last_hot_value": "1562707播放",
-      "first_seen_at": "2026-08-07T00:33:07",
-      "last_seen_at": "2026-08-07T14:35:13",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "你可能不认识我，但是你绝对听过他的歌【网络奇人#1】",
-      "url": "https://www.bilibili.com/video/BV1JtuF64ENj",
-      "last_hot_value": "720969播放",
-      "first_seen_at": "2026-08-07T05:14:50",
-      "last_seen_at": "2026-08-07T06:21:14",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "自学五天做出来的神人游戏",
+      "url": "https://www.bilibili.com/video/BV1eVuh6TEBG",
+      "last_hot_value": "615518播放",
+      "first_seen_at": "2026-08-10T12:34:49",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "“那些只打高端局的神级串烧”",
@@ -447,7 +417,7 @@
       "last_hot_value": "2933460播放",
       "first_seen_at": "2026-08-08T10:21:14",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -492,34 +462,14 @@
       "is_new": false
     },
     {
-      "title": "《凡应》EP02测试全新PV——与巨兽彼此依存，和鸣共生！",
-      "url": "https://www.bilibili.com/video/BV1HEGN6UEF7",
-      "last_hot_value": "2085703播放",
-      "first_seen_at": "2026-08-07T00:33:07",
-      "last_seen_at": "2026-08-07T23:56:26",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "逆天！1.9元套餐收60元服务费，老板要起诉勇哥并报警！【网络狠人111】",
-      "url": "https://www.bilibili.com/video/BV1LGuJ6uEvx",
-      "last_hot_value": "730792播放",
-      "first_seen_at": "2026-08-07T05:14:50",
-      "last_seen_at": "2026-08-07T06:21:14",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "第三集 |🐧赛伊德：“雷斯也变成女孩了？！”🐧",
-      "url": "https://www.bilibili.com/video/BV1T8uJ6oEqK",
-      "last_hot_value": "694337播放",
-      "first_seen_at": "2026-08-07T05:14:50",
-      "last_seen_at": "2026-08-07T06:21:14",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "我们需要更多异头团建ദ്ദി ꙾ ꒳ ꙾ )✧",
+      "url": "https://www.bilibili.com/video/BV1HduT6nE23",
+      "last_hot_value": "1299167播放",
+      "first_seen_at": "2026-08-10T12:34:49",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "👊一 拳 超 人👊",
@@ -612,46 +562,6 @@
       "is_new": false
     },
     {
-      "title": "直到终末地变成一群给给.exe",
-      "url": "https://www.bilibili.com/video/BV1yjun6sEik",
-      "last_hot_value": "219129播放",
-      "first_seen_at": "2026-08-07T06:21:14",
-      "last_seen_at": "2026-08-07T06:21:14",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "我好像出了个假国！中国人在纽约建了个新县城？",
-      "url": "https://www.bilibili.com/video/BV1LPMr6cE6u",
-      "last_hot_value": "2439811播放",
-      "first_seen_at": "2026-08-07T05:14:50",
-      "last_seen_at": "2026-08-07T05:14:50",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "《原神》奥黛塔角色PV——「柔雪的幻象」",
-      "url": "https://www.bilibili.com/video/BV1wZMy6DE31",
-      "last_hot_value": "1631251播放",
-      "first_seen_at": "2026-08-07T00:33:07",
-      "last_seen_at": "2026-08-07T05:14:50",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "史上最难！只有一块黑曜石该如何通关？",
-      "url": "https://www.bilibili.com/video/BV1dcuV6HEig",
-      "last_hot_value": "241869播放",
-      "first_seen_at": "2026-08-09T19:08:28",
-      "last_seen_at": "2026-08-09T19:08:28",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "我和bro的潦草日常belike:",
       "url": "https://www.bilibili.com/video/BV1GAu36VEra",
       "last_hot_value": "696647播放",
@@ -672,14 +582,14 @@
       "is_new": false
     },
     {
-      "title": "3种发圈正确戴法！轻松解锁夏日氛围感造型",
-      "url": "https://www.bilibili.com/video/BV1CBuJ6nE33",
-      "last_hot_value": "654921播放",
-      "first_seen_at": "2026-08-07T08:45:52",
-      "last_seen_at": "2026-08-07T08:45:52",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "校园爸临",
+      "url": "https://www.bilibili.com/video/BV1xXuu6wEmt",
+      "last_hot_value": "1524449播放",
+      "first_seen_at": "2026-08-10T12:34:49",
+      "last_seen_at": "2026-08-10T12:34:49",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "《无期迷途》过场动画 | 降临之时【4K/60帧】",
@@ -712,22 +622,12 @@
       "is_new": false
     },
     {
-      "title": "日本救灾能有多抽象",
-      "url": "https://www.bilibili.com/video/BV1yquH6fETj",
-      "last_hot_value": "521730播放",
-      "first_seen_at": "2026-08-07T08:45:52",
-      "last_seen_at": "2026-08-07T08:45:52",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "【独家】《记忆管理局》第4集 燃灯与灰火【8月国创】",
       "url": "https://www.bilibili.com/video/BV1FdMk65EY2",
       "last_hot_value": "669262播放",
       "first_seen_at": "2026-08-09T10:52:25",
       "last_seen_at": "2026-08-09T21:20:10",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -747,26 +647,6 @@
       "last_hot_value": "403893播放",
       "first_seen_at": "2026-08-07T13:29:13",
       "last_seen_at": "2026-08-07T18:02:48",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "红木家具",
-      "url": "https://www.bilibili.com/video/BV1WZun64EMc",
-      "last_hot_value": "474391播放",
-      "first_seen_at": "2026-08-07T08:45:52",
-      "last_seen_at": "2026-08-07T08:45:52",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "保安从业手册！超好玩儿的奇幻喜剧，上映20年创意依然脑洞大开",
-      "url": "https://www.bilibili.com/video/BV1GYMk6FEPY",
-      "last_hot_value": "3375247播放",
-      "first_seen_at": "2026-08-07T00:33:07",
-      "last_seen_at": "2026-08-07T00:33:07",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
