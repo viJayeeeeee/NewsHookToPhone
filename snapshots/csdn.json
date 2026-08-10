@@ -1,22 +1,22 @@
 {
-  "update_time": "2026-08-09T23:53:10",
+  "update_time": "2026-08-10T13:59:08",
   "items": [
+    {
+      "title": "读懂 MCP 与 A2A 架构：AI 多智能体时代的企业级开发实践",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/163573581",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-08-09T04:02:12",
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "KingbaseES 全文检索实战：中文分词、GIN 索引与相关性排名",
       "url": "https://blog.csdn.net/m0_71592416/article/details/163558520",
       "last_hot_value": "2.2w",
       "first_seen_at": "2026-08-08T19:53:00",
       "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "从 Vibe Coding 到 LangGraph：AI 时代编程范式的演进与重构",
-      "url": "https://blog.csdn.net/2502_94387000/article/details/163513233",
-      "last_hot_value": "2.8w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-09T07:34:44",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -32,13 +32,13 @@
       "is_new": false
     },
     {
-      "title": "企业Agent落地为什么需要RAG？",
-      "url": "https://blog.csdn.net/2401_89111612/article/details/163479542",
-      "last_hot_value": "2.1w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "【MYSQL】MYSQL学习的一大重点：用户与权限管理",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163281396",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-08-09T04:02:12",
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 4,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -47,7 +47,7 @@
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-09T07:34:44",
       "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,44 +62,34 @@
       "is_new": false
     },
     {
-      "title": "【金仓数据库征文】让 AI 直接读懂你的金仓：基于 KES MCP Server 的自然语言数据库助手实战（Trae + DeepSeek）",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/163510716",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "读懂 MCP 与 A2A 架构：AI 多智能体时代的企业级开发实践",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163573581",
+      "title": "GitHub 热榜项目 - 周榜(2026-08-08)",
+      "url": "https://blog.csdn.net/u014390502/article/details/163583883",
       "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-09T04:02:12",
-      "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-08-10T13:59:08",
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Nous Research 开源AI Agent 框架",
-      "url": "https://blog.csdn.net/2602_94956987/article/details/163541684",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "OpenClaw 测试策略实战：AI Agent 自动化测试体系搭建与落地",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/163612055",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-10T13:59:08",
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "KingbaseES多模架构下的MongoDB迁移方案",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/163592630",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-09T23:53:10",
-      "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Re：Linux系统篇（五十二）线程篇 · 五：直击 Linux 内核底层：TCB 与 LWP 一体两面全解析（附自定义线程封装）",
@@ -132,30 +122,10 @@
       "is_new": false
     },
     {
-      "title": "【MYSQL】MYSQL学习的一大重点：用户与权限管理",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163281396",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-09T04:02:12",
-      "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 3,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "Day 10 · 邮件 + AI：智能分类与自动回复",
       "url": "https://blog.csdn.net/2601_96428997/article/details/163397280",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "一句话做出会下五子棋的 AI：Claude Code × 蓝耘 GLM-5.2 实战",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/163559594",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-07T07:47:00",
       "last_seen_at": "2026-08-09T07:34:44",
       "consecutive_count": 0,
       "peak_rank": 5,
@@ -172,13 +142,13 @@
       "is_new": false
     },
     {
-      "title": "OpenClaw 成本优化实战：Token 使用效率提升完全指南",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/163472890",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "title": "【金仓数据库征文】从 MySQL 迁移到金仓数据库：哈工大智能造价项目的一次信创改造实践",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/163609837",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-09T23:53:10",
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -187,9 +157,9 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-09T23:53:10",
       "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从慢 SQL 到系统瓶颈：一次金仓数据库性能调优实战复盘",
@@ -202,21 +172,11 @@
       "is_new": false
     },
     {
-      "title": "PyTorch计算机视觉（4）——迁移学习（Transfer Learning）详解与实现",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/162009128",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "【金仓数据库征文】从 MySQL 迁移到金仓数据库：哈工大智能造价项目的一次信创改造实践",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/163609837",
+      "title": "【金仓数据库征文】MySQL迁移人大金仓V9异构迁移全链路性能调优与稳定性保障",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/163606266",
       "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-09T23:53:10",
-      "last_seen_at": "2026-08-09T23:53:10",
+      "first_seen_at": "2026-08-10T13:59:08",
+      "last_seen_at": "2026-08-10T13:59:08",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -226,28 +186,18 @@
       "url": "https://blog.csdn.net/pla88888888/article/details/163570600",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-08T04:49:46",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "【自旋锁】用“忙等待“换“低延迟“——自旋锁原理与实战",
-      "url": "https://blog.csdn.net/2302_80243065/article/details/163478424",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "从聊天到委派：AI Agent 如何推进长期任务",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/163494733",
-      "last_hot_value": "8981",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 6,
       "peak_rank": 8,
       "is_new": false
     },
@@ -257,16 +207,6 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-09T07:34:44",
       "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "实战落地 SpringBoot+LLM 搭建 Text-to-SQL 智能查询系统-如何安全执行sql和性能优化",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163483507",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
@@ -277,9 +217,9 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-09T23:53:10",
       "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我搭了人生第一个能开口说话的 AI：一次跑通语音 Agent 的全过程记录",
@@ -292,14 +232,14 @@
       "is_new": false
     },
     {
-      "title": "【AI 测评】PostgreSQL主从流复制实战：数据同步、状态验证与故障切换",
-      "url": "https://blog.csdn.net/2402_87298751/article/details/163537884",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-07T07:47:00",
-      "last_seen_at": "2026-08-07T07:47:00",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "【AI智能体】基于Cursor 实现自然语言自动化运维实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163450471",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-10T13:59:08",
+      "last_seen_at": "2026-08-10T13:59:08",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

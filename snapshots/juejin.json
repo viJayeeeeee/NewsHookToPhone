@@ -1,23 +1,13 @@
 {
-  "update_time": "2026-08-09T23:53:08",
+  "update_time": "2026-08-10T13:59:07",
   "items": [
     {
       "title": "一线大厂的Git规范",
       "url": "https://juejin.cn/post/7671106436446011443",
-      "last_hot_value": "热度:774",
+      "last_hot_value": "热度:1431",
       "first_seen_at": "2026-08-08T04:49:44",
-      "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
-      "url": "https://juejin.cn/post/7670447828808007718",
-      "last_hot_value": "热度:1503",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-09T07:34:42",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-10T13:59:07",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +22,22 @@
       "is_new": false
     },
     {
+      "title": "🍉 我把《天龙八部》喂给了 AI，问它\"段誉会什么武功？\"答案让我惊呆了",
+      "url": "https://juejin.cn/post/7671078538116546575",
+      "last_hot_value": "热度:810",
+      "first_seen_at": "2026-08-09T23:53:08",
+      "last_seen_at": "2026-08-10T13:59:07",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "从“白菜价”到大幅涨价，DeepSeek正在经历什么？",
       "url": "https://juejin.cn/post/7670757585832820776",
       "last_hot_value": "热度:558",
       "first_seen_at": "2026-08-08T19:52:59",
       "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,34 +52,34 @@
       "is_new": false
     },
     {
-      "title": "launch 不是用来切线程的：为什么我越来越少在它后面写 Dispatchers.IO",
-      "url": "https://juejin.cn/post/7670383736383832110",
-      "last_hot_value": "热度:477",
-      "first_seen_at": "2026-08-09T23:53:08",
-      "last_seen_at": "2026-08-09T23:53:08",
+      "title": "Pi + DeepSeek-v4-Flash，这用着也太爽了。",
+      "url": "https://juejin.cn/post/7671964740780785670",
+      "last_hot_value": "热度:531",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-10T13:59:07",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
     },
     {
-      "title": "连接池参数治理-HikariCP怎么配才稳",
-      "url": "https://juejin.cn/post/7670453050885472266",
-      "last_hot_value": "热度:612",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-09T07:34:42",
+      "title": "launch 不是用来切线程的：为什么我越来越少在它后面写 Dispatchers.IO",
+      "url": "https://juejin.cn/post/7670383736383832110",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-08-09T23:53:08",
+      "last_seen_at": "2026-08-09T23:53:08",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "天天 AI Coding 的你，如果出去面试，你的竞争力是什么？",
-      "url": "https://juejin.cn/post/7670094721701445672",
-      "last_hot_value": "热度:846",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-07T22:54:50",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "工位上这台\"竖着叠\"的双屏，让我改bug终于不用来回切窗口了",
+      "url": "https://juejin.cn/post/7671994177555742766",
+      "last_hot_value": "热度:405",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-10T13:59:07",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "接手新项目不用硬啃源码，我的 TRAE Work 快速上手实战工作流",
@@ -87,9 +87,9 @@
       "last_hot_value": "热度:315",
       "first_seen_at": "2026-08-09T23:53:08",
       "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Flutter hit，一个可以灵活控制溢出点击的第三方包",
@@ -102,14 +102,14 @@
       "is_new": false
     },
     {
-      "title": "当 AI 一天写完一周的代码，我们还剩什么优势？",
-      "url": "https://juejin.cn/post/7670092136001060907",
-      "last_hot_value": "热度:756",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-07T22:54:50",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "AI 测试提效 ｜ 别搞万能 Skill，推荐用 5 个 Agent Skill 串起 UI 自动化全流程",
+      "url": "https://juejin.cn/post/7670593377075773491",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-10T13:59:07",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Vue3+Cesium实现阴天乌云+下雨天气特效",
@@ -117,8 +117,18 @@
       "last_hot_value": "热度:225",
       "first_seen_at": "2026-08-09T23:53:08",
       "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "自定义业务 Hook：从零解剖一个 React + TypeScript Todo 应用：用金字塔思维看透前端架构",
+      "url": "https://juejin.cn/post/7671163789467025462",
+      "last_hot_value": "热度:216",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-10T13:59:07",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -127,9 +137,9 @@
       "last_hot_value": "热度:216",
       "first_seen_at": "2026-08-09T23:53:08",
       "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek 预计要涨价，而且涨幅较大，你怎么看？",
@@ -152,21 +162,11 @@
       "is_new": false
     },
     {
-      "title": "TRAE Work 实战复盘：从 4 小时到 7 分钟，提效近 40 倍",
-      "url": "https://juejin.cn/post/7669126369356398592",
-      "last_hot_value": "热度:720",
-      "first_seen_at": "2026-08-07T07:46:59",
-      "last_seen_at": "2026-08-07T07:46:59",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "🍉 我把《天龙八部》喂给了 AI，问它\"段誉会什么武功？\"答案让我惊呆了",
-      "url": "https://juejin.cn/post/7671078538116546575",
-      "last_hot_value": "热度:207",
-      "first_seen_at": "2026-08-09T23:53:08",
-      "last_seen_at": "2026-08-09T23:53:08",
+      "title": "LangChain4j 入门指南",
+      "url": "https://juejin.cn/post/7670593377076133939",
+      "last_hot_value": "热度:216",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-10T13:59:07",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -182,14 +182,24 @@
       "is_new": false
     },
     {
+      "title": "小团队的最优解：单 Module + 包内 Clean 架构",
+      "url": "https://juejin.cn/post/7671994177554497582",
+      "last_hot_value": "热度:207",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-10T13:59:07",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "TRAE Work 实战，之前写一篇水文要半天，现在用 TRAE Work 2分钟交差!",
       "url": "https://juejin.cn/post/7671106436445257779",
       "last_hot_value": "热度:198",
       "first_seen_at": "2026-08-09T23:53:08",
       "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」",
@@ -202,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "前端路由（三）：鉴权、拦截与重定向",
+      "url": "https://juejin.cn/post/7671201591320788992",
+      "last_hot_value": "热度:198",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-10T13:59:07",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "我重写了自己用了两年的防抖节流Hook——发现里面藏着3个隐藏bug",
       "url": "https://juejin.cn/post/7670703945447505983",
       "last_hot_value": "热度:171",
       "first_seen_at": "2026-08-09T23:53:08",
       "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "让 Codex “用上”Android Studio：JetBrains MCP Server 接入与实践",
@@ -222,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？",
+      "url": "https://juejin.cn/post/7671185982583341108",
+      "last_hot_value": "热度:180",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-10T13:59:07",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "Boolean 变量到底该怎么命名？",
       "url": "https://juejin.cn/post/7670447828809302054",
       "last_hot_value": "热度:171",
       "first_seen_at": "2026-08-09T23:53:08",
       "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么在 Flowable 时代还要写一个轻量工作流引擎",
