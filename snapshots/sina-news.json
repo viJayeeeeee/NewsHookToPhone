@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-10T07:03:46",
+  "update_time": "2026-08-10T11:45:27",
   "items": [
+    {
+      "title": "白海豚突然大拐弯",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8B%90%E5%BC%AF",
+      "last_hot_value": "374万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "从热词迭代读懂鲜活中国",
       "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%BB%8E%E7%83%AD%E8%AF%8D%E8%BF%AD%E4%BB%A3%E8%AF%BB%E6%87%82%E9%B2%9C%E6%B4%BB%E4%B8%AD%E5%9B%BD",
       "last_hot_value": "415万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -122,14 +132,14 @@
       "is_new": false
     },
     {
-      "title": "飞机免费退改票真的来了",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%A3%9E%E6%9C%BA%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%A5%A8%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86",
-      "last_hot_value": "427万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "深圳APEC峰会倒计时100天",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%B7%B1%E5%9C%B3APEC%E5%B3%B0%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9",
+      "last_hot_value": "357万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "宇树科技创始人曾短暂入职大疆",
@@ -137,9 +147,9 @@
       "last_hot_value": "391万",
       "first_seen_at": "2026-08-10T07:03:46",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大疆错失宇树",
@@ -147,7 +157,7 @@
       "last_hot_value": "288万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -242,14 +252,14 @@
       "is_new": false
     },
     {
-      "title": "河南三支一扶考试存规模性组织作弊",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%80%83%E8%AF%95%E5%AD%98%E8%A7%84%E6%A8%A1%E6%80%A7%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A",
-      "last_hot_value": "427万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "韩国人吃泡菜量大降",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%90%83%E6%B3%A1%E8%8F%9C%E9%87%8F%E5%A4%A7%E9%99%8D",
+      "last_hot_value": "332万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "偶像来了 重启回归",
@@ -257,9 +267,9 @@
       "last_hot_value": "313万",
       "first_seen_at": "2026-08-10T07:03:46",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "C罗婚礼闹乌龙",
@@ -267,7 +277,7 @@
       "last_hot_value": "280万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -382,14 +392,14 @@
       "is_new": false
     },
     {
-      "title": "向鹏0比3张本智和",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%90%91%E9%B9%8F0%E6%AF%943%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C",
-      "last_hot_value": "348万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "费大厨撤下全国小炒肉大王称号",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%B4%B9%E5%A4%A7%E5%8E%A8%E6%92%A4%E4%B8%8B%E5%85%A8%E5%9B%BD%E5%B0%8F%E7%82%92%E8%82%89%E5%A4%A7%E7%8E%8B%E7%A7%B0%E5%8F%B7",
+      "last_hot_value": "330万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "胚胎案丈夫称患癌妻子是雷",
@@ -397,9 +407,9 @@
       "last_hot_value": "290万",
       "first_seen_at": "2026-08-10T07:03:46",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "贺涵 能来接我吗",
@@ -522,14 +532,14 @@
       "is_new": false
     },
     {
-      "title": "最尊重立秋的城市出现了",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%9C%80%E5%B0%8A%E9%87%8D%E7%AB%8B%E7%A7%8B%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86",
-      "last_hot_value": "312万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "上海首次将苏州河水强排至黄浦江",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%B8%8A%E6%B5%B7%E9%A6%96%E6%AC%A1%E5%B0%86%E8%8B%8F%E5%B7%9E%E6%B2%B3%E6%B0%B4%E5%BC%BA%E6%8E%92%E8%87%B3%E9%BB%84%E6%B5%A6%E6%B1%9F",
+      "last_hot_value": "323万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "这届年轻人真的在整顿婚礼",
@@ -652,14 +662,14 @@
       "is_new": false
     },
     {
-      "title": "前7个月货物贸易进出口超30万亿元",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%89%8D7%E4%B8%AA%E6%9C%88%E8%B4%A7%E7%89%A9%E8%B4%B8%E6%98%93%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B6%8530%E4%B8%87%E4%BA%BF%E5%85%83",
-      "last_hot_value": "304万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "多位大疆员工离职后创业成功",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%A4%9A%E4%BD%8D%E5%A4%A7%E7%96%86%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%90%8E%E5%88%9B%E4%B8%9A%E6%88%90%E5%8A%9F",
+      "last_hot_value": "280万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "张本美和夺冠美了球迷不舒服了",
@@ -762,14 +772,14 @@
       "is_new": false
     },
     {
-      "title": "高速飞来轮胎致车主昏迷爱车独自完成全套救援",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%AB%98%E9%80%9F%E9%A3%9E%E6%9D%A5%E8%BD%AE%E8%83%8E%E8%87%B4%E8%BD%A6%E4%B8%BB%E6%98%8F%E8%BF%B7%E7%88%B1%E8%BD%A6%E7%8B%AC%E8%87%AA%E5%AE%8C%E6%88%90%E5%85%A8%E5%A5%97%E6%95%91%E6%8F%B4",
-      "last_hot_value": "286万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "易烊千玺用床单当桌布",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%94%A8%E5%BA%8A%E5%8D%95%E5%BD%93%E6%A1%8C%E5%B8%83",
+      "last_hot_value": "280万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "DeepSeek会偷偷给人取外号",
@@ -777,9 +787,9 @@
       "last_hot_value": "278万",
       "first_seen_at": "2026-08-10T07:03:46",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "iPhone18Pro发布会时间",
@@ -787,7 +797,7 @@
       "last_hot_value": "274万",
       "first_seen_at": "2026-08-10T05:51:28",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -882,14 +892,14 @@
       "is_new": false
     },
     {
-      "title": "南航 西梅汁",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%8D%97%E8%88%AA%20%E8%A5%BF%E6%A2%85%E6%B1%81",
-      "last_hot_value": "286万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "女子在台风中坠楼？假的",
+      "url": "https://news.sina.com.cn/minsheng/2026-08-10/doc-inimvhfp8165365.shtml",
+      "last_hot_value": "274万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "北横通道出现积水？辟谣！",
@@ -897,9 +907,9 @@
       "last_hot_value": "276万",
       "first_seen_at": "2026-08-10T07:03:46",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "杜绝二次造谣！网络“跟风评论、随意脑补”素养课",
@@ -922,14 +932,14 @@
       "is_new": false
     },
     {
-      "title": "食品安全提醒：汛期受污染食品坚决不能食用",
-      "url": "https://news.sina.com.cn/zx/2026-08-07/doc-inimnenr0073400.shtml ",
-      "last_hot_value": "246万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T17:13:10",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "第一批用AI租房的受益者出现了",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "last_hot_value": "272万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "物业费的欠费原因",
@@ -937,9 +947,9 @@
       "last_hot_value": "275万",
       "first_seen_at": "2026-08-10T07:03:46",
       "last_seen_at": "2026-08-10T07:03:46",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "武汉天桥摊主 先动手",
@@ -1032,14 +1042,14 @@
       "is_new": false
     },
     {
-      "title": "大麦全年拦截恶意请求超60亿次",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%A4%A7%E9%BA%A6%E5%85%A8%E5%B9%B4%E6%8B%A6%E6%88%AA%E6%81%B6%E6%84%8F%E8%AF%B7%E6%B1%82%E8%B6%8560%E4%BA%BF%E6%AC%A1",
-      "last_hot_value": "286万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "韩国女性怒斥AA制结婚",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%80%A7%E6%80%92%E6%96%A5AA%E5%88%B6%E7%BB%93%E5%A9%9A",
+      "last_hot_value": "265万",
+      "first_seen_at": "2026-08-10T11:45:27",
+      "last_seen_at": "2026-08-10T11:45:27",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "梅洛曝内马尔或将加盟迈阿密",
@@ -1137,16 +1147,6 @@
       "last_hot_value": "245万",
       "first_seen_at": "2026-08-07T17:13:10",
       "last_seen_at": "2026-08-07T17:13:10",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "中山医院陷婚外胚胎风波职工哽咽",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%B8%AD%E5%B1%B1%E5%8C%BB%E9%99%A2%E9%99%B7%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%A3%8E%E6%B3%A2%E8%81%8C%E5%B7%A5%E5%93%BD%E5%92%BD",
-      "last_hot_value": "285万",
-      "first_seen_at": "2026-08-07T11:27:03",
-      "last_seen_at": "2026-08-07T11:27:03",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
