@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-11T12:00:48",
+  "update_time": "2026-08-11T20:12:15",
   "items": [
     {
-      "title": "Smart Mermaid部署：用AI将文本转换为Mermaid图表",
-      "url": "https://blog.csdn.net/user340/article/details/163635805",
-      "last_hot_value": "2.7w",
+      "title": "【金仓数据库征文】MySQL至金仓KES异构数据库平滑迁移与性能深度调优实战",
+      "url": "https://blog.csdn.net/2401_87042472/article/details/163609729",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-11T06:12:45",
-      "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "【金仓数据库征文】MySQL至金仓KES异构数据库平滑迁移与性能深度调优实战",
-      "url": "https://blog.csdn.net/2401_87042472/article/details/163609729",
-      "last_hot_value": "2.6w",
+      "title": "Smart Mermaid部署：用AI将文本转换为Mermaid图表",
+      "url": "https://blog.csdn.net/user340/article/details/163635805",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-11T06:12:45",
-      "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,22 +32,22 @@
       "is_new": false
     },
     {
-      "title": "KingbaseES 全文检索实战：中文分词、GIN 索引与相关性排名",
-      "url": "https://blog.csdn.net/m0_71592416/article/details/163558520",
-      "last_hot_value": "2.2w",
-      "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "【Linux】两个毫无关系的进程怎么通信？命名管道 FIFO 从原理到 Server/Client 实战",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163596007",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-11T20:12:15",
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "OpenClaw 测试策略实战：AI Agent 自动化测试体系搭建与落地",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/163612055",
-      "last_hot_value": "2.4w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "【Linux 网络篇】数据的 “循环系统“：协议认识与网络传输的流程",
+      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163627074",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-11T12:00:48",
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "【AI智能体】基于Cursor 实现自然语言自动化运维实战详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163450471",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-10T13:59:08",
       "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,32 +112,12 @@
       "is_new": false
     },
     {
-      "title": "Re：Linux系统篇（五十二）线程篇 · 五：直击 Linux 内核底层：TCB 与 LWP 一体两面全解析（附自定义线程封装）",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/163481224",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek 要涨价 30 倍？我算了一笔账：涨完可能比 GPT-5.5 还贵",
-      "url": "https://blog.csdn.net/qq_40374604/article/details/163595472",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-08T19:53:00",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "CentOS部署Jenkins：结合cpolar实现Webhook自动构建与发布",
       "url": "https://blog.csdn.net/2501_91062530/article/details/163664797",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-11T08:36:18",
-      "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,22 +132,12 @@
       "is_new": false
     },
     {
-      "title": "Day 10 · 邮件 + AI：智能分类与自动回复",
-      "url": "https://blog.csdn.net/2601_96428997/article/details/163397280",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "MiniMax-H3开源模型768P视频2K超分实战：LoRA加速生成 + FlashVSR高清放大（海光K100_AI单卡部署）",
       "url": "https://blog.csdn.net/pla88888888/article/details/163644534",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "8305",
       "first_seen_at": "2026-08-11T06:12:45",
-      "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -167,7 +147,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-09T23:53:10",
       "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -184,12 +164,22 @@
     {
       "title": "【《智能驾驶拆解笔记：老周唠透车圈AI》第5篇】",
       "url": "https://blog.csdn.net/weixin_62244995/article/details/162998983",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "9342",
       "first_seen_at": "2026-08-11T08:36:18",
-      "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "CentOS部署Kafka：ZooKeeper启动、消息测试与远程调试",
+      "url": "https://blog.csdn.net/SDFsoul/article/details/163671162",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-11T20:12:15",
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【金仓数据库征文】MySQL迁移人大金仓V9异构迁移全链路性能调优与稳定性保障",
@@ -204,10 +194,10 @@
     {
       "title": "awesome-llm-apps 开源项目详解：100+ AI Agent 与 RAG 模板一键复用",
       "url": "https://blog.csdn.net/zhangay1998/article/details/162974701",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "8289",
       "first_seen_at": "2026-08-11T06:12:45",
-      "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T20:12:15",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
     },
@@ -232,16 +222,6 @@
       "is_new": false
     },
     {
-      "title": "从聊天到委派：AI Agent 如何推进长期任务",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/163494733",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-08T19:53:00",
-      "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "让日志清理自己跑起来：Ansible、Cron和远程SSH自动化实战",
       "url": "https://blog.csdn.net/2302_78391795/article/details/163562981",
       "last_hot_value": "1.2w",
@@ -250,16 +230,6 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
-    },
-    {
-      "title": "【Linux 网络篇】数据的 “循环系统“：协议认识与网络传输的流程",
-      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163627074",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-11T12:00:48",
-      "last_seen_at": "2026-08-11T12:00:48",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
     },
     {
       "title": "【Linux 系统篇(十四)】进程 (二) ：PCB、task_struct、fork系统调用",

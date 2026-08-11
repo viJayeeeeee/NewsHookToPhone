@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-11T12:00:47",
+  "update_time": "2026-08-11T20:12:13",
   "items": [
     {
       "title": "Pi + DeepSeek-v4-Flash，这用着也太爽了。",
       "url": "https://juejin.cn/post/7671964740780785670",
-      "last_hot_value": "热度:1332",
+      "last_hot_value": "热度:1440",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,10 +24,10 @@
     {
       "title": "工位上这台\"竖着叠\"的双屏，让我改bug终于不用来回切窗口了",
       "url": "https://juejin.cn/post/7671994177555742766",
-      "last_hot_value": "热度:1107",
+      "last_hot_value": "热度:1278",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,22 +42,22 @@
       "is_new": false
     },
     {
-      "title": "从“白菜价”到大幅涨价，DeepSeek正在经历什么？",
-      "url": "https://juejin.cn/post/7670757585832820776",
-      "last_hot_value": "热度:558",
-      "first_seen_at": "2026-08-08T19:52:59",
-      "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "升级啦！纯前端打包下载离线地图",
+      "url": "https://juejin.cn/post/7671834850672427017",
+      "last_hot_value": "热度:423",
+      "first_seen_at": "2026-08-11T08:36:17",
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "小团队的最优解：单 Module + 包内 Clean 架构",
       "url": "https://juejin.cn/post/7671994177554497582",
-      "last_hot_value": "热度:369",
+      "last_hot_value": "热度:405",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -74,10 +74,10 @@
     {
       "title": "2026 年 8 月，我的最新 AI 装机单",
       "url": "https://juejin.cn/post/7671084235286986803",
-      "last_hot_value": "热度:369",
+      "last_hot_value": "热度:423",
       "first_seen_at": "2026-08-11T06:12:43",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -114,10 +114,10 @@
     {
       "title": "Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？",
       "url": "https://juejin.cn/post/7671185982583341108",
-      "last_hot_value": "热度:315",
+      "last_hot_value": "热度:333",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "升级啦！纯前端打包下载离线地图",
-      "url": "https://juejin.cn/post/7671834850672427017",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-08-11T08:36:17",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 2,
+      "title": "不用LangChain：用 200 行代码手搓 Agent 对话记忆与上下文压缩",
+      "url": "https://juejin.cn/post/7671855098491043866",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-08-11T20:12:13",
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "自定义业务 Hook：从零解剖一个 React + TypeScript Todo 应用：用金字塔思维看透前端架构",
@@ -174,10 +174,10 @@
     {
       "title": "Agent Skills 完全指南：从目录规范到渐进式加载的工程实践",
       "url": "https://juejin.cn/post/7671467814255755315",
-      "last_hot_value": "热度:297",
+      "last_hot_value": "热度:324",
       "first_seen_at": "2026-08-11T08:36:17",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -194,10 +194,10 @@
     {
       "title": "一行代码没写，我用AI做了一个可以收费产品",
       "url": "https://juejin.cn/post/7671566723838115878",
-      "last_hot_value": "热度:252",
+      "last_hot_value": "热度:270",
       "first_seen_at": "2026-08-11T08:36:17",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -212,13 +212,13 @@
       "is_new": false
     },
     {
-      "title": "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」",
-      "url": "https://juejin.cn/post/7670092136000716843",
-      "last_hot_value": "热度:360",
-      "first_seen_at": "2026-08-08T19:52:59",
-      "last_seen_at": "2026-08-09T07:34:42",
-      "consecutive_count": 0,
-      "peak_rank": 8,
+      "title": "Flutter 的另外一种形态？社区 DartNative 要来了。",
+      "url": "https://juejin.cn/post/7672292709405999147",
+      "last_hot_value": "热度:288",
+      "first_seen_at": "2026-08-11T12:00:47",
+      "last_seen_at": "2026-08-11T20:12:13",
+      "consecutive_count": 2,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -227,9 +227,9 @@
       "last_hot_value": "热度:252",
       "first_seen_at": "2026-08-11T12:00:47",
       "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek永久降价，78元到9元，这是要革谁的命？",
@@ -252,31 +252,11 @@
       "is_new": false
     },
     {
-      "title": "Flutter 的另外一种形态？社区 DartNative 要来了。",
-      "url": "https://juejin.cn/post/7672292709405999147",
-      "last_hot_value": "热度:252",
-      "first_seen_at": "2026-08-11T12:00:47",
-      "last_seen_at": "2026-08-11T12:00:47",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
       "title": "Boolean 变量到底该怎么命名？",
       "url": "https://juejin.cn/post/7670447828809302054",
       "last_hot_value": "热度:171",
       "first_seen_at": "2026-08-09T23:53:08",
       "last_seen_at": "2026-08-09T23:53:08",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "为什么在 Flowable 时代还要写一个轻量工作流引擎",
-      "url": "https://juejin.cn/post/7670053235008258099",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-08-08T19:52:59",
-      "last_seen_at": "2026-08-09T07:34:42",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
