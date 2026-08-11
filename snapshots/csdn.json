@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-10T13:59:08",
+  "update_time": "2026-08-11T06:12:45",
   "items": [
+    {
+      "title": "【金仓数据库征文】MySQL至金仓KES异构数据库平滑迁移与性能深度调优实战",
+      "url": "https://blog.csdn.net/2401_87042472/article/details/163609729",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-08-11T06:12:45",
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "读懂 MCP 与 A2A 架构：AI 多智能体时代的企业级开发实践",
       "url": "https://blog.csdn.net/weixin_52908342/article/details/163573581",
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-09T04:02:12",
       "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,22 +32,22 @@
       "is_new": false
     },
     {
-      "title": "Zookeeper - 超级管理员权限的配置与使用实操",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157688499",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "Smart Mermaid部署：用AI将文本转换为Mermaid图表",
+      "url": "https://blog.csdn.net/user340/article/details/163635805",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-08-11T06:12:45",
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【MYSQL】MYSQL学习的一大重点：用户与权限管理",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163281396",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-09T04:02:12",
-      "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,34 +62,24 @@
       "is_new": false
     },
     {
-      "title": "【CMake】换台机器就编译失败？用 Presets + vcpkg 固定依赖、工具链与 CI",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/163514465",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-09T04:02:12",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "GitHub 热榜项目 - 周榜(2026-08-08)",
       "url": "https://blog.csdn.net/u014390502/article/details/163583883",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-10T13:59:08",
       "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenClaw 测试策略实战：AI Agent 自动化测试体系搭建与落地",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/163612055",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "KingbaseES多模架构下的MongoDB迁移方案",
@@ -87,7 +87,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-09T23:53:10",
       "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -97,16 +97,6 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-08T19:53:00",
       "last_seen_at": "2026-08-09T07:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "远程玩飞车类游戏,ToDesk三款功能免费体验:游戏键盘、游戏鼠标和外接手柄",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163564164",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-08T23:21:09",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -122,6 +112,16 @@
       "is_new": false
     },
     {
+      "title": "【AI智能体】基于Cursor 实现自然语言自动化运维实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163450471",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-10T13:59:08",
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "Day 10 · 邮件 + AI：智能分类与自动回复",
       "url": "https://blog.csdn.net/2601_96428997/article/details/163397280",
       "last_hot_value": "1.3w",
@@ -132,14 +132,14 @@
       "is_new": false
     },
     {
-      "title": "一库融万象：金仓数据库多模融合在复杂业务场景下的实战落地",
-      "url": "https://blog.csdn.net/2501_91062530/article/details/163562777",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "MiniMax-H3开源模型768P视频2K超分实战：LoRA加速生成 + FlashVSR高清放大（海光K100_AI单卡部署）",
+      "url": "https://blog.csdn.net/pla88888888/article/details/163644534",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-11T06:12:45",
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "【金仓数据库征文】从 MySQL 迁移到金仓数据库：哈工大智能造价项目的一次信创改造实践",
@@ -147,7 +147,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-09T23:53:10",
       "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -162,34 +162,24 @@
       "is_new": false
     },
     {
-      "title": "从慢 SQL 到系统瓶颈：一次金仓数据库性能调优实战复盘",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/163562693",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-08T23:21:09",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "【金仓数据库征文】MySQL迁移人大金仓V9异构迁移全链路性能调优与稳定性保障",
       "url": "https://blog.csdn.net/weixin_37800531/article/details/163606266",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "从144G到64G的极致压缩：K100_AI单卡部署MiniMax-H3全模态模型的实战（含详细部署步骤）",
-      "url": "https://blog.csdn.net/pla88888888/article/details/163570600",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-08T04:49:46",
-      "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "AtomCode与Rust语言的双向赋能：AI如何帮助学习Rust",
+      "url": "https://blog.csdn.net/u014727709/article/details/163595845",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-11T06:12:45",
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "从聊天到委派：AI Agent 如何推进长期任务",
@@ -197,7 +187,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-08T19:53:00",
       "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -212,6 +202,16 @@
       "is_new": false
     },
     {
+      "title": "【Linux 系统篇(十四)】进程 (二) ：PCB、task_struct、fork系统调用",
+      "url": "https://blog.csdn.net/Huang_jin007/article/details/163505129",
+      "last_hot_value": "9461",
+      "first_seen_at": "2026-08-11T06:12:45",
+      "last_seen_at": "2026-08-11T06:12:45",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "【金仓数据库征文】M4 Mac上把Spring Boot + MyBatis接到KingbaseES:一次带事务和并发扣库存的实测",
       "url": "https://blog.csdn.net/2401_87629362/article/details/163593545",
       "last_hot_value": "1.0w",
@@ -222,21 +222,11 @@
       "is_new": false
     },
     {
-      "title": "我搭了人生第一个能开口说话的 AI：一次跑通语音 Agent 的全过程记录",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/163542254",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-07T22:54:52",
-      "last_seen_at": "2026-08-08T04:49:46",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】基于Cursor 实现自然语言自动化运维实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163450471",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-10T13:59:08",
+      "title": "awesome-llm-apps 开源项目详解：100+ AI Agent 与 RAG 模板一键复用",
+      "url": "https://blog.csdn.net/zhangay1998/article/details/162974701",
+      "last_hot_value": "9451",
+      "first_seen_at": "2026-08-11T06:12:45",
+      "last_seen_at": "2026-08-11T06:12:45",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

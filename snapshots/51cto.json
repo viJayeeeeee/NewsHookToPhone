@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-10T13:59:10",
+  "update_time": "2026-08-11T06:12:46",
   "items": [
+    {
+      "title": "模型换个Harness就「变笨」？EverMind把自进化从研究推向产品，让AI「越用越聪明」",
+      "url": "https://www.51cto.com/article/852621.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【鸿蒙实战】第 03 篇：ArkUI 列表性能实战——为什么 200 条数据页面掉到 20fps，LazyForEach 怎么救?",
       "url": "https://ost.51cto.com/posts/54884",
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "鸿蒙截图工具开发实战 03：Ctrl+1 按下之后——screenshot.capture() 和\"不能截到自己\"",
@@ -22,14 +32,14 @@
       "is_new": false
     },
     {
-      "title": "未来 3 年运维人员就业前景：Agent 智能体岗位需求 vs 传统运维淘汰率",
-      "url": "https://www.51cto.com/article/852305.html",
+      "title": "刚刚，黄仁勋发长文：AI算力要变成一种「资产」",
+      "url": "https://www.51cto.com/article/852620.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-07T22:54:53",
-      "last_seen_at": "2026-08-09T23:53:11",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "HarmonyOS应用上架（一）：配置调试签名并完成真机调试",
@@ -37,8 +47,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "好的 Harness，先把缓存命中做好",
+      "url": "https://www.51cto.com/article/852619.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -47,19 +67,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "智能体 SDLC 落地指南：运维如何驾驭 AI 重构自动化工程体系",
-      "url": "https://www.51cto.com/article/852302.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-07T22:54:53",
-      "last_seen_at": "2026-08-09T23:53:11",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "# 智绘鸿蒙·大有“视”界# HarmonyOS7 新闻图用 AI 超分，算不算篡改？顺便把这个页面讲透",
+      "url": "https://ost.51cto.com/posts/54896",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "奥特曼笑疯！Claude Code之父「挖角」OpenAI网红高管，惨遭秒拒",
@@ -67,8 +87,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "HarmonyOS 6 上玩转 3DGS：从端侧重建到模拟器加载 3D 模型的初体验",
+      "url": "https://ost.51cto.com/posts/54895",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -77,8 +107,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Kubernetes 的 15 大典型应用场景：从微服务到 AI，让你彻底搞懂 K8s 的真正价值",
+      "url": "https://www.51cto.com/article/852616.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -87,8 +127,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "DuckDB 保姆级教程：从第一条 SQL 到千万行电商经营分析，一篇讲透",
+      "url": "https://www.51cto.com/article/852609.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -97,8 +147,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "告别翻阅海量运维文档！这套 K8s‑RAG‑AIOps，内网离线实现集群智能故障排查",
+      "url": "https://www.51cto.com/article/852608.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -107,8 +167,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "微软确认暂不为 Windows 11 加入透明效果自定义功能，建议用户使用第三方工具",
+      "url": "https://www.51cto.com/article/852607.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -117,8 +187,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "Claude Opus 5 在最新基准测试中将间接提示注入攻击成功率降至 2%",
+      "url": "https://www.51cto.com/article/852606.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T06:12:46",
+      "last_seen_at": "2026-08-11T06:12:46",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -127,9 +207,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-10T13:59:10",
       "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
