@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-10T22:57:12",
+  "update_time": "2026-08-11T10:31:06",
   "items": [
     {
       "title": "海屿你",
       "url": "https://music.163.com/#/song?id=1973665667",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T11:51:43",
-      "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,18 +16,28 @@
       "url": "https://music.163.com/#/song?id=3399839173",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T11:51:43",
-      "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "遐想",
+      "url": "https://music.163.com/#/song?id=2018733994",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-08-11T10:31:06",
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "于是",
       "url": "https://music.163.com/#/song?id=1303464858",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T09:32:38",
-      "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -37,7 +47,7 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-08T17:19:29",
       "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -46,8 +56,8 @@
       "url": "https://music.163.com/#/song?id=2097443876",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T11:51:43",
-      "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -56,10 +66,20 @@
       "url": "https://music.163.com/#/song?id=3382908505",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T11:51:43",
-      "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "苦茶子",
+      "url": "https://music.163.com/#/song?id=1922888354",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-08-11T10:31:06",
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "还是会想你",
@@ -67,7 +87,7 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T09:32:38",
       "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -86,8 +106,8 @@
       "url": "https://music.163.com/#/song?id=2600493765",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T11:51:43",
-      "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
@@ -96,8 +116,8 @@
       "url": "https://music.163.com/#/song?id=273114",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T11:51:43",
-      "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
     },
@@ -106,8 +126,8 @@
       "url": "https://music.163.com/#/song?id=3387477661",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-09T11:51:43",
-      "last_seen_at": "2026-08-10T22:57:12",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T10:31:06",
+      "consecutive_count": 5,
       "peak_rank": 9,
       "is_new": false
     }

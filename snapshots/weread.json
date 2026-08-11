@@ -1,45 +1,35 @@
 {
-  "update_time": "2026-08-10T22:57:15",
+  "update_time": "2026-08-11T10:31:09",
   "items": [
     {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "5379人在读",
+      "last_hot_value": "5529人在读",
       "first_seen_at": "2026-08-09T11:51:46",
-      "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "毛泽东自述",
-      "url": "",
-      "last_hot_value": "1831人在读",
-      "first_seen_at": "2026-08-08T05:33:19",
-      "last_seen_at": "2026-08-09T04:59:23",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "我的帝王生涯",
       "url": "",
-      "last_hot_value": "3045人在读",
+      "last_hot_value": "3249人在读",
       "first_seen_at": "2026-08-08T17:19:33",
-      "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 9,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "AI未来已来：CEO、组织、个人的时代红利（微信读书特别版）",
       "url": "",
-      "last_hot_value": "3840人在读",
+      "last_hot_value": "3989人在读",
       "first_seen_at": "2026-08-10T22:57:15",
-      "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "不能承受的生命之轻（米兰·昆德拉作品系列·2022版）",
@@ -54,10 +44,10 @@
     {
       "title": "荷马史诗《伊利亚特》（罗念生全集·第六卷）",
       "url": "",
-      "last_hot_value": "626人在读",
+      "last_hot_value": "645人在读",
       "first_seen_at": "2026-08-08T20:47:04",
-      "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 8,
       "peak_rank": 4,
       "is_new": false
     },
@@ -74,10 +64,10 @@
     {
       "title": "大地上我们转瞬即逝的绚烂",
       "url": "",
-      "last_hot_value": "589人在读",
+      "last_hot_value": "653人在读",
       "first_seen_at": "2026-08-10T18:16:02",
-      "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -87,7 +77,7 @@
       "last_hot_value": "2297人在读",
       "first_seen_at": "2026-08-10T18:16:02",
       "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -102,24 +92,44 @@
       "is_new": false
     },
     {
-      "title": "人鱼（黄杨钿甜、董勇主演同名影视剧原著）",
+      "title": "漂亮朋友：插图珍藏版",
       "url": "",
-      "last_hot_value": "1692人在读",
-      "first_seen_at": "2026-08-08T17:19:33",
-      "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 8,
+      "last_hot_value": "239人在读",
+      "first_seen_at": "2026-08-11T10:31:09",
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "查拉图斯特拉如是说",
       "url": "",
-      "last_hot_value": "926人在读",
+      "last_hot_value": "961人在读",
       "first_seen_at": "2026-08-09T11:51:46",
-      "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "人鱼（黄杨钿甜、董勇主演同名影视剧原著）",
+      "url": "",
+      "last_hot_value": "1663人在读",
+      "first_seen_at": "2026-08-08T17:19:33",
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 9,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "金钱博弈",
+      "url": "",
+      "last_hot_value": "777人在读",
+      "first_seen_at": "2026-08-11T10:31:09",
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "相信",
@@ -127,7 +137,7 @@
       "last_hot_value": "1150人在读",
       "first_seen_at": "2026-08-10T18:16:02",
       "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -137,16 +147,6 @@
       "last_hot_value": "5845人在读",
       "first_seen_at": "2026-08-08T17:19:33",
       "last_seen_at": "2026-08-10T22:57:15",
-      "consecutive_count": 8,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "男人这东西",
-      "url": "",
-      "last_hot_value": "518人在读",
-      "first_seen_at": "2026-08-08T05:33:19",
-      "last_seen_at": "2026-08-08T11:23:07",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
@@ -160,6 +160,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "白夜行",
+      "url": "",
+      "last_hot_value": "7608人在读",
+      "first_seen_at": "2026-08-11T10:31:09",
+      "last_seen_at": "2026-08-11T10:31:09",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "解忧杂货店",
