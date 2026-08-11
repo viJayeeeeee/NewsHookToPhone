@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-11T08:36:17",
+  "update_time": "2026-08-11T12:00:47",
   "items": [
     {
       "title": "Pi + DeepSeek-v4-Flash，这用着也太爽了。",
       "url": "https://juejin.cn/post/7671964740780785670",
-      "last_hot_value": "热度:1116",
+      "last_hot_value": "热度:1332",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,10 +24,10 @@
     {
       "title": "工位上这台\"竖着叠\"的双屏，让我改bug终于不用来回切窗口了",
       "url": "https://juejin.cn/post/7671994177555742766",
-      "last_hot_value": "热度:927",
+      "last_hot_value": "热度:1107",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -54,10 +54,10 @@
     {
       "title": "小团队的最优解：单 Module + 包内 Clean 架构",
       "url": "https://juejin.cn/post/7671994177554497582",
-      "last_hot_value": "热度:333",
+      "last_hot_value": "热度:369",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "2026 年 8 月，我的最新 AI 装机单",
+      "url": "https://juejin.cn/post/7671084235286986803",
+      "last_hot_value": "热度:369",
+      "first_seen_at": "2026-08-11T06:12:43",
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 4,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "前端路由（三）：鉴权、拦截与重定向",
       "url": "https://juejin.cn/post/7671201591320788992",
       "last_hot_value": "热度:297",
       "first_seen_at": "2026-08-10T13:59:07",
       "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,12 +112,12 @@
       "is_new": false
     },
     {
-      "title": "2026 年 8 月，我的最新 AI 装机单",
-      "url": "https://juejin.cn/post/7671084235286986803",
-      "last_hot_value": "热度:288",
-      "first_seen_at": "2026-08-11T06:12:43",
-      "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 3,
+      "title": "Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？",
+      "url": "https://juejin.cn/post/7671185982583341108",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-08-10T13:59:07",
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -132,12 +142,12 @@
       "is_new": false
     },
     {
-      "title": "Qwen 3.8 max干了20分钟没干完，免费模型3分17秒搞定，问题出在哪？",
-      "url": "https://juejin.cn/post/7671185982583341108",
-      "last_hot_value": "热度:261",
-      "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 4,
+      "title": "升级啦！纯前端打包下载离线地图",
+      "url": "https://juejin.cn/post/7671834850672427017",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-08-11T08:36:17",
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
@@ -164,12 +174,12 @@
     {
       "title": "Agent Skills 完全指南：从目录规范到渐进式加载的工程实践",
       "url": "https://juejin.cn/post/7671467814255755315",
-      "last_hot_value": "热度:252",
+      "last_hot_value": "热度:297",
       "first_seen_at": "2026-08-11T08:36:17",
-      "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "LangChain4j 入门指南",
@@ -182,14 +192,14 @@
       "is_new": false
     },
     {
-      "title": "升级啦！纯前端打包下载离线地图",
-      "url": "https://juejin.cn/post/7671834850672427017",
-      "last_hot_value": "热度:243",
+      "title": "一行代码没写，我用AI做了一个可以收费产品",
+      "url": "https://juejin.cn/post/7671566723838115878",
+      "last_hot_value": "热度:252",
       "first_seen_at": "2026-08-11T08:36:17",
-      "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "TRAE Work 实战，之前写一篇水文要半天，现在用 TRAE Work 2分钟交差!",
@@ -212,14 +222,24 @@
       "is_new": false
     },
     {
+      "title": "React 受控组件与非受控组件：从一个输入框讲清表单数据流",
+      "url": "https://juejin.cn/post/7671299466397761570",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-08-11T12:00:47",
+      "last_seen_at": "2026-08-11T12:00:47",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "DeepSeek永久降价，78元到9元，这是要革谁的命？",
       "url": "https://juejin.cn/post/7672220244557037577",
       "last_hot_value": "热度:234",
       "first_seen_at": "2026-08-11T08:36:17",
       "last_seen_at": "2026-08-11T08:36:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我重写了自己用了两年的防抖节流Hook——发现里面藏着3个隐藏bug",
@@ -232,11 +252,11 @@
       "is_new": false
     },
     {
-      "title": "一行代码没写，我用AI做了一个可以收费产品",
-      "url": "https://juejin.cn/post/7671566723838115878",
-      "last_hot_value": "热度:225",
-      "first_seen_at": "2026-08-11T08:36:17",
-      "last_seen_at": "2026-08-11T08:36:17",
+      "title": "Flutter 的另外一种形态？社区 DartNative 要来了。",
+      "url": "https://juejin.cn/post/7672292709405999147",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-08-11T12:00:47",
+      "last_seen_at": "2026-08-11T12:00:47",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
