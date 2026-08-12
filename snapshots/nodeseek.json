@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-12T10:12:30",
+  "update_time": "2026-08-12T17:15:16",
   "items": [
     {
       "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
       "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:12440 回复:179",
+      "last_hot_value": "查看:14966 回复:196",
       "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,14 +22,24 @@
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:210522 回复:2832",
-      "first_seen_at": "2026-08-12T10:12:30",
-      "last_seen_at": "2026-08-12T10:12:30",
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:227400 回复:2086",
+      "first_seen_at": "2026-08-12T17:15:16",
+      "last_seen_at": "2026-08-12T17:15:16",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:210929 回复:2835",
+      "first_seen_at": "2026-08-12T10:12:30",
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
@@ -37,9 +47,19 @@
       "last_hot_value": "查看:105239 回复:623",
       "first_seen_at": "2026-08-12T00:53:21",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "冬瓜TV MAX —— 打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放",
+      "url": "https://www.nodeseek.com/post-545550-1",
+      "last_hot_value": "查看:12406 回复:139",
+      "first_seen_at": "2026-08-12T17:15:16",
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "✨[教程] 🚀 VPS 遥控器--已增加 ✅'一BOT控制多台VPS功能' 彻底实现\"1bot多鸡\" [免费/开源/一键脚本]",
@@ -47,9 +67,19 @@
       "last_hot_value": "查看:4537 回复:72",
       "first_seen_at": "2026-08-11T20:12:25",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
+      "url": "https://www.nodeseek.com/post-788832-1",
+      "last_hot_value": "查看:5963 回复:101",
+      "first_seen_at": "2026-08-12T17:15:16",
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【telegram】新型无会员号防广告狗🐶方案",
@@ -57,7 +87,7 @@
       "last_hot_value": "查看:4252 回复:65",
       "first_seen_at": "2026-08-11T20:12:25",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -72,14 +102,34 @@
       "is_new": false
     },
     {
+      "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
+      "url": "https://www.nodeseek.com/post-718774-1",
+      "last_hot_value": "查看:15704 回复:183",
+      "first_seen_at": "2026-08-12T17:15:16",
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
       "url": "https://www.nodeseek.com/post-724033-1",
       "last_hot_value": "查看:3519 回复:37",
       "first_seen_at": "2026-08-11T20:12:25",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
+      "url": "https://www.nodeseek.com/post-197087-1",
+      "last_hot_value": "查看:75766 回复:484",
+      "first_seen_at": "2026-08-12T17:15:16",
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "给大家介绍一个神级linux透明代理，附使用教程",
@@ -87,9 +137,19 @@
       "last_hot_value": "查看:2069 回复:23",
       "first_seen_at": "2026-08-11T20:12:25",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "【流量转发该选哪个？】𝕏𝕣𝕒𝕪任意门，realm，gost，socat，iptable/nftable 的技术性区别",
+      "url": "https://www.nodeseek.com/post-545073-1",
+      "last_hot_value": "查看:11679 回复:64",
+      "first_seen_at": "2026-08-12T17:15:16",
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "还是很多人不懂啥是IX，IX不是专线！科普一下！",
@@ -97,7 +157,7 @@
       "last_hot_value": "查看:9413 回复:160",
       "first_seen_at": "2026-08-11T20:12:25",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -112,24 +172,34 @@
       "is_new": false
     },
     {
+      "title": "【开源】realm全功能一键转发脚本,流量统计,MPTCP，负载均衡权重,故障转移，备注,导出/导入,搭建隧道",
+      "url": "https://www.nodeseek.com/post-391214-1",
+      "last_hot_value": "查看:34275 回复:308",
+      "first_seen_at": "2026-08-11T06:12:55",
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "开源一个我自用的静态博客系统：纯 Markdown 写作 + GitHub Actions 自动构建（带 SEO 独立文章页）",
       "url": "https://www.nodeseek.com/post-609880-1",
       "last_hot_value": "查看:2338 回复:29",
       "first_seen_at": "2026-08-11T20:12:25",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "【开源】realm全功能一键转发脚本,流量统计,MPTCP，负载均衡权重,故障转移，备注,导出/导入,搭建隧道",
-      "url": "https://www.nodeseek.com/post-391214-1",
-      "last_hot_value": "查看:34125 回复:307",
-      "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-11T12:00:58",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "【开源自荐】🛡️ VaultFleet - 自托管多服务器(vps)备份管理平台 — Master/Agent · restic+rclone · 快照恢复",
+      "url": "https://www.nodeseek.com/post-753430-1",
+      "last_hot_value": "查看:1520 回复:22",
+      "first_seen_at": "2026-08-12T17:15:16",
+      "last_seen_at": "2026-08-12T17:15:16",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "排坑记：IPv6 网络下 HTTPS 握手卡死的“幕后黑手” —— PMTU 黑洞",
@@ -137,7 +207,7 @@
       "last_hot_value": "查看:1455 回复:15",
       "first_seen_at": "2026-08-11T20:12:25",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
