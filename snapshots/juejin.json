@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-12T09:08:30",
+  "update_time": "2026-08-12T10:12:16",
   "items": [
     {
       "title": "Pi + DeepSeek-v4-Flash，这用着也太爽了。",
       "url": "https://juejin.cn/post/7671964740780785670",
-      "last_hot_value": "热度:1890",
+      "last_hot_value": "热度:1989",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,10 +24,10 @@
     {
       "title": "工位上这台\"竖着叠\"的双屏，让我改bug终于不用来回切窗口了",
       "url": "https://juejin.cn/post/7671994177555742766",
-      "last_hot_value": "热度:1746",
+      "last_hot_value": "热度:1836",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 10,
       "peak_rank": 2,
       "is_new": false
     },
@@ -44,20 +44,20 @@
     {
       "title": "升级啦！纯前端打包下载离线地图",
       "url": "https://juejin.cn/post/7671834850672427017",
-      "last_hot_value": "热度:747",
+      "last_hot_value": "热度:792",
       "first_seen_at": "2026-08-11T08:36:17",
-      "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "小团队的最优解：单 Module + 包内 Clean 架构",
       "url": "https://juejin.cn/post/7671994177554497582",
-      "last_hot_value": "热度:522",
+      "last_hot_value": "热度:540",
       "first_seen_at": "2026-08-10T13:59:07",
-      "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 10,
       "peak_rank": 3,
       "is_new": false
     },
@@ -74,10 +74,10 @@
     {
       "title": "2026 年 8 月，我的最新 AI 装机单",
       "url": "https://juejin.cn/post/7671084235286986803",
-      "last_hot_value": "热度:684",
+      "last_hot_value": "热度:747",
       "first_seen_at": "2026-08-11T06:12:43",
-      "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 9,
       "peak_rank": 4,
       "is_new": false
     },
@@ -114,10 +114,10 @@
     {
       "title": "不用LangChain：用 200 行代码手搓 Agent 对话记忆与上下文压缩",
       "url": "https://juejin.cn/post/7671855098491043866",
-      "last_hot_value": "热度:531",
+      "last_hot_value": "热度:576",
       "first_seen_at": "2026-08-11T20:12:13",
-      "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -127,7 +127,7 @@
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-08-10T13:59:07",
       "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -172,6 +172,16 @@
       "is_new": false
     },
     {
+      "title": "Flutter 的另外一种形态？社区 DartNative 要来了。",
+      "url": "https://juejin.cn/post/7672292709405999147",
+      "last_hot_value": "热度:405",
+      "first_seen_at": "2026-08-11T12:00:47",
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 6,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "Agent Skills 完全指南：从目录规范到渐进式加载的工程实践",
       "url": "https://juejin.cn/post/7671467814255755315",
       "last_hot_value": "热度:387",
@@ -192,14 +202,14 @@
       "is_new": false
     },
     {
-      "title": "Flutter 的另外一种形态？社区 DartNative 要来了。",
-      "url": "https://juejin.cn/post/7672292709405999147",
-      "last_hot_value": "热度:387",
-      "first_seen_at": "2026-08-11T12:00:47",
-      "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 5,
+      "title": "前端转Java+AI全栈？那我推荐几个实战开源项目给你",
+      "url": "https://juejin.cn/post/7671992319080431631",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-08-12T10:12:16",
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "一行代码没写，我用AI做了一个可以收费产品",
@@ -207,7 +217,7 @@
       "last_hot_value": "热度:333",
       "first_seen_at": "2026-08-11T08:36:17",
       "last_seen_at": "2026-08-12T09:08:30",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -219,6 +229,16 @@
       "last_seen_at": "2026-08-09T23:53:08",
       "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "你的 iOS 最低部署版本即将不再被 App Store 接受",
+      "url": "https://juejin.cn/post/7671964740780703750",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-08-12T09:08:30",
+      "last_seen_at": "2026-08-12T10:12:16",
+      "consecutive_count": 2,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -252,11 +272,11 @@
       "is_new": false
     },
     {
-      "title": "你的 iOS 最低部署版本即将不再被 App Store 接受",
-      "url": "https://juejin.cn/post/7671964740780703750",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-08-12T09:08:30",
-      "last_seen_at": "2026-08-12T09:08:30",
+      "title": "🔥 Network 里那坨 \"data:\" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂",
+      "url": "https://juejin.cn/post/7672224177785995298",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-08-12T10:12:16",
+      "last_seen_at": "2026-08-12T10:12:16",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
