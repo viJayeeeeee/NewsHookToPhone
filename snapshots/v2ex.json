@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-12T00:53:09",
+  "update_time": "2026-08-12T03:19:23",
   "items": [
+    {
+      "title": "死了，客户的数据被删光了",
+      "url": "https://www.v2ex.com/t/1233521",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T12:00:44",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "cursor free 了吗， claude 蹬了一天了，百分比一直没涨过",
       "url": "https://www.v2ex.com/t/1233703#reply1",
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T00:53:09",
       "last_seen_at": "2026-08-12T00:53:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "在“减肥”这个话题下刷“能量守恒”的人，可能要刷新一下认知了",
@@ -62,14 +72,24 @@
       "is_new": false
     },
     {
+      "title": "被电梯低频噪音折腾近一年，我从写程序定位一路走到了法院",
+      "url": "https://www.v2ex.com/t/1233470",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T07:28:41",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "Mac Chrome 启动慢。 bitwarden 插件点开也得等个十几秒钟。是因为啥。",
       "url": "https://www.v2ex.com/t/1233704#reply0",
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T00:53:09",
       "last_seen_at": "2026-08-12T00:53:09",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "有没有人觉得 Codex 现在变成这种随机重置的模式，让人很不舒服",
@@ -112,6 +132,16 @@
       "is_new": false
     },
     {
+      "title": "重生之从牡丹去春熙路做手工到找到一个爱自己的女朋友，从减肥开始！",
+      "url": "https://www.v2ex.com/t/1233505",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-11T08:36:15",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "“万一免五”股票 ETF 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.11 日~8.17 日]",
       "url": "https://www.v2ex.com/t/1233404",
       "last_hot_value": "",
@@ -140,6 +170,16 @@
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "想买 watch 的心达到了顶峰",
+      "url": "https://www.v2ex.com/t/1233581",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:23",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "重新掌握信息选择权， AI 原生 RSS 阅读器分享，送永久会员",
@@ -172,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "死了，客户的数据被删光了",
-      "url": "https://www.v2ex.com/t/1233521",
+      "title": "吃了 5 6 7 次饭了，还没有牵上手，继续吗",
+      "url": "https://www.v2ex.com/t/1233675",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-11T12:00:44",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-12T03:19:23",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "程序员怎么才能找到 965 的工作",
@@ -202,14 +242,14 @@
       "is_new": false
     },
     {
-      "title": "被电梯低频噪音折腾近一年，我从写程序定位一路走到了法院",
-      "url": "https://www.v2ex.com/t/1233470",
+      "title": "[Air Router] Claude Max 缓存读取 5 折的中转站! GPT Plus 0.1, Pro 0.2, Grok 0.1, 留言 ID 得 10$额度",
+      "url": "https://www.v2ex.com/t/1233589",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-11T07:28:41",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-12T03:19:23",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "探讨一下 [喝水都胖] 到底存不存在",
@@ -232,14 +272,14 @@
       "is_new": false
     },
     {
-      "title": "重生之从牡丹去春熙路做手工到找到一个爱自己的女朋友，从减肥开始！",
-      "url": "https://www.v2ex.com/t/1233505",
+      "title": "底层人为什么完不成原始资本积累？",
+      "url": "https://www.v2ex.com/t/1233726",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-11T08:36:15",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-12T03:19:23",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "普通程序员用在 AI 方面的费用大概有多少了",
@@ -260,6 +300,16 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "感觉长沙几乎没有岗位了啊",
+      "url": "https://www.v2ex.com/t/1233489",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:23",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "你会选择哪个颜色代表夏天？",
@@ -290,6 +340,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "我从 157.3kg 减到 67.5kg，减肥其实就是戒🐷瘾，看站里好多减肥的帖子有感",
+      "url": "https://www.v2ex.com/t/1233593",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:23",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "聊聊我从赚 5 万到亏 6 万的的经历",
@@ -340,6 +400,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "上个月迟到被扣了 950",
+      "url": "https://www.v2ex.com/t/1233605",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:23",
+      "last_seen_at": "2026-08-12T03:19:23",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "大家还有在坚持使用 qq 嘛？为什么？",

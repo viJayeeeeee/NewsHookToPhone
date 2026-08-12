@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-12T00:53:14",
+  "update_time": "2026-08-12T03:19:29",
   "items": [
+    {
+      "title": "小艺开放平台Skill开发：从创建到真机测试与发布",
+      "url": "https://ost.51cto.com/posts/54942",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HarmonyOS7.0 Share Kit碰一碰位置信息指南 #智绘鸿蒙·大有“视”界#",
       "url": "https://ost.51cto.com/posts/54907",
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T12:00:50",
-      "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,12 +62,22 @@
       "is_new": false
     },
     {
+      "title": "Codex每次重连五次？一招彻底解决！",
+      "url": "https://www.51cto.com/article/852636.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "《可可图片编辑》HarmonyOS 上接图片超分的全过程#智绘鸿蒙·大有“视”界#",
       "url": "https://ost.51cto.com/posts/54906",
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T12:00:50",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,7 +87,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,12 +102,22 @@
       "is_new": false
     },
     {
+      "title": "AI 编程：建立变更契约，让需求迭代可追溯不返工，PRD 和原型不再整份重写",
+      "url": "https://www.51cto.com/article/852725.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "好的 Harness，先把缓存命中做好",
       "url": "https://www.51cto.com/article/852619.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -100,6 +130,16 @@
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "OpenAI花470亿大规模回购股票，高管火速跳车离场！",
+      "url": "https://www.51cto.com/article/852724.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "# 智绘鸿蒙·大有“视”界# HarmonyOS7 新闻图用 AI 超分，算不算篡改？顺便把这个页面讲透",
@@ -122,6 +162,16 @@
       "is_new": false
     },
     {
+      "title": "看不见的地址翻译：虚拟内存、TLB 和 NUMA 怎样拖慢高性能程序？",
+      "url": "https://www.51cto.com/article/852723.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS 6 上玩转 3DGS：从端侧重建到模拟器加载 3D 模型的初体验",
       "url": "https://ost.51cto.com/posts/54895",
       "last_hot_value": "",
@@ -142,12 +192,22 @@
       "is_new": false
     },
     {
+      "title": "我攒的AI技能包，终于不用在三个文件夹里各存一份了",
+      "url": "https://www.51cto.com/article/852722.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Kubernetes 的 15 大典型应用场景：从微服务到 AI，让你彻底搞懂 K8s 的真正价值",
       "url": "https://www.51cto.com/article/852616.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -162,12 +222,22 @@
       "is_new": false
     },
     {
+      "title": "阿里开源了一套让 Skill 从\"能用\"到\"可交付\"的完整方案",
+      "url": "https://www.51cto.com/article/852721.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "DuckDB 保姆级教程：从第一条 SQL 到千万行电商经营分析，一篇讲透",
       "url": "https://www.51cto.com/article/852609.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -182,12 +252,22 @@
       "is_new": false
     },
     {
+      "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
+      "url": "https://www.51cto.com/article/852720.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "告别翻阅海量运维文档！这套 K8s‑RAG‑AIOps，内网离线实现集群智能故障排查",
       "url": "https://www.51cto.com/article/852608.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -202,12 +282,22 @@
       "is_new": false
     },
     {
+      "title": "刚刚，林俊旸官宣创业公司Pragmatik Labs！",
+      "url": "https://www.51cto.com/article/852719.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-12T03:19:29",
+      "last_seen_at": "2026-08-12T03:19:29",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "微软确认暂不为 Windows 11 加入透明效果自定义功能，建议用户使用第三方工具",
       "url": "https://www.51cto.com/article/852607.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -227,7 +317,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
