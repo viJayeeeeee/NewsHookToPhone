@@ -1,53 +1,23 @@
 {
-  "update_time": "2026-08-11T17:16:43",
+  "update_time": "2026-08-12T14:10:12",
   "items": [
-    {
-      "title": "奥德赛",
-      "url": "https://movie.douban.com/subject/36808876/",
-      "last_hot_value": "8.3",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "年会不能停！2",
-      "url": "https://movie.douban.com/subject/36850814/",
-      "last_hot_value": "6.7",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-09T20:52:25",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "大唐妖探",
       "url": "https://movie.douban.com/subject/35464353/",
       "last_hot_value": "0.0",
       "first_seen_at": "2026-08-11T17:16:43",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-12T14:10:12",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "最后孤屋",
       "url": "https://movie.douban.com/subject/36877284/",
       "last_hot_value": "5.5",
       "first_seen_at": "2026-08-11T17:16:43",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "群星闪耀时",
-      "url": "https://movie.douban.com/subject/35875462/",
-      "last_hot_value": "7.4",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-09T20:52:25",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-12T14:10:12",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
@@ -56,18 +26,8 @@
       "url": "https://movie.douban.com/subject/36767846/",
       "last_hot_value": "6.6",
       "first_seen_at": "2026-08-11T17:16:43",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "群体",
-      "url": "https://movie.douban.com/subject/37096700/",
-      "last_hot_value": "6.1",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-12T14:10:12",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
@@ -76,59 +36,9 @@
       "url": "https://movie.douban.com/subject/36965301/",
       "last_hot_value": "7.2",
       "first_seen_at": "2026-08-11T17:16:43",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-12T14:10:12",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "寒战1994",
-      "url": "https://movie.douban.com/subject/36857924/",
-      "last_hot_value": "7.0",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 6,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "10间敢死队",
-      "url": "https://movie.douban.com/subject/37379599/",
-      "last_hot_value": "6.7",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-09T20:52:25",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "利未记",
-      "url": "https://movie.douban.com/subject/37559942/",
-      "last_hot_value": "7.0",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 6,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "永远心跳漏一拍",
-      "url": "https://movie.douban.com/subject/37326018/",
-      "last_hot_value": "7.4",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-09T20:52:25",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "今晚正好",
-      "url": "https://movie.douban.com/subject/37317133/",
-      "last_hot_value": "6.0",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-09T20:52:25",
-      "consecutive_count": 0,
-      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -136,18 +46,8 @@
       "url": "https://movie.douban.com/subject/36912404/",
       "last_hot_value": "7.5",
       "first_seen_at": "2026-08-11T17:16:43",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "超级少女",
-      "url": "https://movie.douban.com/subject/36225840/",
-      "last_hot_value": "5.1",
-      "first_seen_at": "2026-08-09T05:44:25",
-      "last_seen_at": "2026-08-09T20:52:25",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-12T14:10:12",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
@@ -156,10 +56,10 @@
       "url": "https://movie.douban.com/subject/36860212/",
       "last_hot_value": "6.4",
       "first_seen_at": "2026-08-11T17:16:43",
-      "last_seen_at": "2026-08-11T17:16:43",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-12T14:10:12",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
