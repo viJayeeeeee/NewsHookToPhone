@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-11T20:12:15",
+  "update_time": "2026-08-12T00:53:12",
   "items": [
     {
       "title": "【金仓数据库征文】MySQL至金仓KES异构数据库平滑迁移与性能深度调优实战",
       "url": "https://blog.csdn.net/2401_87042472/article/details/163609729",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "2.0w",
       "first_seen_at": "2026-08-11T06:12:45",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "Smart Mermaid部署：用AI将文本转换为Mermaid图表",
       "url": "https://blog.csdn.net/user340/article/details/163635805",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-11T06:12:45",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,22 +32,32 @@
       "is_new": false
     },
     {
-      "title": "【Linux】两个毫无关系的进程怎么通信？命名管道 FIFO 从原理到 Server/Client 实战",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/163596007",
+      "title": "CentOS部署Kafka：ZooKeeper启动、消息测试与远程调试",
+      "url": "https://blog.csdn.net/SDFsoul/article/details/163671162",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-11T20:12:15",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenClaw 测试策略实战：AI Agent 自动化测试体系搭建与落地",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/163612055",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 7,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "【Linux】两个毫无关系的进程怎么通信？命名管道 FIFO 从原理到 Server/Client 实战",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/163596007",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-11T20:12:15",
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -84,10 +94,10 @@
     {
       "title": "【Linux 网络篇】数据的 “循环系统“：协议认识与网络传输的流程",
       "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163627074",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-11T12:00:48",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -114,10 +124,10 @@
     {
       "title": "CentOS部署Jenkins：结合cpolar实现Webhook自动构建与发布",
       "url": "https://blog.csdn.net/2501_91062530/article/details/163664797",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-11T08:36:18",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -137,7 +147,7 @@
       "last_hot_value": "8305",
       "first_seen_at": "2026-08-11T06:12:45",
       "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -164,22 +174,12 @@
     {
       "title": "【《智能驾驶拆解笔记：老周唠透车圈AI》第5篇】",
       "url": "https://blog.csdn.net/weixin_62244995/article/details/162998983",
-      "last_hot_value": "9342",
+      "last_hot_value": "9272",
       "first_seen_at": "2026-08-11T08:36:18",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
-    },
-    {
-      "title": "CentOS部署Kafka：ZooKeeper启动、消息测试与远程调试",
-      "url": "https://blog.csdn.net/SDFsoul/article/details/163671162",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-11T20:12:15",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
     },
     {
       "title": "【金仓数据库征文】MySQL迁移人大金仓V9异构迁移全链路性能调优与稳定性保障",
@@ -194,10 +194,10 @@
     {
       "title": "awesome-llm-apps 开源项目详解：100+ AI Agent 与 RAG 模板一键复用",
       "url": "https://blog.csdn.net/zhangay1998/article/details/162974701",
-      "last_hot_value": "8289",
+      "last_hot_value": "8121",
       "first_seen_at": "2026-08-11T06:12:45",
-      "last_seen_at": "2026-08-11T20:12:15",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 6,
       "peak_rank": 8,
       "is_new": false
     },
@@ -250,6 +250,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "CentOS部署Postgres Exporter：监控PostgreSQL并接入Prometheus",
+      "url": "https://blog.csdn.net/weixin_44976692/article/details/163666074",
+      "last_hot_value": "7979",
+      "first_seen_at": "2026-08-12T00:53:12",
+      "last_seen_at": "2026-08-12T00:53:12",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
