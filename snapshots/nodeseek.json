@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-12T03:19:38",
+  "update_time": "2026-08-12T09:08:42",
   "items": [
     {
       "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
       "url": "https://www.nodeseek.com/post-865242-1",
       "last_hot_value": "查看:12440 回复:179",
       "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,52 +22,12 @@
       "is_new": false
     },
     {
-      "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
-      "url": "https://www.nodeseek.com/post-824558-1",
-      "last_hot_value": "查看:7344 回复:125",
-      "first_seen_at": "2026-08-09T07:34:53",
-      "last_seen_at": "2026-08-10T13:59:18",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:210522 回复:2832",
-      "first_seen_at": "2026-08-09T07:34:53",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 10,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:226420 回复:2076",
-      "first_seen_at": "2026-08-09T07:34:53",
-      "last_seen_at": "2026-08-11T12:00:58",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
       "url": "https://www.nodeseek.com/post-68572-1",
       "last_hot_value": "查看:105239 回复:623",
       "first_seen_at": "2026-08-12T00:53:21",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "eSIM 折腾留存记+一点补充心得",
-      "url": "https://www.nodeseek.com/post-783926-1",
-      "last_hot_value": "查看:8845 回复:123",
-      "first_seen_at": "2026-08-09T07:34:53",
-      "last_seen_at": "2026-08-10T13:59:18",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -76,8 +36,8 @@
       "url": "https://www.nodeseek.com/post-608195-1",
       "last_hot_value": "查看:4537 回复:72",
       "first_seen_at": "2026-08-11T20:12:25",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -86,8 +46,8 @@
       "url": "https://www.nodeseek.com/post-513202-1",
       "last_hot_value": "查看:4252 回复:65",
       "first_seen_at": "2026-08-11T20:12:25",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -106,18 +66,8 @@
       "url": "https://www.nodeseek.com/post-724033-1",
       "last_hot_value": "查看:3519 回复:37",
       "first_seen_at": "2026-08-11T20:12:25",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 3,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
-      "url": "https://www.nodeseek.com/post-105666-1",
-      "last_hot_value": "查看:104644 回复:269",
-      "first_seen_at": "2026-08-09T07:34:53",
-      "last_seen_at": "2026-08-10T13:59:18",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -126,8 +76,8 @@
       "url": "https://www.nodeseek.com/post-663329-1",
       "last_hot_value": "查看:2069 回复:23",
       "first_seen_at": "2026-08-11T20:12:25",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -136,8 +86,8 @@
       "url": "https://www.nodeseek.com/post-645982-1",
       "last_hot_value": "查看:9413 回复:160",
       "first_seen_at": "2026-08-11T20:12:25",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
@@ -156,8 +106,8 @@
       "url": "https://www.nodeseek.com/post-609880-1",
       "last_hot_value": "查看:2338 回复:29",
       "first_seen_at": "2026-08-11T20:12:25",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
@@ -176,8 +126,8 @@
       "url": "https://www.nodeseek.com/post-588373-1",
       "last_hot_value": "查看:1455 回复:15",
       "first_seen_at": "2026-08-11T20:12:25",
-      "last_seen_at": "2026-08-12T03:19:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-12T09:08:42",
+      "consecutive_count": 4,
       "peak_rank": 10,
       "is_new": false
     },
