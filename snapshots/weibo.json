@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-13T00:01:40",
+  "update_time": "2026-08-13T16:23:10",
   "items": [
+    {
+      "title": "邹市明辟谣",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E8%BE%9F%E8%B0%A3%23",
+      "last_hot_value": "2637088",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "朱镕基同志逝世",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23",
       "last_hot_value": "989052",
       "first_seen_at": "2026-08-12T11:15:52",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,24 +42,14 @@
       "is_new": false
     },
     {
-      "title": "王宝强0票",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8%23",
-      "last_hot_value": "18983053",
-      "first_seen_at": "2026-08-10T14:54:22",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "百花奖闭幕式",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%23",
-      "last_hot_value": "7035162",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T12:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "高校通报辅导员发布不当言论",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E8%BE%85%E5%AF%BC%E5%91%98%E5%8F%91%E5%B8%83%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23",
+      "last_hot_value": "951531",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "胖东来许昌老店关闭周边商户发声",
@@ -57,9 +57,9 @@
       "last_hot_value": "986521",
       "first_seen_at": "2026-08-13T00:01:40",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Lululemon劲敌来中国了",
@@ -67,7 +67,7 @@
       "last_hot_value": "264518",
       "first_seen_at": "2026-08-12T18:10:34",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -112,24 +112,14 @@
       "is_new": false
     },
     {
-      "title": "易烊千玺百花奖最佳男主",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%23",
-      "last_hot_value": "7415015",
-      "first_seen_at": "2026-08-10T14:54:22",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "白海豚突然大拐弯",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8B%90%E5%BC%AF%23",
-      "last_hot_value": "1274368",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "紧急预拨8000万支持3省抢险救灾",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A88000%E4%B8%87%E6%94%AF%E6%8C%813%E7%9C%81%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%23",
+      "last_hot_value": "801402",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "60万亿元消费蓝海要来了",
@@ -137,7 +127,7 @@
       "last_hot_value": "971747",
       "first_seen_at": "2026-08-12T18:10:34",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -172,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "深圳向世界展示中国开放活力",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%90%91%E4%B8%96%E7%95%8C%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%9B%23",
-      "last_hot_value": "5064338",
-      "first_seen_at": "2026-08-10T14:54:22",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "长江十年行",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E5%8D%81%E5%B9%B4%E8%A1%8C%23",
-      "last_hot_value": "1306724",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T12:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "田曦薇胡一天吻戏是我能看的吗",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%83%A1%E4%B8%80%E5%A4%A9%E5%90%BB%E6%88%8F%E6%98%AF%E6%88%91%E8%83%BD%E7%9C%8B%E7%9A%84%E5%90%97%23",
+      "last_hot_value": "783371",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "威少宣布退役",
@@ -197,9 +177,9 @@
       "last_hot_value": "959958",
       "first_seen_at": "2026-08-13T00:01:40",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "喜欢穿洞洞鞋的人天塌了",
@@ -232,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "卫诗雅百花奖最佳女主",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E8%AF%97%E9%9B%85%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%23",
-      "last_hot_value": "3395785",
-      "first_seen_at": "2026-08-10T14:54:22",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "世界小姐雅典娜确认遇害细节公开",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%B0%8F%E5%A7%90%E9%9B%85%E5%85%B8%E5%A8%9C%E7%A1%AE%E8%AE%A4%E9%81%87%E5%AE%B3%E7%BB%86%E8%8A%82%E5%85%AC%E5%BC%80%23",
-      "last_hot_value": "1243388",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T12:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "Bin BLG",
+      "url": "https://s.weibo.com/weibo?q=%23Bin+BLG%23",
+      "last_hot_value": "371574",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "41国所谓涉华声明不过是废纸一张",
@@ -257,9 +227,9 @@
       "last_hot_value": "505814",
       "first_seen_at": "2026-08-13T00:01:40",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "英仙座流星雨",
@@ -302,14 +272,14 @@
       "is_new": false
     },
     {
-      "title": "泰国 电诈园区",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD+%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%23",
-      "last_hot_value": "1772106",
-      "first_seen_at": "2026-08-10T14:54:22",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "张桂源张函瑞 眼鼻嘴",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%E5%BC%A0%E5%87%BD%E7%91%9E+%E7%9C%BC%E9%BC%BB%E5%98%B4%23",
+      "last_hot_value": "339255",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "上半年全国离婚登记138.3万对",
@@ -317,9 +287,9 @@
       "last_hot_value": "445700",
       "first_seen_at": "2026-08-13T00:01:40",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "胚胎案妻子回应丈夫花百万救命",
@@ -327,7 +297,7 @@
       "last_hot_value": "284972",
       "first_seen_at": "2026-08-12T21:41:09",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -337,7 +307,7 @@
       "last_hot_value": "259310",
       "first_seen_at": "2026-08-12T18:10:34",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -362,24 +332,14 @@
       "is_new": false
     },
     {
-      "title": "百花奖获奖名单",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23",
-      "last_hot_value": "1644944",
-      "first_seen_at": "2026-08-10T14:54:22",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "河南大暴雨特大暴雨",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E6%9A%B4%E9%9B%A8%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%23",
-      "last_hot_value": "945723",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T12:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "深圳女生一天1500专门劝人别买房",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A5%B3%E7%94%9F%E4%B8%80%E5%A4%A91500%E4%B8%93%E9%97%A8%E5%8A%9D%E4%BA%BA%E5%88%AB%E4%B9%B0%E6%88%BF%23",
+      "last_hot_value": "293667",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "DeepSeek发布V4Pro正式版",
@@ -422,14 +382,14 @@
       "is_new": false
     },
     {
-      "title": "百花奖内场座位图",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E5%86%85%E5%9C%BA%E5%BA%A7%E4%BD%8D%E5%9B%BE%23",
-      "last_hot_value": "925388",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T12:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "Whiplash直拍",
+      "url": "https://s.weibo.com/weibo?q=%23Whiplash%E7%9B%B4%E6%8B%8D%23",
+      "last_hot_value": "265071",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "虞书欣丁禹兮 我欲乘风",
@@ -437,7 +397,7 @@
       "last_hot_value": "245615",
       "first_seen_at": "2026-08-12T18:10:34",
       "last_seen_at": "2026-08-13T00:01:40",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -482,24 +442,14 @@
       "is_new": false
     },
     {
-      "title": "原来这才是金项链的正确戴法",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E6%98%AF%E9%87%91%E9%A1%B9%E9%93%BE%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%88%B4%E6%B3%95%23",
-      "last_hot_value": "1007560",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "白海豚 洗衣凝珠视角",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A+%E6%B4%97%E8%A1%A3%E5%87%9D%E7%8F%A0%E8%A7%86%E8%A7%92%23",
-      "last_hot_value": "912965",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T12:34:44",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "iPhone18系列发布节奏确认",
+      "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23",
+      "last_hot_value": "222876",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "湖人售价120亿美元",
@@ -542,14 +492,14 @@
       "is_new": false
     },
     {
-      "title": "5万元以下小车销量暴跌55%",
-      "url": "https://s.weibo.com/weibo?q=%235%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E5%B0%8F%E8%BD%A6%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C55%25%23",
-      "last_hot_value": "1007518",
-      "first_seen_at": "2026-08-10T14:54:22",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "胖东来闭店一天整条街都没人出摊",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E9%97%AD%E5%BA%97%E4%B8%80%E5%A4%A9%E6%95%B4%E6%9D%A1%E8%A1%97%E9%83%BD%E6%B2%A1%E4%BA%BA%E5%87%BA%E6%91%8A%23",
+      "last_hot_value": "220083",
+      "first_seen_at": "2026-08-13T16:23:10",
+      "last_seen_at": "2026-08-13T16:23:10",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "花开锦绣热度",
@@ -597,26 +547,6 @@
       "last_hot_value": "439160",
       "first_seen_at": "2026-08-11T09:36:44",
       "last_seen_at": "2026-08-11T09:36:44",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "KPL",
-      "url": "https://s.weibo.com/weibo?q=%23KPL%23",
-      "last_hot_value": "1006577",
-      "first_seen_at": "2026-08-10T14:54:22",
-      "last_seen_at": "2026-08-10T14:54:22",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "无畏向吴老狗请教驯兽秘籍",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%90%91%E5%90%B4%E8%80%81%E7%8B%97%E8%AF%B7%E6%95%99%E9%A9%AF%E5%85%BD%E7%A7%98%E7%B1%8D%23",
-      "last_hot_value": "710920",
-      "first_seen_at": "2026-08-10T12:34:44",
-      "last_seen_at": "2026-08-10T12:34:44",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
