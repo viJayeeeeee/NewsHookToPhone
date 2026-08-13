@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-12T17:15:06",
+  "update_time": "2026-08-13T20:07:51",
   "items": [
+    {
+      "title": "一台安卓手机能跑AI Agent到什么程度？",
+      "url": "https://blog.csdn.net/qq_61024956/article/details/163665196",
+      "last_hot_value": "3.0w",
+      "first_seen_at": "2026-08-12T17:15:06",
+      "last_seen_at": "2026-08-13T20:07:51",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Zookeeper - Java API 实现节点的创建与删除开发",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157688811",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-08-12T09:08:32",
       "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-11T20:12:15",
       "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-11T08:36:18",
       "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,6 +62,16 @@
       "is_new": false
     },
     {
+      "title": "基于DolphinDB的生产数据分析与优化实战——从OEE到成本的全链路分析体系",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/163707387",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-13T20:07:51",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "【Linux】两个毫无关系的进程怎么通信？命名管道 FIFO 从原理到 Server/Client 实战",
       "url": "https://blog.csdn.net/2402_87731470/article/details/163596007",
       "last_hot_value": "1.2w",
@@ -62,44 +82,24 @@
       "is_new": false
     },
     {
-      "title": "OpenClaw 测试策略实战：AI Agent 自动化测试体系搭建与落地",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/163612055",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-12T03:19:28",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "一台安卓手机能跑AI Agent到什么程度？",
-      "url": "https://blog.csdn.net/qq_61024956/article/details/163665196",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-12T17:15:06",
-      "last_seen_at": "2026-08-12T17:15:06",
+      "title": "【Linux网络】深入TCP 协议（一）：从报头结构到可靠性机制",
+      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163691135",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-13T20:07:51",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
     },
     {
-      "title": "GitHub 热榜项目 - 周榜(2026-08-08)",
-      "url": "https://blog.csdn.net/u014390502/article/details/163583883",
+      "title": "【Cookie与Session】无状态 HTTP 如何“记住“你？——从 Cookie 协议到分布式 Session",
+      "url": "https://blog.csdn.net/2302_80243065/article/details/163692595",
       "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】基于Cursor 实现自然语言自动化运维实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163450471",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-12T10:12:19",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-13T20:07:51",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【Linux 网络篇】数据的 “循环系统“：协议认识与网络传输的流程",
@@ -112,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "KingbaseES多模架构下的MongoDB迁移方案",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/163592630",
+      "title": "AIRI 完全指南：Electron + Capacitor 多端自托管 LLM 虚拟角色",
+      "url": "https://blog.csdn.net/zhangay1998/article/details/163082242",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-09T23:53:10",
-      "last_seen_at": "2026-08-10T13:59:08",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-13T20:07:51",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "当AI开始自主攻击，你的AI防御跟上了吗？",
@@ -127,9 +127,9 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-12T17:15:06",
       "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "CentOS部署Jenkins：结合cpolar实现Webhook自动构建与发布",
@@ -137,7 +137,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-11T08:36:18",
       "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -152,21 +152,21 @@
       "is_new": false
     },
     {
-      "title": "从MongoDB迁移到KES：一次文档库国产化替换的实战手记",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/163618146",
+      "title": "DeepSeek Harness内测开启，AI Agent竞争升级",
+      "url": "https://blog.csdn.net/qq_19309473/article/details/163677009",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-12T09:08:32",
-      "last_seen_at": "2026-08-12T17:15:06",
+      "first_seen_at": "2026-08-12T10:12:19",
+      "last_seen_at": "2026-08-13T20:07:51",
       "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "【金仓数据库征文】从 MySQL 迁移到金仓数据库：哈工大智能造价项目的一次信创改造实践",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/163609837",
-      "last_hot_value": "8106",
-      "first_seen_at": "2026-08-09T23:53:10",
-      "last_seen_at": "2026-08-12T03:19:28",
+      "title": "从MongoDB迁移到KES：一次文档库国产化替换的实战手记",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/163618146",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-12T09:08:32",
+      "last_seen_at": "2026-08-12T17:15:06",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
@@ -182,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "AI 前沿日报 | 2026年08月08日 星期六",
-      "url": "https://blog.csdn.net/qq_36729037/article/details/163588873",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-09T23:53:10",
-      "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163695754",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-13T20:07:51",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【Linux网络】从0手写Reactor反应堆（三）：代码收尾、连接生命周期管理与多Reactor扩展思路",
@@ -197,9 +197,9 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-12T17:15:06",
       "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "awesome-llm-apps 开源项目详解：100+ AI Agent 与 RAG 模板一键复用",
@@ -212,24 +212,14 @@
       "is_new": false
     },
     {
-      "title": "【金仓数据库征文】MySQL迁移人大金仓V9异构迁移全链路性能调优与稳定性保障",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/163606266",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-10T13:59:08",
-      "last_seen_at": "2026-08-11T07:28:45",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek Harness内测开启，AI Agent竞争升级",
-      "url": "https://blog.csdn.net/qq_19309473/article/details/163677009",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-12T10:12:19",
-      "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 2,
+      "title": "Linux 从0到1部署Jenkins + Docker 实现CICD自动化实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/162806000",
+      "last_hot_value": "8920",
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-13T20:07:51",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【计算机网络 | 第四章】网络层",
@@ -252,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "【计算几何 八章】排列与对偶：光线跟踪超采样",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/163506263",
+      "last_hot_value": "8910",
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-13T20:07:51",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "PyTorch计算机视觉——WGAN-GP在图像生成中的应用",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/162238763",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-12T17:15:06",
       "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "CentOS部署Postgres Exporter：监控PostgreSQL并接入Prometheus",
@@ -282,14 +282,14 @@
       "is_new": false
     },
     {
-      "title": "【金仓数据库征文】M4 Mac上把Spring Boot + MyBatis接到KingbaseES:一次带事务和并发扣库存的实测",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163593545",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-09T23:53:10",
-      "last_seen_at": "2026-08-09T23:53:10",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "SpringBoot3+Vue3 会议室预订系统：时段冲突三模式检测 + 会前定时提醒与 cancelByBiz",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/163713149",
+      "last_hot_value": "8901",
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-13T20:07:51",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【Linux网络】从0手写Reactor反应堆（二）：完善核心细节——ET非阻塞读写、分层架构与回调机制",

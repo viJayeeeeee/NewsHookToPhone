@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-12T17:15:08",
+  "update_time": "2026-08-13T20:07:53",
   "items": [
+    {
+      "title": "HarmonyOS BindPopup实战手册：从图标提示到引导蒙层，一套完整的气泡解决方案",
+      "url": "https://ost.51cto.com/posts/55011",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【鸿蒙实战】第 05 篇：鸿蒙网络请求架构实战——@ohos.net.http 到 Axios 封装、拦截器与统一错误处理",
       "url": "https://ost.51cto.com/posts/54949",
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T09:08:34",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:29",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,24 +62,14 @@
       "is_new": false
     },
     {
-      "title": "【鸿蒙实战】第 03 篇：ArkUI 列表性能实战——为什么 200 条数据页面掉到 20fps，LazyForEach 怎么救?",
-      "url": "https://ost.51cto.com/posts/54884",
+      "title": "鸿蒙Canvas渐变填充实战：从入门到精通，让你的图形告别\"塑料感\"",
+      "url": "https://ost.51cto.com/posts/55010",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "鸿蒙截图工具开发实战 03：Ctrl+1 按下之后——screenshot.capture() 和\"不能截到自己\"",
-      "url": "https://ost.51cto.com/posts/54879",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-09T23:53:11",
-      "last_seen_at": "2026-08-09T23:53:11",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
@@ -77,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T09:08:34",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -87,7 +87,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:29",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -112,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS应用上架（一）：配置调试签名并完成真机调试",
-      "url": "https://ost.51cto.com/posts/54883",
+      "title": "GDB+AI 崩溃诊断：Core Dump 分析时间从 30 分钟降到 3 分钟",
+      "url": "https://www.51cto.com/article/852887.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "文生图Scaling新变量，被字节Seed团队发现了",
@@ -127,7 +127,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T09:08:34",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -137,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:29",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -152,14 +152,14 @@
       "is_new": false
     },
     {
-      "title": "Sonnet 5.5大泄露！对标DeepSeek，新一代性价比之王",
-      "url": "https://www.51cto.com/article/852453.html",
+      "title": "EFK+DeepSeek 实战：基于 Docker Compose 搭建智能日志根因分析平台",
+      "url": "https://www.51cto.com/article/852871.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "OpenAI花470亿大规模回购股票，高管火速跳车离场！",
@@ -167,7 +167,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:29",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -182,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "奥特曼笑疯！Claude Code之父「挖角」OpenAI网红高管，惨遭秒拒",
-      "url": "https://www.51cto.com/article/852451.html",
+      "title": "简历上写精通 Raft算法，为什么经常被淘汰？",
+      "url": "https://www.51cto.com/article/852869.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "看不见的地址翻译：虚拟内存、TLB 和 NUMA 怎样拖慢高性能程序？",
@@ -197,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:29",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -212,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "KV缓存都命中了,为什么首token延迟还是很高?",
-      "url": "https://www.51cto.com/article/852428.html",
+      "title": "滴滴一面：怎么做好 Harness？大部分面试者的回答只停留在怎么用，没有回答的更系统",
+      "url": "https://www.51cto.com/article/852865.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "我攒的AI技能包，终于不用在三个文件夹里各存一份了",
@@ -227,7 +227,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:29",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -242,14 +242,14 @@
       "is_new": false
     },
     {
-      "title": "LSTM之父最新97页综述：Agent如何真正学会「自我进化」？",
-      "url": "https://www.51cto.com/article/852450.html",
+      "title": "肉眼根本看不见！一文看懂 Claude 是怎么在你的文字里偷偷“做手脚”的！",
+      "url": "https://www.51cto.com/article/852864.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "阿里开源了一套让 Skill 从\"能用\"到\"可交付\"的完整方案",
@@ -257,7 +257,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:29",
       "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -272,14 +272,14 @@
       "is_new": false
     },
     {
-      "title": "让生成式模型「画」出空间智能，而非强迫LLM输出「坐标」! 浙大提出Agentic空间认知评估框架",
-      "url": "https://www.51cto.com/article/852426.html",
+      "title": "给机器人一个会预测未来的Critic，VLA强化学习直接起飞",
+      "url": "https://www.51cto.com/article/852863.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
@@ -302,14 +302,14 @@
       "is_new": false
     },
     {
-      "title": "刚刚，OpenAI最大预训练模型Doug曝光",
-      "url": "https://www.51cto.com/article/852425.html",
+      "title": "Cloudflare财报会上刚认了，现在点开你文章的，一半可能不是人",
+      "url": "https://www.51cto.com/article/852862.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "刚刚，林俊旸官宣创业公司Pragmatik Labs！",
@@ -332,14 +332,14 @@
       "is_new": false
     },
     {
-      "title": "前OpenAI研究员看空大模型公司，Dwarkesh发文反驳：AGI会自己找工作",
-      "url": "https://www.51cto.com/article/852424.html",
+      "title": "720美元套出A社死藏的Opus原始思维链，还是Haiku泄露的，GPT/Gemini也中招",
+      "url": "https://www.51cto.com/article/852861.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-08-13T20:07:53",
+      "last_seen_at": "2026-08-13T20:07:53",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "Claude Opus 5 在最新基准测试中将间接提示注入攻击成功率降至 2%",
@@ -347,16 +347,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-11T06:12:46",
       "last_seen_at": "2026-08-12T00:53:14",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-      "url": "https://www.51cto.com/article/852423.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-10T13:59:10",
-      "last_seen_at": "2026-08-10T13:59:10",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
