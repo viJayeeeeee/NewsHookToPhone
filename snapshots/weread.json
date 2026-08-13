@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-13T10:26:51",
+  "update_time": "2026-08-13T17:20:24",
   "items": [
     {
       "title": "朱镕基讲话实录（全四卷）",
       "url": "",
-      "last_hot_value": "6379人在读",
+      "last_hot_value": "6961人在读",
       "first_seen_at": "2026-08-13T03:23:28",
-      "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,17 +17,27 @@
       "last_hot_value": "1567人在读",
       "first_seen_at": "2026-08-11T21:04:49",
       "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "福格行为模型",
+      "url": "",
+      "last_hot_value": "2120人在读",
+      "first_seen_at": "2026-08-13T08:07:30",
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 4,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "天真的人类学家",
       "url": "",
-      "last_hot_value": "1024人在读",
+      "last_hot_value": "1222人在读",
       "first_seen_at": "2026-08-13T03:23:28",
-      "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,17 +47,17 @@
       "last_hot_value": "1248人在读",
       "first_seen_at": "2026-08-11T21:04:49",
       "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "朱镕基讲话实录 第一卷",
       "url": "",
-      "last_hot_value": "755人在读",
+      "last_hot_value": "795人在读",
       "first_seen_at": "2026-08-13T03:23:28",
-      "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -62,32 +72,22 @@
       "is_new": false
     },
     {
-      "title": "福格行为模型",
-      "url": "",
-      "last_hot_value": "1528人在读",
-      "first_seen_at": "2026-08-13T08:07:30",
-      "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "4063人在读",
+      "last_hot_value": "3897人在读",
       "first_seen_at": "2026-08-13T08:07:30",
-      "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "我的帝王生涯",
       "url": "",
-      "last_hot_value": "3054人在读",
+      "last_hot_value": "2884人在读",
       "first_seen_at": "2026-08-12T05:10:37",
-      "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 7,
       "peak_rank": 4,
       "is_new": false
     },
@@ -142,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "工作、消费主义和新穷人",
+      "url": "",
+      "last_hot_value": "3062人在读",
+      "first_seen_at": "2026-08-13T08:07:30",
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 4,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "人鱼（黄杨钿甜、董勇主演同名影视剧原著）",
       "url": "",
-      "last_hot_value": "1447人在读",
+      "last_hot_value": "1446人在读",
       "first_seen_at": "2026-08-12T06:29:57",
-      "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 6,
       "peak_rank": 8,
       "is_new": false
     },
@@ -172,22 +182,22 @@
       "is_new": false
     },
     {
-      "title": "工作、消费主义和新穷人",
+      "title": "优势累积：给中国家庭的松弛父母课",
       "url": "",
-      "last_hot_value": "3029人在读",
-      "first_seen_at": "2026-08-13T08:07:30",
-      "last_seen_at": "2026-08-13T10:26:51",
-      "consecutive_count": 3,
+      "last_hot_value": "412人在读",
+      "first_seen_at": "2026-08-13T17:20:24",
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "白夜行",
       "url": "",
-      "last_hot_value": "7279人在读",
+      "last_hot_value": "6996人在读",
       "first_seen_at": "2026-08-11T10:31:09",
-      "last_seen_at": "2026-08-13T03:23:28",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-13T17:20:24",
+      "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": false
     }
