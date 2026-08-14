@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-14T13:33:34",
+  "update_time": "2026-08-14T22:51:31",
   "items": [
+    {
+      "title": "2026手机远程办公：向日葵、TeamViewer、ToDesk鸿蒙适配+传文件+AI审计功能对比",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/163734879",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-08-14T13:33:34",
+      "last_seen_at": "2026-08-14T22:51:31",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【Linux网络】深入TCP 协议（一）：从报头结构到可靠性机制",
       "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163691135",
-      "last_hot_value": "3.4w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-13T20:07:51",
-      "last_seen_at": "2026-08-14T13:33:34",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-14T22:51:31",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,24 +42,14 @@
       "is_new": false
     },
     {
-      "title": "CentOS部署Kafka：ZooKeeper启动、消息测试与远程调试",
-      "url": "https://blog.csdn.net/SDFsoul/article/details/163671162",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-11T20:12:15",
-      "last_seen_at": "2026-08-12T17:15:06",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "2026手机远程办公：向日葵、TeamViewer、ToDesk鸿蒙适配+传文件+AI审计功能对比",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/163734879",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-08-14T13:33:34",
-      "last_seen_at": "2026-08-14T13:33:34",
-      "consecutive_count": 1,
+      "title": "【Cookie与Session】无状态 HTTP 如何“记住“你？——从 Cookie 协议到分布式 Session",
+      "url": "https://blog.csdn.net/2302_80243065/article/details/163692595",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-14T22:51:31",
+      "consecutive_count": 3,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "基于DolphinDB的生产数据分析与优化实战——从OEE到成本的全链路分析体系",
@@ -57,28 +57,18 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-13T20:07:51",
       "last_seen_at": "2026-08-14T13:33:34",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【Linux】两个毫无关系的进程怎么通信？命名管道 FIFO 从原理到 Server/Client 实战",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/163596007",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-11T20:12:15",
-      "last_seen_at": "2026-08-12T10:12:19",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "【Cookie与Session】无状态 HTTP 如何“记住“你？——从 Cookie 协议到分布式 Session",
-      "url": "https://blog.csdn.net/2302_80243065/article/details/163692595",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-08-13T20:07:51",
-      "last_seen_at": "2026-08-14T13:33:34",
+      "title": "DM表空间深度解析：掌握达梦数据库存储架构与核心管理",
+      "url": "https://blog.csdn.net/qq_41840843/article/details/163722308",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-14T13:33:34",
+      "last_seen_at": "2026-08-14T22:51:31",
       "consecutive_count": 2,
-      "peak_rank": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -87,19 +77,19 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-14T13:33:34",
       "last_seen_at": "2026-08-14T13:33:34",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "DM表空间深度解析：掌握达梦数据库存储架构与核心管理",
-      "url": "https://blog.csdn.net/qq_41840843/article/details/163722308",
-      "last_hot_value": "1.3w",
+      "title": "【LangChain】核心技术：嵌入模型与向量存储完全指南",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/161828886",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-14T13:33:34",
-      "last_seen_at": "2026-08-14T13:33:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:31",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AIRI 完全指南：Electron + Capacitor 多端自托管 LLM 虚拟角色",
@@ -122,12 +112,22 @@
       "is_new": false
     },
     {
+      "title": "上下文工程实战：让 AI 在正确时间知道正确的事",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/163613979",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-14T22:51:31",
+      "last_seen_at": "2026-08-14T22:51:31",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "DeepSeek Harness内测开启，AI Agent竞争升级",
       "url": "https://blog.csdn.net/qq_19309473/article/details/163677009",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-12T10:12:19",
       "last_seen_at": "2026-08-14T13:33:34",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -142,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "复盘小站：用 Doubao-Seed-Evolving，把厚厚的笔记一键变成可复习、可自测、可批改的知识资产",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/163705906",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-14T22:51:31",
+      "last_seen_at": "2026-08-14T22:51:31",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "SpringBoot3+Flowable 审批条件分支实战：请假天数/金额如何编译成排他网关表达式",
       "url": "https://blog.csdn.net/zhouzhongyan/article/details/163734912",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-14T13:33:34",
       "last_seen_at": "2026-08-14T13:33:34",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
@@ -172,6 +182,16 @@
       "is_new": false
     },
     {
+      "title": "【MYSQL】MYSQL学习的一大重点：MySQL连接池原理与分析简易网站数据流动是如何进行",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163252580",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-14T22:51:31",
+      "last_seen_at": "2026-08-14T22:51:31",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "Linux 从0到1部署Jenkins + Docker 实现CICD自动化实战详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162806000",
       "last_hot_value": "8920",
@@ -182,14 +202,14 @@
       "is_new": false
     },
     {
-      "title": "【LangChain】核心技术：嵌入模型与向量存储完全指南",
-      "url": "https://blog.csdn.net/2503_91389547/article/details/161828886",
-      "last_hot_value": "1.1w",
+      "title": "中科院软件所实习的一周",
+      "url": "https://blog.csdn.net/2501_93736439/article/details/163731892",
+      "last_hot_value": "9417",
       "first_seen_at": "2026-08-14T13:33:34",
-      "last_seen_at": "2026-08-14T13:33:34",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:31",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【计算几何 八章】排列与对偶：光线跟踪超采样",
@@ -222,11 +242,11 @@
       "is_new": false
     },
     {
-      "title": "中科院软件所实习的一周",
-      "url": "https://blog.csdn.net/2501_93736439/article/details/163731892",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-14T13:33:34",
-      "last_seen_at": "2026-08-14T13:33:34",
+      "title": "Ubuntu部署GodoOS：Docker搭建Web办公桌面并实现远程访问",
+      "url": "https://blog.csdn.net/weixin_44976692/article/details/163725625",
+      "last_hot_value": "9356",
+      "first_seen_at": "2026-08-14T22:51:31",
+      "last_seen_at": "2026-08-14T22:51:31",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

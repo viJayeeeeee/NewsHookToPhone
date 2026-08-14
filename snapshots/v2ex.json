@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-08-14T13:33:30",
+  "update_time": "2026-08-14T22:51:27",
   "items": [
     {
       "title": "想起一件招笑的小事",
       "url": "https://www.v2ex.com/t/1234269",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T13:33:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:27",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "local.ai",
@@ -46,10 +46,10 @@
       "url": "https://www.v2ex.com/t/1234283",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T13:33:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:27",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
@@ -86,10 +86,10 @@
       "url": "https://www.v2ex.com/t/1234248",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T13:33:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:27",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "感觉自己被这个社会判了死刑。",
@@ -126,10 +126,10 @@
       "url": "https://www.v2ex.com/t/1234332",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T13:33:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:27",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "今天 30 岁生日，替大家许个愿望",
@@ -166,10 +166,10 @@
       "url": "https://www.v2ex.com/t/1234281",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T13:33:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:27",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "不到一个小时后重置，快蹬",
@@ -212,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "公司本地部署开源模型",
+      "url": "https://www.v2ex.com/t/1234254",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T22:51:27",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "寻一个关于男性觉醒的一个视频！",
       "url": "https://www.v2ex.com/t/1234277",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
       "last_seen_at": "2026-08-14T13:33:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Cursor 的实际体验怎么样？",
@@ -247,9 +257,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
       "last_seen_at": "2026-08-14T13:33:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[限时福利] HyperAPI 的新老用户们，来领鸡蛋了",
@@ -270,16 +280,6 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
-    },
-    {
-      "title": "公司本地部署开源模型",
-      "url": "https://www.v2ex.com/t/1234254",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T13:33:30",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
     },
     {
       "title": "Codex 重置后，账号额度明显缩水",

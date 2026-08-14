@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-08-14T13:33:35",
+  "update_time": "2026-08-14T22:51:33",
   "items": [
     {
       "title": "鸿蒙自定义弹窗Dialog组件设计与实践：从需求到开源库的完整沉淀",
       "url": "https://ost.51cto.com/posts/55045",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS BindPopup实战手册：从图标提示到引导蒙层，一套完整的气泡解决方案",
@@ -46,10 +46,10 @@
       "url": "https://ost.51cto.com/posts/55043",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "鸿蒙Canvas渐变填充实战：从入门到精通，让你的图形告别\"塑料感\"",
@@ -86,10 +86,10 @@
       "url": "https://www.51cto.com/article/852995.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GDB+AI 崩溃诊断：Core Dump 分析时间从 30 分钟降到 3 分钟",
@@ -126,10 +126,10 @@
       "url": "https://www.51cto.com/article/852993.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "EFK+DeepSeek 实战：基于 Docker Compose 搭建智能日志根因分析平台",
@@ -156,10 +156,10 @@
       "url": "https://www.51cto.com/article/852992.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "简历上写精通 Raft算法，为什么经常被淘汰？",
@@ -186,10 +186,10 @@
       "url": "https://www.51cto.com/article/852991.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "滴滴一面：怎么做好 Harness？大部分面试者的回答只停留在怎么用，没有回答的更系统",
@@ -216,10 +216,10 @@
       "url": "https://www.51cto.com/article/852988.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "肉眼根本看不见！一文看懂 Claude 是怎么在你的文字里偷偷“做手脚”的！",
@@ -246,10 +246,10 @@
       "url": "https://www.51cto.com/article/852985.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "给机器人一个会预测未来的Critic，VLA强化学习直接起飞",
@@ -276,10 +276,10 @@
       "url": "https://www.51cto.com/article/852984.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Cloudflare财报会上刚认了，现在点开你文章的，一半可能不是人",
@@ -306,10 +306,10 @@
       "url": "https://www.51cto.com/article/852983.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-14T13:33:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T22:51:33",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "720美元套出A社死藏的Opus原始思维链，还是Haiku泄露的，GPT/Gemini也中招",
