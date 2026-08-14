@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-13T20:07:48",
+  "update_time": "2026-08-14T13:33:30",
   "items": [
+    {
+      "title": "想起一件招笑的小事",
+      "url": "https://www.v2ex.com/t/1234269",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T13:33:30",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "local.ai",
       "url": "https://www.v2ex.com/t/1234095",
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:48",
       "last_seen_at": "2026-08-13T20:07:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "底层人为什么完不成原始资本积累？",
@@ -17,16 +27,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:23",
       "last_seen_at": "2026-08-12T17:15:03",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "死了，客户的数据被删光了",
-      "url": "https://www.v2ex.com/t/1233521",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-11T12:00:44",
-      "last_seen_at": "2026-08-12T03:19:23",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -42,14 +42,14 @@
       "is_new": false
     },
     {
-      "title": "在“减肥”这个话题下刷“能量守恒”的人，可能要刷新一下认知了",
-      "url": "https://www.v2ex.com/t/1233438",
+      "title": "local.ai，我来开个帖子接力吧",
+      "url": "https://www.v2ex.com/t/1234283",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-11T06:12:40",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T13:33:30",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
@@ -57,9 +57,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:48",
       "last_seen_at": "2026-08-13T20:07:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "父母一直逼我买房怎么办",
@@ -67,16 +67,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T09:08:28",
       "last_seen_at": "2026-08-12T17:15:03",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "被电梯低频噪音折腾近一年，我从写程序定位一路走到了法院",
-      "url": "https://www.v2ex.com/t/1233470",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-11T07:28:41",
-      "last_seen_at": "2026-08-12T03:19:23",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -92,24 +82,14 @@
       "is_new": false
     },
     {
-      "title": "有没有人觉得 Codex 现在变成这种随机重置的模式，让人很不舒服",
-      "url": "https://www.v2ex.com/t/1233409",
+      "title": "脑供血不足晕倒",
+      "url": "https://www.v2ex.com/t/1234248",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-11T06:12:40",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "不知道大家对“词元”这个翻译，为什么反应这么大",
-      "url": "https://www.v2ex.com/t/1233318",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-11T06:12:40",
-      "last_seen_at": "2026-08-11T06:12:40",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T13:33:30",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "感觉自己被这个社会判了死刑。",
@@ -117,9 +97,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:48",
       "last_seen_at": "2026-08-13T20:07:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "闲聊，感觉 MacbookPro M1Pro 还是很能打，这都过去 5 年了",
@@ -142,34 +122,14 @@
       "is_new": false
     },
     {
-      "title": "重生之从牡丹去春熙路做手工到找到一个爱自己的女朋友，从减肥开始！",
-      "url": "https://www.v2ex.com/t/1233505",
+      "title": "第一次在本站拉黑人",
+      "url": "https://www.v2ex.com/t/1234332",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-11T08:36:15",
-      "last_seen_at": "2026-08-12T03:19:23",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "“万一免五”股票 ETF 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [8.11 日~8.17 日]",
-      "url": "https://www.v2ex.com/t/1233404",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-11T06:12:40",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "中登有多少在健身的...",
-      "url": "https://www.v2ex.com/t/1233414",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-11T06:12:40",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T13:33:30",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "今天 30 岁生日，替大家许个愿望",
@@ -177,9 +137,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:48",
       "last_seen_at": "2026-08-13T20:07:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我家先生快生日了，求建议",
@@ -202,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "重新掌握信息选择权， AI 原生 RSS 阅读器分享，送永久会员",
-      "url": "https://www.v2ex.com/t/1233346",
+      "title": "撸铁并佩戴金戒指的佬们，如何解决戒指被各种哑铃杠铃刮花&搞变形的问题的？",
+      "url": "https://www.v2ex.com/t/1234281",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-11T06:12:40",
-      "last_seen_at": "2026-08-11T08:36:15",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T13:33:30",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "不到一个小时后重置，快蹬",
@@ -217,9 +177,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:48",
       "last_seen_at": "2026-08-13T20:07:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "回首来看，当年学的诗词甚是充满力量与哲理，最爱哪一句？",
@@ -252,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "寻一个关于男性觉醒的一个视频！",
+      "url": "https://www.v2ex.com/t/1234277",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T13:33:30",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Cursor 的实际体验怎么样？",
       "url": "https://www.v2ex.com/t/1234043",
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:48",
       "last_seen_at": "2026-08-13T20:07:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[Air Router] Claude Max 缓存读取 5 折的中转站! GPT Plus 0.1, Pro 0.2, Grok 0.1, 留言 ID 得 10$额度",
@@ -272,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "求助大佬们有没有什么高招，为什么农民个体要帐这么难！",
+      "url": "https://www.v2ex.com/t/1234363",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T13:33:30",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "[限时福利] HyperAPI 的新老用户们，来领鸡蛋了",
       "url": "https://www.v2ex.com/t/1234025",
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:48",
       "last_seen_at": "2026-08-13T20:07:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "有人懂风水吗？ 领居入户门比我家高",
@@ -292,14 +272,24 @@
       "is_new": false
     },
     {
+      "title": "公司本地部署开源模型",
+      "url": "https://www.v2ex.com/t/1234254",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-14T13:33:30",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "Codex 重置后，账号额度明显缩水",
       "url": "https://www.v2ex.com/t/1233991",
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:48",
       "last_seen_at": "2026-08-13T20:07:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[duomi-Api] 多米 GPT 中转站，注册 2 刀，回帖 id 或者邮箱送 6 刀， qq 群送 10 刀，总共 18 刀，最低 0.18 倍率",
@@ -322,16 +312,6 @@
       "is_new": false
     },
     {
-      "title": "你会选择哪个颜色代表夏天？",
-      "url": "https://www.v2ex.com/t/1233418",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-11T06:12:40",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "发现了炸裂的饮料组合",
       "url": "https://www.v2ex.com/t/1233765",
       "last_hot_value": "",
@@ -347,26 +327,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-12T03:19:23",
       "last_seen_at": "2026-08-12T03:19:23",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "聊聊我从赚 5 万到亏 6 万的的经历",
-      "url": "https://www.v2ex.com/t/1233435",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-11T12:00:44",
-      "last_seen_at": "2026-08-11T20:12:11",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "求助 PC 鼠标丢帧问题，困扰了几个月了",
-      "url": "https://www.v2ex.com/t/1233447",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-11T12:00:44",
-      "last_seen_at": "2026-08-11T20:12:11",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false

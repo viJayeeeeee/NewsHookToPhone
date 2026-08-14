@@ -1,33 +1,13 @@
 {
-  "update_time": "2026-08-13T20:08:00",
+  "update_time": "2026-08-14T13:33:43",
   "items": [
     {
       "title": "Monolith — 一套跑在 Cloudflare 免费套餐上的高质感博客系统",
       "url": "https://www.nodeseek.com/post-684012-1",
       "last_hot_value": "查看:8054 回复:103",
       "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
-      "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:16524 回复:203",
-      "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 11,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
-      "url": "https://www.nodeseek.com/post-584268-1",
-      "last_hot_value": "查看:23768 回复:174",
-      "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-11T12:00:58",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,18 +16,18 @@
       "url": "https://www.nodeseek.com/post-314035-1",
       "last_hot_value": "查看:9974 回复:90",
       "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:211363 回复:2839",
       "first_seen_at": "2026-08-12T10:12:30",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,10 +56,10 @@
       "url": "https://www.nodeseek.com/post-824182-1",
       "last_hot_value": "查看:984 回复:19",
       "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "冬瓜TV MAX —— 打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放",
@@ -122,24 +102,14 @@
       "is_new": false
     },
     {
-      "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
-      "url": "https://www.nodeseek.com/post-828462-1",
-      "last_hot_value": "查看:6452 回复:130",
-      "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-11T12:00:58",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "小科普：国际互联优秀是怎么判断的？",
       "url": "https://www.nodeseek.com/post-312375-1",
       "last_hot_value": "查看:5816 回复:51",
       "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
@@ -166,10 +136,10 @@
       "url": "https://www.nodeseek.com/post-324304-1",
       "last_hot_value": "查看:7119 回复:80",
       "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
@@ -196,10 +166,10 @@
       "url": "https://www.nodeseek.com/post-340635-1",
       "last_hot_value": "查看:3610 回复:56",
       "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【流量转发该选哪个？】𝕏𝕣𝕒𝕪任意门，realm，gost，socat，iptable/nftable 的技术性区别",
@@ -222,32 +192,12 @@
       "is_new": false
     },
     {
-      "title": "【开源】Inkstone —— 部署在 Cloudflare workers 上的全能 Markdown 笔记（更新0.4.0）",
-      "url": "https://www.nodeseek.com/post-849481-1",
-      "last_hot_value": "查看:4494 回复:101",
-      "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-11T12:00:58",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "【技术】手把手教你用AdguradHome+SNIProxy自建DNS解锁服务器",
       "url": "https://www.nodeseek.com/post-329849-1",
       "last_hot_value": "查看:11177 回复:97",
       "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "【开源】realm全功能一键转发脚本,流量统计,MPTCP，负载均衡权重,故障转移，备注,导出/导入,搭建隧道",
-      "url": "https://www.nodeseek.com/post-391214-1",
-      "last_hot_value": "查看:34275 回复:308",
-      "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-12T17:15:16",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
@@ -266,10 +216,10 @@
       "url": "https://www.nodeseek.com/post-353682-1",
       "last_hot_value": "查看:6067 回复:85",
       "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-13T20:08:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-14T13:33:43",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源自荐】🛡️ VaultFleet - 自托管多服务器(vps)备份管理平台 — Master/Agent · restic+rclone · 快照恢复",
@@ -287,16 +237,6 @@
       "last_hot_value": "查看:1455 回复:15",
       "first_seen_at": "2026-08-11T20:12:25",
       "last_seen_at": "2026-08-12T10:12:30",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "[菜鸟教程] 零基础 Cloudflare 优选教程",
-      "url": "https://www.nodeseek.com/post-482620-1",
-      "last_hot_value": "查看:14491 回复:132",
-      "first_seen_at": "2026-08-11T06:12:55",
-      "last_seen_at": "2026-08-11T12:00:58",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
