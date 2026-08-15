@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-15T00:08:44",
+  "update_time": "2026-08-15T01:18:26",
   "items": [
     {
       "title": "想起一件招笑的小事",
       "url": "https://www.v2ex.com/t/1234269",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-15T00:08:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-15T01:18:26",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,22 +32,12 @@
       "is_new": false
     },
     {
-      "title": "cursor free 了吗， claude 蹬了一天了，百分比一直没涨过",
-      "url": "https://www.v2ex.com/t/1233703#reply1",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T00:53:09",
-      "last_seen_at": "2026-08-12T00:53:09",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "local.ai，我来开个帖子接力吧",
       "url": "https://www.v2ex.com/t/1234283",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-15T00:08:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-15T01:18:26",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,13 +62,13 @@
       "is_new": false
     },
     {
-      "title": "Mac Chrome 启动慢。 bitwarden 插件点开也得等个十几秒钟。是因为啥。",
-      "url": "https://www.v2ex.com/t/1233704#reply0",
+      "title": "第一次在本站拉黑人",
+      "url": "https://www.v2ex.com/t/1234332",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-12T00:53:09",
-      "last_seen_at": "2026-08-12T00:53:09",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "first_seen_at": "2026-08-14T13:33:30",
+      "last_seen_at": "2026-08-15T01:18:26",
+      "consecutive_count": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -87,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
       "last_seen_at": "2026-08-15T00:08:44",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -122,12 +112,12 @@
       "is_new": false
     },
     {
-      "title": "第一次在本站拉黑人",
-      "url": "https://www.v2ex.com/t/1234332",
+      "title": "撸铁并佩戴金戒指的佬们，如何解决戒指被各种哑铃杠铃刮花&搞变形的问题的？",
+      "url": "https://www.v2ex.com/t/1234281",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-15T00:08:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-15T01:18:26",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -162,12 +152,12 @@
       "is_new": false
     },
     {
-      "title": "撸铁并佩戴金戒指的佬们，如何解决戒指被各种哑铃杠铃刮花&搞变形的问题的？",
-      "url": "https://www.v2ex.com/t/1234281",
+      "title": "公司本地部署开源模型",
+      "url": "https://www.v2ex.com/t/1234254",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-15T00:08:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-15T01:18:26",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -216,18 +206,8 @@
       "url": "https://www.v2ex.com/t/1234360",
       "last_hot_value": "",
       "first_seen_at": "2026-08-15T00:08:44",
-      "last_seen_at": "2026-08-15T00:08:44",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "公司本地部署开源模型",
-      "url": "https://www.v2ex.com/t/1234254",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-15T00:08:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-15T01:18:26",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
@@ -260,6 +240,16 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "deepseek-harness 初体验，讨论下呢",
+      "url": "https://www.v2ex.com/t/1234264",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-15T01:18:26",
+      "last_seen_at": "2026-08-15T01:18:26",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "求助大佬们有没有什么高招，为什么农民个体要帐这么难！",
