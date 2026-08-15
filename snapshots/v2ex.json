@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-14T22:51:27",
+  "update_time": "2026-08-15T00:08:44",
   "items": [
     {
       "title": "想起一件招笑的小事",
       "url": "https://www.v2ex.com/t/1234269",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T22:51:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T00:08:44",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "https://www.v2ex.com/t/1234283",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T22:51:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T00:08:44",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://www.v2ex.com/t/1234248",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T22:51:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T00:08:44",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -126,8 +126,8 @@
       "url": "https://www.v2ex.com/t/1234332",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T22:51:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T00:08:44",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -166,8 +166,8 @@
       "url": "https://www.v2ex.com/t/1234281",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T22:51:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T00:08:44",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -212,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "讲一个我的朋友的人生故事吧——青年、骗子、爱情与生活",
+      "url": "https://www.v2ex.com/t/1234360",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-15T00:08:44",
+      "last_seen_at": "2026-08-15T00:08:44",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "公司本地部署开源模型",
       "url": "https://www.v2ex.com/t/1234254",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:30",
-      "last_seen_at": "2026-08-14T22:51:27",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T00:08:44",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
