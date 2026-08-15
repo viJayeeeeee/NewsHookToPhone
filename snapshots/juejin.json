@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-15T07:06:30",
+  "update_time": "2026-08-15T08:11:20",
   "items": [
     {
       "title": "DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程",
       "url": "https://juejin.cn/post/7673390412729614390",
-      "last_hot_value": "热度:3105",
+      "last_hot_value": "热度:3141",
       "first_seen_at": "2026-08-14T13:33:32",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://juejin.cn/post/7673062292059062322",
       "last_hot_value": "热度:1242",
       "first_seen_at": "2026-08-14T13:33:32",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://juejin.cn/post/7673348268143132710",
       "last_hot_value": "热度:918",
       "first_seen_at": "2026-08-14T13:33:32",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
@@ -36,9 +36,19 @@
       "url": "https://juejin.cn/post/7673029031966474292",
       "last_hot_value": "热度:900",
       "first_seen_at": "2026-08-13T20:07:50",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 8,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "🔥 Network 里那坨 \"data:\" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂",
+      "url": "https://juejin.cn/post/7672224177785995298",
+      "last_hot_value": "热度:909",
+      "first_seen_at": "2026-08-12T10:12:16",
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 10,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -46,19 +56,9 @@
       "url": "https://juejin.cn/post/7672915108386570267",
       "last_hot_value": "热度:882",
       "first_seen_at": "2026-08-13T20:07:50",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 8,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "🔥 Network 里那坨 \"data:\" 我真看吐了，自制开源 Chrome 插件，AI 流式调试直接开挂",
-      "url": "https://juejin.cn/post/7672224177785995298",
-      "last_hot_value": "热度:900",
-      "first_seen_at": "2026-08-12T10:12:16",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 9,
-      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -74,20 +74,20 @@
     {
       "title": "Deepseek harness 安装配置保姆教程",
       "url": "https://juejin.cn/post/7673506180661428259",
-      "last_hot_value": "热度:774",
+      "last_hot_value": "热度:783",
       "first_seen_at": "2026-08-14T22:51:30",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "Flutter 的另外一种形态？社区 DartNative 要来了。",
       "url": "https://juejin.cn/post/7672292709405999147",
-      "last_hot_value": "热度:630",
+      "last_hot_value": "热度:639",
       "first_seen_at": "2026-08-14T22:51:30",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
@@ -96,8 +96,8 @@
       "url": "https://juejin.cn/post/7672957997422346303",
       "last_hot_value": "热度:405",
       "first_seen_at": "2026-08-14T13:33:32",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 7,
       "peak_rank": 8,
       "is_new": false
     },
@@ -116,8 +116,8 @@
       "url": "https://juejin.cn/post/7672697935734816814",
       "last_hot_value": "热度:459",
       "first_seen_at": "2026-08-14T13:33:32",
-      "last_seen_at": "2026-08-15T07:06:30",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-15T08:11:20",
+      "consecutive_count": 7,
       "peak_rank": 9,
       "is_new": false
     },
