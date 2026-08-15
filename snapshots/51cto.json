@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-15T08:11:23",
+  "update_time": "2026-08-15T11:43:15",
   "items": [
+    {
+      "title": "当我用@ComponentV2重构新闻客户端：一个\"状态管理灾难\"的救赎之路",
+      "url": "https://ost.51cto.com/posts/55077",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-15T11:43:15",
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "相册增强：批量超分与缩略图优化#智绘鸿蒙·大有\"视\"界",
       "url": "https://ost.51cto.com/posts/55065",
       "last_hot_value": "",
       "first_seen_at": "2026-08-15T07:06:34",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
       "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,16 +37,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-13T20:07:53",
       "last_seen_at": "2026-08-13T20:07:53",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【鸿蒙实战】第 05 篇：鸿蒙网络请求架构实战——@ohos.net.http 到 Axios 封装、拦截器与统一错误处理",
-      "url": "https://ost.51cto.com/posts/54949",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T09:08:34",
-      "last_seen_at": "2026-08-12T17:15:08",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -62,22 +62,12 @@
       "is_new": false
     },
     {
-      "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
-      "url": "https://www.51cto.com/article/852752.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T09:08:34",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "自动化会话超人工！Ramp Inspect Agent 接入 CI/告警，实现 AI SRE 自主处理线上事故",
       "url": "https://www.51cto.com/article/852995.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 8,
       "peak_rank": 3,
       "is_new": false
     },
@@ -92,22 +82,12 @@
       "is_new": false
     },
     {
-      "title": "文生图Scaling新变量，被字节Seed团队发现了",
-      "url": "https://www.51cto.com/article/852749.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T09:08:34",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "Vue 最强动画库！120+ 动画组件，实现复杂动画效果！",
       "url": "https://www.51cto.com/article/852993.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 8,
       "peak_rank": 4,
       "is_new": false
     },
@@ -126,8 +106,8 @@
       "url": "https://www.51cto.com/article/852992.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 8,
       "peak_rank": 5,
       "is_new": false
     },
@@ -146,8 +126,8 @@
       "url": "https://www.51cto.com/article/852991.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 8,
       "peak_rank": 6,
       "is_new": false
     },
@@ -166,8 +146,8 @@
       "url": "https://www.51cto.com/article/852988.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 8,
       "peak_rank": 7,
       "is_new": false
     },
@@ -186,8 +166,8 @@
       "url": "https://www.51cto.com/article/852985.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 8,
       "peak_rank": 8,
       "is_new": false
     },
@@ -206,8 +186,8 @@
       "url": "https://www.51cto.com/article/852984.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 8,
       "peak_rank": 9,
       "is_new": false
     },
@@ -226,8 +206,8 @@
       "url": "https://www.51cto.com/article/852983.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-15T11:43:15",
+      "consecutive_count": 8,
       "peak_rank": 10,
       "is_new": false
     },
