@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-15T14:05:22",
+  "update_time": "2026-08-15T15:17:27",
   "items": [
     {
       "title": "当我用@ComponentV2重构新闻客户端：一个\"状态管理灾难\"的救赎之路",
       "url": "https://ost.51cto.com/posts/55077",
       "last_hot_value": "",
       "first_seen_at": "2026-08-15T11:43:15",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://ost.51cto.com/posts/55065",
       "last_hot_value": "",
       "first_seen_at": "2026-08-15T07:06:34",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -62,12 +62,22 @@
       "is_new": false
     },
     {
+      "title": "刚刚，GLM-5.3撕开闭源安全神话！0.1倍参数追平Mythos战力",
+      "url": "https://www.51cto.com/article/853070.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-15T15:17:27",
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "自动化会话超人工！Ramp Inspect Agent 接入 CI/告警，实现 AI SRE 自主处理线上事故",
       "url": "https://www.51cto.com/article/852995.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 10,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+      "url": "https://www.51cto.com/article/853067.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-15T15:17:27",
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "Vue 最强动画库！120+ 动画组件，实现复杂动画效果！",
       "url": "https://www.51cto.com/article/852993.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 10,
       "peak_rank": 4,
       "is_new": false
     },
@@ -106,8 +126,8 @@
       "url": "https://www.51cto.com/article/852992.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 10,
       "peak_rank": 5,
       "is_new": false
     },
@@ -126,8 +146,8 @@
       "url": "https://www.51cto.com/article/852991.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 10,
       "peak_rank": 6,
       "is_new": false
     },
@@ -146,8 +166,8 @@
       "url": "https://www.51cto.com/article/852988.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 10,
       "peak_rank": 7,
       "is_new": false
     },
@@ -166,8 +186,8 @@
       "url": "https://www.51cto.com/article/852985.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T15:17:27",
+      "consecutive_count": 10,
       "peak_rank": 8,
       "is_new": false
     },
@@ -187,7 +207,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
       "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -207,7 +227,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
       "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
