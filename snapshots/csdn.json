@@ -1,22 +1,12 @@
 {
-  "update_time": "2026-08-15T02:27:30",
+  "update_time": "2026-08-15T07:06:32",
   "items": [
     {
       "title": "2026手机远程办公：向日葵、TeamViewer、ToDesk鸿蒙适配+传文件+AI审计功能对比",
       "url": "https://blog.csdn.net/weixin_37800531/article/details/163734879",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-14T13:33:34",
-      "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【Cookie与Session】无状态 HTTP 如何“记住“你？——从 Cookie 协议到分布式 Session",
-      "url": "https://blog.csdn.net/2302_80243065/article/details/163692595",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-13T20:07:51",
-      "last_seen_at": "2026-08-15T02:27:30",
+      "last_seen_at": "2026-08-15T07:06:32",
       "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
@@ -26,8 +16,18 @@
       "url": "https://blog.csdn.net/yhrxh_ymq/article/details/163691135",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-13T20:07:51",
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 7,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【Cookie与Session】无状态 HTTP 如何“记住“你？——从 Cookie 协议到分布式 Session",
+      "url": "https://blog.csdn.net/2302_80243065/article/details/163692595",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-08-13T20:07:51",
       "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,6 +52,16 @@
       "is_new": false
     },
     {
+      "title": "【LangChain】核心技术：嵌入模型与向量存储完全指南",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/161828886",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-14T13:33:34",
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 6,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "基于DolphinDB的生产数据分析与优化实战——从OEE到成本的全链路分析体系",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/163707387",
       "last_hot_value": "1.2w",
@@ -66,9 +76,19 @@
       "url": "https://blog.csdn.net/weixin_44976692/article/details/163725625",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-14T22:51:31",
-      "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 5,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "Text-to-SQL 复杂关联查询实战：数据库设计与LLM 大模型生成多表JOIN",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163735079",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-15T01:18:30",
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -77,7 +97,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-14T13:33:34",
       "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -92,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "【LangChain】核心技术：嵌入模型与向量存储完全指南",
-      "url": "https://blog.csdn.net/2503_91389547/article/details/161828886",
-      "last_hot_value": "9083",
-      "first_seen_at": "2026-08-14T13:33:34",
-      "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 5,
+      "title": "【Linux 篇】数字世界的通用法则 —— 一切皆文件底层原理深度解析",
+      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163695329",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-15T07:06:32",
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "AIRI 完全指南：Electron + Capacitor 多端自托管 LLM 虚拟角色",
@@ -124,10 +144,10 @@
     {
       "title": "Re：Linux系统篇（五十五）线程篇 · 八：为什么需要条件变量？从生活比喻、API 梳理到 pthread_cond 实战源码探究",
       "url": "https://blog.csdn.net/Z2314246476/article/details/163572717",
-      "last_hot_value": "9091",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -137,7 +157,7 @@
       "last_hot_value": "8904",
       "first_seen_at": "2026-08-15T01:18:30",
       "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -184,10 +204,10 @@
     {
       "title": "WorkBuddy AI工具使用介绍完全指南",
       "url": "https://blog.csdn.net/beautifulmemory/article/details/163644164",
-      "last_hot_value": "9087",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -220,6 +240,16 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "词帆 CiFan：基于故事分级阅读与 AI 伴学的英语学习平台",
+      "url": "https://blog.csdn.net/qq_46987323/article/details/163705105",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-15T07:06:32",
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "【MYSQL】MYSQL学习的一大重点：MySQL连接池原理与分析简易网站数据流动是如何进行",
@@ -272,14 +302,14 @@
       "is_new": false
     },
     {
-      "title": "Text-to-SQL 复杂关联查询实战：数据库设计与LLM 大模型生成多表JOIN",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163735079",
-      "last_hot_value": "8811",
-      "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-15T02:27:30",
-      "consecutive_count": 2,
+      "title": "【DeepSeek-V4-Pro-0813 API小白接入教程】10分钟完成Python调用与思考模式配置",
+      "url": "https://blog.csdn.net/m0_73879806/article/details/163726093",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-15T07:06:32",
+      "last_seen_at": "2026-08-15T07:06:32",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "SpringBoot3+Vue3 会议室预订系统：时段冲突三模式检测 + 会前定时提醒与 cancelByBiz",

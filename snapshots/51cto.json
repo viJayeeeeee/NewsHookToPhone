@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-15T02:27:32",
+  "update_time": "2026-08-15T07:06:34",
   "items": [
+    {
+      "title": "相册增强：批量超分与缩略图优化#智绘鸿蒙·大有\"视\"界",
+      "url": "https://ost.51cto.com/posts/55065",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-15T07:06:34",
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "鸿蒙自定义弹窗Dialog组件设计与实践：从需求到开源库的完整沉淀",
       "url": "https://ost.51cto.com/posts/55045",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,22 +42,12 @@
       "is_new": false
     },
     {
-      "title": "小艺开放平台Skill开发：从创建到真机测试与发布",
-      "url": "https://ost.51cto.com/posts/54942",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "从零搭建HarmonyOS应用：组件化开发与粒子化动画实战全记录",
       "url": "https://ost.51cto.com/posts/55043",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
       "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,22 +72,12 @@
       "is_new": false
     },
     {
-      "title": "Codex每次重连五次？一招彻底解决！",
-      "url": "https://www.51cto.com/article/852636.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "自动化会话超人工！Ramp Inspect Agent 接入 CI/告警，实现 AI SRE 自主处理线上事故",
       "url": "https://www.51cto.com/article/852995.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -112,22 +102,12 @@
       "is_new": false
     },
     {
-      "title": "AI 编程：建立变更契约，让需求迭代可追溯不返工，PRD 和原型不再整份重写",
-      "url": "https://www.51cto.com/article/852725.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "Vue 最强动画库！120+ 动画组件，实现复杂动画效果！",
       "url": "https://www.51cto.com/article/852993.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 4,
       "is_new": false
     },
@@ -142,22 +122,12 @@
       "is_new": false
     },
     {
-      "title": "OpenAI花470亿大规模回购股票，高管火速跳车离场！",
-      "url": "https://www.51cto.com/article/852724.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "告别盲目 AI 运维！分级自治 SRE 自愈框架，彻底终结告警爆炸",
       "url": "https://www.51cto.com/article/852992.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
@@ -172,22 +142,12 @@
       "is_new": false
     },
     {
-      "title": "看不见的地址翻译：虚拟内存、TLB 和 NUMA 怎样拖慢高性能程序？",
-      "url": "https://www.51cto.com/article/852723.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "从零到一带你速通DeepSeek Harness",
       "url": "https://www.51cto.com/article/852991.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 6,
       "is_new": false
     },
@@ -202,22 +162,12 @@
       "is_new": false
     },
     {
-      "title": "我攒的AI技能包，终于不用在三个文件夹里各存一份了",
-      "url": "https://www.51cto.com/article/852722.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "不止做大模型， DeepSeek 悄悄放出 Harness，本地 Agent 有了新底座",
       "url": "https://www.51cto.com/article/852988.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
@@ -232,22 +182,12 @@
       "is_new": false
     },
     {
-      "title": "阿里开源了一套让 Skill 从\"能用\"到\"可交付\"的完整方案",
-      "url": "https://www.51cto.com/article/852721.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T17:15:08",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "你的 MCP Server 该升 2.0 了，无状态到底解决了什么？",
       "url": "https://www.51cto.com/article/852985.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 8,
       "is_new": false
     },
@@ -262,22 +202,12 @@
       "is_new": false
     },
     {
-      "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
-      "url": "https://www.51cto.com/article/852720.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T03:19:29",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "一夜之间，GPT-5.6 Sol被OpenAI加速了14倍",
       "url": "https://www.51cto.com/article/852984.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 9,
       "is_new": false
     },
@@ -292,22 +222,12 @@
       "is_new": false
     },
     {
-      "title": "刚刚，林俊旸官宣创业公司Pragmatik Labs！",
-      "url": "https://www.51cto.com/article/852719.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-12T03:19:29",
-      "last_seen_at": "2026-08-12T03:19:29",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "反向图灵测试！这个「纯手工大模型」，把网友聊崩了",
       "url": "https://www.51cto.com/article/852983.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-15T07:06:34",
+      "consecutive_count": 6,
       "peak_rank": 10,
       "is_new": false
     },
