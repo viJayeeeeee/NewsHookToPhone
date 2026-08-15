@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-15T15:17:36",
+  "update_time": "2026-08-15T17:38:58",
   "items": [
     {
       "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
       "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:17791 回复:209",
+      "last_hot_value": "查看:18904 回复:212",
       "first_seen_at": "2026-08-14T22:51:41",
-      "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T17:38:58",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,27 +17,27 @@
       "last_hot_value": "查看:8298 回复:107",
       "first_seen_at": "2026-08-13T20:08:00",
       "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 11,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:211822 回复:2846",
-      "first_seen_at": "2026-08-15T14:05:29",
-      "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 2,
+      "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
+      "url": "https://www.nodeseek.com/post-828462-1",
+      "last_hot_value": "查看:6816 回复:131",
+      "first_seen_at": "2026-08-15T17:38:58",
+      "last_seen_at": "2026-08-15T17:38:58",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:228508 回复:2101",
-      "first_seen_at": "2026-08-12T17:15:16",
-      "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 9,
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:212210 回复:2852",
+      "first_seen_at": "2026-08-15T14:05:29",
+      "last_seen_at": "2026-08-15T17:38:58",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "【比“史上最强”更强】满屏讨论dd gcp居然没有人提到我的脚本😭",
+      "url": "https://www.nodeseek.com/post-116193-1",
+      "last_hot_value": "查看:31734 回复:248",
+      "first_seen_at": "2026-08-15T17:38:58",
+      "last_seen_at": "2026-08-15T17:38:58",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
       "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:92203 回复:776",
+      "last_hot_value": "查看:92391 回复:777",
       "first_seen_at": "2026-08-14T22:51:41",
-      "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T17:38:58",
+      "consecutive_count": 10,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,34 +82,24 @@
       "is_new": false
     },
     {
-      "title": "冬瓜TV MAX —— 打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放",
-      "url": "https://www.nodeseek.com/post-545550-1",
-      "last_hot_value": "查看:12406 回复:139",
-      "first_seen_at": "2026-08-12T17:15:16",
-      "last_seen_at": "2026-08-12T17:15:16",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:796084 回复:1175",
+      "last_hot_value": "查看:798897 回复:1178",
       "first_seen_at": "2026-08-14T22:51:41",
-      "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T17:38:58",
+      "consecutive_count": 10,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
-      "url": "https://www.nodeseek.com/post-788832-1",
-      "last_hot_value": "查看:5963 回复:101",
-      "first_seen_at": "2026-08-12T17:15:16",
-      "last_seen_at": "2026-08-12T17:15:16",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
+      "url": "https://www.nodeseek.com/post-824558-1",
+      "last_hot_value": "查看:8236 回复:131",
+      "first_seen_at": "2026-08-15T17:38:58",
+      "last_seen_at": "2026-08-15T17:38:58",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "🎉好啦！！一键全自动Docker容器迁移的脚本测试好啦！小白也会用！！😄",
@@ -107,7 +107,7 @@
       "last_hot_value": "查看:12084 回复:200",
       "first_seen_at": "2026-08-14T22:51:41",
       "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -122,22 +122,12 @@
       "is_new": false
     },
     {
-      "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
-      "url": "https://www.nodeseek.com/post-718774-1",
-      "last_hot_value": "查看:15704 回复:183",
-      "first_seen_at": "2026-08-12T17:15:16",
-      "last_seen_at": "2026-08-12T17:15:16",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "[科普/教程]关于\"送中\"，你所要知道的一切！——什么是送中？如何判断是否送中？为什么会送中？如何预防/解决送中？还有完全免费且可以立马拉回去正确归属地的方法？还能“焊死”？？？",
       "url": "https://www.nodeseek.com/post-485530-1",
-      "last_hot_value": "查看:14492 回复:203",
+      "last_hot_value": "查看:14606 回复:204",
       "first_seen_at": "2026-08-14T22:51:41",
-      "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-15T17:38:58",
+      "consecutive_count": 10,
       "peak_rank": 7,
       "is_new": false
     },
@@ -152,22 +142,12 @@
       "is_new": false
     },
     {
-      "title": "『败类教程』美西CN2跨网也能单线程500M且0重传！手把手教你TCP调优",
-      "url": "https://www.nodeseek.com/post-197087-1",
-      "last_hot_value": "查看:75766 回复:484",
-      "first_seen_at": "2026-08-12T17:15:16",
-      "last_seen_at": "2026-08-12T17:15:16",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "【教程】分享一下大部分VPS以及甲骨文ARM/AMD、AWS、谷歌云GCP通用DD方法！",
       "url": "https://www.nodeseek.com/post-86852-1",
       "last_hot_value": "查看:10661 回复:86",
       "first_seen_at": "2026-08-14T22:51:41",
       "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -177,16 +157,6 @@
       "last_hot_value": "查看:3610 回复:56",
       "first_seen_at": "2026-08-13T20:08:00",
       "last_seen_at": "2026-08-14T13:33:43",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "【流量转发该选哪个？】𝕏𝕣𝕒𝕪任意门，realm，gost，socat，iptable/nftable 的技术性区别",
-      "url": "https://www.nodeseek.com/post-545073-1",
-      "last_hot_value": "查看:11679 回复:64",
-      "first_seen_at": "2026-08-12T17:15:16",
-      "last_seen_at": "2026-08-12T17:15:16",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
@@ -207,7 +177,7 @@
       "last_hot_value": "查看:25011 回复:217",
       "first_seen_at": "2026-08-14T22:51:41",
       "last_seen_at": "2026-08-15T15:17:36",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -217,16 +187,6 @@
       "last_hot_value": "查看:6067 回复:85",
       "first_seen_at": "2026-08-13T20:08:00",
       "last_seen_at": "2026-08-14T13:33:43",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "【开源自荐】🛡️ VaultFleet - 自托管多服务器(vps)备份管理平台 — Master/Agent · restic+rclone · 快照恢复",
-      "url": "https://www.nodeseek.com/post-753430-1",
-      "last_hot_value": "查看:1520 回复:22",
-      "first_seen_at": "2026-08-12T17:15:16",
-      "last_seen_at": "2026-08-12T17:15:16",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
