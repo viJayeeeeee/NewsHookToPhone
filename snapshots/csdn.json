@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-16T13:23:28",
+  "update_time": "2026-08-16T14:30:07",
   "items": [
     {
       "title": "Horse3D 游戏引擎研发笔记（六）：IBalikun——组件编辑器接口与宿主关联",
       "url": "https://blog.csdn.net/2503_92624912/article/details/163783314",
       "last_hot_value": "2.7w",
       "first_seen_at": "2026-08-15T19:53:20",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://blog.csdn.net/weixin_37800531/article/details/163734879",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-08-14T13:33:34",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 18,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://blog.csdn.net/2501_93971468/article/details/163734804",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 12,
       "peak_rank": 1,
       "is_new": false
     },
@@ -62,12 +62,22 @@
       "is_new": false
     },
     {
+      "title": "MySQL迁移实战：从连接到代码的“零改造“路径",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/163781229",
+      "last_hot_value": "2.7w",
+      "first_seen_at": "2026-08-16T11:02:58",
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "MongoDB Exporter部署实战：接入Prometheus并配置监控告警",
       "url": "https://blog.csdn.net/Dovis5884/article/details/163774391",
       "last_hot_value": "2.3w",
       "first_seen_at": "2026-08-15T11:43:13",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 11,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://blog.csdn.net/2302_78391795/article/details/163755005",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-15T11:43:13",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -112,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "【MYSQL】MYSQL学习的一大重点：MySQL连接池原理与分析简易网站数据流动是如何进行",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163252580",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-08-14T22:51:31",
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 7,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "DeepSeek Harness 部署指南：从 npx 一键启动到 Python SDK 完整接入",
       "url": "https://blog.csdn.net/aidoudoulong/article/details/163746112",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-15T15:17:25",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 9,
       "peak_rank": 3,
       "is_new": false
     },
@@ -202,16 +222,6 @@
       "is_new": false
     },
     {
-      "title": "MySQL迁移实战：从连接到代码的“零改造“路径",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163781229",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-16T11:02:58",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "复盘小站：用 Doubao-Seed-Evolving，把厚厚的笔记一键变成可复习、可自测、可批改的知识资产",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/163705906",
       "last_hot_value": "1.0w",
@@ -232,22 +242,12 @@
       "is_new": false
     },
     {
-      "title": "【MYSQL】MYSQL学习的一大重点：MySQL连接池原理与分析简易网站数据流动是如何进行",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163252580",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-14T22:51:31",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 6,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "WorkBuddy AI工具使用介绍完全指南",
       "url": "https://blog.csdn.net/beautifulmemory/article/details/163644164",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -316,10 +316,10 @@
       "url": "https://blog.csdn.net/weixin_52908342/article/details/163757432",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-16T13:23:28",
-      "last_seen_at": "2026-08-16T13:23:28",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-16T14:30:07",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",
