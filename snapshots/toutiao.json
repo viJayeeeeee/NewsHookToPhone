@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-16T10:04:31",
+  "update_time": "2026-08-16T11:19:06",
   "items": [
     {
       "title": "朱镕基同志遗体18日火化",
       "url": "https://www.toutiao.com/trending/7673402891508908042/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T07:49:22",
-      "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -116,17 +116,7 @@
       "url": "https://www.toutiao.com/trending/7674494013226893362/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T10:04:31",
-      "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "新加坡老人轻拍女童头部被家长撂倒",
-      "url": "https://www.toutiao.com/trending/7674458401706983460/",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-16T08:57:14",
-      "last_seen_at": "2026-08-16T10:04:31",
+      "last_seen_at": "2026-08-16T11:19:06",
       "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
@@ -136,8 +126,18 @@
       "url": "https://www.toutiao.com/trending/7674460027406798362/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T06:33:59",
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 5,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "新加坡老人轻拍女童头部被家长撂倒",
+      "url": "https://www.toutiao.com/trending/7674458401706983460/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-16T08:57:14",
       "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -236,8 +236,8 @@
       "url": "https://www.toutiao.com/article/7673684745506587145",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T08:57:14",
-      "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -312,12 +312,22 @@
       "is_new": false
     },
     {
+      "title": "韩军鸣枪警告越界朝鲜军人",
+      "url": "https://www.toutiao.com/trending/7674567838773808703/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-16T11:19:06",
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "梭子蟹大量上市 中医提醒",
       "url": "https://www.toutiao.com/trending/7674237819607121929/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T08:57:14",
       "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -442,12 +452,22 @@
       "is_new": false
     },
     {
+      "title": "《新闻联播》正在直播",
+      "url": "https://webcast-open.douyin.com/open/media_live/330698468897",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-16T11:19:06",
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "台当局查扣首辆张雪机车在怕什么",
       "url": "https://www.toutiao.com/trending/7673863415043997759/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T06:33:59",
       "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -552,14 +572,24 @@
       "is_new": false
     },
     {
+      "title": "俄火箭航天中心遭乌军袭击起火",
+      "url": "https://www.toutiao.com/trending/7674565681299607078/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-16T11:19:06",
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "女子泼水到别人门前 回去时摔倒了",
       "url": "https://www.toutiao.com/trending/7674439079534133257/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T10:04:31",
       "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "以色列国安部长：加沙人不配活着",
@@ -660,6 +690,16 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "侵华日军家信：每天杀两三千中国人",
+      "url": "https://www.toutiao.com/trending/7673792086998548522/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-16T11:19:06",
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "日军在南京每晚至少发生一千起强奸案",
@@ -807,9 +847,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T10:04:31",
       "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "渤海海峡黄海北部连续14天禁入",
@@ -920,6 +960,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "广东东莞土地案最新进展",
+      "url": "https://www.toutiao.com/trending/7674289174497214510/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-16T11:19:06",
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "女子产后抑郁离世父母与丈夫争夺财产",
@@ -1042,14 +1092,24 @@
       "is_new": false
     },
     {
+      "title": "独库公路抛物被扔回 男子劝阻获赞",
+      "url": "https://www.toutiao.com/trending/7674044414113497124/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-16T11:19:06",
+      "last_seen_at": "2026-08-16T11:19:06",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "学者：美航母后撤也难逃东风导弹一击",
       "url": "https://www.toutiao.com/trending/7674529221057711659/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T10:04:31",
       "last_seen_at": "2026-08-16T10:04:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "39岁儿科医生去世 多人缅怀",
