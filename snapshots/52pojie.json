@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-16T20:24:06",
+  "update_time": "2026-08-16T22:44:19",
   "items": [
     {
       "title": "使用 Linux 一年后的真实感受",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T15:17:38",
-      "last_seen_at": "2026-08-16T20:24:06",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 13,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +17,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T14:05:30",
       "last_seen_at": "2026-08-16T20:24:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -66,8 +66,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-16T15:48:34",
-      "last_seen_at": "2026-08-16T20:24:06",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T14:05:30",
-      "last_seen_at": "2026-08-16T20:24:06",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T08:11:34",
-      "last_seen_at": "2026-08-16T20:24:06",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -102,22 +102,32 @@
       "is_new": false
     },
     {
-      "title": "一个禁止w7和w10/w11系统更新的小软件2.1正式版（已更新）",
+      "title": "电脑垃圾清理大师V1.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-16T20:24:06",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-08-16T22:44:19",
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "智能深度磁盘清理 MangoDisk v1.0.2",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-14T22:51:42",
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 7,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "一个禁止w7和w10/w11系统更新的小软件2.1正式版（已更新）",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-14T22:51:42",
       "last_seen_at": "2026-08-16T20:24:06",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -152,12 +162,12 @@
       "is_new": false
     },
     {
-      "title": "图吧工具箱2026.08版本",
+      "title": "软件卸载管理器_v2.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-16T20:24:06",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": false
     },
@@ -166,9 +176,29 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T15:17:38",
-      "last_seen_at": "2026-08-16T14:30:18",
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "图吧工具箱2026.08版本",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-14T22:51:42",
+      "last_seen_at": "2026-08-16T20:24:06",
       "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "央视影音v6.0.5.2绿色版",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-15T08:11:34",
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -182,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "央视影音v6.0.5.2绿色版",
+      "title": "CAD残留清理工具 | 新增 SolidWorks | Oracle",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-15T08:11:34",
-      "last_seen_at": "2026-08-16T14:30:18",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-08-16T22:44:19",
+      "last_seen_at": "2026-08-16T22:44:19",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "开心电视助手-版本9.1",
@@ -227,16 +257,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-16T11:03:08",
       "last_seen_at": "2026-08-16T14:30:18",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "软件卸载管理器_v2.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-16T05:13:11",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
