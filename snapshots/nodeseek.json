@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-16T15:48:33",
+  "update_time": "2026-08-16T18:00:43",
   "items": [
+    {
+      "title": "【开源】CDT-Monitor:阿里云 CDT 流量监控与自动化熔断工具。支持多账号管理、阈值自动停机（含节省模式）及抢占式实例保活。",
+      "url": "https://www.nodeseek.com/post-587165-1",
+      "last_hot_value": "查看:9406 回复:142",
+      "first_seen_at": "2026-08-16T18:00:43",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:229021 回复:2113",
+      "last_hot_value": "查看:229674 回复:2116",
       "first_seen_at": "2026-08-15T19:53:30",
-      "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "查看:18904 回复:212",
       "first_seen_at": "2026-08-14T22:51:41",
       "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 18,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,22 +42,22 @@
       "is_new": false
     },
     {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:212535 回复:2854",
+      "first_seen_at": "2026-08-15T14:05:29",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 12,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
       "url": "https://www.nodeseek.com/post-828462-1",
       "last_hot_value": "查看:6816 回复:131",
       "first_seen_at": "2026-08-15T17:38:58",
       "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 9,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:212210 回复:2852",
-      "first_seen_at": "2026-08-15T14:05:29",
-      "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 11,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "【油猴脚本(520更新)】NodeSeekSearchHelper论坛搜索助手，支持分类/精华帖/作者/标题多重筛选",
+      "url": "https://www.nodeseek.com/post-340635-1",
+      "last_hot_value": "查看:3666 回复:58",
+      "first_seen_at": "2026-08-13T20:08:00",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "【比“史上最强”更强】满屏讨论dd gcp居然没有人提到我的脚本😭",
       "url": "https://www.nodeseek.com/post-116193-1",
       "last_hot_value": "查看:31734 回复:248",
       "first_seen_at": "2026-08-15T17:38:58",
       "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -77,9 +97,19 @@
       "last_hot_value": "查看:92391 回复:777",
       "first_seen_at": "2026-08-14T22:51:41",
       "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 18,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
+      "url": "https://www.nodeseek.com/post-762899-1",
+      "last_hot_value": "查看:4467 回复:109",
+      "first_seen_at": "2026-08-16T18:00:43",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
@@ -97,7 +127,7 @@
       "last_hot_value": "查看:6132 回复:102",
       "first_seen_at": "2026-08-15T19:53:30",
       "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -107,9 +137,19 @@
       "last_hot_value": "查看:798897 回复:1178",
       "first_seen_at": "2026-08-14T22:51:41",
       "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 18,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
+      "url": "https://www.nodeseek.com/post-572284-1",
+      "last_hot_value": "查看:57082 回复:186",
+      "first_seen_at": "2026-08-16T18:00:43",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
@@ -117,7 +157,7 @@
       "last_hot_value": "查看:8236 回复:131",
       "first_seen_at": "2026-08-15T17:38:58",
       "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -142,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "世界上还没有发现比它好用的easytier一键组网脚本！完美支持 Debian/Ubuntu/Mac/Alpine/windows/openwrt!!!!!!！宇宙无敌好用！",
+      "url": "https://www.nodeseek.com/post-410003-1",
+      "last_hot_value": "查看:18404 回复:205",
+      "first_seen_at": "2026-08-16T18:00:43",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "[科普/教程]关于\"送中\"，你所要知道的一切！——什么是送中？如何判断是否送中？为什么会送中？如何预防/解决送中？还有完全免费且可以立马拉回去正确归属地的方法？还能“焊死”？？？",
       "url": "https://www.nodeseek.com/post-485530-1",
       "last_hot_value": "查看:14606 回复:204",
       "first_seen_at": "2026-08-14T22:51:41",
       "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 18,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -162,6 +212,16 @@
       "is_new": false
     },
     {
+      "title": "PT刷流指南",
+      "url": "https://www.nodeseek.com/post-224784-1",
+      "last_hot_value": "查看:35729 回复:197",
+      "first_seen_at": "2026-08-16T18:00:43",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "【教程】分享一下大部分VPS以及甲骨文ARM/AMD、AWS、谷歌云GCP通用DD方法！",
       "url": "https://www.nodeseek.com/post-86852-1",
       "last_hot_value": "查看:10661 回复:86",
@@ -172,14 +232,14 @@
       "is_new": false
     },
     {
-      "title": "【油猴脚本(520更新)】NodeSeekSearchHelper论坛搜索助手，支持分类/精华帖/作者/标题多重筛选",
-      "url": "https://www.nodeseek.com/post-340635-1",
-      "last_hot_value": "查看:3610 回复:56",
-      "first_seen_at": "2026-08-13T20:08:00",
-      "last_seen_at": "2026-08-14T13:33:43",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "【保姆级教程】20r一年！Termius土区从账号注册到订阅完整版教程！",
+      "url": "https://www.nodeseek.com/post-295429-1",
+      "last_hot_value": "查看:25102 回复:171",
+      "first_seen_at": "2026-08-16T18:00:43",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "【技术】手把手教你用AdguradHome+SNIProxy自建DNS解锁服务器",
@@ -190,6 +250,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
+      "url": "https://www.nodeseek.com/post-219853-1",
+      "last_hot_value": "查看:8598 回复:62",
+      "first_seen_at": "2026-08-16T18:00:43",
+      "last_seen_at": "2026-08-16T18:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "Komari 从入门到入土 (万字+77图)",

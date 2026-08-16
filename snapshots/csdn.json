@@ -1,33 +1,33 @@
 {
-  "update_time": "2026-08-16T15:48:22",
+  "update_time": "2026-08-16T18:00:35",
   "items": [
+    {
+      "title": "2026手机远程办公：向日葵、TeamViewer、ToDesk鸿蒙适配+传文件+AI审计功能对比",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/163734879",
+      "last_hot_value": "2.8w",
+      "first_seen_at": "2026-08-14T13:33:34",
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 20,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "MySQL迁移实战：从连接到代码的“零改造“路径",
       "url": "https://blog.csdn.net/2401_87629362/article/details/163781229",
-      "last_hot_value": "2.8w",
+      "last_hot_value": "2.3w",
       "first_seen_at": "2026-08-16T11:02:58",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "Horse3D 游戏引擎研发笔记（六）：IBalikun——组件编辑器接口与宿主关联",
       "url": "https://blog.csdn.net/2503_92624912/article/details/163783314",
-      "last_hot_value": "2.7w",
-      "first_seen_at": "2026-08-15T19:53:20",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 8,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "2026手机远程办公：向日葵、TeamViewer、ToDesk鸿蒙适配+传文件+AI审计功能对比",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/163734879",
       "last_hot_value": "1.9w",
-      "first_seen_at": "2026-08-14T13:33:34",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 19,
+      "first_seen_at": "2026-08-15T19:53:20",
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
@@ -37,7 +37,7 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-15T01:18:30",
       "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 13,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -72,22 +72,22 @@
       "is_new": false
     },
     {
-      "title": "MongoDB Exporter部署实战：接入Prometheus并配置监控告警",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/163774391",
-      "last_hot_value": "2.3w",
+      "title": "飞牛OS部署Mtab：Docker搭建自托管书签导航并实现远程访问",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/163755005",
+      "last_hot_value": "2.2w",
       "first_seen_at": "2026-08-15T11:43:13",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "飞牛OS部署Mtab：Docker搭建自托管书签导航并实现远程访问",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/163755005",
-      "last_hot_value": "1.5w",
+      "title": "MongoDB Exporter部署实战：接入Prometheus并配置监控告警",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/163774391",
+      "last_hot_value": "2.1w",
       "first_seen_at": "2026-08-15T11:43:13",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 13,
       "peak_rank": 2,
       "is_new": false
     },
@@ -124,10 +124,10 @@
     {
       "title": "【MYSQL】MYSQL学习的一大重点：MySQL连接池原理与分析简易网站数据流动是如何进行",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163252580",
-      "last_hot_value": "2.3w",
+      "last_hot_value": "2.0w",
       "first_seen_at": "2026-08-14T22:51:31",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 9,
       "peak_rank": 3,
       "is_new": false
     },
@@ -137,7 +137,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-15T15:17:25",
       "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -244,10 +244,10 @@
     {
       "title": "WorkBuddy AI工具使用介绍完全指南",
       "url": "https://blog.csdn.net/beautifulmemory/article/details/163644164",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
@@ -272,6 +272,16 @@
       "is_new": false
     },
     {
+      "title": "【Linux系统】【Linux发展历史及环境部署、Xshell使用】流食般投喂",
+      "url": "https://blog.csdn.net/dj_798/article/details/163799618",
+      "last_hot_value": "8578",
+      "first_seen_at": "2026-08-16T18:00:35",
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "Linux 从0到1部署Jenkins + Docker 实现CICD自动化实战详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/162806000",
       "last_hot_value": "8920",
@@ -279,6 +289,16 @@
       "last_seen_at": "2026-08-13T20:07:51",
       "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "Komari 1.1.3 部署教程：轻量服务器监控、远程终端与公网访问",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/163757432",
+      "last_hot_value": "8326",
+      "first_seen_at": "2026-08-16T13:23:28",
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 4,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -312,14 +332,14 @@
       "is_new": false
     },
     {
-      "title": "Komari 1.1.3 部署教程：轻量服务器监控、远程终端与公网访问",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163757432",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-16T13:23:28",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 3,
+      "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
+      "last_hot_value": "7828",
+      "first_seen_at": "2026-08-16T18:00:35",
+      "last_seen_at": "2026-08-16T18:00:35",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",
