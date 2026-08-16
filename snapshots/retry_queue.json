@@ -593,5 +593,12 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-08-16T05:13:19",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hostloc",
+    "platform_name": "全球主机交流",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-08-16T11:03:16",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
