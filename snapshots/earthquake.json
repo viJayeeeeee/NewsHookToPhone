@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-15T23:04:31",
+  "update_time": "2026-08-16T06:33:55",
   "items": [
+    {
+      "title": "M6.1 瓦努阿图群岛",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "6.1级",
+      "first_seen_at": "2026-08-16T06:33:55",
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M5.9 印尼托米尼湾",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.9级",
       "first_seen_at": "2026-08-15T17:10:38",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.4级",
       "first_seen_at": "2026-08-15T12:39:48",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "7.7级",
       "first_seen_at": "2026-08-15T03:15:47",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 13,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-08-14T20:14:41",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 14,
       "peak_rank": 1,
       "is_new": false
     },
@@ -46,18 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-08-14T08:31:46",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 14,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M3.2 甘肃临夏州永靖县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.2级",
-      "first_seen_at": "2026-08-13T03:23:31",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 19,
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 15,
       "peak_rank": 1,
       "is_new": false
     },
@@ -66,8 +66,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.8级",
       "first_seen_at": "2026-08-15T17:10:38",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.8级",
       "first_seen_at": "2026-08-15T12:39:48",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 8,
       "peak_rank": 2,
       "is_new": false
     },
@@ -86,69 +86,9 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.4级",
       "first_seen_at": "2026-08-14T08:31:46",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-16T06:33:55",
+      "consecutive_count": 15,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M4.8 克什米尔",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "4.8级",
-      "first_seen_at": "2026-08-13T03:23:31",
-      "last_seen_at": "2026-08-15T23:04:31",
-      "consecutive_count": 19,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M3.3 内蒙古锡林郭勒盟苏尼特左旗",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.3级",
-      "first_seen_at": "2026-08-13T03:23:31",
-      "last_seen_at": "2026-08-15T13:47:50",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "M3.7 青海海南州兴海县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.7级",
-      "first_seen_at": "2026-08-13T03:23:31",
-      "last_seen_at": "2026-08-15T13:47:50",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "M3.0 四川阿坝州汶川县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-08-13T03:23:31",
-      "last_seen_at": "2026-08-15T11:23:27",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "M5.2 吉尔吉斯斯坦",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.2级",
-      "first_seen_at": "2026-08-13T03:23:31",
-      "last_seen_at": "2026-08-15T11:23:27",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "M3.6 青海海南州兴海县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.6级",
-      "first_seen_at": "2026-08-13T03:23:31",
-      "last_seen_at": "2026-08-14T20:14:41",
-      "consecutive_count": 0,
-      "peak_rank": 7,
       "is_new": false
     }
   ]
