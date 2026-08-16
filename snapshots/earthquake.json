@@ -1,13 +1,33 @@
 {
-  "update_time": "2026-08-16T17:41:32",
+  "update_time": "2026-08-16T21:18:31",
   "items": [
+    {
+      "title": "M3.1 四川自贡市富顺县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.1级",
+      "first_seen_at": "2026-08-16T21:18:31",
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "M3.6 四川内江市隆昌市",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.6级",
+      "first_seen_at": "2026-08-14T08:31:46",
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 22,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "M2.1 河北唐山市丰南区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.1级",
       "first_seen_at": "2026-08-16T10:46:02",
-      "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.1级",
       "first_seen_at": "2026-08-16T06:33:55",
-      "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.9级",
       "first_seen_at": "2026-08-15T17:10:38",
-      "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 13,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.4级",
       "first_seen_at": "2026-08-15T12:39:48",
-      "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 15,
       "peak_rank": 1,
       "is_new": false
     },
@@ -46,8 +66,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "7.7级",
       "first_seen_at": "2026-08-15T03:15:47",
-      "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 19,
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 20,
       "peak_rank": 1,
       "is_new": false
     },
@@ -57,27 +77,27 @@
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-08-14T20:14:41",
       "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 20,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "M3.6 四川内江市隆昌市",
+      "title": "M3.3 四川内江市隆昌市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.6级",
-      "first_seen_at": "2026-08-14T08:31:46",
-      "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 21,
-      "peak_rank": 1,
-      "is_new": false
+      "last_hot_value": "3.3级",
+      "first_seen_at": "2026-08-16T21:18:31",
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M2.8 四川眉山市仁寿县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.8级",
       "first_seen_at": "2026-08-15T17:10:38",
-      "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 13,
       "peak_rank": 2,
       "is_new": false
     },
@@ -86,8 +106,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.8级",
       "first_seen_at": "2026-08-15T12:39:48",
-      "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-16T21:18:31",
+      "consecutive_count": 15,
       "peak_rank": 2,
       "is_new": false
     },
@@ -97,7 +117,7 @@
       "last_hot_value": "2.4级",
       "first_seen_at": "2026-08-14T08:31:46",
       "last_seen_at": "2026-08-16T17:41:32",
-      "consecutive_count": 21,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
