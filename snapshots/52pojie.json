@@ -1,13 +1,43 @@
 {
-  "update_time": "2026-08-15T21:02:37",
+  "update_time": "2026-08-16T04:09:17",
   "items": [
+    {
+      "title": "电池健康查看器：Battery Health v1.0.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-16T04:09:17",
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "使用 Linux 一年后的真实感受",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T15:17:38",
-      "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "小说下载器 - 你的网文自由神器！",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-14T22:51:42",
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "电脑垃圾清理大师V1.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-13T20:08:02",
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,26 +62,6 @@
       "is_new": false
     },
     {
-      "title": "电脑垃圾清理大师V1.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-13T20:08:02",
-      "last_seen_at": "2026-08-15T07:06:43",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "小说下载器 - 你的网文自由神器！",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-15T00:08:58",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "下载管理工具 FluxDown v0.4.2",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
@@ -62,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "瞬时回放 v1.0.0｜错过精彩瞬间？一键保存「刚刚发生的画面」",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-14T22:51:42",
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "微信视频号下载助手 wx_channel V5.7.1",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T08:11:34",
       "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -77,16 +97,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T14:05:30",
       "last_seen_at": "2026-08-15T14:05:30",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "瞬时回放 v1.0.0｜错过精彩瞬间？一键保存「刚刚发生的画面」",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-15T07:06:43",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -112,21 +122,31 @@
       "is_new": false
     },
     {
-      "title": "微串口调试工具 v1.0.0 | Modbus/CAN/DBC/蓝牙 SPP/波形/脚本",
+      "title": "敕令搜典(一款Everything插件）瞬间菜鸟成为元婴级大能",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-14T13:33:45",
-      "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 7,
+      "first_seen_at": "2026-08-16T04:09:17",
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "下载管理工具 FluxDown v0.4.5",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-15T07:06:43",
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "微串口调试工具 v1.0.0 | Modbus/CAN/DBC/蓝牙 SPP/波形/脚本",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-14T13:33:45",
+      "last_seen_at": "2026-08-15T21:02:37",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -137,7 +157,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T15:17:38",
       "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -152,12 +172,22 @@
       "is_new": false
     },
     {
+      "title": "一个禁止w7和w10/w11系统更新的小软件2.1正式版（已更新）",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-14T22:51:42",
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "央视影音v6.0.5.2绿色版",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T08:11:34",
       "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -172,13 +202,13 @@
       "is_new": false
     },
     {
-      "title": "一个禁止w7和w10/w11系统更新的小软件2.1正式版（已更新）",
+      "title": "图吧工具箱2026.08版本",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-15T00:08:58",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -187,7 +217,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T08:11:34",
       "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -197,16 +227,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-14T13:33:45",
       "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 7,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "图吧工具箱2026.08版本",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-15T00:08:58",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
@@ -217,7 +237,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-14T13:33:45",
       "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -226,8 +246,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-14T22:51:42",
-      "last_seen_at": "2026-08-15T00:08:58",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-16T04:09:17",
+      "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": false
     },
@@ -237,7 +257,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-14T13:33:45",
       "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -267,7 +287,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-15T08:11:34",
       "last_seen_at": "2026-08-15T21:02:37",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
