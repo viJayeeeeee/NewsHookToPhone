@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-16T18:00:33",
+  "update_time": "2026-08-16T20:23:54",
   "items": [
+    {
+      "title": "Deepseek harness 安装配置保姆教程",
+      "url": "https://juejin.cn/post/7673506180661428259",
+      "last_hot_value": "热度:1674",
+      "first_seen_at": "2026-08-14T22:51:30",
+      "last_seen_at": "2026-08-16T20:23:54",
+      "consecutive_count": 20,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "DeepSeek 昨晚刚开源了 Harness：附万少的2 万字保姆级教程",
       "url": "https://juejin.cn/post/7673390412729614390",
       "last_hot_value": "热度:4104",
       "first_seen_at": "2026-08-14T13:33:32",
       "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 20,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "Deepseek harness 安装配置保姆教程",
-      "url": "https://juejin.cn/post/7673506180661428259",
-      "last_hot_value": "热度:1656",
-      "first_seen_at": "2026-08-14T22:51:30",
-      "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 19,
+      "title": "DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大",
+      "url": "https://juejin.cn/post/7673810995882672128",
+      "last_hot_value": "热度:1107",
+      "first_seen_at": "2026-08-15T11:43:12",
+      "last_seen_at": "2026-08-16T20:23:54",
+      "consecutive_count": 14,
       "peak_rank": 2,
       "is_new": false
     },
@@ -32,26 +42,6 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大",
-      "url": "https://juejin.cn/post/7673810995882672128",
-      "last_hot_value": "热度:1107",
-      "first_seen_at": "2026-08-15T11:43:12",
-      "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 13,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Flutter 3.47 发布，快来看看有什么更新吧",
-      "url": "https://juejin.cn/post/7673029031966474292",
-      "last_hot_value": "热度:1062",
-      "first_seen_at": "2026-08-13T20:07:50",
-      "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 21,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "Deepseek涨价了，前后对比，竟然差这么多",
       "url": "https://juejin.cn/post/7673348268143132710",
       "last_hot_value": "热度:1071",
@@ -62,23 +52,13 @@
       "is_new": false
     },
     {
-      "title": "网页端, 6.5MB人脸识别模型, 谷歌框架, 又快又准",
-      "url": "https://juejin.cn/post/7672915108386570267",
-      "last_hot_value": "热度:954",
-      "first_seen_at": "2026-08-13T20:07:50",
-      "last_seen_at": "2026-08-16T05:12:58",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
       "url": "https://juejin.cn/post/7673855455463800847",
-      "last_hot_value": "热度:1017",
+      "last_hot_value": "热度:1026",
       "first_seen_at": "2026-08-15T14:05:19",
-      "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 12,
-      "peak_rank": 5,
+      "last_seen_at": "2026-08-16T20:23:54",
+      "consecutive_count": 13,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -86,38 +66,38 @@
       "url": "https://juejin.cn/post/7673875524200808494",
       "last_hot_value": "热度:909",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "9 张 AI 生成的图，吃透任何一个前端项目",
-      "url": "https://juejin.cn/post/7672299548789964800",
-      "last_hot_value": "热度:657",
-      "first_seen_at": "2026-08-13T20:07:50",
-      "last_seen_at": "2026-08-13T20:07:50",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-16T20:23:54",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "给运营导个 CSV，在 ksql 里用 \\copy 就够了",
       "url": "https://juejin.cn/post/7673897632196919348",
-      "last_hot_value": "热度:846",
+      "last_hot_value": "热度:873",
       "first_seen_at": "2026-08-16T04:09:04",
-      "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-16T20:23:54",
+      "consecutive_count": 8,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "鸿蒙健康教练接入蓝耘：一句话打卡，模型估热量，网关记账",
+      "url": "https://juejin.cn/post/7673897632197001268",
+      "last_hot_value": "热度:873",
+      "first_seen_at": "2026-08-16T04:09:04",
+      "last_seen_at": "2026-08-16T20:23:54",
+      "consecutive_count": 8,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "一行代码集成 DWG/DXF 图纸查看：测量批注，数据不出站",
       "url": "https://juejin.cn/post/7674372498314936370",
-      "last_hot_value": "热度:837",
+      "last_hot_value": "热度:846",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-16T20:23:54",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
@@ -129,16 +109,6 @@
       "last_seen_at": "2026-08-15T08:11:20",
       "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "鸿蒙健康教练接入蓝耘：一句话打卡，模型估热量，网关记账",
-      "url": "https://juejin.cn/post/7673897632197001268",
-      "last_hot_value": "热度:846",
-      "first_seen_at": "2026-08-16T04:09:04",
-      "last_seen_at": "2026-08-16T18:00:33",
-      "consecutive_count": 7,
-      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -162,6 +132,16 @@
       "is_new": false
     },
     {
+      "title": "AI 时代 SVG 画图的潜力",
+      "url": "https://juejin.cn/post/7673872542772838451",
+      "last_hot_value": "热度:567",
+      "first_seen_at": "2026-08-16T18:00:33",
+      "last_seen_at": "2026-08-16T20:23:54",
+      "consecutive_count": 2,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "4 个 vibe coding 项目，一个普通前端的半年",
       "url": "https://juejin.cn/post/7672975601436622899",
       "last_hot_value": "热度:342",
@@ -172,14 +152,14 @@
       "is_new": false
     },
     {
-      "title": "AI 时代 SVG 画图的潜力",
-      "url": "https://juejin.cn/post/7673872542772838451",
-      "last_hot_value": "热度:558",
-      "first_seen_at": "2026-08-16T18:00:33",
-      "last_seen_at": "2026-08-16T18:00:33",
+      "title": "Jetpack Compose 8 月版正式发布，核心模块 1.12",
+      "url": "https://juejin.cn/post/7673413097325559843",
+      "last_hot_value": "热度:441",
+      "first_seen_at": "2026-08-15T11:43:12",
+      "last_seen_at": "2026-08-16T20:23:54",
       "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek Harness 速览：“一切皆插件”意味着什么",
@@ -192,31 +172,11 @@
       "is_new": false
     },
     {
-      "title": "Jetpack Compose 8 月版正式发布，核心模块 1.12",
-      "url": "https://juejin.cn/post/7673413097325559843",
-      "last_hot_value": "热度:378",
-      "first_seen_at": "2026-08-15T11:43:12",
-      "last_seen_at": "2026-08-15T21:02:24",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
       "title": "后端API没写好，前端难道干等着吗？",
       "url": "https://juejin.cn/post/7673068632563793929",
       "last_hot_value": "热度:351",
       "first_seen_at": "2026-08-15T14:05:19",
       "last_seen_at": "2026-08-15T14:05:19",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "uni-app x 蒸汽模式 性能测试基准报告 Benchmark【Android版】",
-      "url": "https://juejin.cn/post/7671992319081316367",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-08-13T20:07:50",
-      "last_seen_at": "2026-08-13T20:07:50",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
