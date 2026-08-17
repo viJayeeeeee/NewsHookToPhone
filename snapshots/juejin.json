@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-17T16:11:30",
+  "update_time": "2026-08-17T17:26:00",
   "items": [
     {
       "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
       "url": "https://juejin.cn/post/7673855455463800847",
-      "last_hot_value": "热度:2547",
+      "last_hot_value": "热度:2709",
       "first_seen_at": "2026-08-15T14:05:19",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 18,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 19,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,20 +24,20 @@
     {
       "title": "DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大",
       "url": "https://juejin.cn/post/7673810995882672128",
-      "last_hot_value": "热度:1791",
+      "last_hot_value": "热度:1899",
       "first_seen_at": "2026-08-15T11:43:12",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 19,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 20,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "鸿蒙健康教练接入蓝耘：一句话打卡，模型估热量，网关记账",
       "url": "https://juejin.cn/post/7673897632197001268",
-      "last_hot_value": "热度:1161",
+      "last_hot_value": "热度:1188",
       "first_seen_at": "2026-08-16T04:09:04",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 14,
       "peak_rank": 3,
       "is_new": false
     },
@@ -54,40 +54,40 @@
     {
       "title": "给运营导个 CSV，在 ksql 里用 \\copy 就够了",
       "url": "https://juejin.cn/post/7673897632196919348",
-      "last_hot_value": "热度:1152",
+      "last_hot_value": "热度:1161",
       "first_seen_at": "2026-08-16T04:09:04",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 14,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南",
       "url": "https://juejin.cn/post/7673875524200808494",
-      "last_hot_value": "热度:990",
+      "last_hot_value": "热度:1017",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 12,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "一行代码集成 DWG/DXF 图纸查看：测量批注，数据不出站",
       "url": "https://juejin.cn/post/7674372498314936370",
-      "last_hot_value": "热度:927",
+      "last_hot_value": "热度:945",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 12,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "AI 时代 SVG 画图的潜力",
       "url": "https://juejin.cn/post/7673872542772838451",
-      "last_hot_value": "热度:639",
+      "last_hot_value": "热度:666",
       "first_seen_at": "2026-08-16T18:00:33",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 8,
       "peak_rank": 7,
       "is_new": false
     },
@@ -104,22 +104,32 @@
     {
       "title": "Jetpack Compose 8 月版正式发布，核心模块 1.12",
       "url": "https://juejin.cn/post/7673413097325559843",
-      "last_hot_value": "热度:531",
+      "last_hot_value": "热度:558",
       "first_seen_at": "2026-08-15T11:43:12",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 7,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
       "url": "https://juejin.cn/post/7674383173651824682",
-      "last_hot_value": "热度:396",
+      "last_hot_value": "热度:450",
       "first_seen_at": "2026-08-17T13:58:42",
-      "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
+      "url": "https://juejin.cn/post/7674686524115353650",
+      "last_hot_value": "热度:441",
+      "first_seen_at": "2026-08-17T17:26:00",
+      "last_seen_at": "2026-08-17T17:26:00",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "给 DeepSeek Harness 装个\"应用商店\"：一条命令，595 个插件随你逛",
@@ -127,7 +137,7 @@
       "last_hot_value": "热度:378",
       "first_seen_at": "2026-08-17T13:58:42",
       "last_seen_at": "2026-08-17T16:11:30",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },

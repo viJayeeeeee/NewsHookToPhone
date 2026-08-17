@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-17T16:11:32",
+  "update_time": "2026-08-17T17:26:02",
   "items": [
     {
       "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
@@ -54,10 +54,10 @@
     {
       "title": "SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%",
       "url": "https://blog.csdn.net/qq_57761637/article/details/163811264",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,7 +67,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-15T11:43:13",
       "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 19,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -104,10 +104,10 @@
     {
       "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -162,12 +162,22 @@
       "is_new": false
     },
     {
+      "title": "AI已经能直接进设计画布了：我用Penpot MCP让Codex生成了5个UI页面",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/163830309",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-17T16:11:32",
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "【AI大模型接入SDK】人工智能核心概念与人工智能发展史",
       "url": "https://blog.csdn.net/2401_89899187/article/details/163803148",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T13:58:44",
       "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -184,10 +194,10 @@
     {
       "title": "实时数据集成怎么选？自研 / 开源 / 商用对比",
       "url": "https://blog.csdn.net/weixin_37800531/article/details/163772766",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -200,6 +210,16 @@
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "【AI大模型接入SDK】名词解释",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163802939",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-17T17:26:02",
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "复盘小站：用 Doubao-Seed-Evolving，把厚厚的笔记一键变成可复习、可自测、可批改的知识资产",
@@ -222,22 +242,32 @@
       "is_new": false
     },
     {
+      "title": "【Linux 篇】数字世界的库房 —— 磁盘硬件原理与存储介质实战剖析",
+      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163802673",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-17T15:09:08",
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 3,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "大模型工程化实战（二）：Golden Set + CI 评测，给LLM内容上量具",
       "url": "https://blog.csdn.net/xiaobing259/article/details/163800937",
-      "last_hot_value": "9428",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "SQL Server数据迁移后性能反而暴涨？我用实测数据打消了所有疑虑",
       "url": "https://blog.csdn.net/qq_32682301/article/details/163786110",
-      "last_hot_value": "9120",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -250,16 +280,6 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
-    },
-    {
-      "title": "AI已经能直接进设计画布了：我用Penpot MCP让Codex生成了5个UI页面",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/163830309",
-      "last_hot_value": "9197",
-      "first_seen_at": "2026-08-17T16:11:32",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
     },
     {
       "title": "AI 时代审查思维：审查第一篇",
@@ -302,14 +322,14 @@
       "is_new": false
     },
     {
-      "title": "【Linux 篇】数字世界的库房 —— 磁盘硬件原理与存储介质实战剖析",
-      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163802673",
-      "last_hot_value": "9016",
-      "first_seen_at": "2026-08-17T15:09:08",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 2,
+      "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-17T17:26:02",
+      "last_seen_at": "2026-08-17T17:26:02",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",
