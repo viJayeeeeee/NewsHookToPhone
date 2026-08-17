@@ -1,53 +1,83 @@
 {
-  "update_time": "2026-08-17T04:08:56",
+  "update_time": "2026-08-17T22:48:52",
   "items": [
     {
-      "title": "4.5版本商店上新",
-      "url": "https://www.miyoushe.com/sr/article/77459475",
+      "title": "4.5版本「无名勋礼」更新",
+      "url": "https://www.miyoushe.com/sr/article/77537092",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-14T18:53:38",
-      "last_seen_at": "2026-08-17T04:08:56",
-      "consecutive_count": 13,
+      "first_seen_at": "2026-08-17T22:48:52",
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "「花藏繁生」活动：拟造花萼限时双倍掉落",
       "url": "https://www.miyoushe.com/sr/article/77414370",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T19:59:04",
-      "last_seen_at": "2026-08-17T04:08:56",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "【2026年8月10日】账号封禁公示",
+      "url": "https://www.miyoushe.com/sr/article/77329540",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-17T22:48:52",
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "4.4版本活动跃迁（其二）",
       "url": "https://www.miyoushe.com/sr/article/77188470",
       "last_hot_value": "",
       "first_seen_at": "2026-08-15T14:44:55",
-      "last_seen_at": "2026-08-17T04:08:56",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 11,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "「位面分裂」活动：位面饰品限时双倍掉落",
+      "url": "https://www.miyoushe.com/sr/article/76957421",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-17T22:48:52",
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "Fate[UBW]联动更新公告",
+      "url": "https://www.miyoushe.com/sr/article/76892977",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-17T22:48:52",
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "「幻造：圣杯战争」活动说明",
+      "url": "https://www.miyoushe.com/sr/article/76891951",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-17T22:48:52",
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "4.4版本游戏优化及已知问题说明（8/15更新）",
       "url": "https://www.miyoushe.com/sr/article/76694790",
       "last_hot_value": "",
       "first_seen_at": "2026-08-15T10:07:52",
-      "last_seen_at": "2026-08-17T04:08:56",
-      "consecutive_count": 11,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "4.4版本游戏优化及已知问题说明（8/14更新）",
-      "url": "https://www.miyoushe.com/sr/article/76694790",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T18:53:38",
-      "last_seen_at": "2026-08-14T22:26:52",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 12,
       "peak_rank": 8,
       "is_new": false
     },
@@ -56,8 +86,8 @@
       "url": "https://www.miyoushe.com/sr/article/76691429",
       "last_hot_value": "",
       "first_seen_at": "2026-08-15T14:44:55",
-      "last_seen_at": "2026-08-17T04:08:56",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-17T22:48:52",
+      "consecutive_count": 11,
       "peak_rank": 9,
       "is_new": false
     },
@@ -67,7 +97,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-15T14:44:55",
       "last_seen_at": "2026-08-17T04:08:56",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
