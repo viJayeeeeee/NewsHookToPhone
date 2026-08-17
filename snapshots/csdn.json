@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-17T15:09:08",
+  "update_time": "2026-08-17T16:11:32",
   "items": [
     {
       "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -54,20 +54,20 @@
     {
       "title": "SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%",
       "url": "https://blog.csdn.net/qq_57761637/article/details/163811264",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "MongoDB Exporter部署实战：接入Prometheus并配置监控告警",
       "url": "https://blog.csdn.net/Dovis5884/article/details/163774391",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-15T11:43:13",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 18,
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 19,
       "peak_rank": 2,
       "is_new": false
     },
@@ -106,8 +106,8 @@
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -166,8 +166,8 @@
       "url": "https://blog.csdn.net/2401_89899187/article/details/163803148",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -186,8 +186,8 @@
       "url": "https://blog.csdn.net/weixin_37800531/article/details/163772766",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -222,12 +222,22 @@
       "is_new": false
     },
     {
+      "title": "大模型工程化实战（二）：Golden Set + CI 评测，给LLM内容上量具",
+      "url": "https://blog.csdn.net/xiaobing259/article/details/163800937",
+      "last_hot_value": "9428",
+      "first_seen_at": "2026-08-17T13:58:44",
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 3,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "SQL Server数据迁移后性能反而暴涨？我用实测数据打消了所有疑虑",
       "url": "https://blog.csdn.net/qq_32682301/article/details/163786110",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "9120",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -242,14 +252,14 @@
       "is_new": false
     },
     {
-      "title": "大模型工程化实战（二）：Golden Set + CI 评测，给LLM内容上量具",
-      "url": "https://blog.csdn.net/xiaobing259/article/details/163800937",
-      "last_hot_value": "9262",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 2,
+      "title": "AI已经能直接进设计画布了：我用Penpot MCP让Codex生成了5个UI页面",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/163830309",
+      "last_hot_value": "9197",
+      "first_seen_at": "2026-08-17T16:11:32",
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "AI 时代审查思维：审查第一篇",
@@ -257,7 +267,7 @@
       "last_hot_value": "8887",
       "first_seen_at": "2026-08-17T13:58:44",
       "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -294,12 +304,12 @@
     {
       "title": "【Linux 篇】数字世界的库房 —— 磁盘硬件原理与存储介质实战剖析",
       "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163802673",
-      "last_hot_value": "8793",
+      "last_hot_value": "9016",
       "first_seen_at": "2026-08-17T15:09:08",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-17T16:11:32",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",
