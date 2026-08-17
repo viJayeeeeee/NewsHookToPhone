@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-17T02:17:21",
+  "update_time": "2026-08-17T13:58:45",
   "items": [
+    {
+      "title": "【鸿蒙实战】第 08 篇：冷启动从 2.8s 优化到 0.9s——耗时拆解与数据对比实战（HarmonyOS 7.x）",
+      "url": "https://ost.51cto.com/posts/55188",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-17T13:58:45",
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "李飞飞最新访谈：AI咋能代替人呢？",
       "url": "https://www.51cto.com/article/853123.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 7 音频可信识别实践：09｜重叠发言标记与多人语音结果复核设计 #智绘鸿蒙·大有“视”界#",
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T04:09:07",
       "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,24 +52,24 @@
       "is_new": false
     },
     {
-      "title": "鸿蒙自定义弹窗Dialog组件设计与实践：从需求到开源库的完整沉淀",
-      "url": "https://ost.51cto.com/posts/55045",
+      "title": "Codex正式开放1M上下文！解除GPT-5.6 Sol封印，三行配置搞定",
+      "url": "https://www.51cto.com/article/853178.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T08:11:23",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-17T13:58:45",
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "奥特曼放话：半年内，GPT上下文覆盖你的一切",
       "url": "https://www.51cto.com/article/853122.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "碰一下屏幕，素材自己\"飞\"到光标下 #智绘鸿蒙·大有“视”界#",
@@ -67,29 +77,29 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T04:09:07",
       "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "从零搭建HarmonyOS应用：组件化开发与粒子化动画实战全记录",
-      "url": "https://ost.51cto.com/posts/55043",
+      "title": "HarmonyOS AI开发工具：DevEco CLI介绍与DevEco Code集成",
+      "url": "https://ost.51cto.com/posts/55179",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T02:27:32",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-17T13:58:45",
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "AI也会“闹情绪”！中科大新研究：困惑和焦虑让AI更会干活儿",
       "url": "https://www.51cto.com/article/853121.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刚刚，GLM-5.3撕开闭源安全神话！0.1倍参数追平Mythos战力",
@@ -102,24 +112,24 @@
       "is_new": false
     },
     {
-      "title": "自动化会话超人工！Ramp Inspect Agent 接入 CI/告警，实现 AI SRE 自主处理线上事故",
-      "url": "https://www.51cto.com/article/852995.html",
+      "title": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+      "url": "https://www.51cto.com/article/853126.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-16T22:44:10",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-17T13:58:45",
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "Anthropic CEO辟谣！为亡父转AI，十年内灭癌症",
       "url": "https://www.51cto.com/article/853120.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
@@ -132,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "Vue 最强动画库！120+ 动画组件，实现复杂动画效果！",
-      "url": "https://www.51cto.com/article/852993.html",
+      "title": "编程能力开源SOTA，网络安全提升两倍！智谱发布GLM-5.3",
+      "url": "https://www.51cto.com/article/853141.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-16T22:44:10",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-17T13:58:45",
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "OpenAI研究员，曝光ASI降临时间线：大多数已成现实！",
@@ -147,16 +157,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
       "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "告别盲目 AI 运维！分级自治 SRE 自愈框架，彻底终结告警爆炸",
-      "url": "https://www.51cto.com/article/852992.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-16T22:44:10",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
@@ -167,19 +167,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
       "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "从零到一带你速通DeepSeek Harness",
-      "url": "https://www.51cto.com/article/852991.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-16T22:44:10",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "说一个反常识的真相，Agent如今在真实工作场景的成功率依然很低",
+      "url": "https://www.51cto.com/article/853144.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-17T13:58:45",
+      "last_seen_at": "2026-08-17T13:58:45",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "Anthropic冲刺史上最大IPO，两万亿美金！",
@@ -187,16 +187,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
       "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "不止做大模型， DeepSeek 悄悄放出 Harness，本地 Agent 有了新底座",
-      "url": "https://www.51cto.com/article/852988.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-16T22:44:10",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -207,38 +197,8 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
       "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "你的 MCP Server 该升 2.0 了，无状态到底解决了什么？",
-      "url": "https://www.51cto.com/article/852985.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-16T22:44:10",
       "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "一夜之间，GPT-5.6 Sol被OpenAI加速了14倍",
-      "url": "https://www.51cto.com/article/852984.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "反向图灵测试！这个「纯手工大模型」，把网友聊崩了",
-      "url": "https://www.51cto.com/article/852983.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-14T13:33:35",
-      "last_seen_at": "2026-08-15T14:05:22",
-      "consecutive_count": 0,
-      "peak_rank": 10,
       "is_new": false
     }
   ]
