@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-16T22:20:22",
+  "update_time": "2026-08-17T00:44:02",
   "items": [
+    {
+      "title": "M3.0 四川内江市隆昌市",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-08-17T00:44:02",
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M3.1 四川自贡市富顺县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-08-16T21:18:31",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-08-14T08:31:46",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 23,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 24,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.1级",
       "first_seen_at": "2026-08-16T10:46:02",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.1级",
       "first_seen_at": "2026-08-16T06:33:55",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -46,8 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.9级",
       "first_seen_at": "2026-08-15T17:10:38",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 15,
       "peak_rank": 1,
       "is_new": false
     },
@@ -56,8 +66,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.4级",
       "first_seen_at": "2026-08-15T12:39:48",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 17,
       "peak_rank": 1,
       "is_new": false
     },
@@ -67,7 +77,7 @@
       "last_hot_value": "7.7级",
       "first_seen_at": "2026-08-15T03:15:47",
       "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 21,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -86,8 +96,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-08-16T21:18:31",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -96,8 +106,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.8级",
       "first_seen_at": "2026-08-15T17:10:38",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 15,
       "peak_rank": 2,
       "is_new": false
     },
@@ -106,8 +116,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.8级",
       "first_seen_at": "2026-08-15T12:39:48",
-      "last_seen_at": "2026-08-16T22:20:22",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-17T00:44:02",
+      "consecutive_count": 17,
       "peak_rank": 2,
       "is_new": false
     },
