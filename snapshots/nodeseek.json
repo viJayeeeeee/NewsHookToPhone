@@ -1,43 +1,53 @@
 {
-  "update_time": "2026-08-17T17:26:11",
+  "update_time": "2026-08-17T22:04:43",
   "items": [
+    {
+      "title": "【原创】【教程】适合小白的保姆级EMBY开服教程，三千字图文教程",
+      "url": "https://www.nodeseek.com/post-311501-1",
+      "last_hot_value": "查看:26068 回复:217",
+      "first_seen_at": "2026-08-17T22:04:43",
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【开源】CDT-Monitor:阿里云 CDT 流量监控与自动化熔断工具。支持多账号管理、阈值自动停机（含节省模式）及抢占式实例保活。",
       "url": "https://www.nodeseek.com/post-587165-1",
-      "last_hot_value": "查看:9406 回复:142",
+      "last_hot_value": "查看:9699 回复:144",
       "first_seen_at": "2026-08-16T18:00:43",
-      "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 8,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:229674 回复:2116",
-      "first_seen_at": "2026-08-15T19:53:30",
-      "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
       "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:18904 回复:212",
+      "last_hot_value": "查看:20785 回复:223",
       "first_seen_at": "2026-08-14T22:51:41",
-      "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:230117 回复:2117",
+      "first_seen_at": "2026-08-15T19:53:30",
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 17,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:212535 回复:2854",
+      "last_hot_value": "查看:213165 回复:2856",
       "first_seen_at": "2026-08-15T14:05:29",
-      "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 19,
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 20,
       "peak_rank": 2,
       "is_new": false
     },
@@ -54,10 +64,10 @@
     {
       "title": "【油猴脚本(520更新)】NodeSeekSearchHelper论坛搜索助手，支持分类/精华帖/作者/标题多重筛选",
       "url": "https://www.nodeseek.com/post-340635-1",
-      "last_hot_value": "查看:3666 回复:58",
+      "last_hot_value": "查看:3723 回复:58",
       "first_seen_at": "2026-08-16T22:44:18",
-      "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,13 +92,43 @@
       "is_new": false
     },
     {
+      "title": "Nodyssey（开源安卓端 ns）",
+      "url": "https://www.nodeseek.com/post-878721-1",
+      "last_hot_value": "查看:992 回复:38",
+      "first_seen_at": "2026-08-17T22:04:43",
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
       "url": "https://www.nodeseek.com/post-762899-1",
       "last_hot_value": "查看:4467 回复:109",
       "first_seen_at": "2026-08-16T18:00:43",
       "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:75512 回复:604",
+      "first_seen_at": "2026-08-17T22:04:43",
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:804505 回复:1179",
+      "first_seen_at": "2026-08-14T22:51:41",
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -102,22 +142,12 @@
       "is_new": false
     },
     {
-      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
-      "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:798897 回复:1178",
-      "first_seen_at": "2026-08-14T22:51:41",
-      "last_seen_at": "2026-08-16T15:48:33",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
       "url": "https://www.nodeseek.com/post-572284-1",
       "last_hot_value": "查看:57082 回复:186",
       "first_seen_at": "2026-08-16T18:00:43",
       "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -147,7 +177,7 @@
       "last_hot_value": "查看:18404 回复:205",
       "first_seen_at": "2026-08-16T18:00:43",
       "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -167,7 +197,7 @@
       "last_hot_value": "查看:35729 回复:197",
       "first_seen_at": "2026-08-16T18:00:43",
       "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -182,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "NAT机商家合集-置顶每月更新中",
+      "url": "https://www.nodeseek.com/post-54366-1",
+      "last_hot_value": "查看:145442 回复:382",
+      "first_seen_at": "2026-08-17T22:04:43",
+      "last_seen_at": "2026-08-17T22:04:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "【保姆级教程】20r一年！Termius土区从账号注册到订阅完整版教程！",
       "url": "https://www.nodeseek.com/post-295429-1",
       "last_hot_value": "查看:25102 回复:171",
       "first_seen_at": "2026-08-16T18:00:43",
       "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -197,7 +237,7 @@
       "last_hot_value": "查看:8598 回复:62",
       "first_seen_at": "2026-08-16T18:00:43",
       "last_seen_at": "2026-08-17T17:26:11",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
