@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-17T22:04:34",
+  "update_time": "2026-08-18T06:14:17",
   "items": [
     {
       "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "2.4w",
       "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,16 +32,6 @@
       "is_new": false
     },
     {
-      "title": "【知识讲解】 Linux文件、命令与系统",
-      "url": "https://blog.csdn.net/2501_93971468/article/details/163734804",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "【DeepSeek-V4-Pro-0813 API小白接入教程】10分钟完成Python调用与思考模式配置",
       "url": "https://blog.csdn.net/m0_73879806/article/details/163726093",
       "last_hot_value": "2.1w",
@@ -52,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "【AI大模型接入SDK】人工智能核心概念与人工智能发展史",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163803148",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-08-17T13:58:44",
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%",
       "url": "https://blog.csdn.net/qq_57761637/article/details/163811264",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,7 +67,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-15T11:43:13",
       "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -102,22 +102,22 @@
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
+      "title": "AI已经能直接进设计画布了：我用Penpot MCP让Codex生成了5个UI页面",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/163830309",
       "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 5,
+      "first_seen_at": "2026-08-17T16:11:32",
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "【MYSQL】MYSQL学习的一大重点：MySQL连接池原理与分析简易网站数据流动是如何进行",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163252580",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-08-14T22:51:31",
-      "last_seen_at": "2026-08-17T02:17:19",
-      "consecutive_count": 0,
+      "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-17T13:58:44",
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -127,16 +127,6 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-15T15:17:25",
       "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Ubuntu部署GodoOS：Docker搭建Web办公桌面并实现远程访问",
-      "url": "https://blog.csdn.net/weixin_44976692/article/details/163725625",
-      "last_hot_value": "7318",
-      "first_seen_at": "2026-08-14T22:51:31",
-      "last_seen_at": "2026-08-16T05:12:59",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -162,33 +152,13 @@
       "is_new": false
     },
     {
-      "title": "AI已经能直接进设计画布了：我用Penpot MCP让Codex生成了5个UI页面",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/163830309",
+      "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-17T16:11:32",
-      "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【AI大模型接入SDK】人工智能核心概念与人工智能发展史",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163803148",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T16:11:32",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "Text-to-SQL 复杂关联查询实战：数据库设计与LLM 大模型生成多表JOIN",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163735079",
-      "last_hot_value": "9329",
-      "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-15T17:38:50",
-      "consecutive_count": 0,
-      "peak_rank": 4,
+      "first_seen_at": "2026-08-17T22:04:34",
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -197,27 +167,27 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T13:58:44",
       "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "Re：Linux系统篇（五十五）线程篇 · 八：为什么需要条件变量？从生活比喻、API 梳理到 pthread_cond 实战源码探究",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/163572717",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-15T17:38:50",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
+      "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-17T17:26:02",
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "大模型工程化实战（二）：Golden Set + CI 评测，给LLM内容上量具",
       "url": "https://blog.csdn.net/xiaobing259/article/details/163800937",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 6,
       "peak_rank": 6,
       "is_new": false
     },
@@ -232,32 +202,12 @@
       "is_new": false
     },
     {
-      "title": "复盘小站：用 Doubao-Seed-Evolving，把厚厚的笔记一键变成可复习、可自测、可批改的知识资产",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/163705906",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-14T22:51:31",
-      "last_seen_at": "2026-08-15T00:08:48",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "上下文工程实战：让 AI 在正确时间知道正确的事",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/163613979",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-14T22:51:31",
-      "last_seen_at": "2026-08-15T00:08:48",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "【Linux 篇】数字世界的库房 —— 磁盘硬件原理与存储介质实战剖析",
       "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163802673",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-17T15:09:08",
       "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -267,28 +217,18 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-17T13:58:44",
       "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 5,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "WorkBuddy AI工具使用介绍完全指南",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/163644164",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-15T01:18:30",
-      "last_seen_at": "2026-08-17T02:17:19",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
+      "title": "AI 编程进入监督时代：从补全代码到管理执行系统",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/163614025",
       "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-17T22:04:34",
-      "last_seen_at": "2026-08-17T22:04:34",
+      "first_seen_at": "2026-08-18T06:14:17",
+      "last_seen_at": "2026-08-18T06:14:17",
       "consecutive_count": 1,
-      "peak_rank": 8,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -332,14 +272,14 @@
       "is_new": false
     },
     {
-      "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
+      "title": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
+      "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-17T17:26:02",
-      "last_seen_at": "2026-08-17T17:26:02",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-18T06:14:17",
+      "last_seen_at": "2026-08-18T06:14:17",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",

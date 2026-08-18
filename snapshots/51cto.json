@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-17T22:04:35",
+  "update_time": "2026-08-18T06:14:19",
   "items": [
+    {
+      "title": "把\"毛玻璃\"玩出花：HarmonyOS视觉效果实战的四个\"真香\"瞬间",
+      "url": "https://ost.51cto.com/posts/55255",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【鸿蒙实战】第 08 篇：冷启动从 2.8s 优化到 0.9s——耗时拆解与数据对比实战（HarmonyOS 7.x）",
       "url": "https://ost.51cto.com/posts/55188",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T13:58:45",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,12 +62,22 @@
       "is_new": false
     },
     {
+      "title": "状态管理的\"最后一公里\"：HarmonyOS V2跨层级通信与深度观测完全指南",
+      "url": "https://ost.51cto.com/posts/55254",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "Codex正式开放1M上下文！解除GPT-5.6 Sol封印，三行配置搞定",
       "url": "https://www.51cto.com/article/853178.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T13:58:45",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,7 +87,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,12 +102,22 @@
       "is_new": false
     },
     {
+      "title": "DeepSeek Harness v0.1 四天 14 万星，对照 Claude Code 和 Codex 讲清三种 harness 设计原则",
+      "url": "https://www.51cto.com/article/853267.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS AI开发工具：DevEco CLI介绍与DevEco Code集成",
       "url": "https://ost.51cto.com/posts/55179",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T13:58:45",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -97,7 +127,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -112,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "即使 Agent 被劫持，也拿不到私钥：一种零信任 MCP 执行架构",
+      "url": "https://www.51cto.com/article/853240.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
       "url": "https://www.51cto.com/article/853126.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T13:58:45",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -127,7 +167,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T02:17:21",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -142,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
+      "url": "https://www.51cto.com/article/853266.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "编程能力开源SOTA，网络安全提升两倍！智谱发布GLM-5.3",
       "url": "https://www.51cto.com/article/853141.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T13:58:45",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -162,6 +212,16 @@
       "is_new": false
     },
     {
+      "title": "DeepSeek Harness 开源，下一代 Agent 基础设施长什么样？",
+      "url": "https://www.51cto.com/article/853192.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "谷歌搜不到的女人，搅动两万亿AI帝国",
       "url": "https://www.51cto.com/article/853118.html",
       "last_hot_value": "",
@@ -172,12 +232,22 @@
       "is_new": false
     },
     {
+      "title": "Workbuddy + ima 打造个人 AI 知识库",
+      "url": "https://www.51cto.com/article/853264.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "说一个反常识的真相，Agent如今在真实工作场景的成功率依然很低",
       "url": "https://www.51cto.com/article/853144.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T13:58:45",
       "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -192,6 +262,16 @@
       "is_new": false
     },
     {
+      "title": "斯坦福辍学生奥特曼：AI时代，大学上两年就够了",
+      "url": "https://www.51cto.com/article/853263.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "HPC程序为什么会崩？从 MPI 死锁到内存错误的系统化调试方法",
       "url": "https://www.51cto.com/article/853112.html",
       "last_hot_value": "",
@@ -200,6 +280,26 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "黄仁勋提前锁定20年OpenAI芯片收入！第一轮150万GPU卖2000亿美元",
+      "url": "https://www.51cto.com/article/853262.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "刚刚英伟达核弹级战略曝光！老黄宣布联手奥特曼圈地圈电，狂卷16GW算力霸权",
+      "url": "https://www.51cto.com/article/853236.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T06:14:19",
+      "last_seen_at": "2026-08-18T06:14:19",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
