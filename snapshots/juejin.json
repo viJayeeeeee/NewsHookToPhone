@@ -1,33 +1,23 @@
 {
-  "update_time": "2026-08-18T12:06:37",
+  "update_time": "2026-08-18T15:30:04",
   "items": [
-    {
-      "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
-      "url": "https://juejin.cn/post/7673855455463800847",
-      "last_hot_value": "热度:3753",
-      "first_seen_at": "2026-08-15T14:05:19",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 23,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "给运营导个 CSV，在 ksql 里用 \\copy 就够了",
       "url": "https://juejin.cn/post/7673897632196919348",
       "last_hot_value": "热度:1206",
       "first_seen_at": "2026-08-16T04:09:04",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 18,
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 19,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南",
       "url": "https://juejin.cn/post/7673875524200808494",
-      "last_hot_value": "热度:1116",
+      "last_hot_value": "热度:1125",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 17,
       "peak_rank": 3,
       "is_new": false
     },
@@ -54,31 +44,41 @@
     {
       "title": "一行代码集成 DWG/DXF 图纸查看：测量批注，数据不出站",
       "url": "https://juejin.cn/post/7674372498314936370",
-      "last_hot_value": "热度:1008",
+      "last_hot_value": "热度:1017",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 17,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
       "url": "https://juejin.cn/post/7674686524115353650",
-      "last_hot_value": "热度:954",
+      "last_hot_value": "热度:1008",
       "first_seen_at": "2026-08-17T17:26:00",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "AI 时代 SVG 画图的潜力",
       "url": "https://juejin.cn/post/7673872542772838451",
-      "last_hot_value": "热度:738",
+      "last_hot_value": "热度:747",
       "first_seen_at": "2026-08-16T18:00:33",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 13,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "高级前端开发职业规划（2026—2035）",
+      "url": "https://juejin.cn/post/7674794074013024310",
+      "last_hot_value": "热度:702",
+      "first_seen_at": "2026-08-18T10:58:09",
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 3,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -86,38 +86,28 @@
       "url": "https://juejin.cn/post/7674686524114944050",
       "last_hot_value": "热度:693",
       "first_seen_at": "2026-08-18T06:14:15",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "DeepSeek Harness必装的10个插件",
       "url": "https://juejin.cn/post/7674802907378303028",
-      "last_hot_value": "热度:657",
+      "last_hot_value": "热度:684",
       "first_seen_at": "2026-08-18T10:58:09",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 3,
       "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "高级前端开发职业规划（2026—2035）",
-      "url": "https://juejin.cn/post/7674794074013024310",
-      "last_hot_value": "热度:639",
-      "first_seen_at": "2026-08-18T10:58:09",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 2,
-      "peak_rank": 9,
       "is_new": false
     },
     {
       "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
       "url": "https://juejin.cn/post/7674383173651824682",
-      "last_hot_value": "热度:585",
+      "last_hot_value": "热度:612",
       "first_seen_at": "2026-08-17T13:58:42",
-      "last_seen_at": "2026-08-18T12:06:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T15:30:04",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
@@ -137,16 +127,6 @@
       "last_hot_value": "热度:477",
       "first_seen_at": "2026-08-16T13:23:26",
       "last_seen_at": "2026-08-16T15:48:20",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "后端API没写好，前端难道干等着吗？",
-      "url": "https://juejin.cn/post/7673068632563793929",
-      "last_hot_value": "热度:351",
-      "first_seen_at": "2026-08-15T14:05:19",
-      "last_seen_at": "2026-08-15T14:05:19",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-18T12:06:38",
+  "update_time": "2026-08-18T15:30:05",
   "items": [
     {
       "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
       "last_hot_value": "2.5w",
       "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 13,
       "peak_rank": 1,
       "is_new": false
     },
@@ -34,10 +34,20 @@
     {
       "title": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "2.4w",
       "first_seen_at": "2026-08-18T06:14:17",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 4,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/163811264",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-17T13:58:44",
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,16 +57,6 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T13:58:44",
       "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/163811264",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-18T10:58:11",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -76,38 +76,18 @@
       "url": "https://blog.csdn.net/2401_86326742/article/details/163830309",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-17T16:11:32",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 8,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek Harness 部署指南：从 npx 一键启动到 Python SDK 完整接入",
-      "url": "https://blog.csdn.net/aidoudoulong/article/details/163746112",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-15T15:17:25",
-      "last_seen_at": "2026-08-16T15:48:22",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "SQL Server数据迁移不只是把数据搬过去",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/163715999",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-15T14:05:20",
-      "last_seen_at": "2026-08-16T04:09:05",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-17T13:58:44",
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 9,
       "peak_rank": 3,
       "is_new": false
     },
@@ -116,18 +96,18 @@
       "url": "https://blog.csdn.net/qq_18933833/article/details/163852476",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-18T10:58:11",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
       "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-17T22:04:34",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -142,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(上)",
+      "url": "https://blog.csdn.net/kkiron/article/details/163855267",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-18T12:06:38",
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
       "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-17T17:26:02",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -196,8 +186,8 @@
       "url": "https://blog.csdn.net/u014390502/article/details/163795001",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-18T10:58:11",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T15:30:05",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -250,16 +240,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(上)",
-      "url": "https://blog.csdn.net/kkiron/article/details/163855267",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-18T12:06:38",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",

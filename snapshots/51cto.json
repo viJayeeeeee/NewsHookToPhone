@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-18T12:06:40",
+  "update_time": "2026-08-18T15:30:07",
   "items": [
     {
       "title": "Agentic SRE：当 AI 不仅提出修复方案，还直接实施时会发生什么",
       "url": "https://www.51cto.com/article/853338.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://ost.51cto.com/posts/55255",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://www.51cto.com/article/853328.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -106,8 +106,8 @@
       "url": "https://ost.51cto.com/posts/55288",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -116,8 +116,8 @@
       "url": "https://www.51cto.com/article/853267.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -142,22 +142,12 @@
       "is_new": false
     },
     {
-      "title": "刚刚，GLM-5.3撕开闭源安全神话！0.1倍参数追平Mythos战力",
-      "url": "https://www.51cto.com/article/853070.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-15T15:17:27",
-      "last_seen_at": "2026-08-16T22:44:10",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "Node.js 26.7.0 更新！测试、性能分析、FFI 全面补强",
       "url": "https://www.51cto.com/article/853320.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -166,8 +156,8 @@
       "url": "https://www.51cto.com/article/853240.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -192,22 +182,12 @@
       "is_new": false
     },
     {
-      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-      "url": "https://www.51cto.com/article/853067.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-15T15:17:27",
-      "last_seen_at": "2026-08-16T22:44:10",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "AIOps 故障排障全流程：3 个生产案例排查耗时从 60 分钟降至 5 分钟",
       "url": "https://www.51cto.com/article/853292.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -216,8 +196,8 @@
       "url": "https://www.51cto.com/article/853266.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -246,8 +226,8 @@
       "url": "https://www.51cto.com/article/853192.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T12:06:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T15:30:07",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
