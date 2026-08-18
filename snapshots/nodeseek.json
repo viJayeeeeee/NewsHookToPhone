@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-18T21:23:15",
+  "update_time": "2026-08-18T23:45:33",
   "items": [
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:213642 回复:2864",
       "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源】CDT-Monitor:阿里云 CDT 流量监控与自动化熔断工具。支持多账号管理、阈值自动停机（含节省模式）及抢占式实例保活。",
       "url": "https://www.nodeseek.com/post-587165-1",
       "last_hot_value": "查看:9893 回复:146",
       "first_seen_at": "2026-08-16T18:00:43",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 15,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,18 +36,18 @@
       "url": "https://www.nodeseek.com/post-105666-1",
       "last_hot_value": "查看:106267 回复:273",
       "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Nodyssey（开源安卓端 ns）",
       "url": "https://www.nodeseek.com/post-878721-1",
       "last_hot_value": "查看:1361 回复:48",
       "first_seen_at": "2026-08-17T22:04:43",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://www.nodeseek.com/post-865242-1",
       "last_hot_value": "查看:21793 回复:227",
       "first_seen_at": "2026-08-18T10:58:20",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -70,6 +70,16 @@
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:230665 回复:2122",
+      "first_seen_at": "2026-08-18T23:45:33",
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
@@ -86,8 +96,8 @@
       "url": "https://www.nodeseek.com/post-647200-1",
       "last_hot_value": "查看:75921 回复:605",
       "first_seen_at": "2026-08-17T22:04:43",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 7,
       "peak_rank": 5,
       "is_new": false
     },
@@ -106,10 +116,10 @@
       "url": "https://www.nodeseek.com/post-68572-1",
       "last_hot_value": "查看:106254 回复:625",
       "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "世界上还没有发现比它好用的easytier一键组网脚本！完美支持 Debian/Ubuntu/Mac/Alpine/windows/openwrt!!!!!!！宇宙无敌好用！",
@@ -146,10 +156,10 @@
       "url": "https://www.nodeseek.com/post-584268-1",
       "last_hot_value": "查看:24695 回复:175",
       "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NAT机商家合集-置顶每月更新中",
@@ -176,10 +186,10 @@
       "url": "https://www.nodeseek.com/post-287967-1",
       "last_hot_value": "查看:93158 回复:780",
       "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-18T21:23:15",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T23:45:33",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",

@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-18T21:23:05",
+  "update_time": "2026-08-18T23:45:22",
   "items": [
     {
       "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
       "url": "https://juejin.cn/post/7673855455463800847",
-      "last_hot_value": "热度:3978",
+      "last_hot_value": "热度:3987",
       "first_seen_at": "2026-08-18T21:23:05",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "给运营导个 CSV，在 ksql 里用 \\copy 就够了",
       "url": "https://juejin.cn/post/7673897632196919348",
       "last_hot_value": "热度:1224",
       "first_seen_at": "2026-08-16T04:09:04",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 20,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 21,
       "peak_rank": 2,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://juejin.cn/post/7673875524200808494",
       "last_hot_value": "热度:1143",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 18,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 19,
       "peak_rank": 3,
       "is_new": false
     },
@@ -54,10 +54,10 @@
     {
       "title": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
       "url": "https://juejin.cn/post/7674686524115353650",
-      "last_hot_value": "热度:1062",
+      "last_hot_value": "热度:1071",
       "first_seen_at": "2026-08-17T17:26:00",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 8,
       "peak_rank": 4,
       "is_new": false
     },
@@ -66,19 +66,9 @@
       "url": "https://juejin.cn/post/7674372498314936370",
       "last_hot_value": "热度:1035",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 18,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 19,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "AI 时代 SVG 画图的潜力",
-      "url": "https://juejin.cn/post/7673872542772838451",
-      "last_hot_value": "热度:747",
-      "first_seen_at": "2026-08-16T18:00:33",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 14,
-      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -86,9 +76,19 @@
       "url": "https://juejin.cn/post/7674794074013024310",
       "last_hot_value": "热度:747",
       "first_seen_at": "2026-08-18T10:58:09",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 4,
-      "peak_rank": 7,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 5,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "AI 时代 SVG 画图的潜力",
+      "url": "https://juejin.cn/post/7673872542772838451",
+      "last_hot_value": "热度:747",
+      "first_seen_at": "2026-08-16T18:00:33",
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 15,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -96,18 +96,18 @@
       "url": "https://juejin.cn/post/7674686524114944050",
       "last_hot_value": "热度:702",
       "first_seen_at": "2026-08-18T06:14:15",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "DeepSeek Harness必装的10个插件",
       "url": "https://juejin.cn/post/7674802907378303028",
-      "last_hot_value": "热度:711",
+      "last_hot_value": "热度:720",
       "first_seen_at": "2026-08-18T10:58:09",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
     },
@@ -116,8 +116,8 @@
       "url": "https://juejin.cn/post/7674383173651824682",
       "last_hot_value": "热度:630",
       "first_seen_at": "2026-08-17T13:58:42",
-      "last_seen_at": "2026-08-18T21:23:05",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T23:45:22",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
