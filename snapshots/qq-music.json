@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-18T09:27:50",
+  "update_time": "2026-08-18T11:45:56",
   "items": [
     {
       "title": "RUN IT",
       "url": "https://y.qq.com/n/ryqq/songDetail/000niJmJ2LkmFm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T03:39:17",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/003GT3CT3p4h82",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T05:29:29",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 17,
       "peak_rank": 2,
       "is_new": false
     },
@@ -26,18 +26,28 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/004Eiwhc3TSX8E",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T10:45:57",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 23,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 24,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "冻结",
+      "url": "https://y.qq.com/n/ryqq/songDetail/000qXLmI47rb6L",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T11:45:56",
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "我不难过",
       "url": "https://y.qq.com/n/ryqq/songDetail/001fsNdn1zuZnA",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T05:57:12",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -46,8 +56,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T21:45:14",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 7,
       "peak_rank": 5,
       "is_new": false
     },
@@ -56,8 +66,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
       "last_hot_value": "",
       "first_seen_at": "2026-08-16T10:45:57",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 23,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 24,
       "peak_rank": 5,
       "is_new": false
     },
@@ -66,8 +76,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/002AZauQ1UKQxe",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T21:45:14",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 7,
       "peak_rank": 6,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/001Y2S0F1OaM2s",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T21:45:14",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 7,
       "peak_rank": 9,
       "is_new": false
     },
@@ -86,8 +96,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000BO3xy4fd8BJ",
       "last_hot_value": "",
       "first_seen_at": "2026-08-17T21:45:14",
-      "last_seen_at": "2026-08-18T09:27:50",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-18T11:45:56",
+      "consecutive_count": 7,
       "peak_rank": 10,
       "is_new": false
     },
