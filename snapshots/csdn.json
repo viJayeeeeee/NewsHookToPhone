@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-18T10:58:11",
+  "update_time": "2026-08-18T12:06:38",
   "items": [
     {
       "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
       "last_hot_value": "2.5w",
       "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 12,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-18T06:14:17",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "https://blog.csdn.net/2401_89899187/article/details/163803148",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -57,16 +57,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-17T13:58:44",
       "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 7,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "MongoDB Exporter部署实战：接入Prometheus并配置监控告警",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/163774391",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-15T11:43:13",
-      "last_seen_at": "2026-08-17T22:04:34",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -82,32 +72,22 @@
       "is_new": false
     },
     {
-      "title": "飞牛OS部署Mtab：Docker搭建自托管书签导航并实现远程访问",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/163755005",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-08-15T11:43:13",
-      "last_seen_at": "2026-08-17T02:17:19",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "AI已经能直接进设计画布了：我用Penpot MCP让Codex生成了5个UI页面",
       "url": "https://blog.csdn.net/2401_86326742/article/details/163830309",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-17T16:11:32",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 8,
       "peak_rank": 3,
       "is_new": false
     },
@@ -134,20 +114,20 @@
     {
       "title": "AI漫剧创作平台有哪些能直接交片的？",
       "url": "https://blog.csdn.net/qq_18933833/article/details/163852476",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-18T10:58:11",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
       "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-17T22:04:34",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -166,8 +146,8 @@
       "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-17T17:26:02",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -214,12 +194,12 @@
     {
       "title": "GitHub 热榜项目 - 周榜(2026-08-16)",
       "url": "https://blog.csdn.net/u014390502/article/details/163795001",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-18T10:58:11",
-      "last_seen_at": "2026-08-18T10:58:11",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "AI 编程进入监督时代：从补全代码到管理执行系统",
@@ -270,6 +250,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(上)",
+      "url": "https://blog.csdn.net/kkiron/article/details/163855267",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-18T12:06:38",
+      "last_seen_at": "2026-08-18T12:06:38",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",

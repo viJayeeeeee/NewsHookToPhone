@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-18T10:58:12",
+  "update_time": "2026-08-18T12:06:40",
   "items": [
     {
       "title": "Agentic SRE：当 AI 不仅提出修复方案，还直接实施时会发生什么",
       "url": "https://www.51cto.com/article/853338.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "把\"毛玻璃\"玩出花：HarmonyOS视觉效果实战的四个\"真香\"瞬间",
       "url": "https://ost.51cto.com/posts/55255",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,24 +52,14 @@
       "is_new": false
     },
     {
-      "title": "当我用@ComponentV2重构新闻客户端：一个\"状态管理灾难\"的救赎之路",
-      "url": "https://ost.51cto.com/posts/55077",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-15T11:43:15",
-      "last_seen_at": "2026-08-15T21:02:29",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "AI 赋能 SRE：打造自愈系统，让运维从故障响应走向自动恢复",
       "url": "https://www.51cto.com/article/853328.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "状态管理的\"最后一公里\"：HarmonyOS V2跨层级通信与深度观测完全指南",
@@ -116,18 +106,18 @@
       "url": "https://ost.51cto.com/posts/55288",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek Harness v0.1 四天 14 万星，对照 Claude Code 和 Codex 讲清三种 harness 设计原则",
       "url": "https://www.51cto.com/article/853267.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -166,18 +156,18 @@
       "url": "https://www.51cto.com/article/853320.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "即使 Agent 被劫持，也拿不到私钥：一种零信任 MCP 执行架构",
       "url": "https://www.51cto.com/article/853240.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -216,18 +206,18 @@
       "url": "https://www.51cto.com/article/853292.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
       "url": "https://www.51cto.com/article/853266.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -256,8 +246,8 @@
       "url": "https://www.51cto.com/article/853192.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T10:58:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-18T12:06:40",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
