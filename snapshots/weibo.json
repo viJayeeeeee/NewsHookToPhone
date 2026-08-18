@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-18T07:10:08",
+  "update_time": "2026-08-18T17:48:02",
   "items": [
+    {
+      "title": "朱镕基同志生平",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%23",
+      "last_hot_value": "363379",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "朱镕基同志遗体在京火化",
       "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96%23",
       "last_hot_value": "1111235",
       "first_seen_at": "2026-08-18T07:10:08",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "天安门下半旗悼念朱镕基同志",
@@ -102,24 +112,14 @@
       "is_new": false
     },
     {
-      "title": "汉奸石平参拜靖国神社",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%A5%B8%E7%9F%B3%E5%B9%B3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23",
-      "last_hot_value": "133405",
-      "first_seen_at": "2026-08-15T15:02:33",
-      "last_seen_at": "2026-08-15T23:17:45",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "谁杀死了驾校",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%80%E6%AD%BB%E4%BA%86%E9%A9%BE%E6%A0%A1%23",
-      "last_hot_value": "1606863",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T10:26:56",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "七夕",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%A4%95%23",
+      "last_hot_value": "360203",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "游泳 腺病毒",
@@ -127,9 +127,9 @@
       "last_hot_value": "1080420",
       "first_seen_at": "2026-08-18T07:10:08",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "12345 滥用",
@@ -137,7 +137,7 @@
       "last_hot_value": "599250",
       "first_seen_at": "2026-08-18T04:57:10",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -212,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "胖东来 刑释人员",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5+%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98%23",
-      "last_hot_value": "429449",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T15:02:33",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "9部门发文活跃县域消费",
+      "url": "https://s.weibo.com/weibo?q=%239%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E6%B4%BB%E8%B7%83%E5%8E%BF%E5%9F%9F%E6%B6%88%E8%B4%B9%23",
+      "last_hot_value": "356109",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "前7个月全国网上商品零售额增长4.6%",
@@ -227,9 +227,9 @@
       "last_hot_value": "1053465",
       "first_seen_at": "2026-08-18T07:10:08",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "前7个月国民经济总体平稳向新向优",
@@ -302,24 +302,14 @@
       "is_new": false
     },
     {
-      "title": "50秒看中国的绿色奇迹",
-      "url": "https://s.weibo.com/weibo?q=%2350%E7%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9%23",
-      "last_hot_value": "754715",
-      "first_seen_at": "2026-08-15T15:02:33",
-      "last_seen_at": "2026-08-15T15:02:33",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "这一天值得每一名中国人铭记",
-      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%A4%A9%E5%80%BC%E5%BE%97%E6%AF%8F%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%93%AD%E8%AE%B0%23",
-      "last_hot_value": "736610",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T10:26:56",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "胖东来招聘不包含性侵犯罪人员",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%8C%85%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98%23",
+      "last_hot_value": "348808",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "睡前9分钟清除皮质醇的废物",
@@ -327,9 +317,9 @@
       "last_hot_value": "1045312",
       "first_seen_at": "2026-08-18T07:10:08",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "高考只差一分却过上了两种人生",
@@ -412,24 +402,14 @@
       "is_new": false
     },
     {
-      "title": "王传君终于原谅爱情公寓了",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E4%BA%86%23",
-      "last_hot_value": "383250",
-      "first_seen_at": "2026-08-15T15:02:33",
-      "last_seen_at": "2026-08-15T23:17:45",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "终于明白减重减肥减脂区别",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BD%E5%87%8F%E9%87%8D%E5%87%8F%E8%82%A5%E5%87%8F%E8%84%82%E5%8C%BA%E5%88%AB%23",
-      "last_hot_value": "495084",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T10:26:56",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "何炅因年龄大被密室拒绝",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%9B%A0%E5%B9%B4%E9%BE%84%E5%A4%A7%E8%A2%AB%E5%AF%86%E5%AE%A4%E6%8B%92%E7%BB%9D%23",
+      "last_hot_value": "340738",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "巴基斯坦博主看欢迎来龙餐馆不适",
@@ -437,9 +417,9 @@
       "last_hot_value": "1031675",
       "first_seen_at": "2026-08-18T07:10:08",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "招商蛇口总部开展调查",
@@ -552,24 +532,14 @@
       "is_new": false
     },
     {
-      "title": "山西挖眼案男孩高考721分选了中医学",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%8C%96%E7%9C%BC%E6%A1%88%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83721%E5%88%86%E9%80%89%E4%BA%86%E4%B8%AD%E5%8C%BB%E5%AD%A6%23",
-      "last_hot_value": "438133",
-      "first_seen_at": "2026-08-15T15:02:33",
-      "last_seen_at": "2026-08-15T15:02:33",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "我们的少年时代2有63集",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%9C%8963%E9%9B%86%23",
-      "last_hot_value": "414290",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T10:26:56",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "公积金新规 通俗解读",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84+%E9%80%9A%E4%BF%97%E8%A7%A3%E8%AF%BB%23",
+      "last_hot_value": "333371",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "蜜雪冰城 盘账数杯子不数钱",
@@ -577,9 +547,9 @@
       "last_hot_value": "762113",
       "first_seen_at": "2026-08-18T07:10:08",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "印度教授发中国街景称被印媒骗惨了",
@@ -682,24 +652,14 @@
       "is_new": false
     },
     {
-      "title": "杜华 差点让披哥停播",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E+%E5%B7%AE%E7%82%B9%E8%AE%A9%E6%8A%AB%E5%93%A5%E5%81%9C%E6%92%AD%23",
-      "last_hot_value": "438075",
-      "first_seen_at": "2026-08-15T15:02:33",
-      "last_seen_at": "2026-08-15T15:02:33",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "鹿晗给汪苏泷送花篮了",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%BB%99%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%80%81%E8%8A%B1%E7%AF%AE%E4%BA%86%23",
-      "last_hot_value": "373711",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T10:26:56",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "周洛汐演唱会喊话KPOP三大公司",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%9B%E6%B1%90%E6%BC%94%E5%94%B1%E4%BC%9A%E5%96%8A%E8%AF%9DKPOP%E4%B8%89%E5%A4%A7%E5%85%AC%E5%8F%B8%23",
+      "last_hot_value": "329519",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "BBA集体大降价",
@@ -707,9 +667,9 @@
       "last_hot_value": "735812",
       "first_seen_at": "2026-08-18T07:10:08",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "不要允许人一边使用你一边否定你",
@@ -782,24 +742,14 @@
       "is_new": false
     },
     {
-      "title": "金鹰奖 赛制改革",
-      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96+%E8%B5%9B%E5%88%B6%E6%94%B9%E9%9D%A9%23",
-      "last_hot_value": "430779",
-      "first_seen_at": "2026-08-15T15:02:33",
-      "last_seen_at": "2026-08-15T15:02:33",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "原来活体器官运输不是专门的飞机",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B4%BB%E4%BD%93%E5%99%A8%E5%AE%98%E8%BF%90%E8%BE%93%E4%B8%8D%E6%98%AF%E4%B8%93%E9%97%A8%E7%9A%84%E9%A3%9E%E6%9C%BA%23",
-      "last_hot_value": "347669",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T10:26:56",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "现在该不该换手机",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8D%A2%E6%89%8B%E6%9C%BA%23",
+      "last_hot_value": "319757",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "泡面巨头靠涨价赚翻了",
@@ -892,14 +842,14 @@
       "is_new": false
     },
     {
-      "title": "疯狂动物城3官宣",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E5%AE%98%E5%AE%A3%23",
-      "last_hot_value": "339547",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T10:26:56",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "打过四价九价HPV疫苗不用再打双价",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E8%BF%87%E5%9B%9B%E4%BB%B7%E4%B9%9D%E4%BB%B7HPV%E7%96%AB%E8%8B%97%E4%B8%8D%E7%94%A8%E5%86%8D%E6%89%93%E5%8F%8C%E4%BB%B7%23",
+      "last_hot_value": "315511",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "中1签赚55万",
@@ -907,9 +857,9 @@
       "last_hot_value": "491141",
       "first_seen_at": "2026-08-18T07:10:08",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "重器 流氓罪死刑",
@@ -917,7 +867,7 @@
       "last_hot_value": "485214",
       "first_seen_at": "2026-08-18T04:57:10",
       "last_seen_at": "2026-08-18T07:10:08",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -1012,14 +962,14 @@
       "is_new": false
     },
     {
-      "title": "张本智和4比0大勒布伦",
-      "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C4%E6%AF%940%E5%A4%A7%E5%8B%92%E5%B8%83%E4%BC%A6%23",
-      "last_hot_value": "427742",
-      "first_seen_at": "2026-08-15T15:02:33",
-      "last_seen_at": "2026-08-15T15:02:33",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "调查组通报杭州酒局事件",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%9F%A5%E7%BB%84%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6%23",
+      "last_hot_value": "309462",
+      "first_seen_at": "2026-08-18T17:48:02",
+      "last_seen_at": "2026-08-18T17:48:02",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "龙餐馆 现挂",
@@ -1107,26 +1057,6 @@
       "last_hot_value": "97801",
       "first_seen_at": "2026-08-15T23:17:45",
       "last_seen_at": "2026-08-15T23:17:45",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "电影院直播樊振东比赛黄金位已售罄",
-      "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9B%B4%E6%92%AD%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AF%94%E8%B5%9B%E9%BB%84%E9%87%91%E4%BD%8D%E5%B7%B2%E5%94%AE%E7%BD%84%23",
-      "last_hot_value": "425588",
-      "first_seen_at": "2026-08-15T15:02:33",
-      "last_seen_at": "2026-08-15T15:02:33",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "保时捷溜车2员工拼命阻拦获加薪",
-      "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%BA%9C%E8%BD%A62%E5%91%98%E5%B7%A5%E6%8B%BC%E5%91%BD%E9%98%BB%E6%8B%A6%E8%8E%B7%E5%8A%A0%E8%96%AA%23",
-      "last_hot_value": "253730",
-      "first_seen_at": "2026-08-15T10:26:56",
-      "last_seen_at": "2026-08-15T10:26:56",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
