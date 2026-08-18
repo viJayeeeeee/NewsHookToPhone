@@ -1,33 +1,33 @@
 {
-  "update_time": "2026-08-18T06:14:15",
+  "update_time": "2026-08-18T10:58:09",
   "items": [
     {
       "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
       "url": "https://juejin.cn/post/7673855455463800847",
-      "last_hot_value": "热度:3249",
+      "last_hot_value": "热度:3699",
       "first_seen_at": "2026-08-15T14:05:19",
-      "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 21,
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 22,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "DeepSeek Harness开源第一天我就上手了——和Claude Code的差距比想象中大",
       "url": "https://juejin.cn/post/7673810995882672128",
-      "last_hot_value": "热度:2232",
+      "last_hot_value": "热度:2511",
       "first_seen_at": "2026-08-15T11:43:12",
-      "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 22,
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 23,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "给运营导个 CSV，在 ksql 里用 \\copy 就够了",
       "url": "https://juejin.cn/post/7673897632196919348",
-      "last_hot_value": "热度:1188",
+      "last_hot_value": "热度:1197",
       "first_seen_at": "2026-08-16T04:09:04",
-      "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 17,
       "peak_rank": 3,
       "is_new": false
     },
@@ -54,41 +54,51 @@
     {
       "title": "让 AI Coding Agent 直接访问 CAD 文档：GitMCP 实战指南",
       "url": "https://juejin.cn/post/7673875524200808494",
-      "last_hot_value": "热度:1071",
+      "last_hot_value": "热度:1107",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 15,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "一行代码集成 DWG/DXF 图纸查看：测量批注，数据不出站",
       "url": "https://juejin.cn/post/7674372498314936370",
-      "last_hot_value": "热度:981",
+      "last_hot_value": "热度:1008",
       "first_seen_at": "2026-08-16T11:02:56",
-      "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 15,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "AI 时代 SVG 画图的潜力",
-      "url": "https://juejin.cn/post/7673872542772838451",
-      "last_hot_value": "热度:702",
-      "first_seen_at": "2026-08-16T18:00:33",
-      "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 10,
-      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
       "url": "https://juejin.cn/post/7674686524115353650",
-      "last_hot_value": "热度:684",
+      "last_hot_value": "热度:927",
       "first_seen_at": "2026-08-17T17:26:00",
-      "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 3,
-      "peak_rank": 7,
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 4,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "AI 时代 SVG 画图的潜力",
+      "url": "https://juejin.cn/post/7673872542772838451",
+      "last_hot_value": "热度:738",
+      "first_seen_at": "2026-08-16T18:00:33",
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 11,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "url": "https://juejin.cn/post/7674686524114944050",
+      "last_hot_value": "热度:684",
+      "first_seen_at": "2026-08-18T06:14:15",
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 2,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -97,9 +107,19 @@
       "last_hot_value": "热度:603",
       "first_seen_at": "2026-08-15T11:43:12",
       "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "DeepSeek Harness必装的10个插件",
+      "url": "https://juejin.cn/post/7674802907378303028",
+      "last_hot_value": "热度:630",
+      "first_seen_at": "2026-08-18T10:58:09",
+      "last_seen_at": "2026-08-18T10:58:09",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
@@ -107,16 +127,16 @@
       "last_hot_value": "热度:531",
       "first_seen_at": "2026-08-17T13:58:42",
       "last_seen_at": "2026-08-18T06:14:15",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
-      "url": "https://juejin.cn/post/7674686524114944050",
-      "last_hot_value": "热度:522",
-      "first_seen_at": "2026-08-18T06:14:15",
-      "last_seen_at": "2026-08-18T06:14:15",
+      "title": "高级前端开发职业规划（2026—2035）",
+      "url": "https://juejin.cn/post/7674794074013024310",
+      "last_hot_value": "热度:621",
+      "first_seen_at": "2026-08-18T10:58:09",
+      "last_seen_at": "2026-08-18T10:58:09",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

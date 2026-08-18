@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-18T06:14:19",
+  "update_time": "2026-08-18T10:58:12",
   "items": [
+    {
+      "title": "Agentic SRE：当 AI 不仅提出修复方案，还直接实施时会发生什么",
+      "url": "https://www.51cto.com/article/853338.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T10:58:12",
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "把\"毛玻璃\"玩出花：HarmonyOS视觉效果实战的四个\"真香\"瞬间",
       "url": "https://ost.51cto.com/posts/55255",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【鸿蒙实战】第 08 篇：冷启动从 2.8s 优化到 0.9s——耗时拆解与数据对比实战（HarmonyOS 7.x）",
@@ -52,14 +62,14 @@
       "is_new": false
     },
     {
-      "title": "相册增强：批量超分与缩略图优化#智绘鸿蒙·大有\"视\"界",
-      "url": "https://ost.51cto.com/posts/55065",
+      "title": "AI 赋能 SRE：打造自愈系统，让运维从故障响应走向自动恢复",
+      "url": "https://www.51cto.com/article/853328.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-15T07:06:34",
-      "last_seen_at": "2026-08-15T21:02:29",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-18T10:58:12",
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "状态管理的\"最后一公里\"：HarmonyOS V2跨层级通信与深度观测完全指南",
@@ -67,9 +77,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
       "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Codex正式开放1M上下文！解除GPT-5.6 Sol封印，三行配置搞定",
@@ -102,14 +112,24 @@
       "is_new": false
     },
     {
+      "title": "相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法 #智绘鸿蒙·大有\"视\"界#",
+      "url": "https://ost.51cto.com/posts/55288",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T10:58:12",
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "DeepSeek Harness v0.1 四天 14 万星，对照 Claude Code 和 Codex 讲清三种 harness 设计原则",
       "url": "https://www.51cto.com/article/853267.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS AI开发工具：DevEco CLI介绍与DevEco Code集成",
@@ -142,14 +162,24 @@
       "is_new": false
     },
     {
+      "title": "Node.js 26.7.0 更新！测试、性能分析、FFI 全面补强",
+      "url": "https://www.51cto.com/article/853320.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T10:58:12",
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "即使 Agent 被劫持，也拿不到私钥：一种零信任 MCP 执行架构",
       "url": "https://www.51cto.com/article/853240.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
@@ -182,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "AIOps 故障排障全流程：3 个生产案例排查耗时从 60 分钟降至 5 分钟",
+      "url": "https://www.51cto.com/article/853292.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-18T10:58:12",
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
       "url": "https://www.51cto.com/article/853266.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "编程能力开源SOTA，网络安全提升两倍！智谱发布GLM-5.3",
@@ -216,10 +256,10 @@
       "url": "https://www.51cto.com/article/853192.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-18T10:58:12",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "谷歌搜不到的女人，搅动两万亿AI帝国",
@@ -237,9 +277,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
       "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "说一个反常识的真相，Agent如今在真实工作场景的成功率依然很低",
@@ -267,9 +307,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
       "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HPC程序为什么会崩？从 MPI 死锁到内存错误的系统化调试方法",
@@ -287,9 +327,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
       "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刚刚英伟达核弹级战略曝光！老黄宣布联手奥特曼圈地圈电，狂卷16GW算力霸权",
@@ -297,9 +337,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-18T06:14:19",
       "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
