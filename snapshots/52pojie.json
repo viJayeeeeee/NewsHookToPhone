@@ -1,13 +1,53 @@
 {
-  "update_time": "2026-08-18T15:30:26",
+  "update_time": "2026-08-18T21:23:16",
   "items": [
+    {
+      "title": "古籍库 v9.9",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-18T21:23:16",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "Android DEX — 把你的安卓手机变成桌面电脑",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-17T22:04:44",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "文本转语音工具 Balabolka v2.15.0.918",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-17T02:17:31",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "电池健康查看器：Battery Health v1.0.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-16T04:09:17",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "时间戳随机修改工具",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-17T13:58:56",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,38 +57,28 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-16T15:48:34",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "Android DEX — 把你的安卓手机变成桌面电脑",
+      "title": "办公工具箱合集打包一体了，看看市场需求量大不大",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-18T21:23:16",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "C++ 完整逻辑链 & 学习路线",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-17T22:04:44",
-      "last_seen_at": "2026-08-17T22:04:44",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "文本转语音工具 Balabolka v2.15.0.918",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-17T02:17:31",
-      "last_seen_at": "2026-08-17T02:17:31",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "电池健康查看器：Battery Health v1.0.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-16T04:09:17",
-      "last_seen_at": "2026-08-17T02:17:31",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -57,19 +87,19 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-17T02:17:31",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "C++ 完整逻辑链 & 学习路线",
+      "title": "图像查看工具 PicView v5.0.4",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-17T22:04:44",
-      "last_seen_at": "2026-08-17T22:04:44",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-18T21:23:16",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "小米云控自由解锁Joyctl开源",
@@ -77,7 +107,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-17T02:17:31",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -87,7 +117,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-18T06:14:29",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -132,12 +162,22 @@
       "is_new": false
     },
     {
+      "title": "CMS_Setup(3.0.2.11)电脑端添加各个品牌监控",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-18T21:23:16",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "可自由切割合并的PDF尺寸调整打印工具",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-18T10:58:21",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -162,12 +202,22 @@
       "is_new": false
     },
     {
+      "title": "远程桌面工具 HopToDesk v1.46.28",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-18T21:23:16",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "下载管理工具 FluxDown v0.4.5",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-18T10:58:21",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -182,12 +232,22 @@
       "is_new": false
     },
     {
+      "title": "屏幕锁定器 ScreenBlur 2.1.9 汉化版",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-18T21:23:16",
+      "last_seen_at": "2026-08-18T21:23:16",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "图吧工具箱2026.08版本",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-18T10:58:21",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -237,7 +297,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-18T10:58:21",
       "last_seen_at": "2026-08-18T15:30:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
