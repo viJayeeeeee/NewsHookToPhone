@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-08-19T09:30:40",
+  "update_time": "2026-08-19T21:16:26",
   "items": [
+    {
+      "title": "欢迎再次登录",
+      "url": "https://movie.douban.com/subject/36251766/",
+      "last_hot_value": "0.0",
+      "first_seen_at": "2026-08-19T21:16:26",
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "奥德赛",
       "url": "https://movie.douban.com/subject/36808876/",
       "last_hot_value": "8.5",
       "first_seen_at": "2026-08-19T06:00:53",
       "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "激情邀约",
+      "url": "https://movie.douban.com/subject/35801126/",
+      "last_hot_value": "7.5",
+      "first_seen_at": "2026-08-19T21:16:26",
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "大唐妖探",
@@ -17,7 +37,7 @@
       "last_hot_value": "0.0",
       "first_seen_at": "2026-08-18T02:06:25",
       "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -26,18 +46,28 @@
       "url": "https://movie.douban.com/subject/36877284/",
       "last_hot_value": "5.4",
       "first_seen_at": "2026-08-18T02:06:25",
-      "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 11,
       "peak_rank": 3,
       "is_new": false
     },
     {
+      "title": "火遮眼",
+      "url": "https://movie.douban.com/subject/36877245/",
+      "last_hot_value": "7.7",
+      "first_seen_at": "2026-08-19T21:16:26",
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "鬼玩人6：炼狱",
       "url": "https://movie.douban.com/subject/36767846/",
-      "last_hot_value": "6.6",
+      "last_hot_value": "6.5",
       "first_seen_at": "2026-08-18T02:06:25",
-      "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 11,
       "peak_rank": 4,
       "is_new": false
     },
@@ -46,8 +76,8 @@
       "url": "https://movie.douban.com/subject/36965301/",
       "last_hot_value": "7.2",
       "first_seen_at": "2026-08-18T02:06:25",
-      "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 11,
       "peak_rank": 5,
       "is_new": false
     },
@@ -56,8 +86,8 @@
       "url": "https://movie.douban.com/subject/37096700/",
       "last_hot_value": "6.1",
       "first_seen_at": "2026-08-19T06:00:53",
-      "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -66,8 +96,8 @@
       "url": "https://movie.douban.com/subject/37559942/",
       "last_hot_value": "7.0",
       "first_seen_at": "2026-08-19T06:00:53",
-      "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -77,7 +107,7 @@
       "last_hot_value": "7.0",
       "first_seen_at": "2026-08-19T06:00:53",
       "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -86,10 +116,20 @@
       "url": "https://movie.douban.com/subject/36912404/",
       "last_hot_value": "7.6",
       "first_seen_at": "2026-08-18T02:06:25",
-      "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 11,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "我看见两朵一样的云",
+      "url": "https://movie.douban.com/subject/35211447/",
+      "last_hot_value": "5.6",
+      "first_seen_at": "2026-08-19T21:16:26",
+      "last_seen_at": "2026-08-19T21:16:26",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "揭秘日",
@@ -97,7 +137,7 @@
       "last_hot_value": "6.4",
       "first_seen_at": "2026-08-18T02:06:25",
       "last_seen_at": "2026-08-19T09:30:40",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
