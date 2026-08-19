@@ -1,12 +1,12 @@
 {
-  "update_time": "2026-08-19T04:24:29",
+  "update_time": "2026-08-19T05:30:48",
   "items": [
     {
-      "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-17T22:04:34",
-      "last_seen_at": "2026-08-19T04:24:29",
+      "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
+      "last_hot_value": "2.3w",
+      "first_seen_at": "2026-08-17T17:26:02",
+      "last_seen_at": "2026-08-19T05:30:48",
       "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
@@ -14,10 +14,20 @@
     {
       "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 18,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-17T22:04:34",
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
+      "url": "https://blog.csdn.net/xiaobing259/article/details/163801977",
+      "last_hot_value": "2.3w",
+      "first_seen_at": "2026-08-19T05:30:48",
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-18T06:14:17",
-      "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -77,17 +97,7 @@
       "last_hot_value": "7041",
       "first_seen_at": "2026-08-17T13:58:44",
       "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 13,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-17T17:26:02",
-      "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -97,7 +107,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-18T10:58:11",
       "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -116,8 +126,8 @@
       "url": "https://blog.csdn.net/kkiron/article/details/163855267",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-18T12:06:38",
-      "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
@@ -126,8 +136,8 @@
       "url": "https://blog.csdn.net/2302_78391795/article/details/163848790",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-18T21:23:07",
-      "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -157,7 +167,7 @@
       "last_hot_value": "7110",
       "first_seen_at": "2026-08-18T21:23:07",
       "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -194,10 +204,10 @@
     {
       "title": "Zookeeper - 分布式配置中心的搭建与实操实践",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157689019",
-      "last_hot_value": "8492",
+      "last_hot_value": "7988",
       "first_seen_at": "2026-08-19T02:09:52",
-      "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -220,6 +230,16 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "【HTTPS】一个“S“背后的战争：五轮迭代还原 HTTPS 设计全貌",
+      "url": "https://blog.csdn.net/2302_80243065/article/details/163824638",
+      "last_hot_value": "9454",
+      "first_seen_at": "2026-08-19T05:30:48",
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "AI 编程进入监督时代：从补全代码到管理执行系统",
@@ -260,6 +280,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163876441",
+      "last_hot_value": "7751",
+      "first_seen_at": "2026-08-19T05:30:48",
+      "last_seen_at": "2026-08-19T05:30:48",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",
