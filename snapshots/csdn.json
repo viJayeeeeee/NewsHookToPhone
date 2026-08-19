@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-19T09:01:56",
+  "update_time": "2026-08-19T16:00:50",
   "items": [
     {
       "title": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
       "url": "https://blog.csdn.net/xiaobing259/article/details/163801977",
       "last_hot_value": "2.6w",
       "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-19T16:00:50",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
       "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
-      "last_hot_value": "2.3w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-17T17:26:02",
-      "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-19T16:00:50",
+      "consecutive_count": 11,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-17T22:04:34",
+      "last_seen_at": "2026-08-19T16:00:50",
+      "consecutive_count": 12,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,26 +37,6 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-16T18:00:35",
       "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 19,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-17T22:04:34",
-      "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 11,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "MySQL迁移实战：从连接到代码的“零改造“路径",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163781229",
-      "last_hot_value": "2.1w",
-      "first_seen_at": "2026-08-16T11:02:58",
-      "last_seen_at": "2026-08-17T02:17:19",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -54,10 +44,10 @@
     {
       "title": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-18T06:14:17",
-      "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-19T16:00:50",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -92,6 +82,16 @@
       "is_new": false
     },
     {
+      "title": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163876441",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-08-19T05:30:48",
+      "last_seen_at": "2026-08-19T16:00:50",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
       "last_hot_value": "7041",
@@ -122,22 +122,22 @@
       "is_new": false
     },
     {
+      "title": "【机器学习】损失函数全解_从MSE到交叉熵",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/163848790",
+      "last_hot_value": "9413",
+      "first_seen_at": "2026-08-18T21:23:07",
+      "last_seen_at": "2026-08-19T16:00:50",
+      "consecutive_count": 7,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(上)",
       "url": "https://blog.csdn.net/kkiron/article/details/163855267",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-18T12:06:38",
       "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【机器学习】损失函数全解_从MSE到交叉熵",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/163848790",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-18T21:23:07",
-      "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -149,6 +149,16 @@
       "last_seen_at": "2026-08-18T23:45:23",
       "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "【HTTPS】一个“S“背后的战争：五轮迭代还原 HTTPS 设计全貌",
+      "url": "https://blog.csdn.net/2302_80243065/article/details/163824638",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-19T05:30:48",
+      "last_seen_at": "2026-08-19T16:00:50",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -202,6 +212,16 @@
       "is_new": false
     },
     {
+      "title": "分布式GPU智能算法深度研究2026年版（下）",
+      "url": "https://blog.csdn.net/kkiron/article/details/163874293",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-19T16:00:50",
+      "last_seen_at": "2026-08-19T16:00:50",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "Zookeeper - 分布式配置中心的搭建与实操实践",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157689019",
       "last_hot_value": "7988",
@@ -232,23 +252,13 @@
       "is_new": false
     },
     {
-      "title": "【HTTPS】一个“S“背后的战争：五轮迭代还原 HTTPS 设计全貌",
-      "url": "https://blog.csdn.net/2302_80243065/article/details/163824638",
-      "last_hot_value": "9124",
-      "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-19T09:01:56",
+      "title": "SpringBoot3+Vue3+UniApp OA 即时通讯：单聊群聊、图片文件、PC 与手机同一会话",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/163865432",
+      "last_hot_value": "9433",
+      "first_seen_at": "2026-08-19T09:01:56",
+      "last_seen_at": "2026-08-19T16:00:50",
       "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163876441",
-      "last_hot_value": "9107",
-      "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 2,
-      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -282,34 +292,14 @@
       "is_new": false
     },
     {
-      "title": "Komari 1.1.3 部署教程：轻量服务器监控、远程终端与公网访问",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163757432",
-      "last_hot_value": "8326",
-      "first_seen_at": "2026-08-16T13:23:28",
-      "last_seen_at": "2026-08-16T18:00:35",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "SpringBoot3+Vue3+UniApp OA 即时通讯：单聊群聊、图片文件、PC 与手机同一会话",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/163865432",
-      "last_hot_value": "9019",
-      "first_seen_at": "2026-08-19T09:01:56",
-      "last_seen_at": "2026-08-19T09:01:56",
+      "title": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/163858686",
+      "last_hot_value": "8336",
+      "first_seen_at": "2026-08-19T16:00:50",
+      "last_seen_at": "2026-08-19T16:00:50",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
-    },
-    {
-      "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",
-      "url": "https://blog.csdn.net/u014727709/article/details/163762797",
-      "last_hot_value": "7569",
-      "first_seen_at": "2026-08-16T11:02:58",
-      "last_seen_at": "2026-08-16T11:02:58",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
     }
   ]
 }
