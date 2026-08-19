@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-18T22:48:40",
+  "update_time": "2026-08-19T10:25:00",
   "items": [
+    {
+      "title": "未来5年全民医保这样干",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E5%85%A8%E6%B0%91%E5%8C%BB%E4%BF%9D%E8%BF%99%E6%A0%B7%E5%B9%B2",
+      "last_hot_value": "425万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "天安门下半旗悼念朱镕基同志",
       "url": "https://news.sina.com.cn/c/xl/2026-08-18/doc-ininswne0227146.shtml ",
       "last_hot_value": "396万",
       "first_seen_at": "2026-08-18T02:56:10",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,24 +42,14 @@
       "is_new": false
     },
     {
-      "title": "朱镕基同志遗体18日火化",
-      "url": "https://news.sina.com.cn/c/xl/2026-08-16/doc-ininnuvr7841345.shtml",
-      "last_hot_value": "351万",
-      "first_seen_at": "2026-08-16T07:49:25",
-      "last_seen_at": "2026-08-17T11:45:37",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "进货式游中国火了",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%BF%9B%E8%B4%A7%E5%BC%8F%E6%B8%B8%E4%B8%AD%E5%9B%BD%E7%81%AB%E4%BA%86",
-      "last_hot_value": "365万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T06:34:03",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "中国足协回应不当招待",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%9B%9E%E5%BA%94%E4%B8%8D%E5%BD%93%E6%8B%9B%E5%BE%85",
+      "last_hot_value": "395万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "公积金新规 通俗解读",
@@ -57,7 +57,7 @@
       "last_hot_value": "395万",
       "first_seen_at": "2026-08-18T18:09:22",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,7 +67,7 @@
       "last_hot_value": "375万",
       "first_seen_at": "2026-08-18T13:21:38",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -142,34 +142,14 @@
       "is_new": false
     },
     {
-      "title": "网红小家电集体吃灰了",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0%E4%BA%86",
-      "last_hot_value": "368万",
-      "first_seen_at": "2026-08-16T10:04:34",
-      "last_seen_at": "2026-08-16T11:19:09",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "入职前放弃事业编赔5万",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%85%A5%E8%81%8C%E5%89%8D%E6%94%BE%E5%BC%83%E4%BA%8B%E4%B8%9A%E7%BC%96%E8%B5%945%E4%B8%87",
-      "last_hot_value": "335万",
-      "first_seen_at": "2026-08-16T10:04:34",
-      "last_seen_at": "2026-08-16T10:04:34",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "胖东来将闭门店28个收银口排长龙",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%B0%86%E9%97%AD%E9%97%A8%E5%BA%9728%E4%B8%AA%E6%94%B6%E9%93%B6%E5%8F%A3%E6%8E%92%E9%95%BF%E9%BE%99",
-      "last_hot_value": "331万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T10:04:34",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "瑞幸为什么不联名余则成和翠萍",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%91%9E%E5%B9%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%81%94%E5%90%8D%E4%BD%99%E5%88%99%E6%88%90%E5%92%8C%E7%BF%A0%E8%90%8D",
+      "last_hot_value": "296万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "公积金条例修改",
@@ -272,24 +252,14 @@
       "is_new": false
     },
     {
-      "title": "结婚12年3孩2个非亲生男子最新发声",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%BB%93%E5%A9%9A12%E5%B9%B43%E5%AD%A92%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
-      "last_hot_value": "329万",
-      "first_seen_at": "2026-08-16T10:04:34",
-      "last_seen_at": "2026-08-16T11:19:09",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "雷军晒15年前小米手机发布会",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%9B%B7%E5%86%9B%E6%99%9215%E5%B9%B4%E5%89%8D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A",
-      "last_hot_value": "338万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T08:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "宇树上市杭州批量诞生亿万富翁",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E6%9D%AD%E5%B7%9E%E6%89%B9%E9%87%8F%E8%AF%9E%E7%94%9F%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81",
+      "last_hot_value": "285万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "外交部不再称靖国神社直接叫战犯神社",
@@ -297,7 +267,7 @@
       "last_hot_value": "322万",
       "first_seen_at": "2026-08-18T14:31:44",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -307,7 +277,7 @@
       "last_hot_value": "321万",
       "first_seen_at": "2026-08-18T19:15:56",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -372,44 +342,14 @@
       "is_new": false
     },
     {
-      "title": "我国现代化应急体系建设提速",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%88%91%E5%9B%BD%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BA%94%E6%80%A5%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%E6%8F%90%E9%80%9F",
-      "last_hot_value": "301万",
-      "first_seen_at": "2026-08-16T08:57:18",
-      "last_seen_at": "2026-08-16T11:19:09",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "沪上阿姨 涉不正当竞争",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E6%B6%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89",
-      "last_hot_value": "304万",
-      "first_seen_at": "2026-08-16T07:49:25",
-      "last_seen_at": "2026-08-16T08:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "张睿一看手机天又塌了",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%BC%A0%E7%9D%BF%E4%B8%80%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%A4%A9%E5%8F%88%E5%A1%8C%E4%BA%86",
-      "last_hot_value": "312万",
-      "first_seen_at": "2026-08-16T07:49:25",
-      "last_seen_at": "2026-08-16T07:49:25",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "国乒围剿张本美和",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%9B%BD%E4%B9%92%E5%9B%B4%E5%89%BF%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C",
-      "last_hot_value": "326万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T06:34:03",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "剩菜剩饭直接喂猪违法",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%89%A9%E8%8F%9C%E5%89%A9%E9%A5%AD%E7%9B%B4%E6%8E%A5%E5%96%82%E7%8C%AA%E8%BF%9D%E6%B3%95",
+      "last_hot_value": "280万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "爱奇艺第二季度收入62.9亿元",
@@ -502,24 +442,14 @@
       "is_new": false
     },
     {
-      "title": "蒯曼 决胜局逆转",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%92%AF%E6%9B%BC%20%E5%86%B3%E8%83%9C%E5%B1%80%E9%80%86%E8%BD%AC",
-      "last_hot_value": "324万",
-      "first_seen_at": "2026-08-16T10:04:34",
-      "last_seen_at": "2026-08-16T10:04:34",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "瑞幸联名 份子钱",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%91%9E%E5%B9%B8%E8%81%94%E5%90%8D%20%E4%BB%BD%E5%AD%90%E9%92%B1",
-      "last_hot_value": "283万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T06:34:03",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "韩国被曝性贿赂3名中国足协人士",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%80%A7%E8%B4%BF%E8%B5%823%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%BA%BA%E5%A3%AB",
+      "last_hot_value": "280万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "9部门发文活跃县域消费",
@@ -527,7 +457,7 @@
       "last_hot_value": "299万",
       "first_seen_at": "2026-08-18T18:09:22",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -622,44 +552,14 @@
       "is_new": false
     },
     {
-      "title": "景德镇做的陶瓷还是太超前了",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%99%AF%E5%BE%B7%E9%95%87%E5%81%9A%E7%9A%84%E9%99%B6%E7%93%B7%E8%BF%98%E6%98%AF%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86",
-      "last_hot_value": "294万",
-      "first_seen_at": "2026-08-16T08:57:18",
-      "last_seen_at": "2026-08-16T11:19:09",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "少年时代2真给我看进去了",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E7%9C%9F%E7%BB%99%E6%88%91%E7%9C%8B%E8%BF%9B%E5%8E%BB%E4%BA%86",
-      "last_hot_value": "278万",
-      "first_seen_at": "2026-08-16T08:57:18",
-      "last_seen_at": "2026-08-16T10:04:34",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "英伟达持仓股票曝光",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8C%81%E4%BB%93%E8%82%A1%E7%A5%A8%E6%9B%9D%E5%85%89",
-      "last_hot_value": "277万",
-      "first_seen_at": "2026-08-16T07:49:25",
-      "last_seen_at": "2026-08-16T07:49:25",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "中国籍男子在靖国神社附近挥舞国旗",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E9%99%84%E8%BF%91%E6%8C%A5%E8%88%9E%E5%9B%BD%E6%97%97",
-      "last_hot_value": "277万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T07:49:25",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "劝阻吸烟被打男子起诉上海迪士尼",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%8A%9D%E9%98%BB%E5%90%B8%E7%83%9F%E8%A2%AB%E6%89%93%E7%94%B7%E5%AD%90%E8%B5%B7%E8%AF%89%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC",
+      "last_hot_value": "280万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "杭州酒局事件嫌疑人会被判多久",
@@ -667,9 +567,9 @@
       "last_hot_value": "270万",
       "first_seen_at": "2026-08-18T22:48:40",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "旅客带充气床住酒店惊呆工作人员",
@@ -802,32 +702,12 @@
       "is_new": false
     },
     {
-      "title": "事业编三甲医生没全额缴社保",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E4%BA%8B%E4%B8%9A%E7%BC%96%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E6%B2%A1%E5%85%A8%E9%A2%9D%E7%BC%B4%E7%A4%BE%E4%BF%9D",
-      "last_hot_value": "278万",
-      "first_seen_at": "2026-08-16T07:49:25",
-      "last_seen_at": "2026-08-16T08:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "手机涨价何时是个头",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4",
-      "last_hot_value": "281万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T06:34:03",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "理性吃瓜！热点事件网络围观必备素养",
       "url": "https://news.sina.com.cn/gov/2026-08-18/doc-ininttrk8590198.shtml",
-      "last_hot_value": "270万",
+      "last_hot_value": "280万",
       "first_seen_at": "2026-08-18T14:31:44",
-      "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 7,
       "peak_rank": 8,
       "is_new": false
     },
@@ -852,14 +732,14 @@
       "is_new": false
     },
     {
-      "title": "一条谣言“诞生”的全流程",
-      "url": "https://news.sina.com.cn/2026-08-16/doc-ininnqpr1494585.shtml ",
-      "last_hot_value": "301万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-17T08:17:26",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "当地村民解释什么是女儿墙",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%BD%93%E5%9C%B0%E6%9D%91%E6%B0%91%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AF%E5%A5%B3%E5%84%BF%E5%A2%99",
+      "last_hot_value": "279万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "柯洁装弱智赢AI围棋",
@@ -867,9 +747,9 @@
       "last_hot_value": "270万",
       "first_seen_at": "2026-08-18T22:48:40",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "上海2026社保基数公布",
@@ -877,7 +757,7 @@
       "last_hot_value": "266万",
       "first_seen_at": "2026-08-18T18:09:22",
       "last_seen_at": "2026-08-18T22:48:40",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -1002,24 +882,14 @@
       "is_new": false
     },
     {
-      "title": "打赏要求陪睡",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%89%93%E8%B5%8F%E8%A6%81%E6%B1%82%E9%99%AA%E7%9D%A1",
-      "last_hot_value": "277万",
-      "first_seen_at": "2026-08-16T08:57:18",
-      "last_seen_at": "2026-08-16T08:57:18",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "奥迪e-tron满电就位",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E5%A5%A5%E8%BF%AAe-tron%E6%BB%A1%E7%94%B5%E5%B0%B1%E4%BD%8D",
-      "last_hot_value": "281万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T06:34:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "iPhone18发布会或定档9月9日",
+      "url": "https://so.sina.cn/search/list.d.html?keyword=iPhone18%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%96%E5%AE%9A%E6%A1%A39%E6%9C%889%E6%97%A5",
+      "last_hot_value": "279万",
+      "first_seen_at": "2026-08-19T10:25:00",
+      "last_seen_at": "2026-08-19T10:25:00",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "保送中南大学的女孩因蓝发走红",
@@ -1107,26 +977,6 @@
       "last_hot_value": "282万",
       "first_seen_at": "2026-08-16T11:19:09",
       "last_seen_at": "2026-08-16T11:19:09",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "生育四孩不能享受90天延长产假",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E7%94%9F%E8%82%B2%E5%9B%9B%E5%AD%A9%E4%B8%8D%E8%83%BD%E4%BA%AB%E5%8F%9790%E5%A4%A9%E5%BB%B6%E9%95%BF%E4%BA%A7%E5%81%87",
-      "last_hot_value": "276万",
-      "first_seen_at": "2026-08-16T07:49:25",
-      "last_seen_at": "2026-08-16T07:49:25",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "榜一大哥打赏1500万金额无法查证",
-      "url": "https://so.sina.cn/search/list.d.html?keyword=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%89%93%E8%B5%8F1500%E4%B8%87%E9%87%91%E9%A2%9D%E6%97%A0%E6%B3%95%E6%9F%A5%E8%AF%81",
-      "last_hot_value": "275万",
-      "first_seen_at": "2026-08-16T06:34:03",
-      "last_seen_at": "2026-08-16T06:34:03",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
