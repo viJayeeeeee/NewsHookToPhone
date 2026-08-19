@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-18T23:22:06",
+  "update_time": "2026-08-19T00:37:50",
   "items": [
+    {
+      "title": "M3.7 新疆克孜勒苏州阿合奇县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.7级",
+      "first_seen_at": "2026-08-19T00:37:50",
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M3.4 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-08-18T23:22:06",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M5.1 阿富汗",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.1级",
       "first_seen_at": "2026-08-18T21:06:37",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.5级",
       "first_seen_at": "2026-08-17T07:40:14",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 18,
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 19,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-08-16T21:18:31",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 23,
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 24,
       "peak_rank": 1,
       "is_new": false
     },
@@ -47,7 +57,7 @@
       "last_hot_value": "2.1级",
       "first_seen_at": "2026-08-16T10:46:02",
       "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 27,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -66,29 +76,19 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.6级",
       "first_seen_at": "2026-08-18T23:22:06",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.3 四川内江市隆昌市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-08-16T21:18:31",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 23,
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 24,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M3.0 四川内江市隆昌市",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-08-18T21:06:37",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 2,
-      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -96,20 +96,30 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-08-18T23:22:06",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.6 四川内江市隆昌市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-08-17T12:26:19",
-      "last_seen_at": "2026-08-18T23:22:06",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 17,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "M3.0 四川内江市隆昌市",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-08-19T00:37:50",
+      "last_seen_at": "2026-08-19T00:37:50",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "M3.2 甘肃临夏州永靖县",
