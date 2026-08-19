@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-19T02:09:52",
+  "update_time": "2026-08-19T04:24:29",
   "items": [
     {
       "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
       "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-17T22:04:34",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 17,
       "peak_rank": 1,
       "is_new": false
     },
@@ -34,10 +34,10 @@
     {
       "title": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
-      "last_hot_value": "2.4w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-18T06:14:17",
-      "last_seen_at": "2026-08-18T15:30:05",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,32 +72,32 @@
       "is_new": false
     },
     {
-      "title": "GitHub 热榜项目 - 周榜(2026-08-16)",
-      "url": "https://blog.csdn.net/u014390502/article/details/163795001",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-18T10:58:11",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 6,
+      "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
+      "last_hot_value": "7041",
+      "first_seen_at": "2026-08-17T13:58:44",
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 13,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
       "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-17T17:26:02",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 8,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 12,
+      "title": "GitHub 热榜项目 - 周榜(2026-08-16)",
+      "url": "https://blog.csdn.net/u014390502/article/details/163795001",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-18T10:58:11",
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
@@ -112,12 +112,22 @@
       "is_new": false
     },
     {
+      "title": "从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(上)",
+      "url": "https://blog.csdn.net/kkiron/article/details/163855267",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-18T12:06:38",
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "【机器学习】损失函数全解_从MSE到交叉熵",
       "url": "https://blog.csdn.net/2302_78391795/article/details/163848790",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-18T21:23:07",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -144,10 +154,10 @@
     {
       "title": "SpringBoot3+Vue3+OnlyOffice 企业云盘：菜单目录、文件权限、Word在线编辑、修改记录",
       "url": "https://blog.csdn.net/zhouzhongyan/article/details/163841476",
-      "last_hot_value": "8921",
+      "last_hot_value": "7110",
       "first_seen_at": "2026-08-18T21:23:07",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
@@ -157,7 +167,7 @@
       "last_hot_value": "8732",
       "first_seen_at": "2026-08-17T13:58:44",
       "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -167,16 +177,6 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-18T21:23:07",
       "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 3,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(上)",
-      "url": "https://blog.csdn.net/kkiron/article/details/163855267",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-18T12:06:38",
-      "last_seen_at": "2026-08-18T15:30:05",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
@@ -194,12 +194,12 @@
     {
       "title": "Zookeeper - 分布式配置中心的搭建与实操实践",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157689019",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "8492",
       "first_seen_at": "2026-08-19T02:09:52",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-19T04:24:29",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Linux 篇】数字世界的库房 —— 磁盘硬件原理与存储介质实战剖析",
@@ -262,31 +262,11 @@
       "is_new": false
     },
     {
-      "title": "Flowable+SpringBoot3 流程改版不炸在途单据：新版 v+1、旧版挂起与 definitionId 冻结",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/163771664",
-      "last_hot_value": "6544",
-      "first_seen_at": "2026-08-16T04:09:05",
-      "last_seen_at": "2026-08-16T04:09:05",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "DataX迁移MySQL到KaiwuDB：脚本化批量迁移方案",
       "url": "https://blog.csdn.net/u014727709/article/details/163762797",
       "last_hot_value": "7569",
       "first_seen_at": "2026-08-16T11:02:58",
       "last_seen_at": "2026-08-16T11:02:58",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Python 实战：用 IPPEAK 代理 IP 构建稳定的公开数据采集链路",
-      "url": "https://blog.csdn.net/qq_44273429/article/details/163718407",
-      "last_hot_value": "6222",
-      "first_seen_at": "2026-08-16T04:09:05",
-      "last_seen_at": "2026-08-16T04:09:05",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
