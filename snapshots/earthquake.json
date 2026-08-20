@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-20T16:16:11",
+  "update_time": "2026-08-20T17:21:36",
   "items": [
     {
       "title": "M3.6 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-08-20T16:16:11",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.7 河南濮阳市范县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-08-20T08:05:28",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-08-19T13:23:16",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-08-19T00:37:50",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-08-18T23:22:06",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 11,
       "peak_rank": 1,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.1级",
       "first_seen_at": "2026-08-18T21:06:37",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 12,
       "peak_rank": 1,
       "is_new": false
     },
@@ -66,18 +66,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.8级",
       "first_seen_at": "2026-08-20T16:16:11",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M5.6 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.6级",
       "first_seen_at": "2026-08-18T23:22:06",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 11,
       "peak_rank": 2,
       "is_new": false
     },
@@ -86,20 +86,20 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.0级",
       "first_seen_at": "2026-08-20T16:16:11",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M5.6 印尼弗洛勒斯岛地区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.6级",
       "first_seen_at": "2026-08-20T16:16:11",
-      "last_seen_at": "2026-08-20T16:16:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T17:21:36",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M2.5 甘肃陇南市礼县",
