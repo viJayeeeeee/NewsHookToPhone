@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-19T17:13:26",
+  "update_time": "2026-08-20T03:43:56",
   "items": [
+    {
+      "title": "WRC2026首日直击｜埃夫特×启智Openmind把具身智能从秀场搬进产线",
+      "url": "https://www.51cto.com/article/853516.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "突发，Fable 5.1泄露了！Claude又叒叕全球大宕机",
       "url": "https://www.51cto.com/article/853412.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T04:24:31",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T02:09:55",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,14 +62,14 @@
       "is_new": false
     },
     {
-      "title": "李飞飞最新访谈：AI咋能代替人呢？",
-      "url": "https://www.51cto.com/article/853123.html",
+      "title": "阿里惨遭 npm 木马投毒！npm 被迫新增人工审核！",
+      "url": "https://www.51cto.com/article/853515.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "DeepSeek Harness 如何基于 Cordis 实现插件化 Agent 模式",
@@ -67,7 +77,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T04:24:31",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -77,7 +87,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T02:09:55",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -112,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "奥特曼放话：半年内，GPT上下文覆盖你的一切",
-      "url": "https://www.51cto.com/article/853122.html",
+      "title": "GitHub 又爆了！一个 HTML 做出了沉浸式 3D 世界",
+      "url": "https://www.51cto.com/article/853513.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "翻翻乐\"翻车\"实录：一个看似简单的卡片游戏，我踩了五个坑",
@@ -127,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T04:24:31",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -137,7 +147,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T02:09:55",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -172,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "AI也会“闹情绪”！中科大新研究：困惑和焦虑让AI更会干活儿",
-      "url": "https://www.51cto.com/article/853121.html",
+      "title": "从单 GPU 到万卡集群：GPU 并行计算如何支撑今天的大模型训练",
+      "url": "https://www.51cto.com/article/853512.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "面向 Agent 的团队知识供给系统：架构设计与工程落地",
@@ -187,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T04:24:31",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -197,7 +207,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T02:09:55",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -232,14 +242,14 @@
       "is_new": false
     },
     {
-      "title": "Anthropic CEO辟谣！为亡父转AI，十年内灭癌症",
-      "url": "https://www.51cto.com/article/853120.html",
+      "title": "Cursor 严重 0Day 漏洞可导致任意代码执行攻击",
+      "url": "https://www.51cto.com/article/853510.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T22:04:35",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "用Spring Boot复刻了“微信消息撤回”：真正难的根本不是DELETE，而是让所有人的聊天窗口同时消失",
@@ -247,7 +257,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T04:24:31",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -257,7 +267,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-19T02:09:55",
       "last_seen_at": "2026-08-19T17:13:26",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -292,14 +302,14 @@
       "is_new": false
     },
     {
-      "title": "OpenAI研究员，曝光ASI降临时间线：大多数已成现实！",
-      "url": "https://www.51cto.com/article/853119.html",
+      "title": "GPT API 的演进：从「对话接口」到「Agent 运行时」",
+      "url": "https://www.51cto.com/article/853509.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "突发！OpenAI停止强化学习训练两周",
@@ -322,14 +332,14 @@
       "is_new": false
     },
     {
-      "title": "谷歌搜不到的女人，搅动两万亿AI帝国",
-      "url": "https://www.51cto.com/article/853118.html",
+      "title": "字节二面若有所思：\"你说模仿Claude Code来精简提示词——删完你拿什么验证没翻车？\" 我刚想说\"跑一遍就行\"，突然觉得不对",
+      "url": "https://www.51cto.com/article/853506.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "解码提速15.1倍、多任务性能不降：复旦&引望WAM-Diff2打通自动驾驶VLA自回归—扩散转换",
@@ -362,14 +372,14 @@
       "is_new": false
     },
     {
-      "title": "Anthropic冲刺史上最大IPO，两万亿美金！",
-      "url": "https://www.51cto.com/article/853117.html",
+      "title": "ArkTS 明明写了类型标注，为什么还是报 \"arkts-no-any-unknown\"？#智绘鸿蒙·大有“视”界#",
+      "url": "https://ost.51cto.com/posts/55374",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "再看Agent 之 MCP 的安全性",
@@ -392,14 +402,14 @@
       "is_new": false
     },
     {
-      "title": "HPC程序为什么会崩？从 MPI 死锁到内存错误的系统化调试方法",
-      "url": "https://www.51cto.com/article/853112.html",
+      "title": "折叠屏开合后，List/WaterFlow 为什么会跳回顶部#智绘鸿蒙·大有“视”界#",
+      "url": "https://ost.51cto.com/posts/55373",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-17T02:17:21",
-      "last_seen_at": "2026-08-17T02:17:21",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "OpenAI公开四加十条保命指南，专防AI自动化攻击",
@@ -420,6 +430,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "Agent Plan x DeepSeek Harness 实践指南",
+      "url": "https://www.51cto.com/article/853495.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T03:43:56",
+      "last_seen_at": "2026-08-20T03:43:56",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "刚刚英伟达核弹级战略曝光！老黄宣布联手奥特曼圈地圈电，狂卷16GW算力霸权",

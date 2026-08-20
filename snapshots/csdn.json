@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-19T17:13:25",
+  "update_time": "2026-08-20T03:43:54",
   "items": [
+    {
+      "title": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163876441",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-08-19T05:30:48",
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
       "url": "https://blog.csdn.net/xiaobing259/article/details/163801977",
-      "last_hot_value": "2.7w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-17T17:26:02",
       "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 12,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,18 +37,18 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-17T22:04:34",
       "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 13,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163593776",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-19T09:01:56",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "分布式GPU智能算法深度研究2026年版（下）",
+      "url": "https://blog.csdn.net/kkiron/article/details/163874293",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-08-19T16:00:50",
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -46,8 +56,8 @@
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-18T06:14:17",
-      "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -69,26 +79,6 @@
       "last_seen_at": "2026-08-18T12:06:38",
       "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【Linux系统】【Linux发展历史及环境部署、Xshell使用】流食般投喂",
-      "url": "https://blog.csdn.net/dj_798/article/details/163799618",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-16T18:00:35",
-      "last_seen_at": "2026-08-17T13:58:44",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163876441",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 4,
-      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -127,7 +117,7 @@
       "last_hot_value": "9409",
       "first_seen_at": "2026-08-18T21:23:07",
       "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -154,12 +144,22 @@
     {
       "title": "【HTTPS】一个“S“背后的战争：五轮迭代还原 HTTPS 设计全貌",
       "url": "https://blog.csdn.net/2302_80243065/article/details/163824638",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "8982",
       "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163893901",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-20T03:43:54",
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "实时数据集成怎么选？自研 / 开源 / 商用对比",
@@ -169,6 +169,16 @@
       "last_seen_at": "2026-08-17T22:04:34",
       "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "SpringBoot3+Vue3+UniApp OA 即时通讯：单聊群聊、图片文件、PC 与手机同一会话",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/163865432",
+      "last_hot_value": "9232",
+      "first_seen_at": "2026-08-19T09:01:56",
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 4,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -212,14 +222,14 @@
       "is_new": false
     },
     {
-      "title": "分布式GPU智能算法深度研究2026年版（下）",
-      "url": "https://blog.csdn.net/kkiron/article/details/163874293",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-19T16:00:50",
-      "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 2,
+      "title": "读懂微信 AI 底层逻辑：普通人、商家掘金完整手册",
+      "url": "https://blog.csdn.net/herosunly/article/details/163826553",
+      "last_hot_value": "9190",
+      "first_seen_at": "2026-08-20T03:43:54",
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Zookeeper - 分布式配置中心的搭建与实操实践",
@@ -252,13 +262,23 @@
       "is_new": false
     },
     {
-      "title": "SpringBoot3+Vue3+UniApp OA 即时通讯：单聊群聊、图片文件、PC 与手机同一会话",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/163865432",
-      "last_hot_value": "9465",
-      "first_seen_at": "2026-08-19T09:01:56",
-      "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 3,
+      "title": "AI辅助芯片制造：算法与工程化落地",
+      "url": "https://blog.csdn.net/weixin_43178406/article/details/163829838",
+      "last_hot_value": "9107",
+      "first_seen_at": "2026-08-20T03:43:54",
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 1,
       "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/163858686",
+      "last_hot_value": "9023",
+      "first_seen_at": "2026-08-19T16:00:50",
+      "last_seen_at": "2026-08-20T03:43:54",
+      "consecutive_count": 3,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -279,26 +299,6 @@
       "last_seen_at": "2026-08-17T15:09:08",
       "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "DolphinDB 生产排程优化：从约束建模到智能排产系统的完整实践",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/163781159",
-      "last_hot_value": "9196",
-      "first_seen_at": "2026-08-16T20:23:55",
-      "last_seen_at": "2026-08-17T02:17:19",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163858686",
-      "last_hot_value": "8769",
-      "first_seen_at": "2026-08-19T16:00:50",
-      "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 2,
-      "peak_rank": 10,
       "is_new": false
     }
   ]
