@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-20T03:44:05",
+  "update_time": "2026-08-20T06:02:47",
   "items": [
     {
       "title": "邮件 & SMTP 相关免费资源汇总",
       "url": "https://www.nodeseek.com/post-158130-1",
       "last_hot_value": "查看:7073 回复:58",
       "first_seen_at": "2026-08-20T03:44:05",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:214489 回复:2870",
       "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,10 +36,10 @@
       "url": "https://www.nodeseek.com/post-4947-1",
       "last_hot_value": "查看:4133 回复:18",
       "first_seen_at": "2026-08-20T03:44:05",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
@@ -52,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
+      "url": "https://www.nodeseek.com/post-762899-1",
+      "last_hot_value": "查看:4530 回复:110",
+      "first_seen_at": "2026-08-20T06:02:47",
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
       "url": "https://www.nodeseek.com/post-865242-1",
       "last_hot_value": "查看:22494 回复:231",
       "first_seen_at": "2026-08-18T10:58:20",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 13,
       "peak_rank": 3,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:231246 回复:2129",
       "first_seen_at": "2026-08-18T23:45:33",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 9,
       "peak_rank": 4,
       "is_new": false
     },
@@ -86,8 +96,8 @@
       "url": "https://www.nodeseek.com/post-647200-1",
       "last_hot_value": "查看:76264 回复:606",
       "first_seen_at": "2026-08-17T22:04:43",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 15,
       "peak_rank": 5,
       "is_new": false
     },
@@ -106,10 +116,10 @@
       "url": "https://www.nodeseek.com/post-286885-1",
       "last_hot_value": "查看:244466 回复:506",
       "first_seen_at": "2026-08-20T03:44:05",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
@@ -126,10 +136,10 @@
       "url": "https://www.nodeseek.com/post-116193-1",
       "last_hot_value": "查看:32042 回复:251",
       "first_seen_at": "2026-08-20T03:44:05",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
@@ -156,10 +166,10 @@
       "url": "https://www.nodeseek.com/post-824558-1",
       "last_hot_value": "查看:8557 回复:133",
       "first_seen_at": "2026-08-20T03:44:05",
-      "last_seen_at": "2026-08-20T03:44:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:47",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",

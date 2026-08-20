@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-20T03:43:53",
+  "update_time": "2026-08-20T06:02:36",
   "items": [
     {
       "title": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
       "url": "https://juejin.cn/post/7674686524115353650",
-      "last_hot_value": "热度:2007",
+      "last_hot_value": "热度:2133",
       "first_seen_at": "2026-08-17T17:26:00",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 15,
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 16,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,20 +24,20 @@
     {
       "title": "高级前端开发职业规划（2026—2035）",
       "url": "https://juejin.cn/post/7674794074013024310",
-      "last_hot_value": "热度:1341",
+      "last_hot_value": "热度:1467",
       "first_seen_at": "2026-08-18T10:58:09",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 13,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "DeepSeek Harness必装的10个插件",
       "url": "https://juejin.cn/post/7674802907378303028",
-      "last_hot_value": "热度:1206",
+      "last_hot_value": "热度:1278",
       "first_seen_at": "2026-08-18T10:58:09",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 13,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,22 +52,32 @@
       "is_new": false
     },
     {
-      "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
-      "url": "https://juejin.cn/post/7674383173651824682",
-      "last_hot_value": "热度:774",
-      "first_seen_at": "2026-08-17T13:58:42",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 11,
+      "title": "为什么同一段代码在 Safari 上永远有 Bug？",
+      "url": "https://juejin.cn/post/7674910507414159403",
+      "last_hot_value": "热度:792",
+      "first_seen_at": "2026-08-19T09:01:54",
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "为什么同一段代码在 Safari 上永远有 Bug？",
-      "url": "https://juejin.cn/post/7674910507414159403",
-      "last_hot_value": "热度:747",
+      "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
+      "url": "https://juejin.cn/post/7674383173651824682",
+      "last_hot_value": "热度:783",
+      "first_seen_at": "2026-08-17T13:58:42",
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 12,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "苏神百万年薪简历翻车：一个包装争议，给后端同学的 5 个工程视角警示",
+      "url": "https://juejin.cn/post/7674907190973775882",
+      "last_hot_value": "热度:783",
       "first_seen_at": "2026-08-19T09:01:54",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,19 +86,9 @@
       "url": "https://juejin.cn/post/7674686524114944050",
       "last_hot_value": "热度:747",
       "first_seen_at": "2026-08-18T06:14:15",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 14,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "苏神百万年薪简历翻车：一个包装争议，给后端同学的 5 个工程视角警示",
-      "url": "https://juejin.cn/post/7674907190973775882",
-      "last_hot_value": "热度:729",
-      "first_seen_at": "2026-08-19T09:01:54",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 4,
-      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -104,20 +104,20 @@
     {
       "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
       "url": "https://juejin.cn/post/7675272903249625107",
-      "last_hot_value": "热度:603",
+      "last_hot_value": "热度:639",
       "first_seen_at": "2026-08-19T16:00:48",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "本地跑一个 Qwen 3.8，你将拥有一个 Opus 4.6",
       "url": "https://juejin.cn/post/7674574367976341567",
-      "last_hot_value": "热度:504",
+      "last_hot_value": "热度:522",
       "first_seen_at": "2026-08-19T16:00:48",
-      "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
@@ -127,9 +127,19 @@
       "last_hot_value": "热度:459",
       "first_seen_at": "2026-08-19T16:00:48",
       "last_seen_at": "2026-08-20T03:43:53",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
+      "url": "https://juejin.cn/post/7674826322239258662",
+      "last_hot_value": "热度:468",
+      "first_seen_at": "2026-08-20T06:02:36",
+      "last_seen_at": "2026-08-20T06:02:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "DeepSeek Harness 插件推荐：4 款开源神器让写代码直接起飞",

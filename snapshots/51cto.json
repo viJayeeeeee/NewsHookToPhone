@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-20T03:43:56",
+  "update_time": "2026-08-20T06:02:39",
   "items": [
+    {
+      "title": "Jackson 凭什么成为 SpringBoot 的默认 JSON 序列化方案？",
+      "url": "https://www.51cto.com/article/853536.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T06:02:39",
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "WRC2026首日直击｜埃夫特×启智Openmind把具身智能从秀场搬进产线",
       "url": "https://www.51cto.com/article/853516.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
-      "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "突发，Fable 5.1泄露了！Claude又叒叕全球大宕机",
@@ -62,14 +72,24 @@
       "is_new": false
     },
     {
+      "title": "任何错误只犯一次：TencentDB Agent Memory 的团队记忆实践",
+      "url": "https://www.51cto.com/article/853530.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T06:02:39",
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "阿里惨遭 npm 木马投毒！npm 被迫新增人工审核！",
       "url": "https://www.51cto.com/article/853515.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
-      "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek Harness 如何基于 Cordis 实现插件化 Agent 模式",
@@ -122,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "告别 MLOps 思维，LLMOps 如何管好 LLM 全生命周期？",
+      "url": "https://www.51cto.com/article/853528.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T06:02:39",
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "GitHub 又爆了！一个 HTML 做出了沉浸式 3D 世界",
       "url": "https://www.51cto.com/article/853513.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
-      "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "翻翻乐\"翻车\"实录：一个看似简单的卡片游戏，我踩了五个坑",
@@ -182,14 +212,24 @@
       "is_new": false
     },
     {
+      "title": "Agent 落地最大坑：凭感觉评测？一套标准化评估体系，解决智能体迭代的 “盲人摸象”",
+      "url": "https://www.51cto.com/article/853518.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T06:02:39",
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "从单 GPU 到万卡集群：GPU 并行计算如何支撑今天的大模型训练",
       "url": "https://www.51cto.com/article/853512.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "面向 Agent 的团队知识供给系统：架构设计与工程落地",
@@ -242,14 +282,24 @@
       "is_new": false
     },
     {
+      "title": "Spring Boot 4.1 + JDK 25 DDD开源脚手架，面向 AI 编程",
+      "url": "https://www.51cto.com/article/853517.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T06:02:39",
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "Cursor 严重 0Day 漏洞可导致任意代码执行攻击",
       "url": "https://www.51cto.com/article/853510.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "用Spring Boot复刻了“微信消息撤回”：真正难的根本不是DELETE，而是让所有人的聊天窗口同时消失",
@@ -307,9 +357,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "突发！OpenAI停止强化学习训练两周",
@@ -337,9 +387,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "解码提速15.1倍、多任务性能不降：复旦&引望WAM-Diff2打通自动驾驶VLA自回归—扩散转换",
@@ -376,10 +426,10 @@
       "url": "https://ost.51cto.com/posts/55374",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
-      "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "再看Agent 之 MCP 的安全性",
@@ -402,14 +452,24 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS列表性能优化：LazyForEach和Repeat懒加载",
+      "url": "https://ost.51cto.com/posts/55385",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T06:02:39",
+      "last_seen_at": "2026-08-20T06:02:39",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "折叠屏开合后，List/WaterFlow 为什么会跳回顶部#智绘鸿蒙·大有“视”界#",
       "url": "https://ost.51cto.com/posts/55373",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "OpenAI公开四加十条保命指南，专防AI自动化攻击",
@@ -437,9 +497,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刚刚英伟达核弹级战略曝光！老黄宣布联手奥特曼圈地圈电，狂卷16GW算力霸权",
