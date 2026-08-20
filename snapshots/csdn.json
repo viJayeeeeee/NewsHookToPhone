@@ -1,32 +1,32 @@
 {
-  "update_time": "2026-08-20T11:56:43",
+  "update_time": "2026-08-20T21:14:06",
   "items": [
     {
-      "title": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163876441",
-      "last_hot_value": "2.1w",
-      "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 8,
+      "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-20T10:40:11",
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
       "url": "https://blog.csdn.net/xiaobing259/article/details/163801977",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
-      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/163763951",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-08-17T17:26:02",
-      "last_seen_at": "2026-08-19T17:13:25",
+      "title": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163876441",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-08-19T05:30:48",
+      "last_seen_at": "2026-08-20T11:56:43",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -42,53 +42,33 @@
       "is_new": false
     },
     {
+      "title": "把蓝耘模型装进OpenCode:实测开发一个GitHub Issue分诊助手",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/163664584",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-20T21:14:06",
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "分布式GPU智能算法深度研究2026年版（下）",
       "url": "https://blog.csdn.net/kkiron/article/details/163874293",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-19T16:00:50",
-      "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-18T06:14:17",
-      "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 10,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "SQL Server数据迁移到金仓数据库复盘：从怕性能翻车，到TPS提升60%",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/163811264",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-18T15:30:05",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【AI大模型接入SDK】人工智能核心概念与人工智能发展史",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163803148",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-18T12:06:38",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766159",
-      "last_hot_value": "7041",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-19T04:24:29",
-      "consecutive_count": 0,
-      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -102,22 +82,12 @@
       "is_new": false
     },
     {
-      "title": "AI已经能直接进设计画布了：我用Penpot MCP让Codex生成了5个UI页面",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/163830309",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-17T16:11:32",
-      "last_seen_at": "2026-08-18T15:30:05",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "Docker - 核心概念速通，镜像、容器、仓库一次弄懂",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157611426",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -192,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "实时数据集成怎么选？自研 / 开源 / 商用对比",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/163772766",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 2,
+      "title": "多个内网服务怎么统一入口？部署 Nginx Proxy Manager 配置反向代理与 SSL",
+      "url": "https://blog.csdn.net/2602_94956987/article/details/163917380",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-20T21:14:06",
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
@@ -217,7 +177,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-19T16:00:50",
       "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -242,16 +202,6 @@
       "is_new": false
     },
     {
-      "title": "大模型工程化实战（二）：Golden Set + CI 评测，给LLM内容上量具",
-      "url": "https://blog.csdn.net/xiaobing259/article/details/163800937",
-      "last_hot_value": "8732",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-19T02:09:52",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "从对话到行动：2026年NLP、大语言模型与AI智能体的范式转移(下)",
       "url": "https://blog.csdn.net/kkiron/article/details/163855369",
       "last_hot_value": "1.1w",
@@ -262,22 +212,12 @@
       "is_new": false
     },
     {
-      "title": "【AI大模型接入SDK】名词解释",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163802939",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-17T17:26:02",
-      "last_seen_at": "2026-08-17T17:26:02",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "不用守着直播间：在飞牛NAS部署Bililive-go，自动监控并保存直播录像",
       "url": "https://blog.csdn.net/weixin_44976692/article/details/163914426",
-      "last_hot_value": "9483",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -292,24 +232,14 @@
       "is_new": false
     },
     {
-      "title": "【Linux 篇】数字世界的库房 —— 磁盘硬件原理与存储介质实战剖析",
-      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163802673",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-17T15:09:08",
-      "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "SQL Server数据迁移后性能反而暴涨？我用实测数据打消了所有疑虑",
-      "url": "https://blog.csdn.net/qq_32682301/article/details/163786110",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T22:04:34",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "把Blinko放进极空间:Docker 部署自托管笔记，并实现多设备远程访问",
+      "url": "https://blog.csdn.net/2301_76341691/article/details/163914606",
+      "last_hot_value": "9403",
+      "first_seen_at": "2026-08-20T21:14:06",
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "不用PyTorch，我用C++手写了一个能认手写数字的神经网络",
@@ -317,9 +247,9 @@
       "last_hot_value": "9399",
       "first_seen_at": "2026-08-20T11:56:43",
       "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "时序数据库超表架构深度体验（下篇）：压缩、分布式和真实战场上的表现",
@@ -327,7 +257,7 @@
       "last_hot_value": "9380",
       "first_seen_at": "2026-08-20T06:02:37",
       "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -342,14 +272,14 @@
       "is_new": false
     },
     {
-      "title": "AI 时代审查思维：审查第一篇",
-      "url": "https://blog.csdn.net/2303_77143335/article/details/163800669",
-      "last_hot_value": "8887",
-      "first_seen_at": "2026-08-17T13:58:44",
-      "last_seen_at": "2026-08-17T15:09:08",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "MySQL迁移KaiwuDB性能对比：TPC-C测试实录",
+      "url": "https://blog.csdn.net/u014727709/article/details/163832165",
+      "last_hot_value": "9317",
+      "first_seen_at": "2026-08-20T21:14:06",
+      "last_seen_at": "2026-08-20T21:14:06",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

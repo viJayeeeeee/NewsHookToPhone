@@ -1,13 +1,33 @@
 {
-  "update_time": "2026-08-20T11:56:53",
+  "update_time": "2026-08-20T21:14:17",
   "items": [
+    {
+      "title": "驱动程序备份工具 Drvinstall v9.2026.7.2918",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-20T21:14:17",
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "符号链接 SymLink v1.4 -- 解决C盘空间不足，游戏存档迁移的小工具",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-20T10:40:22",
-      "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "古籍库 v9.9",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-18T21:23:16",
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +37,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-18T21:23:16",
       "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +47,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-17T22:04:44",
       "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -37,7 +57,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-18T21:23:16",
       "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,32 +72,32 @@
       "is_new": false
     },
     {
-      "title": "古籍库 v9.9",
+      "title": "软件卸载工具 Geek Uninstaller_1.5.4.180",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-18T21:23:16",
-      "last_seen_at": "2026-08-19T17:13:37",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "时间戳随机修改工具",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-17T13:58:56",
-      "last_seen_at": "2026-08-19T05:31:00",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-20T21:14:17",
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "全能下载工具 Motrix v2.0.0-beta.19",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-20T10:40:22",
-      "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "PopTrans-v1.0.0开源离线截屏翻译软件",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-19T17:13:37",
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
     },
@@ -87,16 +107,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-18T21:23:16",
       "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "PopTrans-v1.0.0开源离线截屏翻译软件",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-19T17:13:37",
-      "last_seen_at": "2026-08-19T17:13:37",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -137,7 +147,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-20T10:40:22",
       "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -202,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "视频画质修复软件v3.1 修复版",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-20T21:14:17",
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "图片抠图去背景工具v1.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-19T17:13:37",
-      "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -217,7 +237,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-20T06:02:49",
       "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -232,12 +252,22 @@
       "is_new": false
     },
     {
+      "title": "微信锁屏助手 1.0.4.19826",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-20T21:14:17",
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "挑图大师 v1.0.6",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-19T17:13:37",
       "last_seen_at": "2026-08-20T11:56:53",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -292,14 +322,14 @@
       "is_new": false
     },
     {
-      "title": "逸风工具箱 v1.0.5",
+      "title": "智能办公工具箱 Officemind v2.0.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-17T13:58:56",
-      "last_seen_at": "2026-08-17T17:26:13",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-08-20T21:14:17",
+      "last_seen_at": "2026-08-20T21:14:17",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "手机音质增强软件 HXAudio v8.0.0",
@@ -387,16 +417,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-17T22:04:44",
       "last_seen_at": "2026-08-17T22:04:44",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "微串口调试工具 v1.0.0 | Modbus/CAN/DBC/蓝牙 SPP/波形/脚本",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-17T15:09:22",
-      "last_seen_at": "2026-08-17T17:26:13",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
