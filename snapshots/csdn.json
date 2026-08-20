@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-20T06:02:37",
+  "update_time": "2026-08-20T10:40:11",
   "items": [
-    {
-      "title": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
-      "url": "https://blog.csdn.net/xiaobing259/article/details/163801977",
-      "last_hot_value": "8876",
-      "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
       "url": "https://blog.csdn.net/Rqaqedamancy/article/details/163876441",
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 7,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
+      "url": "https://blog.csdn.net/xiaobing259/article/details/163801977",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-19T05:30:48",
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
@@ -44,20 +44,20 @@
     {
       "title": "分布式GPU智能算法深度研究2026年版（下）",
       "url": "https://blog.csdn.net/kkiron/article/details/163874293",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-08-19T16:00:50",
-      "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "飞牛NAS部署PandaWiki：搭建自托管AI知识库并实现远程访问",
       "url": "https://blog.csdn.net/EterNity_TiMe_/article/details/163843503",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-18T06:14:17",
-      "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 8,
       "peak_rank": 2,
       "is_new": false
     },
@@ -112,12 +112,22 @@
       "is_new": false
     },
     {
+      "title": "AI辅助芯片制造：算法与工程化落地",
+      "url": "https://blog.csdn.net/weixin_43178406/article/details/163829838",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-20T03:43:54",
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163893901",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-20T03:43:54",
       "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -157,7 +167,7 @@
       "last_hot_value": "8456",
       "first_seen_at": "2026-08-19T05:30:48",
       "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -167,7 +177,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-20T03:43:54",
       "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -182,12 +192,12 @@
       "is_new": false
     },
     {
-      "title": "AI辅助芯片制造：算法与工程化落地",
-      "url": "https://blog.csdn.net/weixin_43178406/article/details/163829838",
+      "title": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/163858686",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-20T03:43:54",
-      "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-08-19T16:00:50",
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -242,14 +252,14 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163858686",
-      "last_hot_value": "9355",
-      "first_seen_at": "2026-08-19T16:00:50",
-      "last_seen_at": "2026-08-20T06:02:37",
-      "consecutive_count": 4,
+      "title": "不用守着直播间：在飞牛NAS部署Bililive-go，自动监控并保存直播录像",
+      "url": "https://blog.csdn.net/weixin_44976692/article/details/163914426",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-20T10:40:11",
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Zookeeper - 分布式配置中心的搭建与实操实践",
@@ -282,14 +292,34 @@
       "is_new": false
     },
     {
-      "title": "时序数据库超表架构深度体验（下篇）：压缩、分布式和真实战场上的表现",
-      "url": "https://blog.csdn.net/qq_32682301/article/details/163897512",
-      "last_hot_value": "8557",
-      "first_seen_at": "2026-08-20T06:02:37",
-      "last_seen_at": "2026-08-20T06:02:37",
+      "title": "Docker - 核心概念速通，镜像、容器、仓库一次弄懂",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157611426",
+      "last_hot_value": "9214",
+      "first_seen_at": "2026-08-20T10:40:11",
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
+      "last_hot_value": "9201",
+      "first_seen_at": "2026-08-20T10:40:11",
+      "last_seen_at": "2026-08-20T10:40:11",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
+    },
+    {
+      "title": "时序数据库超表架构深度体验（下篇）：压缩、分布式和真实战场上的表现",
+      "url": "https://blog.csdn.net/qq_32682301/article/details/163897512",
+      "last_hot_value": "9109",
+      "first_seen_at": "2026-08-20T06:02:37",
+      "last_seen_at": "2026-08-20T10:40:11",
+      "consecutive_count": 2,
+      "peak_rank": 9,
+      "is_new": false
     },
     {
       "title": "AI 编程进入监督时代：从补全代码到管理执行系统",

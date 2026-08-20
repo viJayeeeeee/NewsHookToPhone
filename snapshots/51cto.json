@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-20T06:02:39",
+  "update_time": "2026-08-20T10:40:12",
   "items": [
+    {
+      "title": "开源利器！让DeepSeek V4 Flash超越Fable 5，还省11倍",
+      "url": "https://www.51cto.com/article/853560.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "Jackson 凭什么成为 SpringBoot 的默认 JSON 序列化方案？",
       "url": "https://www.51cto.com/article/853536.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T06:02:39",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "WRC2026首日直击｜埃夫特×启智Openmind把具身智能从秀场搬进产线",
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -72,14 +82,24 @@
       "is_new": false
     },
     {
+      "title": "世界模型驶入F1赛道：探索极限工况下具身智能体的认知物理边界",
+      "url": "https://www.51cto.com/article/853559.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "任何错误只犯一次：TencentDB Agent Memory 的团队记忆实践",
       "url": "https://www.51cto.com/article/853530.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T06:02:39",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "阿里惨遭 npm 木马投毒！npm 被迫新增人工审核！",
@@ -87,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -142,14 +162,24 @@
       "is_new": false
     },
     {
+      "title": "刚刚，DeepSeek Harness更新！增强多模态",
+      "url": "https://www.51cto.com/article/853558.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "告别 MLOps 思维，LLMOps 如何管好 LLM 全生命周期？",
       "url": "https://www.51cto.com/article/853528.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T06:02:39",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GitHub 又爆了！一个 HTML 做出了沉浸式 3D 世界",
@@ -157,7 +187,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -212,14 +242,24 @@
       "is_new": false
     },
     {
+      "title": "刚刚，人类历史上第一次用AI治愈癌症",
+      "url": "https://www.51cto.com/article/853557.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "Agent 落地最大坑：凭感觉评测？一套标准化评估体系，解决智能体迭代的 “盲人摸象”",
       "url": "https://www.51cto.com/article/853518.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T06:02:39",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从单 GPU 到万卡集群：GPU 并行计算如何支撑今天的大模型训练",
@@ -282,14 +322,24 @@
       "is_new": false
     },
     {
+      "title": "硅谷CEO: Grok Bot诞生，震撼程度堪比Claude Code时刻！",
+      "url": "https://www.51cto.com/article/853556.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "Spring Boot 4.1 + JDK 25 DDD开源脚手架，面向 AI 编程",
       "url": "https://www.51cto.com/article/853517.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T06:02:39",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Cursor 严重 0Day 漏洞可导致任意代码执行攻击",
@@ -352,6 +402,16 @@
       "is_new": false
     },
     {
+      "title": "CoSnitch：当你的 Copilot 助手变成“告密者”",
+      "url": "https://www.51cto.com/article/853540.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "GPT API 的演进：从「对话接口」到「Agent 运行时」",
       "url": "https://www.51cto.com/article/853509.html",
       "last_hot_value": "",
@@ -380,6 +440,16 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "刚花600亿买下Cursor，马斯克又要对Devin下手",
+      "url": "https://www.51cto.com/article/853555.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "字节二面若有所思：\"你说模仿Claude Code来精简提示词——删完你拿什么验证没翻车？\" 我刚想说\"跑一遍就行\"，突然觉得不对",
@@ -422,12 +492,22 @@
       "is_new": false
     },
     {
+      "title": "Claude Code神话破灭？大量用户正在取消订阅",
+      "url": "https://www.51cto.com/article/853554.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "ArkTS 明明写了类型标注，为什么还是报 \"arkts-no-any-unknown\"？#智绘鸿蒙·大有“视”界#",
       "url": "https://ost.51cto.com/posts/55374",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -452,14 +532,24 @@
       "is_new": false
     },
     {
+      "title": "一边修图一边挑照片：HarmonyOS 7.0 平行视界相册多窗工程化落地与 5 个踩坑解法 #智绘鸿蒙·大有\"视\"界#",
+      "url": "https://ost.51cto.com/posts/55397",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS列表性能优化：LazyForEach和Repeat懒加载",
       "url": "https://ost.51cto.com/posts/55385",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T06:02:39",
       "last_seen_at": "2026-08-20T06:02:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "折叠屏开合后，List/WaterFlow 为什么会跳回顶部#智绘鸿蒙·大有“视”界#",
@@ -490,6 +580,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "左右开弓的\"平行世界\"# 智绘鸿蒙·大有“视”界#",
+      "url": "https://ost.51cto.com/posts/55393",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-20T10:40:12",
+      "last_seen_at": "2026-08-20T10:40:12",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "Agent Plan x DeepSeek Harness 实践指南",
