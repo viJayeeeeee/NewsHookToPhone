@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-20T21:14:03",
+  "update_time": "2026-08-20T23:34:20",
   "items": [
     {
       "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
       "url": "https://juejin.cn/post/7675272903249625107",
-      "last_hot_value": "热度:1188",
+      "last_hot_value": "热度:1206",
       "first_seen_at": "2026-08-19T16:00:48",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://juejin.cn/post/7674910507414159403",
       "last_hot_value": "热度:981",
       "first_seen_at": "2026-08-19T09:01:54",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 9,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://juejin.cn/post/7674907190973775882",
       "last_hot_value": "热度:927",
       "first_seen_at": "2026-08-19T09:01:54",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 9,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,23 +72,33 @@
       "is_new": false
     },
     {
-      "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
-      "url": "https://juejin.cn/post/7674686524114944050",
-      "last_hot_value": "热度:783",
-      "first_seen_at": "2026-08-18T06:14:15",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 17,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
+      "url": "https://juejin.cn/post/7674383173651824682",
+      "last_hot_value": "热度:846",
+      "first_seen_at": "2026-08-20T23:34:20",
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "DeepSeek Harness 值得安装的 15 款插件",
       "url": "https://juejin.cn/post/7675273747710001206",
-      "last_hot_value": "热度:783",
+      "last_hot_value": "热度:792",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 3,
-      "peak_rank": 6,
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 4,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "url": "https://juejin.cn/post/7674686524114944050",
+      "last_hot_value": "热度:783",
+      "first_seen_at": "2026-08-18T06:14:15",
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 18,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -96,20 +106,20 @@
       "url": "https://juejin.cn/post/7674783303284326450",
       "last_hot_value": "热度:585",
       "first_seen_at": "2026-08-19T16:00:48",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "「速通Shell」Shell编程的错误处理与日志",
       "url": "https://juejin.cn/post/7675540232994783251",
-      "last_hot_value": "热度:621",
+      "last_hot_value": "热度:729",
       "first_seen_at": "2026-08-20T21:14:03",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI写长篇小说为什么30章必崩",
@@ -124,10 +134,10 @@
     {
       "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
       "url": "https://juejin.cn/post/7675346841392070707",
-      "last_hot_value": "热度:567",
+      "last_hot_value": "热度:576",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 4,
       "peak_rank": 8,
       "is_new": false
     },
@@ -154,10 +164,10 @@
     {
       "title": "GitHub Actions 玩法大赏：一台远程主机的七种活法",
       "url": "https://juejin.cn/post/7675200141355253823",
-      "last_hot_value": "热度:540",
+      "last_hot_value": "热度:549",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-20T21:14:03",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T23:34:20",
+      "consecutive_count": 4,
       "peak_rank": 10,
       "is_new": false
     },

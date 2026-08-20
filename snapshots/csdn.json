@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-20T21:14:06",
+  "update_time": "2026-08-20T23:34:22",
   "items": [
     {
       "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
       "url": "https://blog.csdn.net/xiaobing259/article/details/163801977",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,32 +32,22 @@
       "is_new": false
     },
     {
-      "title": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/163392422",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-17T22:04:34",
-      "last_seen_at": "2026-08-19T17:13:25",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "把蓝耘模型装进OpenCode:实测开发一个GitHub Issue分诊助手",
       "url": "https://blog.csdn.net/2401_87629362/article/details/163664584",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "分布式GPU智能算法深度研究2026年版（下）",
       "url": "https://blog.csdn.net/kkiron/article/details/163874293",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-19T16:00:50",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 8,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,7 +57,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-18T06:14:17",
       "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -86,8 +76,8 @@
       "url": "https://blog.csdn.net/qq_41187124/article/details/157611426",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -166,10 +156,10 @@
       "url": "https://blog.csdn.net/2602_94956987/article/details/163917380",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
@@ -216,8 +206,8 @@
       "url": "https://blog.csdn.net/weixin_44976692/article/details/163914426",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
     },
@@ -234,28 +224,38 @@
     {
       "title": "把Blinko放进极空间:Docker 部署自托管笔记，并实现多设备远程访问",
       "url": "https://blog.csdn.net/2301_76341691/article/details/163914606",
-      "last_hot_value": "9403",
+      "last_hot_value": "9246",
       "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
-      "title": "不用PyTorch，我用C++手写了一个能认手写数字的神经网络",
-      "url": "https://blog.csdn.net/chen1415886044/article/details/163864969",
-      "last_hot_value": "9399",
-      "first_seen_at": "2026-08-20T11:56:43",
-      "last_seen_at": "2026-08-20T11:56:43",
-      "consecutive_count": 0,
+      "title": "MySQL迁移KaiwuDB性能对比：TPC-C测试实录",
+      "url": "https://blog.csdn.net/u014727709/article/details/163832165",
+      "last_hot_value": "9167",
+      "first_seen_at": "2026-08-20T21:14:06",
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
     {
       "title": "时序数据库超表架构深度体验（下篇）：压缩、分布式和真实战场上的表现",
       "url": "https://blog.csdn.net/qq_32682301/article/details/163897512",
-      "last_hot_value": "9380",
+      "last_hot_value": "8907",
       "first_seen_at": "2026-08-20T06:02:37",
+      "last_seen_at": "2026-08-20T23:34:22",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "不用PyTorch，我用C++手写了一个能认手写数字的神经网络",
+      "url": "https://blog.csdn.net/chen1415886044/article/details/163864969",
+      "last_hot_value": "9399",
+      "first_seen_at": "2026-08-20T11:56:43",
       "last_seen_at": "2026-08-20T11:56:43",
       "consecutive_count": 0,
       "peak_rank": 9,
@@ -270,16 +270,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "MySQL迁移KaiwuDB性能对比：TPC-C测试实录",
-      "url": "https://blog.csdn.net/u014727709/article/details/163832165",
-      "last_hot_value": "9317",
-      "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-20T21:14:06",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     }
   ]
 }
