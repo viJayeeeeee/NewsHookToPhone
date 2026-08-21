@@ -1,43 +1,43 @@
 {
-  "update_time": "2026-08-21T14:42:58",
+  "update_time": "2026-08-21T15:56:52",
   "items": [
     {
       "title": "多个内网服务怎么统一入口？部署 Nginx Proxy Manager 配置反向代理与 SSL",
       "url": "https://blog.csdn.net/2602_94956987/article/details/163917380",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "2.0w",
       "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
-      "last_hot_value": "1.6w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "主设备二次验证、连接授权、AI审计：2026安全远控Top3横测，ToDesk凭什么守住这次连接？",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/163922162",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-21T06:34:59",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
       "url": "https://blog.csdn.net/xiaobing259/article/details/163801977",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-19T05:30:48",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 15,
       "peak_rank": 1,
       "is_new": false
     },
@@ -92,22 +92,22 @@
       "is_new": false
     },
     {
-      "title": "飞算JavaAI能读懂复杂业务逻辑吗？ReleaseGuard发布审批实测",
-      "url": "https://blog.csdn.net/2501_91062530/article/details/163920502",
+      "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163893901",
       "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-21T06:34:59",
-      "last_seen_at": "2026-08-21T14:42:58",
+      "first_seen_at": "2026-08-20T03:43:54",
+      "last_seen_at": "2026-08-21T15:56:52",
       "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163893901",
+      "title": "飞算JavaAI能读懂复杂业务逻辑吗？ReleaseGuard发布审批实测",
+      "url": "https://blog.csdn.net/2501_91062530/article/details/163920502",
       "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-20T03:43:54",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-08-21T06:34:59",
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -152,12 +152,22 @@
       "is_new": false
     },
     {
+      "title": "【Linux 网络篇】网络传输的通信端口：Socket 创建、文件描述符底层运行机制",
+      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163675970",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-21T10:02:02",
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "不用守着直播间：在飞牛NAS部署Bililive-go，自动监控并保存直播录像",
       "url": "https://blog.csdn.net/weixin_44976692/article/details/163914426",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 9,
       "peak_rank": 6,
       "is_new": false
     },
@@ -206,10 +216,10 @@
       "url": "https://blog.csdn.net/weixin_74809706/article/details/163614053",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-21T14:42:58",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Zookeeper - 分布式配置中心的搭建与实操实践",
@@ -219,16 +229,6 @@
       "last_seen_at": "2026-08-19T05:30:48",
       "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "【Linux 网络篇】网络传输的通信端口：Socket 创建、文件描述符底层运行机制",
-      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163675970",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-21T10:02:02",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 1,
-      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -244,10 +244,10 @@
     {
       "title": "分布式GPU智能算法深度研究2026年版（中）",
       "url": "https://blog.csdn.net/kkiron/article/details/163874167",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-21T10:02:02",
-      "last_seen_at": "2026-08-21T14:42:58",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-21T15:56:52",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
