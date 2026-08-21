@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-21T07:27:45",
+  "update_time": "2026-08-21T17:53:34",
   "items": [
+    {
+      "title": "海鸥才不管那么多",
+      "url": "",
+      "last_hot_value": "1247人在读",
+      "first_seen_at": "2026-08-21T17:53:34",
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "4567人在读",
+      "last_hot_value": "4741人在读",
       "first_seen_at": "2026-08-19T14:33:48",
-      "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 13,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "942人在读",
       "first_seen_at": "2026-08-20T16:16:08",
       "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,42 +52,22 @@
       "is_new": false
     },
     {
-      "title": "人生十年，不可辜负的20岁到30岁",
-      "url": "",
-      "last_hot_value": "1433人在读",
-      "first_seen_at": "2026-08-18T14:06:00",
-      "last_seen_at": "2026-08-19T00:37:47",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "记一忘三二（不开心就读李娟！）",
       "url": "",
-      "last_hot_value": "7670人在读",
+      "last_hot_value": "7386人在读",
       "first_seen_at": "2026-08-20T17:21:33",
-      "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 5,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "我的帝王生涯",
-      "url": "",
-      "last_hot_value": "2161人在读",
-      "first_seen_at": "2026-08-18T11:45:58",
-      "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "朱镕基讲话实录（全四卷）",
       "url": "",
-      "last_hot_value": "2884人在读",
+      "last_hot_value": "2623人在读",
       "first_seen_at": "2026-08-19T14:33:48",
-      "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 13,
       "peak_rank": 2,
       "is_new": false
     },
@@ -92,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "AI提效：人人都要用的WorkBuddy（微信读书特别版）",
+      "url": "",
+      "last_hot_value": "2475人在读",
+      "first_seen_at": "2026-08-21T17:53:34",
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "阳明心学入门十讲（微信读书特别版）",
       "url": "",
       "last_hot_value": "861人在读",
       "first_seen_at": "2026-08-20T17:21:33",
       "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -112,6 +112,16 @@
       "is_new": false
     },
     {
+      "title": "第一性原理（微信读书特别版）",
+      "url": "",
+      "last_hot_value": "946人在读",
+      "first_seen_at": "2026-08-21T17:53:34",
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "明亮的夜晚（女性版《活着》）",
       "url": "",
       "last_hot_value": "3319人在读",
@@ -122,54 +132,34 @@
       "is_new": false
     },
     {
-      "title": "福格行为模型",
-      "url": "",
-      "last_hot_value": "1755人在读",
-      "first_seen_at": "2026-08-18T14:06:00",
-      "last_seen_at": "2026-08-19T13:23:13",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "我的阿勒泰（马伊琍、周依然、于适主演同名电视剧原著）",
       "url": "",
-      "last_hot_value": "5360人在读",
+      "last_hot_value": "5181人在读",
       "first_seen_at": "2026-08-18T21:06:34",
-      "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 16,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "荷马史诗《伊利亚特》（罗念生全集·第六卷）",
-      "url": "",
-      "last_hot_value": "835人在读",
-      "first_seen_at": "2026-08-18T11:45:58",
-      "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 18,
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 17,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "藏锋（段奕宏、余男、阿如那主演同名电视剧原著）",
       "url": "",
-      "last_hot_value": "1265人在读",
+      "last_hot_value": "1301人在读",
       "first_seen_at": "2026-08-19T13:23:13",
-      "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "撒哈拉的故事",
       "url": "",
-      "last_hot_value": "3628人在读",
+      "last_hot_value": "4021人在读",
       "first_seen_at": "2026-08-21T07:27:45",
-      "last_seen_at": "2026-08-21T07:27:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T17:53:34",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "次第花开（2017修订新版）",
@@ -177,26 +167,6 @@
       "last_hot_value": "731人在读",
       "first_seen_at": "2026-08-20T08:05:25",
       "last_seen_at": "2026-08-20T16:16:08",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "荷马史诗·伊利亚特",
-      "url": "",
-      "last_hot_value": "485人在读",
-      "first_seen_at": "2026-08-18T09:27:51",
-      "last_seen_at": "2026-08-18T11:45:58",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "羊道三部曲（套装共3册）",
-      "url": "",
-      "last_hot_value": "849人在读",
-      "first_seen_at": "2026-08-18T08:17:04",
-      "last_seen_at": "2026-08-18T08:17:04",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
