@@ -1,53 +1,63 @@
 {
-  "update_time": "2026-08-21T13:29:19",
+  "update_time": "2026-08-21T17:00:16",
   "items": [
     {
-      "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
-      "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
-      "last_hot_value": "497382播放",
-      "first_seen_at": "2026-08-21T13:29:19",
-      "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 1,
+      "title": "\"复活吧！我的（ ）\"",
+      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
+      "last_hot_value": "710441播放",
+      "first_seen_at": "2026-08-21T12:10:35",
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 3,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "《下一个是谁》第七季（3）",
       "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-      "last_hot_value": "1042345播放",
+      "last_hot_value": "1434437播放",
       "first_seen_at": "2026-08-21T08:42:48",
-      "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "举手之劳 亦是人间微光",
       "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-      "last_hot_value": "2916324播放",
+      "last_hot_value": "3550538播放",
       "first_seen_at": "2026-08-20T18:48:43",
-      "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 8,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "《黑神话：钟馗》15分钟实机演示",
-      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-      "last_hot_value": "9174364播放",
-      "first_seen_at": "2026-08-20T14:07:27",
-      "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
       "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
-      "last_hot_value": "1651873播放",
+      "last_hot_value": "2047670播放",
       "first_seen_at": "2026-08-21T08:42:48",
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "《黑神话：钟馗》15分钟实机演示",
+      "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+      "last_hot_value": "9516894播放",
+      "first_seen_at": "2026-08-20T14:07:27",
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 11,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "《明日方舟：终末地》「雪凇幽梦」版本前瞻预告",
+      "url": "https://www.bilibili.com/video/BV1VQ8i6uEr4",
+      "last_hot_value": "497382播放",
+      "first_seen_at": "2026-08-21T13:29:19",
       "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -144,10 +154,10 @@
     {
       "title": "我这一生最大的罪，是把人写成了妖……",
       "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-      "last_hot_value": "10103280播放",
+      "last_hot_value": "10434651播放",
       "first_seen_at": "2026-08-21T11:02:17",
-      "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -242,6 +252,16 @@
       "is_new": false
     },
     {
+      "title": "《你咋开的车》",
+      "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
+      "last_hot_value": "2122598播放",
+      "first_seen_at": "2026-08-21T17:00:16",
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "一种很“嘉豪”的合成方式",
       "url": "https://www.bilibili.com/video/BV18obz6BEiR",
       "last_hot_value": "2642158播放",
@@ -277,7 +297,7 @@
       "last_hot_value": "765742播放",
       "first_seen_at": "2026-08-21T12:10:35",
       "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -319,16 +339,6 @@
       "last_seen_at": "2026-08-19T11:15:45",
       "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "\"复活吧！我的（ ）\"",
-      "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-      "last_hot_value": "286346播放",
-      "first_seen_at": "2026-08-21T12:10:35",
-      "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 2,
-      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -382,14 +392,24 @@
       "is_new": false
     },
     {
+      "title": "我收容了100位粉丝到我的一辈子存档里！",
+      "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+      "last_hot_value": "498236播放",
+      "first_seen_at": "2026-08-21T17:00:16",
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "诡秘之主欧式古风发布会！失控版",
       "url": "https://www.bilibili.com/video/BV1Yq8q6qEyG",
       "last_hot_value": "435273播放",
       "first_seen_at": "2026-08-21T13:29:19",
       "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "《评论区！桌搭锐评13》误闯天家！桌？房！",
@@ -462,6 +482,16 @@
       "is_new": false
     },
     {
+      "title": "《明日方舟：终末地》「雪凇幽梦」版本PV",
+      "url": "https://www.bilibili.com/video/BV1BW8q6jEDo",
+      "last_hot_value": "1549333播放",
+      "first_seen_at": "2026-08-21T17:00:16",
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "《诡秘之主》游戏全平台公测现已开启 | 祝你拥有非凡的一天！",
       "url": "https://www.bilibili.com/video/BV1uJ8w6AEm3",
       "last_hot_value": "1045916播放",
@@ -512,14 +542,24 @@
       "is_new": false
     },
     {
+      "title": "《影之刃零》专场 State of Play 全程回顾",
+      "url": "https://www.bilibili.com/video/BV1Zdbi6rER9",
+      "last_hot_value": "9620498播放",
+      "first_seen_at": "2026-08-21T17:00:16",
+      "last_seen_at": "2026-08-21T17:00:16",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "《恐怖开学游轮》震撼上映，淘瓣评分10.1",
       "url": "https://www.bilibili.com/video/BV1hz8q6KEY4",
       "last_hot_value": "226425播放",
       "first_seen_at": "2026-08-21T13:29:19",
       "last_seen_at": "2026-08-21T13:29:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【独家/完结】《将夜》第19集 光明之夜【4月国创】",
