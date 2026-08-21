@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-21T06:35:00",
+  "update_time": "2026-08-21T10:02:04",
   "items": [
+    {
+      "title": "程序员岗位被AI掏空了！前OpenAI高管参与AGI激辩：AI替代岗位，可能根本没有裁员通知",
+      "url": "https://www.51cto.com/article/853656.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-21T10:02:04",
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "聊聊数据治理考核，怎么落地？",
       "url": "https://www.51cto.com/article/853652.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "开源利器！让DeepSeek V4 Flash超越Fable 5，还省11倍",
@@ -72,14 +82,24 @@
       "is_new": false
     },
     {
+      "title": "AI 时代的 GPU 资源调度：有没有类似 Kubernetes 的标准答案？",
+      "url": "https://www.51cto.com/article/853653.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-21T10:02:04",
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "WorkSwarm解锁AI办公新范式，招募开发者，Token免费！",
       "url": "https://www.51cto.com/article/853651.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "世界模型驶入F1赛道：探索极限工况下具身智能体的认知物理边界",
@@ -146,10 +166,10 @@
       "url": "https://www.51cto.com/article/853646.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刚刚，DeepSeek Harness更新！增强多模态",
@@ -216,10 +236,10 @@
       "url": "https://www.51cto.com/article/853644.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刚刚，人类历史上第一次用AI治愈癌症",
@@ -286,10 +306,10 @@
       "url": "https://www.51cto.com/article/853638.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "硅谷CEO: Grok Bot诞生，震撼程度堪比Claude Code时刻！",
@@ -356,10 +376,10 @@
       "url": "https://www.51cto.com/article/853636.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "CoSnitch：当你的 Copilot 助手变成“告密者”",
@@ -397,9 +417,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刚花600亿买下Cursor，马斯克又要对Devin下手",
@@ -437,9 +457,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Claude Code神话破灭？大量用户正在取消订阅",
@@ -476,10 +496,10 @@
       "url": "https://ost.51cto.com/posts/55445",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "一边修图一边挑照片：HarmonyOS 7.0 平行视界相册多窗工程化落地与 5 个踩坑解法 #智绘鸿蒙·大有\"视\"界#",
@@ -526,10 +546,10 @@
       "url": "https://ost.51cto.com/posts/55443",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T10:02:04",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "左右开弓的\"平行世界\"# 智绘鸿蒙·大有“视”界#",
