@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-21T11:18:08",
+  "update_time": "2026-08-21T14:43:00",
   "items": [
     {
       "title": "机器人GPT-3时刻震动硅谷！零行代码，看一遍秒会，黄仁勋李飞飞参投",
       "url": "https://www.51cto.com/article/853684.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "程序员岗位被AI掏空了！前OpenAI高管参与AGI激辩：AI替代岗位，可能根本没有裁员通知",
       "url": "https://www.51cto.com/article/853656.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T10:02:04",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.51cto.com/article/853652.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -86,18 +86,18 @@
       "url": "https://www.51cto.com/article/853681.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 时代的 GPU 资源调度：有没有类似 Kubernetes 的标准答案？",
       "url": "https://www.51cto.com/article/853653.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T10:02:04",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -166,10 +166,10 @@
       "url": "https://www.51cto.com/article/853680.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Claude Code 被轻易攻破，仅需一个假工具",
@@ -236,10 +236,10 @@
       "url": "https://www.51cto.com/article/853679.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "还在手搓论文poster？自进化设计Harness直接出",
@@ -306,10 +306,10 @@
       "url": "https://www.51cto.com/article/853673.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Qwen3.8-27B-DFlash2开源后面的加速技术-DFlash：用块扩散模型做「并行草稿」的投机解码框架",
@@ -496,8 +496,8 @@
       "url": "https://ost.51cto.com/posts/55445",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
@@ -546,8 +546,8 @@
       "url": "https://ost.51cto.com/posts/55443",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T11:18:08",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-21T14:43:00",
+      "consecutive_count": 4,
       "peak_rank": 10,
       "is_new": false
     },
