@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-21T10:02:04",
+  "update_time": "2026-08-21T11:18:08",
   "items": [
+    {
+      "title": "机器人GPT-3时刻震动硅谷！零行代码，看一遍秒会，黄仁勋李飞飞参投",
+      "url": "https://www.51cto.com/article/853684.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-21T11:18:08",
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "程序员岗位被AI掏空了！前OpenAI高管参与AGI激辩：AI替代岗位，可能根本没有裁员通知",
       "url": "https://www.51cto.com/article/853656.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T10:02:04",
-      "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "聊聊数据治理考核，怎么落地？",
       "url": "https://www.51cto.com/article/853652.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -72,24 +82,24 @@
       "is_new": false
     },
     {
-      "title": "Agentic SRE：当 AI 不仅提出修复方案，还直接实施时会发生什么",
-      "url": "https://www.51cto.com/article/853338.html",
+      "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
+      "url": "https://www.51cto.com/article/853681.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-21T11:18:08",
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "AI 时代的 GPU 资源调度：有没有类似 Kubernetes 的标准答案？",
       "url": "https://www.51cto.com/article/853653.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T10:02:04",
-      "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "WorkSwarm解锁AI办公新范式，招募开发者，Token免费！",
@@ -97,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -152,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "AI 赋能 SRE：打造自愈系统，让运维从故障响应走向自动恢复",
-      "url": "https://www.51cto.com/article/853328.html",
+      "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
+      "url": "https://www.51cto.com/article/853680.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-21T11:18:08",
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "Claude Code 被轻易攻破，仅需一个假工具",
@@ -167,7 +177,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -222,14 +232,14 @@
       "is_new": false
     },
     {
-      "title": "相册文搜图工程化落地：HarmonyOS 7.0 端侧 AI 检索全链路实战与 5 个踩坑解法 #智绘鸿蒙·大有\"视\"界#",
-      "url": "https://ost.51cto.com/posts/55288",
+      "title": "不藏了！Meta曝光Muse Spark 1.2核心具身能力",
+      "url": "https://www.51cto.com/article/853679.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-19T02:09:55",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-21T11:18:08",
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "还在手搓论文poster？自进化设计Harness直接出",
@@ -237,7 +247,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -292,14 +302,14 @@
       "is_new": false
     },
     {
-      "title": "Node.js 26.7.0 更新！测试、性能分析、FFI 全面补强",
-      "url": "https://www.51cto.com/article/853320.html",
+      "title": "2026 Google 开发者大会探展：AI 不止商业，技术亦有温度",
+      "url": "https://www.51cto.com/article/853673.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-21T11:18:08",
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "Qwen3.8-27B-DFlash2开源后面的加速技术-DFlash：用块扩散模型做「并行草稿」的投机解码框架",
@@ -307,7 +317,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -362,22 +372,12 @@
       "is_new": false
     },
     {
-      "title": "AIOps 故障排障全流程：3 个生产案例排查耗时从 60 分钟降至 5 分钟",
-      "url": "https://www.51cto.com/article/853292.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-18T10:58:12",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "从世界机器人大会看新质生产力风口，AI 视觉工程师成为产业刚需人才",
       "url": "https://www.51cto.com/article/853636.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -496,8 +496,8 @@
       "url": "https://ost.51cto.com/posts/55445",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -546,8 +546,8 @@
       "url": "https://ost.51cto.com/posts/55443",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T11:18:08",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },

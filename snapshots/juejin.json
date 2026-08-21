@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-21T10:02:01",
+  "update_time": "2026-08-21T11:18:05",
   "items": [
     {
       "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
       "url": "https://juejin.cn/post/7675272903249625107",
-      "last_hot_value": "热度:1782",
+      "last_hot_value": "热度:1809",
       "first_seen_at": "2026-08-19T16:00:48",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 11,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,40 +24,20 @@
     {
       "title": "为什么同一段代码在 Safari 上永远有 Bug？",
       "url": "https://juejin.cn/post/7674910507414159403",
-      "last_hot_value": "热度:1161",
+      "last_hot_value": "热度:1170",
       "first_seen_at": "2026-08-19T09:01:54",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 11,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "高级前端开发职业规划（2026—2035）",
-      "url": "https://juejin.cn/post/7674794074013024310",
-      "last_hot_value": "热度:1467",
-      "first_seen_at": "2026-08-18T10:58:09",
-      "last_seen_at": "2026-08-20T06:02:36",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek Harness必装的10个插件",
-      "url": "https://juejin.cn/post/7674802907378303028",
-      "last_hot_value": "热度:1278",
-      "first_seen_at": "2026-08-18T10:58:09",
-      "last_seen_at": "2026-08-20T06:02:36",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 12,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "DeepSeek Harness 值得安装的 15 款插件",
       "url": "https://juejin.cn/post/7675273747710001206",
-      "last_hot_value": "热度:1125",
+      "last_hot_value": "热度:1152",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
@@ -84,10 +64,10 @@
     {
       "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
       "url": "https://juejin.cn/post/7675346841392070707",
-      "last_hot_value": "热度:945",
+      "last_hot_value": "热度:981",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 7,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,8 +76,8 @@
       "url": "https://juejin.cn/post/7675540232994783251",
       "last_hot_value": "热度:936",
       "first_seen_at": "2026-08-20T21:14:03",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -116,8 +96,8 @@
       "url": "https://juejin.cn/post/7675200141355253823",
       "last_hot_value": "热度:648",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 7,
       "peak_rank": 6,
       "is_new": false
     },
@@ -134,10 +114,10 @@
     {
       "title": "我让 AI Agent 先别改代码，它怎么还是动手了？",
       "url": "https://juejin.cn/post/7675005880885461038",
-      "last_hot_value": "热度:612",
+      "last_hot_value": "热度:630",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -154,22 +134,22 @@
     {
       "title": "爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT 5.6 Luna，OpenCode 太香了！",
       "url": "https://juejin.cn/post/7675412802417639462",
-      "last_hot_value": "热度:432",
+      "last_hot_value": "热度:450",
       "first_seen_at": "2026-08-21T10:02:01",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek Harness 插件：HTML 实时可视化编辑",
       "url": "https://juejin.cn/post/7675247670898032692",
-      "last_hot_value": "热度:396",
+      "last_hot_value": "热度:405",
       "first_seen_at": "2026-08-21T10:02:01",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "本地跑一个 Qwen 3.8，你将拥有一个 Opus 4.6",
@@ -184,12 +164,12 @@
     {
       "title": "三星安卓系统BUG排查记录：云闪付、铁路12306、个人所得税、中国移动等App，长期闪退的根本原因分析",
       "url": "https://juejin.cn/post/7675626442046832694",
-      "last_hot_value": "热度:387",
+      "last_hot_value": "热度:396",
       "first_seen_at": "2026-08-21T10:02:01",
-      "last_seen_at": "2026-08-21T10:02:01",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T11:18:05",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
