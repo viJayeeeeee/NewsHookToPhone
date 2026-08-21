@@ -1,16 +1,6 @@
 {
-  "update_time": "2026-08-21T19:22:56",
+  "update_time": "2026-08-21T22:52:11",
   "items": [
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:214886 回复:2872",
-      "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 21,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "邮件 & SMTP 相关免费资源汇总",
       "url": "https://www.nodeseek.com/post-158130-1",
@@ -22,12 +12,22 @@
       "is_new": false
     },
     {
+      "title": "[新人看一看]老鸟请直接忽略",
+      "url": "https://www.nodeseek.com/post-348342-1",
+      "last_hot_value": "查看:22767 回复:426",
+      "first_seen_at": "2026-08-21T22:52:11",
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "常见VPS测试方法",
       "url": "https://www.nodeseek.com/post-726469-1",
       "last_hot_value": "查看:5076 回复:110",
       "first_seen_at": "2026-08-20T21:14:16",
       "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,14 +42,14 @@
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
-      "url": "https://www.nodeseek.com/post-105666-1",
-      "last_hot_value": "查看:106267 回复:273",
-      "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-19T17:13:35",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
+      "url": "https://www.nodeseek.com/post-865242-1",
+      "last_hot_value": "查看:23972 回复:239",
+      "first_seen_at": "2026-08-21T22:52:11",
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【教程】搭建自己的邮局用于收发邮件📧，老太太看了都直呼ez",
@@ -57,7 +57,7 @@
       "last_hot_value": "查看:11236 回复:129",
       "first_seen_at": "2026-08-20T21:14:16",
       "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,24 +72,44 @@
       "is_new": false
     },
     {
-      "title": "PT刷流指南",
-      "url": "https://www.nodeseek.com/post-224784-1",
-      "last_hot_value": "查看:35967 回复:198",
+      "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
+      "url": "https://www.nodeseek.com/post-878721-1",
+      "last_hot_value": "查看:2099 回复:64",
       "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 10,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:231246 回复:2129",
+      "last_hot_value": "查看:232242 回复:2136",
       "first_seen_at": "2026-08-18T23:45:33",
-      "last_seen_at": "2026-08-20T11:56:52",
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "PT刷流指南",
+      "url": "https://www.nodeseek.com/post-224784-1",
+      "last_hot_value": "查看:35967 回复:198",
+      "first_seen_at": "2026-08-20T21:14:16",
+      "last_seen_at": "2026-08-21T19:22:56",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
+      "url": "https://www.nodeseek.com/post-219853-1",
+      "last_hot_value": "查看:8719 回复:63",
+      "first_seen_at": "2026-08-21T22:52:11",
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
@@ -97,38 +117,38 @@
       "last_hot_value": "查看:1180 回复:22",
       "first_seen_at": "2026-08-20T21:14:16",
       "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "Monolith — 一套跑在 Cloudflare 免费套餐上的高质感博客系统",
-      "url": "https://www.nodeseek.com/post-684012-1",
-      "last_hot_value": "查看:8625 回复:111",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
+      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
+      "url": "https://www.nodeseek.com/post-572284-1",
+      "last_hot_value": "查看:59721 回复:187",
+      "first_seen_at": "2026-08-21T22:52:11",
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
-      "url": "https://www.nodeseek.com/post-68572-1",
-      "last_hot_value": "查看:106655 回复:626",
-      "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
-      "peak_rank": 7,
+      "title": "Monolith — 一套跑在 Cloudflare 免费套餐上的高质感博客系统",
+      "url": "https://www.nodeseek.com/post-684012-1",
+      "last_hot_value": "查看:8812 回复:115",
+      "first_seen_at": "2026-08-20T21:14:16",
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 10,
+      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "【开源】ForwardX：一个好看又能打的多主机端口/隧道转发管理面板",
       "url": "https://www.nodeseek.com/post-792082-1",
-      "last_hot_value": "查看:5007 回复:87",
+      "last_hot_value": "查看:5055 回复:88",
       "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
-      "peak_rank": 8,
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 10,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -142,16 +162,6 @@
       "is_new": false
     },
     {
-      "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
-      "url": "https://www.nodeseek.com/post-878721-1",
-      "last_hot_value": "查看:1755 回复:57",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "【比“史上最强”更强】满屏讨论dd gcp居然没有人提到我的脚本😭",
       "url": "https://www.nodeseek.com/post-116193-1",
       "last_hot_value": "查看:32042 回复:251",
@@ -162,14 +172,14 @@
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
-      "url": "https://www.nodeseek.com/post-584268-1",
-      "last_hot_value": "查看:24695 回复:175",
-      "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-19T17:13:35",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
+      "url": "https://www.nodeseek.com/post-809285-1",
+      "last_hot_value": "查看:3843 回复:73",
+      "first_seen_at": "2026-08-21T22:52:11",
+      "last_seen_at": "2026-08-21T22:52:11",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "PayIncus：一个面向真实运营的开源 Incus VPS 销售与管理面板",
@@ -177,7 +187,7 @@
       "last_hot_value": "查看:1696 回复:19",
       "first_seen_at": "2026-08-20T21:14:16",
       "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -187,16 +197,6 @@
       "last_hot_value": "查看:8557 回复:133",
       "first_seen_at": "2026-08-20T03:44:05",
       "last_seen_at": "2026-08-20T11:56:52",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:93158 回复:780",
-      "first_seen_at": "2026-08-18T21:23:15",
-      "last_seen_at": "2026-08-19T17:13:35",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

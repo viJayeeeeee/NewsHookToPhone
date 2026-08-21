@@ -1,33 +1,23 @@
 {
-  "update_time": "2026-08-21T19:22:46",
+  "update_time": "2026-08-21T22:52:00",
   "items": [
     {
       "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
       "url": "https://juejin.cn/post/7675272903249625107",
-      "last_hot_value": "热度:1917",
+      "last_hot_value": "热度:1926",
       "first_seen_at": "2026-08-19T16:00:48",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 15,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "为什么越来越多人用 Pi ？ - 苏三说技术",
-      "url": "https://juejin.cn/post/7673855455463800847",
-      "last_hot_value": "热度:4455",
-      "first_seen_at": "2026-08-18T21:23:05",
-      "last_seen_at": "2026-08-19T05:30:47",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 16,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "DeepSeek Harness 值得安装的 15 款插件",
       "url": "https://juejin.cn/post/7675273747710001206",
-      "last_hot_value": "热度:1314",
+      "last_hot_value": "热度:1341",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 12,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,9 +26,19 @@
       "url": "https://juejin.cn/post/7674910507414159403",
       "last_hot_value": "热度:1215",
       "first_seen_at": "2026-08-19T09:01:54",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 16,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 17,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
+      "url": "https://juejin.cn/post/7675346841392070707",
+      "last_hot_value": "热度:1224",
+      "first_seen_at": "2026-08-20T10:40:08",
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 12,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -62,22 +62,12 @@
       "is_new": false
     },
     {
-      "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
-      "url": "https://juejin.cn/post/7675346841392070707",
-      "last_hot_value": "热度:1197",
-      "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 11,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "「速通Shell」Shell编程的错误处理与日志",
       "url": "https://juejin.cn/post/7675540232994783251",
       "last_hot_value": "热度:963",
       "first_seen_at": "2026-08-20T21:14:03",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 10,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,8 +86,8 @@
       "url": "https://juejin.cn/post/7675200141355253823",
       "last_hot_value": "热度:666",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 12,
       "peak_rank": 6,
       "is_new": false
     },
@@ -114,10 +104,10 @@
     {
       "title": "我让 AI Agent 先别改代码，它怎么还是动手了？",
       "url": "https://juejin.cn/post/7675005880885461038",
-      "last_hot_value": "热度:648",
+      "last_hot_value": "热度:657",
       "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 8,
       "peak_rank": 7,
       "is_new": false
     },
@@ -136,8 +126,8 @@
       "url": "https://juejin.cn/post/7676301268526530560",
       "last_hot_value": "热度:531",
       "first_seen_at": "2026-08-21T18:14:32",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -146,8 +136,8 @@
       "url": "https://juejin.cn/post/7675412802417639462",
       "last_hot_value": "热度:477",
       "first_seen_at": "2026-08-21T10:02:01",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 7,
       "peak_rank": 8,
       "is_new": false
     },
@@ -174,10 +164,10 @@
     {
       "title": "三星安卓系统BUG排查记录：云闪付、铁路12306、个人所得税、中国移动等App，长期闪退的根本原因分析",
       "url": "https://juejin.cn/post/7675626442046832694",
-      "last_hot_value": "热度:432",
+      "last_hot_value": "热度:441",
       "first_seen_at": "2026-08-21T10:02:01",
-      "last_seen_at": "2026-08-21T19:22:46",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-21T22:52:00",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },
