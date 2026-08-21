@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-20T23:34:23",
+  "update_time": "2026-08-21T06:35:00",
   "items": [
+    {
+      "title": "聊聊数据治理考核，怎么落地？",
+      "url": "https://www.51cto.com/article/853652.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "开源利器！让DeepSeek V4 Flash超越Fable 5，还省11倍",
       "url": "https://www.51cto.com/article/853560.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -62,14 +72,14 @@
       "is_new": false
     },
     {
-      "title": "把\"毛玻璃\"玩出花：HarmonyOS视觉效果实战的四个\"真香\"瞬间",
-      "url": "https://ost.51cto.com/posts/55255",
+      "title": "WorkSwarm解锁AI办公新范式，招募开发者，Token免费！",
+      "url": "https://www.51cto.com/article/853651.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "世界模型驶入F1赛道：探索极限工况下具身智能体的认知物理边界",
@@ -77,7 +87,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -132,14 +142,14 @@
       "is_new": false
     },
     {
-      "title": "状态管理的\"最后一公里\"：HarmonyOS V2跨层级通信与深度观测完全指南",
-      "url": "https://ost.51cto.com/posts/55254",
+      "title": "Claude Code 被轻易攻破，仅需一个假工具",
+      "url": "https://www.51cto.com/article/853646.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "刚刚，DeepSeek Harness更新！增强多模态",
@@ -147,7 +157,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -202,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek Harness v0.1 四天 14 万星，对照 Claude Code 和 Codex 讲清三种 harness 设计原则",
-      "url": "https://www.51cto.com/article/853267.html",
+      "title": "还在手搓论文poster？自进化设计Harness直接出",
+      "url": "https://www.51cto.com/article/853644.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "刚刚，人类历史上第一次用AI治愈癌症",
@@ -217,7 +227,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -272,14 +282,14 @@
       "is_new": false
     },
     {
-      "title": "即使 Agent 被劫持，也拿不到私钥：一种零信任 MCP 执行架构",
-      "url": "https://www.51cto.com/article/853240.html",
+      "title": "Qwen3.8-27B-DFlash2开源后面的加速技术-DFlash：用块扩散模型做「并行草稿」的投机解码框架",
+      "url": "https://www.51cto.com/article/853638.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "硅谷CEO: Grok Bot诞生，震撼程度堪比Claude Code时刻！",
@@ -287,7 +297,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -342,14 +352,14 @@
       "is_new": false
     },
     {
-      "title": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
-      "url": "https://www.51cto.com/article/853266.html",
+      "title": "从世界机器人大会看新质生产力风口，AI 视觉工程师成为产业刚需人才",
+      "url": "https://www.51cto.com/article/853636.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "CoSnitch：当你的 Copilot 助手变成“告密者”",
@@ -357,7 +367,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -382,14 +392,14 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek Harness 开源，下一代 Agent 基础设施长什么样？",
-      "url": "https://www.51cto.com/article/853192.html",
+      "title": "运维必看！可控可落地的 AI SRE Agent 信任体系与安全落地指南",
+      "url": "https://www.51cto.com/article/853629.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T23:45:25",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "刚花600亿买下Cursor，马斯克又要对Devin下手",
@@ -397,7 +407,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -422,14 +432,14 @@
       "is_new": false
     },
     {
-      "title": "Workbuddy + ima 打造个人 AI 知识库",
-      "url": "https://www.51cto.com/article/853264.html",
+      "title": "用Spring Boot复刻了“淘宝30分钟未支付自动关单”：不用Redis过期监听，也不用每分钟扫数据库",
+      "url": "https://www.51cto.com/article/853627.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "Claude Code神话破灭？大量用户正在取消订阅",
@@ -437,7 +447,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -462,14 +472,14 @@
       "is_new": false
     },
     {
-      "title": "斯坦福辍学生奥特曼：AI时代，大学上两年就够了",
-      "url": "https://www.51cto.com/article/853263.html",
+      "title": "AI 变声电话里的\"亲人\"声音可能是假的# 智绘鸿蒙·大有“视”界#",
+      "url": "https://ost.51cto.com/posts/55445",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "一边修图一边挑照片：HarmonyOS 7.0 平行视界相册多窗工程化落地与 5 个踩坑解法 #智绘鸿蒙·大有\"视\"界#",
@@ -477,7 +487,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -512,14 +522,14 @@
       "is_new": false
     },
     {
-      "title": "黄仁勋提前锁定20年OpenAI芯片收入！第一轮150万GPU卖2000亿美元",
-      "url": "https://www.51cto.com/article/853262.html",
+      "title": "HarmonyOS7开发时 Map Kit Marker 点击被地图\"吞\"了#智绘鸿蒙·大有“视”界#",
+      "url": "https://ost.51cto.com/posts/55443",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-08-21T06:35:00",
+      "last_seen_at": "2026-08-21T06:35:00",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "左右开弓的\"平行世界\"# 智绘鸿蒙·大有“视”界#",
@@ -527,7 +537,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T10:40:12",
       "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
@@ -537,16 +547,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-20T03:43:56",
       "last_seen_at": "2026-08-20T03:43:56",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "刚刚英伟达核弹级战略曝光！老黄宣布联手奥特曼圈地圈电，狂卷16GW算力霸权",
-      "url": "https://www.51cto.com/article/853236.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-18T06:14:19",
-      "last_seen_at": "2026-08-18T06:14:19",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

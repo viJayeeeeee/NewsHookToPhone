@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-08-20T23:34:29",
+  "update_time": "2026-08-21T06:35:07",
   "items": [
     {
       "title": "《深入理解 AI Agent：设计原理与工程实践》",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "last_hot_value": "5493",
+      "last_hot_value": "5611",
       "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "在线 AI 简历编辑器",
       "url": "https://github.com/JOYCEQL/magic-resume",
-      "last_hot_value": "2744",
+      "last_hot_value": "2790",
       "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "把多张网卡的带宽叠加起来",
       "url": "https://github.com/Hypostasis-Cat/HypoMux",
-      "last_hot_value": "3343",
+      "last_hot_value": "3380",
       "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "更好用的 Windows 系统清理工具",
       "url": "https://github.com/builtbybel/FluentCleaner",
-      "last_hot_value": "2715",
+      "last_hot_value": "2768",
       "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "让 AI 读代码画出架构图",
       "url": "https://github.com/tt-a1i/archify",
-      "last_hot_value": "3181",
+      "last_hot_value": "3234",
       "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "可多人协作的旅行规划平台",
+      "url": "https://github.com/liketrek/TREK",
+      "last_hot_value": "2374",
+      "first_seen_at": "2026-08-18T10:58:18",
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "上千个健身动作的集合",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "last_hot_value": "2568",
+      "last_hot_value": "2596",
       "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "整本翻译外文小说的工具",
       "url": "https://github.com/BigDawnGhost/wenyi",
-      "last_hot_value": "1298",
+      "last_hot_value": "1315",
       "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
       "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "可多人协作的旅行规划平台",
-      "url": "https://github.com/liketrek/TREK",
-      "last_hot_value": "2333",
-      "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
-      "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "拒绝 AI 味的网页设计技能",
       "url": "https://github.com/Nutlope/hallmark",
-      "last_hot_value": "2195",
+      "last_hot_value": "2229",
       "first_seen_at": "2026-08-18T10:58:18",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 17,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 18,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "写论文用的文献管理工具",
       "url": "https://github.com/JabRef/jabref",
-      "last_hot_value": "997",
+      "last_hot_value": "1008",
       "first_seen_at": "2026-08-20T23:34:29",
-      "last_seen_at": "2026-08-20T23:34:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-21T06:35:07",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
