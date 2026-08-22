@@ -1,6 +1,16 @@
 {
-  "update_time": "2026-08-21T22:52:11",
+  "update_time": "2026-08-22T05:51:03",
   "items": [
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:215326 回复:2877",
+      "first_seen_at": "2026-08-22T05:51:03",
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "邮件 & SMTP 相关免费资源汇总",
       "url": "https://www.nodeseek.com/post-158130-1",
@@ -16,10 +26,10 @@
       "url": "https://www.nodeseek.com/post-348342-1",
       "last_hot_value": "查看:22767 回复:426",
       "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "常见VPS测试方法",
@@ -46,10 +56,10 @@
       "url": "https://www.nodeseek.com/post-865242-1",
       "last_hot_value": "查看:23972 回复:239",
       "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【教程】搭建自己的邮局用于收发邮件📧，老太太看了都直呼ez",
@@ -76,18 +86,8 @@
       "url": "https://www.nodeseek.com/post-878721-1",
       "last_hot_value": "查看:2099 回复:64",
       "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 10,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:232242 回复:2136",
-      "first_seen_at": "2026-08-18T23:45:33",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 11,
       "peak_rank": 4,
       "is_new": false
     },
@@ -106,10 +106,10 @@
       "url": "https://www.nodeseek.com/post-219853-1",
       "last_hot_value": "查看:8719 回复:63",
       "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
@@ -126,18 +126,18 @@
       "url": "https://www.nodeseek.com/post-572284-1",
       "last_hot_value": "查看:59721 回复:187",
       "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Monolith — 一套跑在 Cloudflare 免费套餐上的高质感博客系统",
       "url": "https://www.nodeseek.com/post-684012-1",
       "last_hot_value": "查看:8812 回复:115",
       "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 11,
       "peak_rank": 6,
       "is_new": false
     },
@@ -146,8 +146,8 @@
       "url": "https://www.nodeseek.com/post-792082-1",
       "last_hot_value": "查看:5055 回复:88",
       "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 11,
       "peak_rank": 7,
       "is_new": false
     },
@@ -176,10 +176,10 @@
       "url": "https://www.nodeseek.com/post-809285-1",
       "last_hot_value": "查看:3843 回复:73",
       "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-21T22:52:11",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T05:51:03",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "PayIncus：一个面向真实运营的开源 Incus VPS 销售与管理面板",
