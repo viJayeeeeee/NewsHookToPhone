@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-22T05:50:50",
+  "update_time": "2026-08-22T08:13:33",
   "items": [
+    {
+      "title": "在这个独属于 ai 的时代，我终究是被裁员了。",
+      "url": "https://www.v2ex.com/t/1236240",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-22T05:50:50",
+      "last_seen_at": "2026-08-22T08:13:33",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "大家对最近的 12306 两人三张票三座 怎么看,个人反对!",
       "url": "https://www.v2ex.com/t/1236273",
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T05:50:50",
       "last_seen_at": "2026-08-22T05:50:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "如何把尿道结石排出来?",
@@ -42,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "ChatGPT 5X 一个月 800 多舍不得",
+      "url": "https://www.v2ex.com/t/1236222",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-22T05:50:50",
+      "last_seen_at": "2026-08-22T08:13:33",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "刚刚看到 Tibo 说 Codex 额度用的太快是 sub2api 的问题",
       "url": "https://www.v2ex.com/t/1236151",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T10:01:59",
       "last_seen_at": "2026-08-22T05:50:50",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -92,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "ChatGPT 5X 一个月 800 多舍不得",
-      "url": "https://www.v2ex.com/t/1236222",
+      "title": "多年后回想起来，人们可能会发现，让程序员指挥 AI 写代码，可能是我们人类走过的一段弯路。",
+      "url": "https://www.v2ex.com/t/1236256",
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T05:50:50",
-      "last_seen_at": "2026-08-22T05:50:50",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T08:13:33",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[中转站] plus 炸了你们用什么？来我这 0.03 opus4.6，无敌平替",
@@ -132,11 +152,11 @@
       "is_new": false
     },
     {
-      "title": "在这个独属于 ai 的时代，我终究是被裁员了。",
-      "url": "https://www.v2ex.com/t/1236240",
+      "title": "网传：程序员失业后，被离婚周期是半年，可信度多少？",
+      "url": "https://www.v2ex.com/t/1236332",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-22T05:50:50",
-      "last_seen_at": "2026-08-22T05:50:50",
+      "first_seen_at": "2026-08-22T08:13:33",
+      "last_seen_at": "2026-08-22T08:13:33",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -172,14 +192,24 @@
       "is_new": false
     },
     {
+      "title": "迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了",
+      "url": "https://www.v2ex.com/t/1236307",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-22T05:50:50",
+      "last_seen_at": "2026-08-22T08:13:33",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "似乎找到了自己在 V 站的定位",
       "url": "https://www.v2ex.com/t/1236157",
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T05:50:50",
       "last_seen_at": "2026-08-22T05:50:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你们会骂 AI 吗",
@@ -222,14 +252,14 @@
       "is_new": false
     },
     {
-      "title": "多年后回想起来，人们可能会发现，让程序员指挥 AI 写代码，可能是我们人类走过的一段弯路。",
-      "url": "https://www.v2ex.com/t/1236256",
+      "title": "李彦宏提出要让文心一言回到第一梯队",
+      "url": "https://www.v2ex.com/t/1236348",
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T05:50:50",
-      "last_seen_at": "2026-08-22T05:50:50",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T08:13:33",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Codex / Claude Code 用户来送额度，评论 ID 送 $10",
@@ -282,14 +312,24 @@
       "is_new": false
     },
     {
+      "title": "[送码] 那个爱看星星的小孩，三十年后终于奖励了自己一个大玩具",
+      "url": "https://www.v2ex.com/t/1236270",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-22T08:13:33",
+      "last_seen_at": "2026-08-22T08:13:33",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "编程效果对比 本地 Qwen3.8-27B vs Deepseek",
       "url": "https://www.v2ex.com/t/1236180",
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T05:50:50",
       "last_seen_at": "2026-08-22T05:50:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你的余额宝会放很多钱吗？",
@@ -332,14 +372,24 @@
       "is_new": false
     },
     {
+      "title": "亲人去世后的手机破解问题",
+      "url": "https://www.v2ex.com/t/1236385",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-22T08:13:33",
+      "last_seen_at": "2026-08-22T08:13:33",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "你们公司开始夯实社保了吗？",
       "url": "https://www.v2ex.com/t/1236190",
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T05:50:50",
       "last_seen_at": "2026-08-22T05:50:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我们开始倒班考勤了",
@@ -362,11 +412,11 @@
       "is_new": false
     },
     {
-      "title": "李彦宏提出要让文心一言回到第一梯队",
-      "url": "https://www.v2ex.com/t/1236348",
+      "title": "Tibo 已发 重置卡 注意查收",
+      "url": "https://www.v2ex.com/t/1236335",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-22T05:50:50",
-      "last_seen_at": "2026-08-22T05:50:50",
+      "first_seen_at": "2026-08-22T08:13:33",
+      "last_seen_at": "2026-08-22T08:13:33",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -380,16 +430,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "迁到 DeepSeek Harness 后，我发现开发团队可以裁掉了",
-      "url": "https://www.v2ex.com/t/1236307",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-22T05:50:50",
-      "last_seen_at": "2026-08-22T05:50:50",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "半夜腰疼",
