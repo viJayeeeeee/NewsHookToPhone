@@ -1,13 +1,33 @@
 {
-  "update_time": "2026-08-22T10:36:07",
+  "update_time": "2026-08-22T16:23:36",
   "items": [
+    {
+      "title": "多个内网服务怎么统一入口？部署 Nginx Proxy Manager 配置反向代理与 SSL",
+      "url": "https://blog.csdn.net/2602_94956987/article/details/163917380",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-08-20T21:14:06",
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 15,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-20T10:40:11",
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 17,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163893901",
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-20T03:43:54",
       "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,27 +37,7 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-21T18:14:33",
       "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 16,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "多个内网服务怎么统一入口？部署 Nginx Proxy Manager 配置反向代理与 SSL",
-      "url": "https://blog.csdn.net/2602_94956987/article/details/163917380",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 14,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "RAG 实战教程（三）：向量数据库检索算法，KNN、IVF、HNSW 与 Faiss 实战",
+      "url": "https://blog.csdn.net/2401_83830408/article/details/163916717",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-08-22T05:50:53",
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 5,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "MCP、A2A、AG-UI：一篇讲清 Agent 协议栈",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/163614053",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-21T14:42:58",
-      "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 10,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,16 +92,6 @@
       "is_new": false
     },
     {
-      "title": "分布式GPU智能算法深度研究2026年版（下）",
-      "url": "https://blog.csdn.net/kkiron/article/details/163874293",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-19T16:00:50",
-      "last_seen_at": "2026-08-21T06:34:59",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "Docker - 核心概念速通，镜像、容器、仓库一次弄懂",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157611426",
       "last_hot_value": "1.2w",
@@ -102,22 +102,32 @@
       "is_new": false
     },
     {
-      "title": "【Linux 网络篇】网络传输的通信端口：Socket 创建、文件描述符底层运行机制",
-      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163675970",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-21T10:02:02",
-      "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 9,
+      "title": "飞算JavaAI能读懂复杂业务逻辑吗？ReleaseGuard发布审批实测",
+      "url": "https://blog.csdn.net/2501_91062530/article/details/163920502",
+      "last_hot_value": "6450",
+      "first_seen_at": "2026-08-21T06:34:59",
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "飞算JavaAI能读懂复杂业务逻辑吗？ReleaseGuard发布审批实测",
-      "url": "https://blog.csdn.net/2501_91062530/article/details/163920502",
-      "last_hot_value": "8068",
-      "first_seen_at": "2026-08-21T06:34:59",
-      "last_seen_at": "2026-08-22T05:50:53",
-      "consecutive_count": 0,
+      "title": "从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/163972133",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-22T09:29:31",
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "【Linux 网络篇】网络传输的通信端口：Socket 创建、文件描述符底层运行机制",
+      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163675970",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-21T10:02:02",
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 10,
       "peak_rank": 4,
       "is_new": false
     },
@@ -152,42 +162,32 @@
       "is_new": false
     },
     {
-      "title": "RAG 实战教程（三）：向量数据库检索算法，KNN、IVF、HNSW 与 Faiss 实战",
-      "url": "https://blog.csdn.net/2401_83830408/article/details/163916717",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-22T05:50:53",
-      "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 4,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "不用守着直播间：在飞牛NAS部署Bililive-go，自动监控并保存直播录像",
       "url": "https://blog.csdn.net/weixin_44976692/article/details/163914426",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-20T10:40:11",
       "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 5,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/163858686",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-19T16:00:50",
-      "last_seen_at": "2026-08-20T11:56:43",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/163972133",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-22T09:29:31",
-      "last_seen_at": "2026-08-22T10:36:07",
+      "title": "《智能驾驶拆解笔记：老周唠透车圈AI》第9篇（系列终篇）",
+      "url": "https://blog.csdn.net/weixin_62244995/article/details/162999409",
+      "last_hot_value": "9083",
+      "first_seen_at": "2026-08-22T10:36:07",
+      "last_seen_at": "2026-08-22T16:23:36",
       "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "别再靠文件夹翻文档了：Docker 部署 Papra，集中管理、搜索和分类资料",
+      "url": "https://blog.csdn.net/weixin_42878111/article/details/163923456",
+      "last_hot_value": "9079",
+      "first_seen_at": "2026-08-22T08:13:38",
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": false
     },
@@ -202,14 +202,14 @@
       "is_new": false
     },
     {
-      "title": "别再靠文件夹翻文档了：Docker 部署 Papra，集中管理、搜索和分类资料",
-      "url": "https://blog.csdn.net/weixin_42878111/article/details/163923456",
-      "last_hot_value": "7156",
-      "first_seen_at": "2026-08-22T08:13:38",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 0,
+      "title": "Harness开源: DeepSeek向左, OpenAI向右",
+      "url": "https://blog.csdn.net/fitbit/article/details/163944246",
+      "last_hot_value": "8271",
+      "first_seen_at": "2026-08-22T16:23:36",
+      "last_seen_at": "2026-08-22T16:23:36",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "时序数据库超表架构深度体验（下篇）：压缩、分布式和真实战场上的表现",
@@ -250,16 +250,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "《智能驾驶拆解笔记：老周唠透车圈AI》第9篇（系列终篇）",
-      "url": "https://blog.csdn.net/weixin_62244995/article/details/162999409",
-      "last_hot_value": "7762",
-      "first_seen_at": "2026-08-22T10:36:07",
-      "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "IP/MAC帧/ARP协议",
