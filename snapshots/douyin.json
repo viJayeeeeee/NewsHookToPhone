@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-22T13:54:30",
+  "update_time": "2026-08-22T15:08:05",
   "items": [
+    {
+      "title": "戴上耳机逃离城市喧嚣",
+      "url": "https://www.douyin.com/search/%E6%88%B4%E4%B8%8A%E8%80%B3%E6%9C%BA%E9%80%83%E7%A6%BB%E5%9F%8E%E5%B8%82%E5%96%A7%E5%9A%A3?type=general",
+      "last_hot_value": "12303104",
+      "first_seen_at": "2026-08-22T11:33:08",
+      "last_seen_at": "2026-08-22T15:08:05",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "苏超焦点战苏州vs南京",
       "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E7%84%A6%E7%82%B9%E6%88%98%E8%8B%8F%E5%B7%9Evs%E5%8D%97%E4%BA%AC?type=general",
       "last_hot_value": "12153511",
       "first_seen_at": "2026-08-22T11:33:08",
       "last_seen_at": "2026-08-22T13:54:30",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "8798185",
       "first_seen_at": "2026-08-22T11:33:08",
       "last_seen_at": "2026-08-22T13:54:30",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -102,12 +112,22 @@
       "is_new": false
     },
     {
+      "title": "苏超焦点战苏州1:0南京",
+      "url": "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E7%84%A6%E7%82%B9%E6%88%98%E8%8B%8F%E5%B7%9E1%3A0%E5%8D%97%E4%BA%AC?type=general",
+      "last_hot_value": "11454671",
+      "first_seen_at": "2026-08-22T15:08:05",
+      "last_seen_at": "2026-08-22T15:08:05",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "伦纳德vs白晶百分大战",
       "url": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7vs%E7%99%BD%E6%99%B6%E7%99%BE%E5%88%86%E5%A4%A7%E6%88%98?type=general",
       "last_hot_value": "11287986",
       "first_seen_at": "2026-08-22T11:33:08",
       "last_seen_at": "2026-08-22T13:54:30",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -144,12 +164,12 @@
     {
       "title": "赛事激发经济发展新活力",
       "url": "https://www.douyin.com/search/%E8%B5%9B%E4%BA%8B%E6%BF%80%E5%8F%91%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%96%B0%E6%B4%BB%E5%8A%9B?type=general",
-      "last_hot_value": "11190634",
+      "last_hot_value": "10952927",
       "first_seen_at": "2026-08-22T13:54:30",
-      "last_seen_at": "2026-08-22T13:54:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-22T15:08:05",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "数智赋能电商经济活力迸发",
@@ -212,14 +232,24 @@
       "is_new": false
     },
     {
+      "title": "新的故事会在秋风中慢慢开始",
+      "url": "https://www.douyin.com/search/%E6%96%B0%E7%9A%84%E6%95%85%E4%BA%8B%E4%BC%9A%E5%9C%A8%E7%A7%8B%E9%A3%8E%E4%B8%AD%E6%85%A2%E6%85%A2%E5%BC%80%E5%A7%8B?type=general",
+      "last_hot_value": "10675859",
+      "first_seen_at": "2026-08-22T15:08:05",
+      "last_seen_at": "2026-08-22T15:08:05",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "TYL 3:0 BLG ​",
       "url": "https://www.douyin.com/search/TYL%203%3A0%20BLG%20%E2%80%8B?type=general",
       "last_hot_value": "10678542",
       "first_seen_at": "2026-08-22T13:54:30",
       "last_seen_at": "2026-08-22T13:54:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "今年第20号台风“简拉维”生成",
@@ -227,7 +257,7 @@
       "last_hot_value": "8264986",
       "first_seen_at": "2026-08-22T11:33:08",
       "last_seen_at": "2026-08-22T13:54:30",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -272,14 +302,14 @@
       "is_new": false
     },
     {
-      "title": "戴上耳机逃离城市喧嚣",
-      "url": "https://www.douyin.com/search/%E6%88%B4%E4%B8%8A%E8%80%B3%E6%9C%BA%E9%80%83%E7%A6%BB%E5%9F%8E%E5%B8%82%E5%96%A7%E5%9A%A3?type=general",
-      "last_hot_value": "10082673",
-      "first_seen_at": "2026-08-22T11:33:08",
-      "last_seen_at": "2026-08-22T13:54:30",
-      "consecutive_count": 2,
+      "title": "世界人形机器人运动会开幕",
+      "url": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BC%80%E5%B9%95?type=general",
+      "last_hot_value": "9810156",
+      "first_seen_at": "2026-08-22T15:08:05",
+      "last_seen_at": "2026-08-22T15:08:05",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "2026成都车展正式开幕",
@@ -322,14 +352,24 @@
       "is_new": false
     },
     {
+      "title": "续完火花可以回到放假第一天吗",
+      "url": "https://www.douyin.com/search/%E7%BB%AD%E5%AE%8C%E7%81%AB%E8%8A%B1%E5%8F%AF%E4%BB%A5%E5%9B%9E%E5%88%B0%E6%94%BE%E5%81%87%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%97?type=general",
+      "last_hot_value": "9755910",
+      "first_seen_at": "2026-08-22T13:54:30",
+      "last_seen_at": "2026-08-22T15:08:05",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "中国女排3:0伊拉克女排",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%3A0%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E6%8E%92?type=general",
       "last_hot_value": "9943345",
       "first_seen_at": "2026-08-22T13:54:30",
       "last_seen_at": "2026-08-22T13:54:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "铁路通报“旅客买票占座放零食”",
@@ -382,6 +422,16 @@
       "is_new": false
     },
     {
+      "title": "抖音作者沉浸体验未来战场",
+      "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E4%BD%9C%E8%80%85%E6%B2%89%E6%B5%B8%E4%BD%93%E9%AA%8C%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA?type=general",
+      "last_hot_value": "8420281",
+      "first_seen_at": "2026-08-22T13:54:30",
+      "last_seen_at": "2026-08-22T15:08:05",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "当地回应“药水白菜”",
       "url": "https://www.douyin.com/search/%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E8%8D%AF%E6%B0%B4%E7%99%BD%E8%8F%9C%E2%80%9D?type=general",
       "last_hot_value": "9325891",
@@ -422,11 +472,11 @@
       "is_new": false
     },
     {
-      "title": "续完火花可以回到放假第一天吗",
-      "url": "https://www.douyin.com/search/%E7%BB%AD%E5%AE%8C%E7%81%AB%E8%8A%B1%E5%8F%AF%E4%BB%A5%E5%9B%9E%E5%88%B0%E6%94%BE%E5%81%87%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%90%97?type=general",
-      "last_hot_value": "8368527",
-      "first_seen_at": "2026-08-22T13:54:30",
-      "last_seen_at": "2026-08-22T13:54:30",
+      "title": "NIP战胜IG",
+      "url": "https://www.douyin.com/search/NIP%E6%88%98%E8%83%9CIG?type=general",
+      "last_hot_value": "8362246",
+      "first_seen_at": "2026-08-22T15:08:05",
+      "last_seen_at": "2026-08-22T15:08:05",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
@@ -482,11 +532,11 @@
       "is_new": false
     },
     {
-      "title": "抖音作者沉浸体验未来战场",
-      "url": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E4%BD%9C%E8%80%85%E6%B2%89%E6%B5%B8%E4%BD%93%E9%AA%8C%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA?type=general",
-      "last_hot_value": "8294855",
-      "first_seen_at": "2026-08-22T13:54:30",
-      "last_seen_at": "2026-08-22T13:54:30",
+      "title": "U18半决赛中国男篮战胜新西兰",
+      "url": "https://www.douyin.com/search/U18%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%96%B0%E8%A5%BF%E5%85%B0?type=general",
+      "last_hot_value": "8229235",
+      "first_seen_at": "2026-08-22T15:08:05",
+      "last_seen_at": "2026-08-22T15:08:05",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -570,6 +620,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "伦纳德100:35击败白晶",
+      "url": "https://www.douyin.com/search/%E4%BC%A6%E7%BA%B3%E5%BE%B7100%3A35%E5%87%BB%E8%B4%A5%E7%99%BD%E6%99%B6?type=general",
+      "last_hot_value": "8190532",
+      "first_seen_at": "2026-08-22T15:08:05",
+      "last_seen_at": "2026-08-22T15:08:05",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "警方通报女子在KTV厕所遭殴打",
