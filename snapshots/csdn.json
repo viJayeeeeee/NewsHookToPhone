@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-22T09:29:31",
+  "update_time": "2026-08-22T10:36:07",
   "items": [
     {
       "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163893901",
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-20T03:43:54",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,28 +16,28 @@
       "url": "https://blog.csdn.net/beautifulmemory/article/details/163891965",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-21T18:14:33",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "多个内网服务怎么统一入口？部署 Nginx Proxy Manager 配置反向代理与 SSL",
-      "url": "https://blog.csdn.net/2602_94956987/article/details/163917380",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 15,
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 16,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "多个内网服务怎么统一入口？部署 Nginx Proxy Manager 配置反向代理与 SSL",
+      "url": "https://blog.csdn.net/2602_94956987/article/details/163917380",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-20T21:14:06",
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 14,
       "peak_rank": 1,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://blog.csdn.net/weixin_74809706/article/details/163614053",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-21T14:42:58",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 9,
       "peak_rank": 2,
       "is_new": false
     },
@@ -104,10 +104,10 @@
     {
       "title": "【Linux 网络篇】网络传输的通信端口：Socket 创建、文件描述符底层运行机制",
       "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163675970",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-21T10:02:02",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 9,
       "peak_rank": 4,
       "is_new": false
     },
@@ -152,22 +152,22 @@
       "is_new": false
     },
     {
-      "title": "不用守着直播间：在飞牛NAS部署Bililive-go，自动监控并保存直播录像",
-      "url": "https://blog.csdn.net/weixin_44976692/article/details/163914426",
-      "last_hot_value": "8386",
-      "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-22T09:29:31",
+      "title": "RAG 实战教程（三）：向量数据库检索算法，KNN、IVF、HNSW 与 Faiss 实战",
+      "url": "https://blog.csdn.net/2401_83830408/article/details/163916717",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-22T05:50:53",
+      "last_seen_at": "2026-08-22T10:36:07",
       "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "RAG 实战教程（三）：向量数据库检索算法，KNN、IVF、HNSW 与 Faiss 实战",
-      "url": "https://blog.csdn.net/2401_83830408/article/details/163916717",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-22T05:50:53",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 3,
+      "title": "不用守着直播间：在飞牛NAS部署Bililive-go，自动监控并保存直播录像",
+      "url": "https://blog.csdn.net/weixin_44976692/article/details/163914426",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-20T10:40:11",
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -182,6 +182,16 @@
       "is_new": false
     },
     {
+      "title": "从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/163972133",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-22T09:29:31",
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "把Blinko放进极空间:Docker 部署自托管笔记，并实现多设备远程访问",
       "url": "https://blog.csdn.net/2301_76341691/article/details/163914606",
       "last_hot_value": "9462",
@@ -192,22 +202,12 @@
       "is_new": false
     },
     {
-      "title": "从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/163972133",
-      "last_hot_value": "8072",
-      "first_seen_at": "2026-08-22T09:29:31",
-      "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
       "title": "别再靠文件夹翻文档了：Docker 部署 Papra，集中管理、搜索和分类资料",
       "url": "https://blog.csdn.net/weixin_42878111/article/details/163923456",
       "last_hot_value": "7156",
       "first_seen_at": "2026-08-22T08:13:38",
       "last_seen_at": "2026-08-22T09:29:31",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -250,6 +250,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "《智能驾驶拆解笔记：老周唠透车圈AI》第9篇（系列终篇）",
+      "url": "https://blog.csdn.net/weixin_62244995/article/details/162999409",
+      "last_hot_value": "7762",
+      "first_seen_at": "2026-08-22T10:36:07",
+      "last_seen_at": "2026-08-22T10:36:07",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "IP/MAC帧/ARP协议",
