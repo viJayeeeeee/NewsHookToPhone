@@ -1,33 +1,43 @@
 {
-  "update_time": "2026-08-23T16:54:02",
+  "update_time": "2026-08-23T22:47:46",
   "items": [
     {
-      "title": "【新手教程】如何在 VPS.Town 服务器上安装cloudreve，部署便捷的个人网盘",
-      "url": "https://www.nodeseek.com/post-311747-1",
-      "last_hot_value": "查看:2392 回复:39",
-      "first_seen_at": "2026-08-22T21:09:30",
-      "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 4,
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:233180 回复:2151",
+      "first_seen_at": "2026-08-22T08:13:48",
+      "last_seen_at": "2026-08-23T22:47:46",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:215696 回复:2881",
+      "last_hot_value": "查看:216084 回复:2888",
       "first_seen_at": "2026-08-22T05:51:03",
+      "last_seen_at": "2026-08-23T22:47:46",
+      "consecutive_count": 10,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【新手教程】如何在 VPS.Town 服务器上安装cloudreve，部署便捷的个人网盘",
+      "url": "https://www.nodeseek.com/post-311747-1",
+      "last_hot_value": "查看:2392 回复:39",
+      "first_seen_at": "2026-08-22T21:09:30",
       "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "【开源】Inkstone —— 部署在 Cloudflare workers 上的全能 Markdown 笔记（更新0.4.0）",
       "url": "https://www.nodeseek.com/post-849481-1",
-      "last_hot_value": "查看:5306 回复:104",
+      "last_hot_value": "查看:5396 回复:106",
       "first_seen_at": "2026-08-22T21:09:30",
-      "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-23T22:47:46",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,22 +52,12 @@
       "is_new": false
     },
     {
-      "title": "常见VPS测试方法",
-      "url": "https://www.nodeseek.com/post-726469-1",
-      "last_hot_value": "查看:5076 回复:110",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
       "url": "https://www.nodeseek.com/post-286885-1",
       "last_hot_value": "查看:245069 回复:508",
       "first_seen_at": "2026-08-23T11:02:00",
       "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -67,49 +67,19 @@
       "last_hot_value": "查看:24761 回复:245",
       "first_seen_at": "2026-08-21T22:52:11",
       "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 10,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "【教程】搭建自己的邮局用于收发邮件📧，老太太看了都直呼ez",
-      "url": "https://www.nodeseek.com/post-140032-1",
-      "last_hot_value": "查看:11236 回复:129",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
-      "url": "https://www.nodeseek.com/post-878721-1",
-      "last_hot_value": "查看:2099 回复:64",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-22T16:23:52",
-      "consecutive_count": 0,
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:77459 回复:610",
+      "first_seen_at": "2026-08-23T22:47:46",
+      "last_seen_at": "2026-08-23T22:47:46",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "PT刷流指南",
-      "url": "https://www.nodeseek.com/post-224784-1",
-      "last_hot_value": "查看:35967 回复:198",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:232711 回复:2143",
-      "first_seen_at": "2026-08-22T08:13:48",
-      "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 8,
-      "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
@@ -122,22 +92,12 @@
       "is_new": false
     },
     {
-      "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
-      "url": "https://www.nodeseek.com/post-824182-1",
-      "last_hot_value": "查看:1180 回复:22",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:817102 回复:1185",
       "first_seen_at": "2026-08-22T21:09:30",
       "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -152,24 +112,24 @@
       "is_new": false
     },
     {
-      "title": "Monolith — 一套跑在 Cloudflare 免费套餐上的高质感博客系统",
-      "url": "https://www.nodeseek.com/post-684012-1",
-      "last_hot_value": "查看:8812 回复:115",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-22T16:23:52",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "从零开始的VPS科普(1)：认识你的第一台服务器",
+      "url": "https://www.nodeseek.com/post-656474-1",
+      "last_hot_value": "查看:6907 回复:162",
+      "first_seen_at": "2026-08-23T22:47:46",
+      "last_seen_at": "2026-08-23T22:47:46",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
-      "title": "【开源】ForwardX：一个好看又能打的多主机端口/隧道转发管理面板",
-      "url": "https://www.nodeseek.com/post-792082-1",
-      "last_hot_value": "查看:5055 回复:88",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-22T16:23:52",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "【教程】分享一下大部分VPS以及甲骨文ARM/AMD、AWS、谷歌云GCP通用DD方法！",
+      "url": "https://www.nodeseek.com/post-86852-1",
+      "last_hot_value": "查看:10845 回复:87",
+      "first_seen_at": "2026-08-23T22:47:46",
+      "last_seen_at": "2026-08-23T22:47:46",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
@@ -177,8 +137,18 @@
       "last_hot_value": "查看:257788 回复:505",
       "first_seen_at": "2026-08-22T21:09:30",
       "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
+      "url": "https://www.nodeseek.com/post-809285-1",
+      "last_hot_value": "查看:4013 回复:78",
+      "first_seen_at": "2026-08-21T22:52:11",
+      "last_seen_at": "2026-08-23T22:47:46",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -187,9 +157,19 @@
       "last_hot_value": "查看:6564 回复:98",
       "first_seen_at": "2026-08-22T21:09:30",
       "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:94212 回复:782",
+      "first_seen_at": "2026-08-23T22:47:46",
+      "last_seen_at": "2026-08-23T22:47:46",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "nodewarden 1.0.0 正式版已经发布，大家可以当做主力使用了。",
@@ -197,26 +177,6 @@
       "last_hot_value": "查看:14796 回复:186",
       "first_seen_at": "2026-08-22T21:09:30",
       "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 4,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
-      "url": "https://www.nodeseek.com/post-809285-1",
-      "last_hot_value": "查看:3843 回复:73",
-      "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-22T16:23:52",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "PayIncus：一个面向真实运营的开源 Incus VPS 销售与管理面板",
-      "url": "https://www.nodeseek.com/post-794525-1",
-      "last_hot_value": "查看:1696 回复:19",
-      "first_seen_at": "2026-08-20T21:14:16",
-      "last_seen_at": "2026-08-21T19:22:56",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

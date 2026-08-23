@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-23T16:53:51",
+  "update_time": "2026-08-23T22:47:37",
   "items": [
     {
       "title": "【Flask SSE 实时大屏】从数据库新增记录到 ECharts 更新的完整演示链路",
       "url": "https://blog.csdn.net/2402_87731470/article/details/163596547",
-      "last_hot_value": "2.1w",
+      "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-22T21:09:20",
-      "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-23T22:47:37",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,16 +16,6 @@
       "url": "https://blog.csdn.net/2401_83830408/article/details/163916717",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-22T05:50:53",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "多个内网服务怎么统一入口？部署 Nginx Proxy Manager 配置反向代理与 SSL",
-      "url": "https://blog.csdn.net/2602_94956987/article/details/163917380",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-20T21:14:06",
       "last_seen_at": "2026-08-23T07:38:21",
       "consecutive_count": 0,
       "peak_rank": 1,
@@ -52,22 +42,22 @@
       "is_new": false
     },
     {
+      "title": "从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/163972133",
+      "last_hot_value": "6415",
+      "first_seen_at": "2026-08-22T09:29:31",
+      "last_seen_at": "2026-08-23T22:47:37",
+      "consecutive_count": 8,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "AI Agent 最大的安全风险：拿着权限做错事",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/163614095",
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-23T16:53:51",
-      "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/163972133",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-22T09:29:31",
-      "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-23T22:47:37",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -112,24 +102,24 @@
       "is_new": false
     },
     {
-      "title": "把蓝耘模型装进OpenCode:实测开发一个GitHub Issue分诊助手",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163664584",
-      "last_hot_value": "9345",
-      "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-21T06:34:59",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "【AI大模型接入SDK】项目的数据结构设计",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/163996021",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-23T16:53:51",
+      "last_seen_at": "2026-08-23T22:47:37",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "海光K100_AI单卡ComfyUI+MiniMax-H3环境调优实战：视频生成速度大幅提升",
       "url": "https://blog.csdn.net/pla88888888/article/details/163998150",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-23T16:53:51",
-      "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T22:47:37",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "飞算JavaAI能读懂复杂业务逻辑吗？ReleaseGuard发布审批实测",
@@ -152,11 +142,11 @@
       "is_new": false
     },
     {
-      "title": "【AI大模型接入SDK】项目的数据结构设计",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/163996021",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-23T16:53:51",
-      "last_seen_at": "2026-08-23T16:53:51",
+      "title": "【Linux】 进程（4）七大进程状态深度解析",
+      "url": "https://blog.csdn.net/2602_95649725/article/details/163998334",
+      "last_hot_value": "8960",
+      "first_seen_at": "2026-08-23T22:47:37",
+      "last_seen_at": "2026-08-23T22:47:37",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -167,7 +157,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-23T07:38:21",
       "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -182,21 +172,31 @@
       "is_new": false
     },
     {
-      "title": "Horse3D 游戏引擎研发笔记（七）：Clydesdale——从流式日志到多输出订阅",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/163973512",
-      "last_hot_value": "8492",
-      "first_seen_at": "2026-08-23T07:38:21",
-      "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 3,
+      "title": "深入理解 TCP 协议（二）：TCP 可靠传输与高效通信机制详解",
+      "url": "https://blog.csdn.net/Felix_kiss_L/article/details/163950356",
+      "last_hot_value": "7667",
+      "first_seen_at": "2026-08-23T16:53:51",
+      "last_seen_at": "2026-08-23T22:47:37",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "深入理解 TCP 协议（二）：TCP 可靠传输与高效通信机制详解",
-      "url": "https://blog.csdn.net/Felix_kiss_L/article/details/163950356",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-23T16:53:51",
-      "last_seen_at": "2026-08-23T16:53:51",
+      "title": "Horse3D 游戏引擎研发笔记（七）：Clydesdale——从流式日志到多输出订阅",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/163973512",
+      "last_hot_value": "6234",
+      "first_seen_at": "2026-08-23T07:38:21",
+      "last_seen_at": "2026-08-23T22:47:37",
+      "consecutive_count": 4,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "【操作系统 | 进程调度：CPU 到底该交给谁？】",
+      "url": "https://blog.csdn.net/DdigitalNomad/article/details/164004104",
+      "last_hot_value": "6527",
+      "first_seen_at": "2026-08-23T22:47:37",
+      "last_seen_at": "2026-08-23T22:47:37",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -212,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS 应用接续功能适配详解",
+      "url": "https://blog.csdn.net/QWERWTWE/article/details/163997798",
+      "last_hot_value": "6435",
+      "first_seen_at": "2026-08-23T22:47:37",
+      "last_seen_at": "2026-08-23T22:47:37",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "Harness开源: DeepSeek向左, OpenAI向右",
       "url": "https://blog.csdn.net/fitbit/article/details/163944246",
       "last_hot_value": "6820",
       "first_seen_at": "2026-08-22T16:23:36",
       "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -242,16 +252,6 @@
       "is_new": false
     },
     {
-      "title": "把Blinko放进极空间:Docker 部署自托管笔记，并实现多设备远程访问",
-      "url": "https://blog.csdn.net/2301_76341691/article/details/163914606",
-      "last_hot_value": "9462",
-      "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-21T06:34:59",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "分布式GPU智能算法深度研究2026年版（中）",
       "url": "https://blog.csdn.net/kkiron/article/details/163874167",
       "last_hot_value": "1.0w",
@@ -262,24 +262,14 @@
       "is_new": false
     },
     {
-      "title": "MySQL迁移KaiwuDB性能对比：TPC-C测试实录",
-      "url": "https://blog.csdn.net/u014727709/article/details/163832165",
-      "last_hot_value": "9167",
-      "first_seen_at": "2026-08-20T21:14:06",
-      "last_seen_at": "2026-08-20T23:34:22",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "我把 800 行报错日志压成一张排障卡：用蓝耘元生代做 FastAPI 日志根因分析",
       "url": "https://blog.csdn.net/weixin_42878111/article/details/164000462",
       "last_hot_value": "6601",
       "first_seen_at": "2026-08-23T16:53:51",
       "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "IP/MAC帧/ARP协议",

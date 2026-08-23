@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-08-23T16:53:47",
+  "update_time": "2026-08-23T22:47:33",
   "items": [
     {
       "title": "大家现在日常/办公中，语音输入占比大概有多少？",
       "url": "https://www.v2ex.com/t/1236583",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T16:53:47",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
@@ -76,8 +76,8 @@
       "url": "https://www.v2ex.com/t/1236529",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T07:38:17",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -126,8 +126,8 @@
       "url": "https://www.v2ex.com/t/1236534",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T11:01:34",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -196,18 +196,18 @@
       "url": "https://www.v2ex.com/t/1236528",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T16:53:47",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你们 vibe coding 的时候更喜欢用 TUI 还是 GUI ?",
       "url": "https://www.v2ex.com/t/1236538",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T07:38:17",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -316,8 +316,8 @@
       "url": "https://www.v2ex.com/t/1236551",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T11:01:34",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -326,8 +326,8 @@
       "url": "https://www.v2ex.com/t/1236556",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T11:01:34",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -339,6 +339,16 @@
       "last_seen_at": "2026-08-21T06:34:55",
       "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？",
+      "url": "https://www.v2ex.com/t/1236570",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-23T16:53:47",
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 2,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -396,10 +406,10 @@
       "url": "https://www.v2ex.com/t/1236533",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T16:53:47",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "35+男士保养有哪些？？",
@@ -442,22 +452,12 @@
       "is_new": false
     },
     {
-      "title": "每个用过 DeepSeek Harness 的人都会觉得 DSH 很先进吧？",
-      "url": "https://www.v2ex.com/t/1236570",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-23T16:53:47",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
       "title": "Codex 又要重置了",
       "url": "https://www.v2ex.com/t/1236559",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T11:01:34",
-      "last_seen_at": "2026-08-23T16:53:47",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-23T22:47:33",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
