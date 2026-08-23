@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-23T07:38:21",
+  "update_time": "2026-08-23T11:01:41",
   "items": [
     {
       "title": "【Flask SSE 实时大屏】从数据库新增记录到 ECharts 更新的完整演示链路",
       "url": "https://blog.csdn.net/2402_87731470/article/details/163596547",
-      "last_hot_value": "2.3w",
+      "last_hot_value": "2.5w",
       "first_seen_at": "2026-08-22T21:09:20",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +17,7 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-22T05:50:53",
       "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,16 +27,6 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-20T21:14:06",
       "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 17,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "PyTorch强化学习实战——用预训练语言模型和ChatGPT玩转文本游戏",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159917738",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-22T21:09:20",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -62,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "人工智能究竟是如何运行的？从高维空间拟合、反向传播到大模型推理全链路拆解",
+      "url": "https://blog.csdn.net/qq_46987323/article/details/163926173",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-08-22T21:09:20",
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 3,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战",
       "url": "https://blog.csdn.net/Dovis5884/article/details/163972133",
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-08-22T09:29:31",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -112,33 +112,33 @@
       "is_new": false
     },
     {
-      "title": "Docker - 核心概念速通，镜像、容器、仓库一次弄懂",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157611426",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-21T11:18:07",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "飞算JavaAI能读懂复杂业务逻辑吗？ReleaseGuard发布审批实测",
       "url": "https://blog.csdn.net/2501_91062530/article/details/163920502",
-      "last_hot_value": "6738",
+      "last_hot_value": "8262",
       "first_seen_at": "2026-08-21T06:34:59",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "【Linux 网络篇】网络传输的通信端口：Socket 创建、文件描述符底层运行机制",
       "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163675970",
-      "last_hot_value": "1.4w",
+      "last_hot_value": "1.5w",
       "first_seen_at": "2026-08-21T10:02:02",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 13,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "备份完不算完，先还原到临时库验一遍",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163981244",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-23T07:38:21",
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -152,42 +152,42 @@
       "is_new": false
     },
     {
-      "title": "备份完不算完，先还原到临时库验一遍",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/163981244",
-      "last_hot_value": "1.1w",
+      "title": "Horse3D 游戏引擎研发笔记（七）：Clydesdale——从流式日志到多输出订阅",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/163973512",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-23T07:38:21",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 2,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "k8s集群部署的方法原理",
+      "url": "https://blog.csdn.net/2301_81073010/article/details/163973811",
+      "last_hot_value": "9384",
+      "first_seen_at": "2026-08-23T11:01:41",
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
-      "title": "不用守着直播间：在飞牛NAS部署Bililive-go，自动监控并保存直播录像",
-      "url": "https://blog.csdn.net/weixin_44976692/article/details/163914426",
-      "last_hot_value": "9094",
-      "first_seen_at": "2026-08-20T10:40:11",
-      "last_seen_at": "2026-08-22T21:09:20",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "人工智能究竟是如何运行的？从高维空间拟合、反向传播到大模型推理全链路拆解",
-      "url": "https://blog.csdn.net/qq_46987323/article/details/163926173",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-22T21:09:20",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 2,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "总结k8s集群部署的方法原理",
+      "url": "https://blog.csdn.net/2402_88968251/article/details/163973767",
+      "last_hot_value": "9063",
+      "first_seen_at": "2026-08-23T11:01:41",
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "Harness开源: DeepSeek向左, OpenAI向右",
       "url": "https://blog.csdn.net/fitbit/article/details/163944246",
-      "last_hot_value": "9010",
+      "last_hot_value": "8285",
       "first_seen_at": "2026-08-22T16:23:36",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T11:01:41",
+      "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
     },
@@ -210,16 +210,6 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
-    },
-    {
-      "title": "Horse3D 游戏引擎研发笔记（七）：Clydesdale——从流式日志到多输出订阅",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/163973512",
-      "last_hot_value": "8477",
-      "first_seen_at": "2026-08-23T07:38:21",
-      "last_seen_at": "2026-08-23T07:38:21",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
     },
     {
       "title": "分布式GPU智能算法深度研究2026年版（中）",

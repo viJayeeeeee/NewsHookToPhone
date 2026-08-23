@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-23T07:38:23",
+  "update_time": "2026-08-23T11:01:42",
   "items": [
     {
       "title": "DeepSeek 多模态正式发布，终于开眼了：能力接近 Opus-4.8，单图最高按 384 token 计费",
       "url": "https://www.51cto.com/article/853701.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T07:38:23",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 翻页时钟：从 0 到 1 实现一个丝滑的 3D 翻转动画#智绘鸿蒙·大有“视”界#",
       "url": "https://ost.51cto.com/posts/55473",
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T05:50:55",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 8,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.51cto.com/article/853684.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 14,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://www.51cto.com/article/853656.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T10:02:04",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 14,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 15,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,32 +52,22 @@
       "is_new": false
     },
     {
-      "title": "开源利器！让DeepSeek V4 Flash超越Fable 5，还省11倍",
-      "url": "https://www.51cto.com/article/853560.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "重磅，DeepSeek多模态模型上线了！",
       "url": "https://www.51cto.com/article/853699.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T07:38:23",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
       "url": "https://www.51cto.com/article/853681.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 14,
       "peak_rank": 2,
       "is_new": false
     },
@@ -102,22 +92,12 @@
       "is_new": false
     },
     {
-      "title": "世界模型驶入F1赛道：探索极限工况下具身智能体的认知物理边界",
-      "url": "https://www.51cto.com/article/853559.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
       "url": "https://www.51cto.com/article/853680.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 14,
       "peak_rank": 3,
       "is_new": false
     },
@@ -132,22 +112,12 @@
       "is_new": false
     },
     {
-      "title": "刚刚，DeepSeek Harness更新！增强多模态",
-      "url": "https://www.51cto.com/article/853558.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "不藏了！Meta曝光Muse Spark 1.2核心具身能力",
       "url": "https://www.51cto.com/article/853679.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 14,
       "peak_rank": 4,
       "is_new": false
     },
@@ -162,22 +132,12 @@
       "is_new": false
     },
     {
-      "title": "刚刚，人类历史上第一次用AI治愈癌症",
-      "url": "https://www.51cto.com/article/853557.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "2026 Google 开发者大会探展：AI 不止商业，技术亦有温度",
       "url": "https://www.51cto.com/article/853673.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T11:18:08",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 14,
       "peak_rank": 5,
       "is_new": false
     },
@@ -187,16 +147,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T10:02:04",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "硅谷CEO: Grok Bot诞生，震撼程度堪比Claude Code时刻！",
-      "url": "https://www.51cto.com/article/853556.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
@@ -212,31 +162,11 @@
       "is_new": false
     },
     {
-      "title": "CoSnitch：当你的 Copilot 助手变成“告密者”",
-      "url": "https://www.51cto.com/article/853540.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "运维必看！可控可落地的 AI SRE Agent 信任体系与安全落地指南",
       "url": "https://www.51cto.com/article/853629.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T06:35:00",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "刚花600亿买下Cursor，马斯克又要对Devin下手",
-      "url": "https://www.51cto.com/article/853555.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -252,32 +182,12 @@
       "is_new": false
     },
     {
-      "title": "Claude Code神话破灭？大量用户正在取消订阅",
-      "url": "https://www.51cto.com/article/853554.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "AI 变声电话里的\"亲人\"声音可能是假的# 智绘鸿蒙·大有“视”界#",
       "url": "https://ost.51cto.com/posts/55445",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
-      "last_seen_at": "2026-08-23T07:38:23",
-      "consecutive_count": 15,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "一边修图一边挑照片：HarmonyOS 7.0 平行视界相册多窗工程化落地与 5 个踩坑解法 #智绘鸿蒙·大有\"视\"界#",
-      "url": "https://ost.51cto.com/posts/55397",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-23T11:01:42",
+      "consecutive_count": 16,
       "peak_rank": 9,
       "is_new": false
     },
@@ -287,16 +197,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T06:35:00",
       "last_seen_at": "2026-08-21T22:52:02",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "左右开弓的\"平行世界\"# 智绘鸿蒙·大有“视”界#",
-      "url": "https://ost.51cto.com/posts/55393",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-20T10:40:12",
-      "last_seen_at": "2026-08-20T23:34:23",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

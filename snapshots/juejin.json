@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-08-23T07:38:19",
+  "update_time": "2026-08-23T11:01:36",
   "items": [
+    {
+      "title": "备份完不算完，先还原到临时库验一遍",
+      "url": "https://juejin.cn/post/7676421042796412968",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
       "url": "https://juejin.cn/post/7675272903249625107",
       "last_hot_value": "热度:2214",
       "first_seen_at": "2026-08-22T21:09:18",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "从零封装一个合同审查助手：用 WorkBuddy + 腾讯云 OCR 三件套跑通 5 种格式合同的自动审阅",
+      "url": "https://juejin.cn/post/7676162994423119918",
+      "last_hot_value": "热度:369",
+      "first_seen_at": "2026-08-22T16:23:35",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 4,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,29 +37,19 @@
       "last_hot_value": "热度:855",
       "first_seen_at": "2026-08-21T18:14:32",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 10,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "我一路问 WorkBuddy，用腾讯云 OCR Skills 在几分钟内完成了投标审查",
-      "url": "https://juejin.cn/post/7675346841392070707",
-      "last_hot_value": "热度:1494",
-      "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-22T21:09:18",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "DeepSeek Harness 值得安装的 15 款插件",
-      "url": "https://juejin.cn/post/7675273747710001206",
-      "last_hot_value": "热度:1341",
-      "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-21T22:52:00",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产",
+      "url": "https://juejin.cn/post/7675633667490267179",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT 5.6 Luna，OpenCode 太香了！",
@@ -47,7 +57,7 @@
       "last_hot_value": "热度:639",
       "first_seen_at": "2026-08-21T10:02:01",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 14,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "超好用 R8 Configuration Analyzer， 优化你的 App 大小和内存",
+      "url": "https://juejin.cn/post/7676092674902868010",
+      "last_hot_value": "热度:279",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "三星安卓系统BUG排查记录：云闪付、铁路12306、个人所得税、中国移动等App，长期闪退的根本原因分析",
       "url": "https://juejin.cn/post/7675626442046832694",
       "last_hot_value": "热度:585",
       "first_seen_at": "2026-08-21T10:02:01",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -92,24 +112,34 @@
       "is_new": false
     },
     {
+      "title": "虚拟滚动真的比普通滚动性能更好吗？",
+      "url": "https://juejin.cn/post/7676091857219272742",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "DeepSeek Harness 插件：HTML 实时可视化编辑",
       "url": "https://juejin.cn/post/7675247670898032692",
       "last_hot_value": "热度:567",
       "first_seen_at": "2026-08-21T10:02:01",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "GitHub Actions 玩法大赏：一台远程主机的七种活法",
-      "url": "https://juejin.cn/post/7675200141355253823",
-      "last_hot_value": "热度:729",
-      "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-22T10:36:06",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "这个本地模型，让我 token 自由了",
+      "url": "https://juejin.cn/post/7676709710489419786",
+      "last_hot_value": "热度:225",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "DeepSeek Harness 这波，搞得全世界都在安装 Node.js",
@@ -117,19 +147,19 @@
       "last_hot_value": "热度:558",
       "first_seen_at": "2026-08-21T15:56:51",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "我让 AI Agent 先别改代码，它怎么还是动手了？",
-      "url": "https://juejin.cn/post/7675005880885461038",
-      "last_hot_value": "热度:702",
-      "first_seen_at": "2026-08-20T10:40:08",
-      "last_seen_at": "2026-08-22T10:36:06",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "为什么越来越多人用 kkFileView？",
+      "url": "https://juejin.cn/post/7676641074035605550",
+      "last_hot_value": "热度:189",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "从失业到出书：我一个人靠 AI 搭起了一家小公司",
@@ -137,8 +167,18 @@
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-08-23T07:38:19",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具",
+      "url": "https://juejin.cn/post/7676098169944047643",
+      "last_hot_value": "热度:171",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -147,19 +187,29 @@
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-08-22T16:23:35",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "从零封装一个合同审查助手：用 WorkBuddy + 腾讯云 OCR 三件套跑通 5 种格式合同的自动审阅",
-      "url": "https://juejin.cn/post/7676162994423119918",
-      "last_hot_value": "热度:360",
-      "first_seen_at": "2026-08-22T16:23:35",
-      "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 3,
+      "title": "Go 1.27 升了一波，泛型方法和 JSON v2 真香但有个坑",
+      "url": "https://juejin.cn/post/7675914752422805514",
+      "last_hot_value": "热度:171",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "给 AI 时代找工作的同学一些实用建议",
+      "url": "https://juejin.cn/post/7676277362519113763",
+      "last_hot_value": "热度:153",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-23T11:01:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "DeepSeek Harness 命令大全",
@@ -167,9 +217,9 @@
       "last_hot_value": "热度:360",
       "first_seen_at": "2026-08-23T07:38:19",
       "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
