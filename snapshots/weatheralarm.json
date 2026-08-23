@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-23T14:13:29",
+  "update_time": "2026-08-23T15:27:55",
   "items": [
+    {
+      "title": "河北省廊坊市三河市气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/13108241600000_20260823225256.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "江西省九江市瑞昌市气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/36048141600000_20260823214235.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "湖南省湘潭市湘乡市气象台发布雷雨大风黄色预警信号",
@@ -212,14 +222,24 @@
       "is_new": false
     },
     {
+      "title": "湖北省十堰市气象台发布强对流黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/42030041600000_20260823225143.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "广东省梅州市梅县区气象台发布暴雨黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/44140341600000_20260823214233.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "云南省昆明市官渡区气象台发布雷电黄色预警信号",
@@ -412,14 +432,24 @@
       "is_new": false
     },
     {
+      "title": "浙江省温州市瑞安市气象台发布暴雨黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/33038141600000_20260823225026.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "江西省赣州市龙南市气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/36078341600000_20260823214033.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "江西省抚州市广昌县气象台发布雷电黄色预警信号",
@@ -612,14 +642,24 @@
       "is_new": false
     },
     {
+      "title": "广西壮族自治区河池市南丹县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/45122141600000_20260823224945.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "山西省忻州市偏关县气象台发布地质灾害蓝色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/14093241600000_20260823213838.html",
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "江西省上饶市鄱阳县气象台发布大风蓝色预警信号",
@@ -822,14 +862,24 @@
       "is_new": false
     },
     {
+      "title": "河北省廊坊市固安县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/13102241600000_20260823224935.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "河北省唐山市气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/13020041600000_20260823213529.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "云南省楚雄彝族自治州禄丰市气象台发布雷电黄色预警信号",
@@ -1022,14 +1072,24 @@
       "is_new": false
     },
     {
+      "title": "广西壮族自治区河池市金城江区气象台发布雷雨大风黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/45120241600000_20260823224918.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "四川省宜宾市长宁县气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/51152441600000_20260823213523.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "上海市闵行区气象台发布大风蓝色预警信号",
@@ -1212,14 +1272,24 @@
       "is_new": false
     },
     {
+      "title": "河北省保定市高碑店市气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/13068441600000_20260823224913.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "广东省梅州市大埔县气象台发布暴雨红色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/44142241600000_20260823213446.html",
       "last_hot_value": "红色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "江西省南昌市新建区气象台发布大风黄色预警信号",
@@ -1422,14 +1492,24 @@
       "is_new": false
     },
     {
+      "title": "河北省廊坊市霸州市气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/13108141600000_20260823224911.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "云南省红河哈尼族彝族自治州绿春县气象台发布暴雨黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/53253141600000_20260823213420.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "河北省石家庄市高邑县气象台发布雷电黄色预警信号",
@@ -1622,14 +1702,24 @@
       "is_new": false
     },
     {
+      "title": "浙江省丽水市庆元县气象台发布大风黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/33112641600000_20260823224749.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "江西省吉安市永丰县气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/36082541600000_20260823213231.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "广西壮族自治区桂林市全州县气象台发布雷电黄色预警信号",
@@ -1812,14 +1902,24 @@
       "is_new": false
     },
     {
+      "title": "福建省漳州市南靖县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/35062741600000_20260823224700.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-08-23T15:27:55",
+      "last_seen_at": "2026-08-23T15:27:55",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "广西壮族自治区南宁市气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/45010041600000_20260823213112.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-08-23T14:13:29",
       "last_seen_at": "2026-08-23T14:13:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "河北省唐山市遵化市气象台发布暴雨蓝色预警信号",
