@@ -1,33 +1,23 @@
 {
-  "update_time": "2026-08-24T02:53:57",
+  "update_time": "2026-08-24T12:13:57",
   "items": [
     {
-      "title": "【英雄联盟】出装指南丨英雄联盟经典模式：快速上手",
-      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=12087659508403921355",
+      "title": "【云顶之弈】自然之力｜赛季宣传片",
+      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=740730626329254977",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-21T03:45:52",
-      "last_seen_at": "2026-08-24T02:53:57",
-      "consecutive_count": 16,
+      "first_seen_at": "2026-08-24T12:13:57",
+      "last_seen_at": "2026-08-24T12:13:57",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "LPL职业选手致Caps：祝贺你成就伟大",
-      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=11659061827635574228",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T03:45:52",
-      "last_seen_at": "2026-08-24T02:53:57",
-      "consecutive_count": 16,
-      "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "ShowMaker致Caps：尊重比赛，尊重对手，送上诚挚的祝福",
       "url": "https://lol.qq.com/v/v2/detail.shtml?docid=2390424315624630079",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T10:38:16",
-      "last_seen_at": "2026-08-24T02:53:57",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-24T12:13:57",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -36,8 +26,8 @@
       "url": "https://lol.qq.com/v/v2/detail.shtml?docid=16824493955438381259",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T10:38:16",
-      "last_seen_at": "2026-08-24T02:53:57",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-24T12:13:57",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -46,8 +36,8 @@
       "url": "https://lol.qq.com/news/detail.shtml?docid=17896616915886300256",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T10:38:16",
-      "last_seen_at": "2026-08-24T02:53:57",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-24T12:13:57",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -56,8 +46,8 @@
       "url": "https://lol.qq.com/news/detail.shtml?docid=2921014690423416012",
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T04:16:34",
-      "last_seen_at": "2026-08-24T02:53:57",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-24T12:13:57",
+      "consecutive_count": 13,
       "peak_rank": 6,
       "is_new": false
     },
@@ -66,10 +56,30 @@
       "url": "https://lol.qq.com/news/detail.shtml?docid=14738696605352524181",
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T20:05:47",
-      "last_seen_at": "2026-08-24T02:53:57",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-24T12:13:57",
+      "consecutive_count": 14,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "来自殿堂传奇的问候，祝贺Caps加入英雄联盟名人堂",
+      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=14684911092448134465",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T12:13:57",
+      "last_seen_at": "2026-08-24T12:13:57",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "名人堂入选宣传片预告：CAPS",
+      "url": "https://lol.qq.com/v/v2/detail.shtml?docid=6434622102481707849",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T12:13:57",
+      "last_seen_at": "2026-08-24T12:13:57",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
