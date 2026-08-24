@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-08-24T10:15:20",
+  "update_time": "2026-08-24T11:20:39",
   "items": [
+    {
+      "title": "陈武同志因病逝世",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%88%E6%AD%A6%E5%90%8C%E5%BF%97%E5%9B%A0%E7%97%85%E9%80%9D%E4%B8%96",
+      "last_hot_value": "1,241万",
+      "first_seen_at": "2026-08-24T11:20:39",
+      "last_seen_at": "2026-08-24T11:20:39",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "四台风共舞",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%8F%B0%E9%A3%8E%E5%85%B1%E8%88%9E",
+      "last_hot_value": "1,002.3万",
+      "first_seen_at": "2026-08-24T06:41:38",
+      "last_seen_at": "2026-08-24T11:20:39",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "台风简拉维登陆泉州",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8F%B0%E9%A3%8E%E7%AE%80%E6%8B%89%E7%BB%B4%E7%99%BB%E9%99%86%E6%B3%89%E5%B7%9E",
       "last_hot_value": "1,335万",
       "first_seen_at": "2026-08-24T06:41:38",
       "last_seen_at": "2026-08-24T10:15:20",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "四台风共舞",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%8F%B0%E9%A3%8E%E5%85%B1%E8%88%9E",
-      "last_hot_value": "1,335万",
-      "first_seen_at": "2026-08-24T06:41:38",
-      "last_seen_at": "2026-08-24T10:15:20",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -132,13 +142,13 @@
       "is_new": false
     },
     {
-      "title": "临沂一平房院落突发爆炸",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%B4%E6%B2%82%E4%B8%80%E5%B9%B3%E6%88%BF%E9%99%A2%E8%90%BD%E7%AA%81%E5%8F%91%E7%88%86%E7%82%B8",
-      "last_hot_value": "1,323.1万",
-      "first_seen_at": "2026-08-21T11:02:20",
-      "last_seen_at": "2026-08-21T11:02:20",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "登陆少年重回那一刻",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E9%87%8D%E5%9B%9E%E9%82%A3%E4%B8%80%E5%88%BB",
+      "last_hot_value": "1,214.4万",
+      "first_seen_at": "2026-08-24T10:15:20",
+      "last_seen_at": "2026-08-24T11:20:39",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -274,12 +284,22 @@
     {
       "title": "特种机器人实力出圈",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%89%B9%E7%A7%8D%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E5%8A%9B%E5%87%BA%E5%9C%88",
-      "last_hot_value": "1,334.8万",
+      "last_hot_value": "1,191.7万",
       "first_seen_at": "2026-08-24T10:15:20",
-      "last_seen_at": "2026-08-24T10:15:20",
+      "last_seen_at": "2026-08-24T11:20:39",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "机器人离走进生产生活又近了多少",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%BB%E8%B5%B0%E8%BF%9B%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%8F%88%E8%BF%91%E4%BA%86%E5%A4%9A%E5%B0%91",
+      "last_hot_value": "997.1万",
+      "first_seen_at": "2026-08-23T13:18:30",
+      "last_seen_at": "2026-08-24T11:20:39",
       "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "超大市场创造“中国机遇”",
@@ -287,16 +307,6 @@
       "last_hot_value": "1,302.1万",
       "first_seen_at": "2026-08-24T06:41:38",
       "last_seen_at": "2026-08-24T06:41:38",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "机器人离走进生产生活又近了多少",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%BB%E8%B5%B0%E8%BF%9B%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%8F%88%E8%BF%91%E4%BA%86%E5%A4%9A%E5%B0%91",
-      "last_hot_value": "1,102.4万",
-      "first_seen_at": "2026-08-23T13:18:30",
-      "last_seen_at": "2026-08-23T23:46:48",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -334,10 +344,10 @@
     {
       "title": "第一批新生报到",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0",
-      "last_hot_value": "1,334.7万",
+      "last_hot_value": "1,152.8万",
       "first_seen_at": "2026-08-24T06:41:38",
-      "last_seen_at": "2026-08-24T10:15:20",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T11:20:39",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -422,16 +432,6 @@
       "is_new": false
     },
     {
-      "title": "中国U18男篮亚洲杯挺进半决赛",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%B8%AD%E5%9B%BDU18%E7%94%B7%E7%AF%AE%E4%BA%9A%E6%B4%B2%E6%9D%AF%E6%8C%BA%E8%BF%9B%E5%8D%8A%E5%86%B3%E8%B5%9B",
-      "last_hot_value": "1,300.4万",
-      "first_seen_at": "2026-08-21T11:02:20",
-      "last_seen_at": "2026-08-21T23:53:42",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "塞尔维亚90比87险胜法国",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A90%E6%AF%9487%E9%99%A9%E8%83%9C%E6%B3%95%E5%9B%BD",
       "last_hot_value": "1,274.1万",
@@ -452,12 +452,22 @@
       "is_new": false
     },
     {
+      "title": "外省团伙盗挖陕西文物被抓",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E7%9C%81%E5%9B%A2%E4%BC%99%E7%9B%97%E6%8C%96%E9%99%95%E8%A5%BF%E6%96%87%E7%89%A9%E8%A2%AB%E6%8A%93",
+      "last_hot_value": "1,148.8万",
+      "first_seen_at": "2026-08-24T06:41:38",
+      "last_seen_at": "2026-08-24T11:20:39",
+      "consecutive_count": 3,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "四六级出分",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%87%BA%E5%88%86",
       "last_hot_value": "1,334.6万",
       "first_seen_at": "2026-08-24T06:41:38",
       "last_seen_at": "2026-08-24T10:15:20",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -584,12 +594,12 @@
     {
       "title": "AGAL获得俱乐部锦标赛冠军",
       "url": "https://www.kuaishou.com/search/video?searchKey=AGAL%E8%8E%B7%E5%BE%97%E4%BF%B1%E4%B9%90%E9%83%A8%E9%94%A6%E6%A0%87%E8%B5%9B%E5%86%A0%E5%86%9B",
-      "last_hot_value": "1,334.5万",
+      "last_hot_value": "1,132.3万",
       "first_seen_at": "2026-08-24T10:15:20",
-      "last_seen_at": "2026-08-24T10:15:20",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T11:20:39",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "四川马边县遭极端强降雨",
@@ -682,21 +692,11 @@
       "is_new": false
     },
     {
-      "title": "国际金价重回4600美元",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E4600%E7%BE%8E%E5%85%83",
-      "last_hot_value": "1,239.9万",
-      "first_seen_at": "2026-08-21T11:02:20",
-      "last_seen_at": "2026-08-21T11:02:20",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "外省团伙盗挖陕西文物被抓",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E7%9C%81%E5%9B%A2%E4%BC%99%E7%9B%97%E6%8C%96%E9%99%95%E8%A5%BF%E6%96%87%E7%89%A9%E8%A2%AB%E6%8A%93",
-      "last_hot_value": "1,334.1万",
-      "first_seen_at": "2026-08-24T06:41:38",
-      "last_seen_at": "2026-08-24T10:15:20",
+      "title": "北大原副校长任羽中一审获刑8年",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E5%A4%A7%E5%8E%9F%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%918%E5%B9%B4",
+      "last_hot_value": "1,128.6万",
+      "first_seen_at": "2026-08-24T10:15:20",
+      "last_seen_at": "2026-08-24T11:20:39",
       "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
@@ -812,26 +812,6 @@
       "is_new": false
     },
     {
-      "title": "快手超级夏晚全阵容",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%BF%AB%E6%89%8B%E8%B6%85%E7%BA%A7%E5%A4%8F%E6%99%9A%E5%85%A8%E9%98%B5%E5%AE%B9",
-      "last_hot_value": "1,159万",
-      "first_seen_at": "2026-08-21T11:02:20",
-      "last_seen_at": "2026-08-21T13:29:21",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "北大原副校长任羽中一审获刑8年",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%8C%97%E5%A4%A7%E5%8E%9F%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%918%E5%B9%B4",
-      "last_hot_value": "1,169.2万",
-      "first_seen_at": "2026-08-24T10:15:20",
-      "last_seen_at": "2026-08-24T10:15:20",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
       "title": "李炮儿挑战连续打5份工",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E7%82%AE%E5%84%BF%E6%8C%91%E6%88%98%E8%BF%9E%E7%BB%AD%E6%89%935%E4%BB%BD%E5%B7%A5",
       "last_hot_value": "1,040.2万",
@@ -922,14 +902,14 @@
       "is_new": false
     },
     {
-      "title": "就这样细胞分裂",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%B1%E8%BF%99%E6%A0%B7%E7%BB%86%E8%83%9E%E5%88%86%E8%A3%82",
-      "last_hot_value": "1,155万",
-      "first_seen_at": "2026-08-21T11:02:20",
-      "last_seen_at": "2026-08-21T13:29:21",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "神总是孤独的倒着走路",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%A5%9E%E6%80%BB%E6%98%AF%E5%AD%A4%E7%8B%AC%E7%9A%84%E5%80%92%E7%9D%80%E8%B5%B0%E8%B7%AF",
+      "last_hot_value": "999.7万",
+      "first_seen_at": "2026-08-24T11:20:39",
+      "last_seen_at": "2026-08-24T11:20:39",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "敌敌畏消杀事件已成立联合调查组",
@@ -937,9 +917,9 @@
       "last_hot_value": "1,142.4万",
       "first_seen_at": "2026-08-24T10:15:20",
       "last_seen_at": "2026-08-24T10:15:20",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "刘浩存方发布声明",
@@ -1000,16 +980,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "登陆少年重回那一刻",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E9%87%8D%E5%9B%9E%E9%82%A3%E4%B8%80%E5%88%BB",
-      "last_hot_value": "1,101.4万",
-      "first_seen_at": "2026-08-24T10:15:20",
-      "last_seen_at": "2026-08-24T10:15:20",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "贵州的七月满是无声的思念",
