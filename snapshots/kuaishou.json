@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-24T17:13:13",
+  "update_time": "2026-08-24T22:00:05",
   "items": [
     {
       "title": "陈武同志因病逝世",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%99%88%E6%AD%A6%E5%90%8C%E5%BF%97%E5%9B%A0%E7%97%85%E9%80%9D%E4%B8%96",
-      "last_hot_value": "1,338.3万",
+      "last_hot_value": "1,337.5万",
       "first_seen_at": "2026-08-24T11:20:39",
-      "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +17,7 @@
       "last_hot_value": "1,135.2万",
       "first_seen_at": "2026-08-24T13:49:22",
       "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -122,12 +122,22 @@
       "is_new": false
     },
     {
+      "title": "四川地震局赴长宁应急处置",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%B1%80%E8%B5%B4%E9%95%BF%E5%AE%81%E5%BA%94%E6%80%A5%E5%A4%84%E7%BD%AE",
+      "last_hot_value": "1,337.1万",
+      "first_seen_at": "2026-08-24T22:00:05",
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "外省团伙盗挖陕西文物被抓",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%96%E7%9C%81%E5%9B%A2%E4%BC%99%E7%9B%97%E6%8C%96%E9%99%95%E8%A5%BF%E6%96%87%E7%89%A9%E8%A2%AB%E6%8A%93",
       "last_hot_value": "1,338.2万",
       "first_seen_at": "2026-08-24T06:41:38",
       "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -254,10 +264,10 @@
     {
       "title": "国产农机装备加快“新装”上阵",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E5%9B%BD%E4%BA%A7%E5%86%9C%E6%9C%BA%E8%A3%85%E5%A4%87%E5%8A%A0%E5%BF%AB%E2%80%9C%E6%96%B0%E8%A3%85%E2%80%9D%E4%B8%8A%E9%98%B5",
-      "last_hot_value": "1,319.8万",
+      "last_hot_value": "1,336.9万",
       "first_seen_at": "2026-08-24T13:49:22",
-      "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -267,7 +277,7 @@
       "last_hot_value": "1,090.6万",
       "first_seen_at": "2026-08-24T06:41:38",
       "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -312,14 +322,24 @@
       "is_new": false
     },
     {
-      "title": "王泽麻薯饼分手",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E6%B3%BD%E9%BA%BB%E8%96%AF%E9%A5%BC%E5%88%86%E6%89%8B",
-      "last_hot_value": "1,181.3万",
-      "first_seen_at": "2026-08-24T17:13:13",
-      "last_seen_at": "2026-08-24T17:13:13",
+      "title": "伊朗称从未害怕美国制裁",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%BB%8E%E6%9C%AA%E5%AE%B3%E6%80%95%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81",
+      "last_hot_value": "1,249.1万",
+      "first_seen_at": "2026-08-24T22:00:05",
+      "last_seen_at": "2026-08-24T22:00:05",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
+    },
+    {
+      "title": "王泽麻薯饼分手",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E7%8E%8B%E6%B3%BD%E9%BA%BB%E8%96%AF%E9%A5%BC%E5%88%86%E6%89%8B",
+      "last_hot_value": "1,120.7万",
+      "first_seen_at": "2026-08-24T17:13:13",
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "官方确认扶老人赔1.9万店主无错",
@@ -327,7 +347,7 @@
       "last_hot_value": "1,179.6万",
       "first_seen_at": "2026-08-24T16:06:43",
       "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -420,6 +440,16 @@
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "5岁女童误吞50克金条",
+      "url": "https://www.kuaishou.com/search/video?searchKey=5%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%AF%AF%E5%90%9E50%E5%85%8B%E9%87%91%E6%9D%A1",
+      "last_hot_value": "1,164.8万",
+      "first_seen_at": "2026-08-24T22:00:05",
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "龚杨杰打call光合听着人山人海的",
@@ -532,12 +562,22 @@
       "is_new": false
     },
     {
+      "title": "大连降雨精确到车位",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%A7%E8%BF%9E%E9%99%8D%E9%9B%A8%E7%B2%BE%E7%A1%AE%E5%88%B0%E8%BD%A6%E4%BD%8D",
+      "last_hot_value": "1,143.5万",
+      "first_seen_at": "2026-08-24T22:00:05",
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "香港深夜现双尸命案",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E9%A6%99%E6%B8%AF%E6%B7%B1%E5%A4%9C%E7%8E%B0%E5%8F%8C%E5%B0%B8%E5%91%BD%E6%A1%88",
       "last_hot_value": "1,112.5万",
       "first_seen_at": "2026-08-24T16:06:43",
       "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -652,12 +692,22 @@
       "is_new": false
     },
     {
+      "title": "无人机黑飞触碰法律红线",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%BB%91%E9%A3%9E%E8%A7%A6%E7%A2%B0%E6%B3%95%E5%BE%8B%E7%BA%A2%E7%BA%BF",
+      "last_hot_value": "1,122.6万",
+      "first_seen_at": "2026-08-24T22:00:05",
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "登陆少年二周年手帐",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E4%BA%8C%E5%91%A8%E5%B9%B4%E6%89%8B%E5%B8%90",
       "last_hot_value": "1,049.5万",
       "first_seen_at": "2026-08-24T16:06:43",
       "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -772,16 +822,6 @@
       "is_new": false
     },
     {
-      "title": "李瑞王明昊101比99绝杀追梦格林",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E7%91%9E%E7%8E%8B%E6%98%8E%E6%98%8A101%E6%AF%9499%E7%BB%9D%E6%9D%80%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97",
-      "last_hot_value": "1,119.7万",
-      "first_seen_at": "2026-08-21T20:24:32",
-      "last_seen_at": "2026-08-21T20:24:32",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "李炮儿挑战连续打5份工",
       "url": "https://www.kuaishou.com/search/video?searchKey=%E6%9D%8E%E7%82%AE%E5%84%BF%E6%8C%91%E6%88%98%E8%BF%9E%E7%BB%AD%E6%89%935%E4%BB%BD%E5%B7%A5",
       "last_hot_value": "1,040.2万",
@@ -852,14 +892,14 @@
       "is_new": false
     },
     {
-      "title": "冯巩现场为新人送祝福",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%86%AF%E5%B7%A9%E7%8E%B0%E5%9C%BA%E4%B8%BA%E6%96%B0%E4%BA%BA%E9%80%81%E7%A5%9D%E7%A6%8F",
-      "last_hot_value": "1,096.8万",
-      "first_seen_at": "2026-08-21T20:24:32",
-      "last_seen_at": "2026-08-21T20:24:32",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "藏马熊夜闯停车场扒车窗",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E8%97%8F%E9%A9%AC%E7%86%8A%E5%A4%9C%E9%97%AF%E5%81%9C%E8%BD%A6%E5%9C%BA%E6%89%92%E8%BD%A6%E7%AA%97",
+      "last_hot_value": "1,079.8万",
+      "first_seen_at": "2026-08-24T22:00:05",
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "跨省强迫卖淫团伙落网",
@@ -867,9 +907,9 @@
       "last_hot_value": "1,070.5万",
       "first_seen_at": "2026-08-24T17:13:13",
       "last_seen_at": "2026-08-24T17:13:13",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "神总是孤独的倒着走路",
@@ -932,14 +972,14 @@
       "is_new": false
     },
     {
-      "title": "刘思懿的人你也敢动",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%88%98%E6%80%9D%E6%87%BF%E7%9A%84%E4%BA%BA%E4%BD%A0%E4%B9%9F%E6%95%A2%E5%8A%A8",
-      "last_hot_value": "1,054万",
-      "first_seen_at": "2026-08-21T20:24:32",
-      "last_seen_at": "2026-08-21T20:24:32",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "央视网评湖南扶老人被索赔事件",
+      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E6%B9%96%E5%8D%97%E6%89%B6%E8%80%81%E4%BA%BA%E8%A2%AB%E7%B4%A2%E8%B5%94%E4%BA%8B%E4%BB%B6",
+      "last_hot_value": "1,057.4万",
+      "first_seen_at": "2026-08-24T22:00:05",
+      "last_seen_at": "2026-08-24T22:00:05",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "昆明警方版胆子肥嘟嘟",
@@ -1007,16 +1047,6 @@
       "last_hot_value": "954.1万",
       "first_seen_at": "2026-08-23T05:09:20",
       "last_seen_at": "2026-08-23T05:09:20",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "小沈阳一公舞台摔倒",
-      "url": "https://www.kuaishou.com/search/video?searchKey=%E5%B0%8F%E6%B2%88%E9%98%B3%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E6%91%94%E5%80%92",
-      "last_hot_value": "1,033.1万",
-      "first_seen_at": "2026-08-21T20:24:32",
-      "last_seen_at": "2026-08-21T20:24:32",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
