@@ -1,22 +1,22 @@
 {
-  "update_time": "2026-08-24T18:35:38",
+  "update_time": "2026-08-24T23:13:14",
   "items": [
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:233180 回复:2151",
-      "first_seen_at": "2026-08-22T08:13:48",
-      "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 11,
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:216632 回复:2898",
+      "first_seen_at": "2026-08-22T05:51:03",
+      "last_seen_at": "2026-08-24T23:13:14",
+      "consecutive_count": 13,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:216084 回复:2888",
-      "first_seen_at": "2026-08-22T05:51:03",
-      "last_seen_at": "2026-08-24T18:35:38",
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:234025 回复:2159",
+      "first_seen_at": "2026-08-22T08:13:48",
+      "last_seen_at": "2026-08-24T23:13:14",
       "consecutive_count": 12,
       "peak_rank": 1,
       "is_new": false
@@ -37,7 +37,7 @@
       "last_hot_value": "查看:11398 回复:131",
       "first_seen_at": "2026-08-24T12:47:42",
       "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,16 +47,6 @@
       "last_hot_value": "查看:5396 回复:106",
       "first_seen_at": "2026-08-22T21:09:30",
       "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 7,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "[新人看一看]老鸟请直接忽略",
-      "url": "https://www.nodeseek.com/post-348342-1",
-      "last_hot_value": "查看:22767 回复:426",
-      "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-22T16:23:52",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -72,14 +62,14 @@
       "is_new": false
     },
     {
-      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
-      "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:24761 回复:245",
-      "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
+      "url": "https://www.nodeseek.com/post-584268-1",
+      "last_hot_value": "查看:25335 回复:177",
+      "first_seen_at": "2026-08-24T23:13:14",
+      "last_seen_at": "2026-08-24T23:13:14",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "NS官方邮箱系统正式版(V2)",
@@ -87,18 +77,38 @@
       "last_hot_value": "查看:77459 回复:610",
       "first_seen_at": "2026-08-23T22:47:46",
       "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
-      "url": "https://www.nodeseek.com/post-219853-1",
-      "last_hot_value": "查看:8719 回复:63",
-      "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-22T16:23:52",
-      "consecutive_count": 0,
+      "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
+      "url": "https://www.nodeseek.com/post-828462-1",
+      "last_hot_value": "查看:8126 回复:148",
+      "first_seen_at": "2026-08-24T23:13:14",
+      "last_seen_at": "2026-08-24T23:13:14",
+      "consecutive_count": 1,
       "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "OpenLogi：用 Rust 写的罗技鼠标、键盘与摄像头管理工具",
+      "url": "https://www.nodeseek.com/post-889541-1",
+      "last_hot_value": "查看:751 回复:17",
+      "first_seen_at": "2026-08-24T23:13:14",
+      "last_seen_at": "2026-08-24T23:13:14",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:818405 回复:1186",
+      "first_seen_at": "2026-08-22T21:09:30",
+      "last_seen_at": "2026-08-24T23:13:14",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -107,26 +117,6 @@
       "last_hot_value": "查看:5261 回复:113",
       "first_seen_at": "2026-08-24T12:47:42",
       "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
-      "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:817102 回复:1185",
-      "first_seen_at": "2026-08-22T21:09:30",
-      "last_seen_at": "2026-08-23T16:54:02",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
-      "url": "https://www.nodeseek.com/post-572284-1",
-      "last_hot_value": "查看:59721 回复:187",
-      "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-22T16:23:52",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
@@ -134,12 +124,22 @@
     {
       "title": "从零开始的VPS科普(1)：认识你的第一台服务器",
       "url": "https://www.nodeseek.com/post-656474-1",
-      "last_hot_value": "查看:6907 回复:162",
+      "last_hot_value": "查看:7027 回复:164",
       "first_seen_at": "2026-08-23T22:47:46",
-      "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-24T23:13:14",
+      "consecutive_count": 4,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
+      "url": "https://www.nodeseek.com/post-105666-1",
+      "last_hot_value": "查看:107124 回复:274",
+      "first_seen_at": "2026-08-24T23:13:14",
+      "last_seen_at": "2026-08-24T23:13:14",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "【教程】分享一下大部分VPS以及甲骨文ARM/AMD、AWS、谷歌云GCP通用DD方法！",
@@ -147,7 +147,7 @@
       "last_hot_value": "查看:10845 回复:87",
       "first_seen_at": "2026-08-23T22:47:46",
       "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -162,12 +162,12 @@
       "is_new": false
     },
     {
-      "title": "写了个支持CF Workers一键部署的ssh管理工具TernSSH",
-      "url": "https://www.nodeseek.com/post-809285-1",
-      "last_hot_value": "查看:4013 回复:78",
-      "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 3,
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:94461 回复:783",
+      "first_seen_at": "2026-08-23T22:47:46",
+      "last_seen_at": "2026-08-24T23:13:14",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
@@ -179,16 +179,6 @@
       "last_seen_at": "2026-08-23T16:54:02",
       "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:94212 回复:782",
-      "first_seen_at": "2026-08-23T22:47:46",
-      "last_seen_at": "2026-08-24T18:35:38",
-      "consecutive_count": 3,
-      "peak_rank": 10,
       "is_new": false
     },
     {

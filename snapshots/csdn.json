@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-24T18:35:29",
+  "update_time": "2026-08-24T23:13:05",
   "items": [
     {
       "title": "GitHub 热榜项目 - 周榜(2026-08-22)",
       "url": "https://blog.csdn.net/u014390502/article/details/163971003",
-      "last_hot_value": "2.5w",
+      "last_hot_value": "2.4w",
       "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T18:35:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T23:13:05",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,22 +32,22 @@
       "is_new": false
     },
     {
-      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/164029855",
-      "last_hot_value": "2.4w",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-24T18:35:29",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
       "title": "AI Agent 最大的安全风险：拿着权限做错事",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/163614095",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "9277",
       "first_seen_at": "2026-08-23T16:53:51",
-      "last_seen_at": "2026-08-24T12:47:32",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-24T23:13:05",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/164029855",
+      "last_hot_value": "2.3w",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-24T23:13:05",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "鸿蒙手机远控电脑横评：ToDesk/向日葵/华为远程PC实测，连接、流畅度、键鼠和安全一次看清",
+      "url": "https://blog.csdn.net/qq_33681891/article/details/163974592",
+      "last_hot_value": "1.8w",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-24T23:13:05",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "医疗AI可扩展网格信息系统中网格计算技术的智能优化",
       "url": "https://blog.csdn.net/kkiron/article/details/163948366",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T18:35:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T23:13:05",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -96,8 +106,8 @@
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766221",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T18:35:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T23:13:05",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -122,22 +132,12 @@
       "is_new": false
     },
     {
-      "title": "鸿蒙手机远控电脑横评：ToDesk/向日葵/华为远程PC实测，连接、流畅度、键鼠和安全一次看清",
-      "url": "https://blog.csdn.net/qq_33681891/article/details/163974592",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-24T18:35:29",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
       "title": "告别手工分表：金仓时序数据库超表架构落地的一次实战复盘",
       "url": "https://blog.csdn.net/qq_57761637/article/details/164000650",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T18:35:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T23:13:05",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -162,24 +162,34 @@
       "is_new": false
     },
     {
-      "title": "NAS 运维到 Playbook：Ansible + cpolar 远程自动化实战",
-      "url": "https://blog.csdn.net/user340/article/details/164025192",
-      "last_hot_value": "9354",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T18:35:29",
+      "title": "Oracle 块清除（Block Cleanout）：commit 之后，数据块里的“战场“谁来打扫？",
+      "url": "https://blog.csdn.net/weixin_63349582/article/details/164017926",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-24T23:13:05",
       "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "Oracle 块清除（Block Cleanout）：commit 之后，数据块里的“战场“谁来打扫？",
-      "url": "https://blog.csdn.net/weixin_63349582/article/details/164017926",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-24T18:35:29",
+      "title": "Horse3D 游戏引擎研发笔记（七）：Clydesdale——从流式日志到多输出订阅",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/163973512",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-23T07:38:21",
+      "last_seen_at": "2026-08-24T23:13:05",
       "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "NAS 运维到 Playbook：Ansible + cpolar 远程自动化实战",
+      "url": "https://blog.csdn.net/user340/article/details/164025192",
+      "last_hot_value": "9354",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T18:35:29",
+      "consecutive_count": 0,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "深入理解 TCP 协议（二）：TCP 可靠传输与高效通信机制详解",
@@ -192,24 +202,14 @@
       "is_new": false
     },
     {
-      "title": "Horse3D 游戏引擎研发笔记（七）：Clydesdale——从流式日志到多输出订阅",
-      "url": "https://blog.csdn.net/2503_92624912/article/details/163973512",
-      "last_hot_value": "6234",
-      "first_seen_at": "2026-08-23T07:38:21",
-      "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "【AI智能体】Codex 插件从使用到项目开发实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163613455",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-24T18:35:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T23:13:05",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【操作系统 | 进程调度：CPU 到底该交给谁？】",
@@ -287,9 +287,9 @@
       "last_hot_value": "8883",
       "first_seen_at": "2026-08-24T18:35:29",
       "last_seen_at": "2026-08-24T18:35:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我把 800 行报错日志压成一张排障卡：用蓝耘元生代做 FastAPI 日志根因分析",
