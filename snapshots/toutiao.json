@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-24T19:53:29",
+  "update_time": "2026-08-24T21:10:02",
   "items": [
     {
       "title": "陈武同志逝世",
       "url": "https://www.toutiao.com/trending/7677530742594735635/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T17:38:22",
-      "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -156,8 +156,8 @@
       "url": "https://www.toutiao.com/trending/7677060472046243334/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T09:26:16",
-      "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -266,8 +266,8 @@
       "url": "https://www.toutiao.com/article/7677472764000846351",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T17:38:22",
-      "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -352,14 +352,24 @@
       "is_new": false
     },
     {
+      "title": "这一代投资者不买股票了吗",
+      "url": "https://www.toutiao.com/trending/7677590199081111083/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T21:10:02",
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "亚运会倒计时 日本有点“绷不住”了",
       "url": "https://www.toutiao.com/trending/7676407047480311817/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T19:53:29",
       "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "阿里为何急求资金",
@@ -367,7 +377,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T17:38:22",
       "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -482,12 +492,22 @@
       "is_new": false
     },
     {
+      "title": "滞留涠洲岛游客：等着回去上班",
+      "url": "https://www.toutiao.com/trending/7677186142760337434/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T21:10:02",
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "教育部：一年级不布置书面家庭作业",
       "url": "https://www.toutiao.com/trending/7677060472058744356/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T17:38:22",
-      "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -616,8 +636,8 @@
       "url": "https://www.toutiao.com/trending/7677592115861261865/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T17:38:22",
-      "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -736,8 +756,8 @@
       "url": "https://www.toutiao.com/trending/7677583045448175167/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T17:38:22",
-      "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -856,8 +876,8 @@
       "url": "https://www.toutiao.com/trending/7677554489926094377/",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T17:38:22",
-      "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -967,9 +987,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T19:53:29",
       "last_seen_at": "2026-08-24T19:53:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "女子下楼梯时玩手机直接摔下去",
@@ -1100,6 +1120,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "雷军说芯片很贵不建议拆开看彩蛋",
+      "url": "https://www.toutiao.com/trending/7677564754843618867/",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T21:10:02",
+      "last_seen_at": "2026-08-24T21:10:02",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "特朗普称朝鲜有57枚核弹",
