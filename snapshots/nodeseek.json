@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-23T22:47:46",
+  "update_time": "2026-08-24T12:47:42",
   "items": [
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:233180 回复:2151",
       "first_seen_at": "2026-08-22T08:13:48",
-      "last_seen_at": "2026-08-23T22:47:46",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:216084 回复:2888",
       "first_seen_at": "2026-08-22T05:51:03",
-      "last_seen_at": "2026-08-23T22:47:46",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 11,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "【教程】搭建自己的邮局用于收发邮件📧，老太太看了都直呼ez",
+      "url": "https://www.nodeseek.com/post-140032-1",
+      "last_hot_value": "查看:11398 回复:131",
+      "first_seen_at": "2026-08-24T12:47:42",
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "【开源】Inkstone —— 部署在 Cloudflare workers 上的全能 Markdown 笔记（更新0.4.0）",
       "url": "https://www.nodeseek.com/post-849481-1",
       "last_hot_value": "查看:5396 回复:106",
       "first_seen_at": "2026-08-22T21:09:30",
-      "last_seen_at": "2026-08-23T22:47:46",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,10 +86,10 @@
       "url": "https://www.nodeseek.com/post-647200-1",
       "last_hot_value": "查看:77459 回复:610",
       "first_seen_at": "2026-08-23T22:47:46",
-      "last_seen_at": "2026-08-23T22:47:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
@@ -90,6 +100,16 @@
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "常见VPS测试方法",
+      "url": "https://www.nodeseek.com/post-726469-1",
+      "last_hot_value": "查看:5261 回复:113",
+      "first_seen_at": "2026-08-24T12:47:42",
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
@@ -116,20 +136,20 @@
       "url": "https://www.nodeseek.com/post-656474-1",
       "last_hot_value": "查看:6907 回复:162",
       "first_seen_at": "2026-08-23T22:47:46",
-      "last_seen_at": "2026-08-23T22:47:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【教程】分享一下大部分VPS以及甲骨文ARM/AMD、AWS、谷歌云GCP通用DD方法！",
       "url": "https://www.nodeseek.com/post-86852-1",
       "last_hot_value": "查看:10845 回复:87",
       "first_seen_at": "2026-08-23T22:47:46",
-      "last_seen_at": "2026-08-23T22:47:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
@@ -146,8 +166,8 @@
       "url": "https://www.nodeseek.com/post-809285-1",
       "last_hot_value": "查看:4013 回复:78",
       "first_seen_at": "2026-08-21T22:52:11",
-      "last_seen_at": "2026-08-23T22:47:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
@@ -166,10 +186,10 @@
       "url": "https://www.nodeseek.com/post-287967-1",
       "last_hot_value": "查看:94212 回复:782",
       "first_seen_at": "2026-08-23T22:47:46",
-      "last_seen_at": "2026-08-23T22:47:46",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T12:47:42",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "nodewarden 1.0.0 正式版已经发布，大家可以当做主力使用了。",

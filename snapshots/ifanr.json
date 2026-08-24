@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-23T22:47:42",
+  "update_time": "2026-08-24T12:47:39",
   "items": [
+    {
+      "title": "折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕",
+      "url": "https://www.ifanr.com/1676310",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
       "url": "https://www.ifanr.com/1676208",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T07:38:29",
-      "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T21:09:26",
       "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-22T05:51:00",
       "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 10,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -37,39 +47,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T14:43:05",
       "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 15,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕",
-      "url": "https://www.ifanr.com/1676070",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T11:18:14",
-      "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 16,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "你的下一台 Pocket，能飞",
-      "url": "https://www.ifanr.com/1676006",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T10:02:09",
-      "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 17,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "苹果 Apple Music 不想放过任何一首 AI 音乐",
-      "url": "https://www.ifanr.com/1675958",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T06:35:05",
-      "last_seen_at": "2026-08-21T22:52:08",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」",
+      "url": "https://www.ifanr.com/1676441",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "捷尼赛思 GV90 正式亮相，全尺寸对开门量产，比劳斯莱斯更激进",
@@ -77,89 +67,79 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-21T14:43:05",
       "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 15,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了",
-      "url": "https://www.ifanr.com/1676067",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T11:18:14",
-      "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 16,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "「最便宜的问界」来了，车长 1.5 米，小蓝灯也没省下",
-      "url": "https://www.ifanr.com/1676005",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T10:02:09",
-      "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 17,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切",
-      "url": "https://www.ifanr.com/1675954",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T06:35:05",
-      "last_seen_at": "2026-08-21T11:18:14",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "微信 AI 修图抢先体验：能用够用，但还不够好用",
-      "url": "https://www.ifanr.com/1676048",
+      "title": "英伟达押注 Perplexity，但它真的值 300 亿美金吗？",
+      "url": "https://www.ifanr.com/1676435",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-21T11:18:14",
-      "last_seen_at": "2026-08-23T22:47:42",
-      "consecutive_count": 16,
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "比亚迪大汉预售价 24.99 万元起！第三代唐同步亮相，内饰大变样",
-      "url": "https://www.ifanr.com/1675982",
+      "title": "折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点",
+      "url": "https://www.ifanr.com/1676426",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-21T10:02:09",
-      "last_seen_at": "2026-08-22T21:09:26",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "零基础速通DeepSeek Harness，带你玩转赛博乐高",
-      "url": "https://www.ifanr.com/1675781",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T06:35:05",
-      "last_seen_at": "2026-08-21T11:18:14",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "苹果 VR 部门再裁 60 人，VisionPro 2 真悬了？",
-      "url": "https://www.ifanr.com/1675978",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-21T10:02:09",
-      "last_seen_at": "2026-08-22T16:23:43",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机",
-      "url": "https://www.ifanr.com/1675947",
+      "title": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场",
+      "url": "https://www.ifanr.com/1676318",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-21T06:35:05",
-      "last_seen_at": "2026-08-21T10:02:09",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "AI 开发者每天都要刷的网站，准备 130 亿美金卖了",
+      "url": "https://www.ifanr.com/1676393",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学",
+      "url": "https://www.ifanr.com/1676333",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "巴掌大的墨水屏，为什么是现在最火的 AI 终端｜AI 器物志",
+      "url": "https://www.ifanr.com/1675741",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+      "url": "https://www.ifanr.com/1676314",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-24T12:47:39",
+      "last_seen_at": "2026-08-24T12:47:39",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     }
   ]
 }

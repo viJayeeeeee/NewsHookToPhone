@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-23T22:47:37",
+  "update_time": "2026-08-24T12:47:32",
   "items": [
     {
       "title": "【Flask SSE 实时大屏】从数据库新增记录到 ECharts 更新的完整演示链路",
       "url": "https://blog.csdn.net/2402_87731470/article/details/163596547",
-      "last_hot_value": "1.8w",
+      "last_hot_value": "2.1w",
       "first_seen_at": "2026-08-22T21:09:20",
-      "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 6,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,13 +32,23 @@
       "is_new": false
     },
     {
-      "title": "主设备二次验证、连接授权、AI审计：2026安全远控Top3横测，ToDesk凭什么守住这次连接？",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/163922162",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-21T06:34:59",
-      "last_seen_at": "2026-08-21T22:52:01",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "title": "GitHub 热榜项目 - 周榜(2026-08-22)",
+      "url": "https://blog.csdn.net/u014390502/article/details/163971003",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "AI Agent 最大的安全风险：拿着权限做错事",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/163614095",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-23T16:53:51",
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -47,17 +57,7 @@
       "last_hot_value": "6415",
       "first_seen_at": "2026-08-22T09:29:31",
       "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 8,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "AI Agent 最大的安全风险：拿着权限做错事",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/163614095",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-23T16:53:51",
-      "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -92,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "飞算JavaAI能处理SaaS套餐变更业务吗？",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/163862167",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-21T10:02:02",
-      "last_seen_at": "2026-08-21T10:02:02",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "PyTorch强化学习实战（23）——强化学习在网页导航中的应用",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766221",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【AI大模型接入SDK】项目的数据结构设计",
@@ -107,7 +107,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-23T16:53:51",
       "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -117,39 +117,29 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-23T16:53:51",
       "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "飞算JavaAI能读懂复杂业务逻辑吗？ReleaseGuard发布审批实测",
-      "url": "https://blog.csdn.net/2501_91062530/article/details/163920502",
-      "last_hot_value": "8262",
-      "first_seen_at": "2026-08-21T06:34:59",
-      "last_seen_at": "2026-08-23T11:01:41",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "【Linux 网络篇】网络传输的通信端口：Socket 创建、文件描述符底层运行机制",
-      "url": "https://blog.csdn.net/buhuizhiyuci/article/details/163675970",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-21T10:02:02",
-      "last_seen_at": "2026-08-23T11:01:41",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "告别手工分表：金仓时序数据库超表架构落地的一次实战复盘",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/164000650",
+      "last_hot_value": "9420",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【Linux】 进程（4）七大进程状态深度解析",
       "url": "https://blog.csdn.net/2602_95649725/article/details/163998334",
-      "last_hot_value": "8960",
+      "last_hot_value": "8151",
       "first_seen_at": "2026-08-23T22:47:37",
-      "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "备份完不算完，先还原到临时库验一遍",
@@ -172,12 +162,22 @@
       "is_new": false
     },
     {
+      "title": "NAS 运维到 Playbook：Ansible + cpolar 远程自动化实战",
+      "url": "https://blog.csdn.net/user340/article/details/164025192",
+      "last_hot_value": "8989",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "深入理解 TCP 协议（二）：TCP 可靠传输与高效通信机制详解",
       "url": "https://blog.csdn.net/Felix_kiss_L/article/details/163950356",
-      "last_hot_value": "7667",
+      "last_hot_value": "8061",
       "first_seen_at": "2026-08-23T16:53:51",
-      "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -187,9 +187,19 @@
       "last_hot_value": "6234",
       "first_seen_at": "2026-08-23T07:38:21",
       "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "医疗AI可扩展网格信息系统中网格计算技术的智能优化",
+      "url": "https://blog.csdn.net/kkiron/article/details/163948366",
+      "last_hot_value": "8890",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【操作系统 | 进程调度：CPU 到底该交给谁？】",
@@ -197,9 +207,9 @@
       "last_hot_value": "6527",
       "first_seen_at": "2026-08-23T22:47:37",
       "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "k8s集群部署的方法原理",
@@ -212,14 +222,24 @@
       "is_new": false
     },
     {
+      "title": "DolphinDB 2.x 集群监控运维平台实战：从指标采集到告警自愈",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/164004488",
+      "last_hot_value": "8854",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T12:47:32",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS 应用接续功能适配详解",
       "url": "https://blog.csdn.net/QWERWTWE/article/details/163997798",
       "last_hot_value": "6435",
       "first_seen_at": "2026-08-23T22:47:37",
       "last_seen_at": "2026-08-23T22:47:37",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Harness开源: DeepSeek向左, OpenAI向右",
@@ -252,16 +272,6 @@
       "is_new": false
     },
     {
-      "title": "分布式GPU智能算法深度研究2026年版（中）",
-      "url": "https://blog.csdn.net/kkiron/article/details/163874167",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-21T10:02:02",
-      "last_seen_at": "2026-08-21T22:52:01",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "我把 800 行报错日志压成一张排障卡：用蓝耘元生代做 FastAPI 日志根因分析",
       "url": "https://blog.csdn.net/weixin_42878111/article/details/164000462",
       "last_hot_value": "6601",
@@ -277,16 +287,6 @@
       "last_hot_value": "6805",
       "first_seen_at": "2026-08-22T08:13:38",
       "last_seen_at": "2026-08-22T08:13:38",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "30分钟能用飞算JavaAI跑通JWT认证吗？",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/163875680",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-21T11:18:07",
-      "last_seen_at": "2026-08-21T11:18:07",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
