@@ -1,22 +1,32 @@
 {
-  "update_time": "2026-08-24T12:47:43",
+  "update_time": "2026-08-24T18:35:39",
   "items": [
     {
-      "title": "果核看图 GuoheView v3.2.0",
+      "title": "重启还原精灵v2.7 新增dos命令行调用",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-21T19:22:58",
-      "last_seen_at": "2026-08-24T12:47:43",
+      "first_seen_at": "2026-08-24T18:35:39",
+      "last_seen_at": "2026-08-24T18:35:39",
       "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Html一键打包exe工具，绿色无依赖，解压即用",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T16:54:03",
-      "last_seen_at": "2026-08-23T22:47:47",
+      "last_seen_at": "2026-08-24T18:35:39",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "果核看图 GuoheView v3.2.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-21T19:22:58",
+      "last_seen_at": "2026-08-24T12:47:43",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
@@ -52,14 +62,34 @@
       "is_new": false
     },
     {
+      "title": "PDF优化工具1.0（一键添加OCR文字索引和处理压缩）",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-24T18:35:39",
+      "last_seen_at": "2026-08-24T18:35:39",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "哔哩哔哩国际版bilibili 6.2.6版本",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-23T16:54:03",
+      "last_seen_at": "2026-08-24T18:35:39",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "全能下载工具 Motrix v2.0.0-beta.22",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-24T12:47:43",
       "last_seen_at": "2026-08-24T12:47:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "图片抠图去背景工具v1.0",
@@ -67,16 +97,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T07:38:34",
       "last_seen_at": "2026-08-24T12:47:43",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "哔哩哔哩国际版bilibili 6.2.6版本",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-23T16:54:03",
-      "last_seen_at": "2026-08-23T22:47:47",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -102,30 +122,40 @@
       "is_new": false
     },
     {
-      "title": "智能办公工具箱 Officemind v2.0.0",
+      "title": "考试、练习系统 v1.0.0 - 适用于离线环境",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-24T12:47:43",
-      "last_seen_at": "2026-08-24T12:47:43",
+      "first_seen_at": "2026-08-24T18:35:39",
+      "last_seen_at": "2026-08-24T18:35:39",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
-    },
-    {
-      "title": "高速公路坐标高程计算套件 v1.0.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-23T22:47:47",
-      "last_seen_at": "2026-08-23T22:47:47",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
     },
     {
       "title": "易籍—中文线装古籍电子书排版一键生成工具，PDF导出",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T16:54:03",
+      "last_seen_at": "2026-08-24T18:35:39",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "智能办公工具箱 Officemind v2.0.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-24T12:47:43",
+      "last_seen_at": "2026-08-24T12:47:43",
+      "consecutive_count": 0,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "高速公路坐标高程计算套件 v1.0.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-23T22:47:47",
       "last_seen_at": "2026-08-23T22:47:47",
       "consecutive_count": 0,
       "peak_rank": 3,
@@ -152,21 +182,21 @@
       "is_new": false
     },
     {
-      "title": "古籍库 v9.9",
+      "title": "野外生存工具：Trail Sense v8.1.1 含离线地图",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-22T16:23:54",
-      "last_seen_at": "2026-08-24T12:47:43",
+      "first_seen_at": "2026-08-23T16:54:03",
+      "last_seen_at": "2026-08-24T18:35:39",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "野外生存工具：Trail Sense v8.1.1 含离线地图",
+      "title": "古籍库 v9.9",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-23T16:54:03",
-      "last_seen_at": "2026-08-23T22:47:47",
+      "first_seen_at": "2026-08-22T16:23:54",
+      "last_seen_at": "2026-08-24T12:47:43",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
@@ -196,8 +226,8 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T16:54:03",
-      "last_seen_at": "2026-08-23T22:47:47",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-24T18:35:39",
+      "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": false
     },
@@ -207,9 +237,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-24T12:47:43",
       "last_seen_at": "2026-08-24T12:47:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "电池健康查看器：Battery Health v1.0.0",
@@ -217,7 +247,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-22T21:09:31",
       "last_seen_at": "2026-08-24T12:47:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -242,21 +272,21 @@
       "is_new": false
     },
     {
+      "title": "设置默认浏览器实现合理白嫖",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-24T18:35:39",
+      "last_seen_at": "2026-08-24T18:35:39",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "使用 Linux 一年后的真实感受",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T07:38:34",
       "last_seen_at": "2026-08-24T12:47:43",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "查壳工具 Exeinfo PE 0.0.9.9官方版&集成插件绿色单文件汉化版",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-21T15:57:13",
-      "last_seen_at": "2026-08-21T18:14:44",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
@@ -282,14 +312,24 @@
       "is_new": false
     },
     {
+      "title": "班级信使1.0(重构版)",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-24T18:35:39",
+      "last_seen_at": "2026-08-24T18:35:39",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "小学作业生成器 v1.77.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-24T12:47:43",
       "last_seen_at": "2026-08-24T12:47:43",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "手机音质增强软件 HXAudio v8.0.0",

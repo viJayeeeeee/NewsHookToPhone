@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-24T12:47:31",
+  "update_time": "2026-08-24T18:35:27",
   "items": [
     {
       "title": "这个本地模型，让我 token 自由了",
       "url": "https://juejin.cn/post/7676709710489419786",
-      "last_hot_value": "热度:1323",
+      "last_hot_value": "热度:1422",
       "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "备份完不算完，先还原到临时库验一遍",
       "url": "https://juejin.cn/post/7676421042796412968",
-      "last_hot_value": "热度:1134",
+      "last_hot_value": "热度:1260",
       "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,24 +42,14 @@
       "is_new": false
     },
     {
-      "title": "在这个独属于ai的时代，我终究是被裁员了",
-      "url": "https://juejin.cn/post/7676301268526530560",
-      "last_hot_value": "热度:855",
-      "first_seen_at": "2026-08-21T18:14:32",
-      "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "在浏览器里对比 DWG/DXF 图纸 —— @mlightcad/cad-diff-viewer",
       "url": "https://juejin.cn/post/7677109639176749090",
-      "last_hot_value": "热度:549",
+      "last_hot_value": "热度:576",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产",
@@ -84,20 +74,20 @@
     {
       "title": "为什么越来越多人用 kkFileView？",
       "url": "https://juejin.cn/post/7676641074035605550",
-      "last_hot_value": "热度:486",
+      "last_hot_value": "热度:513",
       "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "超好用 R8 Configuration Analyzer， 优化你的 App 大小和内存",
       "url": "https://juejin.cn/post/7676092674902868010",
-      "last_hot_value": "热度:468",
+      "last_hot_value": "热度:486",
       "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -114,32 +104,22 @@
     {
       "title": "客户只想看个页面，我却做了一个静态演示发布系统",
       "url": "https://juejin.cn/post/7676301268526841856",
-      "last_hot_value": "热度:324",
+      "last_hot_value": "热度:387",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "DeepSeek Harness 这波，搞得全世界都在安装 Node.js",
-      "url": "https://juejin.cn/post/7675899462443122726",
-      "last_hot_value": "热度:558",
-      "first_seen_at": "2026-08-21T15:56:51",
-      "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 2,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "一行 CSS 新特性干掉 20 行 JavaScript ?",
       "url": "https://juejin.cn/post/7677254638324350986",
-      "last_hot_value": "热度:270",
+      "last_hot_value": "热度:324",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从失业到出书：我一个人靠 AI 搭起了一家小公司",
@@ -152,14 +132,24 @@
       "is_new": false
     },
     {
+      "title": "Sandbox（沙箱）到底是什么?",
+      "url": "https://juejin.cn/post/7676165309280796698",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-08-24T12:47:31",
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "华为新上Pura X View阔直板手机，特殊屏幕比例设备下，前端应该怎么去适配更完美？送你一套完整工具代码",
       "url": "https://juejin.cn/post/7676375370356047899",
-      "last_hot_value": "热度:261",
+      "last_hot_value": "热度:297",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 时代写给前端同行：什么在贬值，什么在涨价",
@@ -194,12 +184,12 @@
     {
       "title": "JWT 3：为什么 Token 要放进 Authorization？Axios 拦截器到底解决了什么？",
       "url": "https://juejin.cn/post/7676826408547041289",
-      "last_hot_value": "热度:261",
+      "last_hot_value": "热度:288",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T18:35:27",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Go 1.27 升了一波，泛型方法和 JSON v2 真香但有个坑",
@@ -210,16 +200,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "Sandbox（沙箱）到底是什么?",
-      "url": "https://juejin.cn/post/7676165309280796698",
-      "last_hot_value": "热度:252",
-      "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-24T12:47:31",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     },
     {
       "title": "给 AI 时代找工作的同学一些实用建议",

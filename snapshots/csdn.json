@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-24T12:47:32",
+  "update_time": "2026-08-24T18:35:29",
   "items": [
+    {
+      "title": "GitHub 热榜项目 - 周榜(2026-08-22)",
+      "url": "https://blog.csdn.net/u014390502/article/details/163971003",
+      "last_hot_value": "2.5w",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T18:35:29",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【Flask SSE 实时大屏】从数据库新增记录到 ECharts 更新的完整演示链路",
       "url": "https://blog.csdn.net/2402_87731470/article/details/163596547",
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-08-22T21:09:20",
       "last_seen_at": "2026-08-24T12:47:32",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,21 +32,11 @@
       "is_new": false
     },
     {
-      "title": "数据库迁移工具实战：KDMS云+端+服务架构破解大型信创项目迁移难题",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/163891965",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-21T18:14:33",
-      "last_seen_at": "2026-08-22T10:36:07",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "GitHub 热榜项目 - 周榜(2026-08-22)",
-      "url": "https://blog.csdn.net/u014390502/article/details/163971003",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T12:47:32",
+      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/164029855",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-24T18:35:29",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
@@ -47,7 +47,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-23T16:53:51",
       "last_seen_at": "2026-08-24T12:47:32",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,24 +82,24 @@
       "is_new": false
     },
     {
-      "title": "MCP、A2A、AG-UI：一篇讲清 Agent 协议栈",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/163614053",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-21T14:42:58",
-      "last_seen_at": "2026-08-22T21:09:20",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "医疗AI可扩展网格信息系统中网格计算技术的智能优化",
+      "url": "https://blog.csdn.net/kkiron/article/details/163948366",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T18:35:29",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "PyTorch强化学习实战（23）——强化学习在网页导航中的应用",
       "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766221",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T12:47:32",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-24T18:35:29",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AI大模型接入SDK】项目的数据结构设计",
@@ -122,14 +122,24 @@
       "is_new": false
     },
     {
-      "title": "告别手工分表：金仓时序数据库超表架构落地的一次实战复盘",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/164000650",
-      "last_hot_value": "9420",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T12:47:32",
+      "title": "鸿蒙手机远控电脑横评：ToDesk/向日葵/华为远程PC实测，连接、流畅度、键鼠和安全一次看清",
+      "url": "https://blog.csdn.net/qq_33681891/article/details/163974592",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-24T18:35:29",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
+    },
+    {
+      "title": "告别手工分表：金仓时序数据库超表架构落地的一次实战复盘",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/164000650",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T18:35:29",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "【Linux】 进程（4）七大进程状态深度解析",
@@ -137,7 +147,7 @@
       "last_hot_value": "8151",
       "first_seen_at": "2026-08-23T22:47:37",
       "last_seen_at": "2026-08-24T12:47:32",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -152,21 +162,21 @@
       "is_new": false
     },
     {
-      "title": "用户注册表单验证最佳实践：从前端到后端",
-      "url": "https://blog.csdn.net/vipxieliang/article/details/163876818",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-21T18:14:33",
-      "last_seen_at": "2026-08-21T22:52:01",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "title": "NAS 运维到 Playbook：Ansible + cpolar 远程自动化实战",
+      "url": "https://blog.csdn.net/user340/article/details/164025192",
+      "last_hot_value": "9354",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-24T18:35:29",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "NAS 运维到 Playbook：Ansible + cpolar 远程自动化实战",
-      "url": "https://blog.csdn.net/user340/article/details/164025192",
-      "last_hot_value": "8989",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T12:47:32",
+      "title": "Oracle 块清除（Block Cleanout）：commit 之后，数据块里的“战场“谁来打扫？",
+      "url": "https://blog.csdn.net/weixin_63349582/article/details/164017926",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-24T18:35:29",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -177,7 +187,7 @@
       "last_hot_value": "8061",
       "first_seen_at": "2026-08-23T16:53:51",
       "last_seen_at": "2026-08-24T12:47:32",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -192,11 +202,11 @@
       "is_new": false
     },
     {
-      "title": "医疗AI可扩展网格信息系统中网格计算技术的智能优化",
-      "url": "https://blog.csdn.net/kkiron/article/details/163948366",
-      "last_hot_value": "8890",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T12:47:32",
+      "title": "【AI智能体】Codex 插件从使用到项目开发实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163613455",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-24T18:35:29",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -227,9 +237,9 @@
       "last_hot_value": "8854",
       "first_seen_at": "2026-08-24T12:47:32",
       "last_seen_at": "2026-08-24T12:47:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 应用接续功能适配详解",
@@ -270,6 +280,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "Docker - Dockerfile核心指令详解，FROM到CMD全掌握",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157611500",
+      "last_hot_value": "8883",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-24T18:35:29",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "我把 800 行报错日志压成一张排障卡：用蓝耘元生代做 FastAPI 日志根因分析",
