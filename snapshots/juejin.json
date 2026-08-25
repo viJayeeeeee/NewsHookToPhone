@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-08-25T06:10:43",
+  "update_time": "2026-08-25T12:00:43",
   "items": [
+    {
+      "title": "备份完不算完，先还原到临时库验一遍",
+      "url": "https://juejin.cn/post/7676421042796412968",
+      "last_hot_value": "热度:1719",
+      "first_seen_at": "2026-08-23T11:01:36",
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 9,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "这个本地模型，让我 token 自由了",
       "url": "https://juejin.cn/post/7676709710489419786",
       "last_hot_value": "热度:1764",
       "first_seen_at": "2026-08-23T11:01:36",
       "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 8,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "备份完不算完，先还原到临时库验一遍",
-      "url": "https://juejin.cn/post/7676421042796412968",
-      "last_hot_value": "热度:1539",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,6 +32,16 @@
       "is_new": false
     },
     {
+      "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
+      "url": "https://juejin.cn/post/7677562804154531890",
+      "last_hot_value": "热度:909",
+      "first_seen_at": "2026-08-25T12:00:43",
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "从零封装一个合同审查助手：用 WorkBuddy + 腾讯云 OCR 三件套跑通 5 种格式合同的自动审阅",
       "url": "https://juejin.cn/post/7676162994423119918",
       "last_hot_value": "热度:396",
@@ -44,10 +54,10 @@
     {
       "title": "在浏览器里对比 DWG/DXF 图纸 —— @mlightcad/cad-diff-viewer",
       "url": "https://juejin.cn/post/7677109639176749090",
-      "last_hot_value": "热度:639",
+      "last_hot_value": "热度:729",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -62,22 +72,22 @@
       "is_new": false
     },
     {
-      "title": "为什么同一段代码在 Safari 上永远有 Bug？",
-      "url": "https://juejin.cn/post/7674910507414159403",
-      "last_hot_value": "热度:1287",
-      "first_seen_at": "2026-08-22T10:36:06",
-      "last_seen_at": "2026-08-22T10:36:06",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "一行 CSS 新特性干掉 20 行 JavaScript ?",
+      "url": "https://juejin.cn/post/7677254638324350986",
+      "last_hot_value": "热度:693",
+      "first_seen_at": "2026-08-24T12:47:31",
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 6,
+      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "超好用 R8 Configuration Analyzer， 优化你的 App 大小和内存",
       "url": "https://juejin.cn/post/7676092674902868010",
-      "last_hot_value": "热度:531",
+      "last_hot_value": "热度:576",
       "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 9,
       "peak_rank": 4,
       "is_new": false
     },
@@ -92,16 +102,6 @@
       "is_new": false
     },
     {
-      "title": "一行 CSS 新特性干掉 20 行 JavaScript ?",
-      "url": "https://juejin.cn/post/7677254638324350986",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "虚拟滚动真的比普通滚动性能更好吗？",
       "url": "https://juejin.cn/post/7676091857219272742",
       "last_hot_value": "热度:324",
@@ -112,22 +112,42 @@
       "is_new": false
     },
     {
+      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
+      "url": "https://juejin.cn/post/7677428850284675082",
+      "last_hot_value": "热度:549",
+      "first_seen_at": "2026-08-25T03:53:19",
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 3,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "客户只想看个页面，我却做了一个静态演示发布系统",
       "url": "https://juejin.cn/post/7676301268526841856",
-      "last_hot_value": "热度:477",
+      "last_hot_value": "热度:531",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 6,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
+      "url": "https://juejin.cn/post/7677418026090528794",
+      "last_hot_value": "热度:549",
+      "first_seen_at": "2026-08-25T06:10:43",
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 2,
+      "peak_rank": 7,
       "is_new": false
     },
     {
       "title": "Sandbox（沙箱）到底是什么?",
       "url": "https://juejin.cn/post/7676165309280796698",
-      "last_hot_value": "热度:405",
+      "last_hot_value": "热度:477",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
@@ -142,22 +162,12 @@
       "is_new": false
     },
     {
-      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
-      "url": "https://juejin.cn/post/7677428850284675082",
-      "last_hot_value": "热度:369",
-      "first_seen_at": "2026-08-25T03:53:19",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "华为新上Pura X View阔直板手机，特殊屏幕比例设备下，前端应该怎么去适配更完美？送你一套完整工具代码",
       "url": "https://juejin.cn/post/7676375370356047899",
       "last_hot_value": "热度:342",
       "first_seen_at": "2026-08-24T12:47:31",
       "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -192,16 +202,6 @@
       "is_new": false
     },
     {
-      "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
-      "url": "https://juejin.cn/post/7677418026090528794",
-      "last_hot_value": "热度:369",
-      "first_seen_at": "2026-08-25T06:10:43",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
       "title": "JWT 3：为什么 Token 要放进 Authorization？Axios 拦截器到底解决了什么？",
       "url": "https://juejin.cn/post/7676826408547041289",
       "last_hot_value": "热度:288",
@@ -220,6 +220,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "一个人 + AI 做的小程序，上线 15 天赚了 10 块 5",
+      "url": "https://juejin.cn/post/7677077660528001070",
+      "last_hot_value": "热度:441",
+      "first_seen_at": "2026-08-25T12:00:43",
+      "last_seen_at": "2026-08-25T12:00:43",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "给 AI 时代找工作的同学一些实用建议",

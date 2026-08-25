@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-25T06:10:45",
+  "update_time": "2026-08-25T12:00:45",
   "items": [
     {
       "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/164029855",
-      "last_hot_value": "3.1w",
+      "last_hot_value": "4.3w",
       "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,31 +32,31 @@
       "is_new": false
     },
     {
+      "title": "AI 训练数据湖：为什么 RustFS 是 S3 兼容存储的新选择",
+      "url": "https://blog.csdn.net/rustfs_contrib/article/details/163943909",
+      "last_hot_value": "2.3w",
+      "first_seen_at": "2026-08-25T12:00:45",
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "【AI智能体】Codex 插件从使用到项目开发实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163613455",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-08-24T18:35:29",
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 5,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "AI Agent 最大的安全风险：拿着权限做错事",
       "url": "https://blog.csdn.net/weixin_74809706/article/details/163614095",
       "last_hot_value": "9185",
       "first_seen_at": "2026-08-23T16:53:51",
       "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】Codex 插件从使用到项目开发实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163613455",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 4,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "从Redis指标采集到异常告警：redis_exporter + Prometheus 完整实战",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/163972133",
-      "last_hot_value": "6415",
-      "first_seen_at": "2026-08-22T09:29:31",
-      "last_seen_at": "2026-08-23T22:47:37",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -72,22 +72,22 @@
       "is_new": false
     },
     {
-      "title": "《智能驾驶拆解笔记：老周唠透车圈AI》第9篇（系列终篇）",
-      "url": "https://blog.csdn.net/weixin_62244995/article/details/162999409",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-08-22T10:36:07",
-      "last_seen_at": "2026-08-22T21:09:20",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "PyTorch强化学习实战（23）——强化学习在网页导航中的应用",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766221",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-24T12:47:32",
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 6,
+      "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "PyTorch强化学习实战（23）——强化学习在网页导航中的应用",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766221",
-      "last_hot_value": "1.5w",
+      "title": "医疗AI可扩展网格信息系统中网格计算技术的智能优化",
+      "url": "https://blog.csdn.net/kkiron/article/details/163948366",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 5,
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
@@ -97,17 +97,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-24T18:35:29",
       "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 4,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "医疗AI可扩展网格信息系统中网格计算技术的智能优化",
-      "url": "https://blog.csdn.net/kkiron/article/details/163948366",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -127,7 +117,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-24T18:35:29",
       "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -142,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "ChatGPT 的回答也能被结构化抓取？AI Bot Scraper 对比测评",
+      "url": "https://blog.csdn.net/m0_64336780/article/details/164018908",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-25T06:10:45",
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "告别手工分表：金仓时序数据库超表架构落地的一次实战复盘",
       "url": "https://blog.csdn.net/qq_57761637/article/details/164000650",
-      "last_hot_value": "8713",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T03:53:20",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": false
     },
@@ -176,8 +176,8 @@
       "url": "https://blog.csdn.net/user340/article/details/164025192",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -200,6 +200,16 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "【Linux】线程到底是什么？从轻量级进程、虚拟地址到页表与 MMU，一次理清线程底层模型",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/164035492",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-25T12:00:45",
+      "last_seen_at": "2026-08-25T12:00:45",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【操作系统 | 进程调度：CPU 到底该交给谁？】",
@@ -227,9 +237,9 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-25T06:10:45",
       "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DolphinDB 2.x 集群监控运维平台实战：从指标采集到告警自愈",
@@ -272,21 +282,11 @@
       "is_new": false
     },
     {
-      "title": "别再靠文件夹翻文档了：Docker 部署 Papra，集中管理、搜索和分类资料",
-      "url": "https://blog.csdn.net/weixin_42878111/article/details/163923456",
-      "last_hot_value": "9079",
-      "first_seen_at": "2026-08-22T08:13:38",
-      "last_seen_at": "2026-08-22T16:23:36",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "ChatGPT 的回答也能被结构化抓取？AI Bot Scraper 对比测评",
-      "url": "https://blog.csdn.net/m0_64336780/article/details/164018908",
+      "title": "600 元 HP 小主机装 macOS：从启动盘、BIOS 到核显加速完整教程",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/164032444",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-25T06:10:45",
-      "last_seen_at": "2026-08-25T06:10:45",
+      "first_seen_at": "2026-08-25T12:00:45",
+      "last_seen_at": "2026-08-25T12:00:45",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -307,16 +307,6 @@
       "last_hot_value": "6601",
       "first_seen_at": "2026-08-23T16:53:51",
       "last_seen_at": "2026-08-23T16:53:51",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "IP/MAC帧/ARP协议",
-      "url": "https://blog.csdn.net/suimingtao/article/details/163021538",
-      "last_hot_value": "6805",
-      "first_seen_at": "2026-08-22T08:13:38",
-      "last_seen_at": "2026-08-22T08:13:38",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
