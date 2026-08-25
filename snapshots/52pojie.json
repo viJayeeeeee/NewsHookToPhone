@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-25T12:00:56",
+  "update_time": "2026-08-25T19:07:56",
   "items": [
+    {
+      "title": "班级信使1.0(重构版)",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-24T18:35:39",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "证件照工作室v1.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-25T12:00:56",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "重启还原精灵v2.7 新增dos命令行调用",
@@ -17,7 +27,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-24T18:35:39",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -27,7 +37,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T16:54:03",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -52,12 +62,32 @@
       "is_new": false
     },
     {
+      "title": "一个简单的windows软硬件信息查看工具",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-25T19:07:56",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "图片抠图去背景工具v1.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-23T07:38:34",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "PDF优化工具1.0（一键添加OCR文字索引和处理压缩）",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-24T18:35:39",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -67,7 +97,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T16:54:03",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,13 +112,33 @@
       "is_new": false
     },
     {
-      "title": "图片抠图去背景工具v1.0",
+      "title": "抖音第三方电视TVapp myDV v1.3.23",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-23T07:38:34",
-      "last_seen_at": "2026-08-24T23:13:16",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "first_seen_at": "2026-08-25T19:07:56",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "软件卸载工具 Geek Uninstaller_1.5.4.180",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-24T23:13:16",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "智能办公工具箱 Officemind v2.0.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-24T12:47:43",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -97,9 +147,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-25T12:00:56",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "考试、练习系统 v1.0.0 - 适用于离线环境",
@@ -107,7 +157,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-24T18:35:39",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -117,7 +167,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T22:47:47",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -127,26 +177,6 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-23T16:54:03",
       "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "软件卸载工具 Geek Uninstaller_1.5.4.180",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-24T23:13:16",
-      "last_seen_at": "2026-08-24T23:13:16",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "智能办公工具箱 Officemind v2.0.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-24T12:47:43",
-      "last_seen_at": "2026-08-24T23:13:16",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
@@ -162,34 +192,44 @@
       "is_new": false
     },
     {
-      "title": "野外生存工具：Trail Sense v8.1.1 含离线地图",
+      "title": "DocxTableExport - Word表格导出工具，从 Word (.docx) 文件中提取表格内容",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-23T16:54:03",
-      "last_seen_at": "2026-08-25T12:00:56",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-08-25T19:07:56",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "视频画质修复软件v3.1 修复版",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-24T23:13:16",
-      "last_seen_at": "2026-08-24T23:13:16",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "野外生存工具：Trail Sense v8.1.1 含离线地图",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-23T16:54:03",
+      "last_seen_at": "2026-08-25T12:00:56",
       "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "古籍库 v9.9",
+      "title": "驱动程序备份工具 Drvinstall v9.2026.7.2918",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-22T16:23:54",
-      "last_seen_at": "2026-08-24T23:13:16",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-08-25T19:07:56",
+      "last_seen_at": "2026-08-25T19:07:56",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "酷狗概念第三方 KA Music v3.4.3",
@@ -259,16 +299,6 @@
       "last_seen_at": "2026-08-23T11:02:02",
       "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "班级信使1.0(重构版)",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-24T18:35:39",
-      "last_seen_at": "2026-08-24T18:35:39",
-      "consecutive_count": 0,
-      "peak_rank": 10,
       "is_new": false
     },
     {

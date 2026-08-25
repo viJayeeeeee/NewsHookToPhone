@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-08-25T12:00:49",
+  "update_time": "2026-08-25T19:07:49",
   "items": [
     {
       "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
       "url": "https://www.ithome.com/0/993/790.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
-      "last_seen_at": "2026-08-25T12:00:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-25T19:07:49",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米玄戒 O100 原型机亮相：采用横向阔折叠设计，支持风冷主动散热",
@@ -56,10 +56,10 @@
       "url": "https://www.ithome.com/0/993/809.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
-      "last_seen_at": "2026-08-25T12:00:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-25T19:07:49",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "首个突破 500 万分的旗舰 SoC！小米玄戒 O3 正式发布，CPU 采用十核全大核设计",
@@ -92,23 +92,13 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费",
-      "url": "https://www.ithome.com/0/993/095.htm",
+      "title": "小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型",
+      "url": "https://www.ithome.com/0/993/838.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-22T16:23:40",
-      "last_seen_at": "2026-08-23T11:01:44",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "苹果 iPhone 18 Pro / Max 手机壳曝光：更窄边框、深灰 / 深樱桃红颜色",
-      "url": "https://www.ithome.com/0/993/009.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-22T16:23:40",
-      "last_seen_at": "2026-08-23T07:38:24",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "first_seen_at": "2026-08-25T12:00:49",
+      "last_seen_at": "2026-08-25T19:07:49",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -117,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T06:10:48",
       "last_seen_at": "2026-08-25T12:00:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -152,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "苹果全新 Mac mini 发布：可选 M6 或 M5 Pro 芯片，6999 元起售",
+      "url": "https://www.ithome.com/0/994/211.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T19:07:49",
+      "last_seen_at": "2026-08-25T19:07:49",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "小米玄戒 O3 行业首发支持 LPDDR6 内存，消息称长鑫存储是核心合作伙伴",
       "url": "https://www.ithome.com/0/993/733.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T06:10:48",
       "last_seen_at": "2026-08-25T12:00:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -182,11 +182,11 @@
       "is_new": false
     },
     {
-      "title": "小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型",
-      "url": "https://www.ithome.com/0/993/838.htm",
+      "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
+      "url": "https://www.ithome.com/0/994/219.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-25T12:00:49",
-      "last_seen_at": "2026-08-25T12:00:49",
+      "first_seen_at": "2026-08-25T19:07:49",
+      "last_seen_at": "2026-08-25T19:07:49",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -212,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "雷军手握红色神秘新机：预估为小米阔折叠手机，首发搭载玄戒 O3",
-      "url": "https://www.ithome.com/0/992/998.htm",
+      "title": "消息称华为 Pura X View 阔直板手机搭载麒麟 9030S 处理器，现阶段全系采用 12GB 运存",
+      "url": "https://www.ithome.com/0/994/090.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-22T16:23:40",
-      "last_seen_at": "2026-08-22T21:09:23",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-08-25T19:07:49",
+      "last_seen_at": "2026-08-25T19:07:49",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "iPhone 18 Pro 与折叠屏 iPhone 即将登场，苹果 2026 秋季新品发布会何时举办？",
@@ -227,9 +227,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
       "last_seen_at": "2026-08-25T12:00:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米 18 Fold 折叠屏手机首发玄戒 O3 芯片，9 月正式上市",
@@ -272,14 +272,24 @@
       "is_new": false
     },
     {
+      "title": "古尔曼：苹果可能在“未来几天内”发布新款 Mac mini",
+      "url": "https://www.ithome.com/0/993/887.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T12:00:49",
+      "last_seen_at": "2026-08-25T19:07:49",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 7 发布",
       "url": "https://www.ithome.com/0/993/760.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
       "last_seen_at": "2026-08-25T12:00:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "工程师的极致浪漫：雷军曝光小米玄戒 O3 隐藏彩蛋，芯片内刻 OK 手势寓意“万事 OK”",
@@ -312,14 +322,14 @@
       "is_new": false
     },
     {
-      "title": "上汽 MG 07 大定破万仅用时 1 分 57 秒破 MG4 纪录，限时补贴价 10.59 万元起",
-      "url": "https://www.ithome.com/0/992/906.htm",
+      "title": "男子不慎将自己锁在汽车后备箱：近 40℃ 高温被困约 5 小时，靠喊语音助手报警获救",
+      "url": "https://www.ithome.com/0/994/117.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-22T16:23:40",
-      "last_seen_at": "2026-08-22T21:09:23",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-08-25T19:07:49",
+      "last_seen_at": "2026-08-25T19:07:49",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”",
@@ -327,9 +337,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
       "last_seen_at": "2026-08-25T12:00:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "240 亿晶体管数量！小米首款 AI 旗舰 SoC 玄戒 O3 亮相，采用 3nm 工艺",
@@ -382,21 +392,11 @@
       "is_new": false
     },
     {
-      "title": "比亚迪大汉内饰官图公布：王朝 9 系旗舰轿车，预售 24.99 万元起",
-      "url": "https://www.ithome.com/0/992/935.htm",
+      "title": "曝 9 月或是机圈史上最激烈新品月，“华米 OV 耀”旗舰新机将轮番登场",
+      "url": "https://www.ithome.com/0/994/020.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-22T16:23:40",
-      "last_seen_at": "2026-08-22T21:09:23",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "古尔曼：苹果可能在“未来几天内”发布新款 Mac mini",
-      "url": "https://www.ithome.com/0/993/887.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-25T12:00:49",
-      "last_seen_at": "2026-08-25T12:00:49",
+      "first_seen_at": "2026-08-25T19:07:49",
+      "last_seen_at": "2026-08-25T19:07:49",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -412,14 +412,24 @@
       "is_new": false
     },
     {
+      "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
+      "url": "https://www.ithome.com/0/994/220.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T19:07:49",
+      "last_seen_at": "2026-08-25T19:07:49",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "苹果为库克举办卸任聚会，约 200 人出席",
       "url": "https://www.ithome.com/0/993/767.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
       "last_seen_at": "2026-08-25T12:00:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米雷军：当前国内高端汽车市场处于产品青黄不接状态，高端零部件国产替代预估需要 5~10 年",
@@ -447,16 +457,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T07:38:24",
       "last_seen_at": "2026-08-23T07:38:24",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "豆包输入法鸿蒙版 0.9.1 上架尝鲜，语音输入可精准识别快速 / 轻声说话",
-      "url": "https://www.ithome.com/0/992/930.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-22T16:23:40",
-      "last_seen_at": "2026-08-22T16:23:40",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
