@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-24T23:13:06",
+  "update_time": "2026-08-25T03:53:22",
   "items": [
+    {
+      "title": "HarmonyOS 从零构建完整的账单管理系统",
+      "url": "https://ost.51cto.com/posts/55559",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "刚刚，奥特曼炮轰达里奥「反人类」！绝密模型同日曝光",
       "url": "https://www.51cto.com/article/853783.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T18:35:30",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,12 +52,22 @@
       "is_new": false
     },
     {
+      "title": "DeepSeek-V4-Flash 正式版发布，Agent 能力继续变强",
+      "url": "https://www.51cto.com/article/853885.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "RBAC+数据权限这种链路，飞算 JavaAI 真能从一句需求拆到代码？",
       "url": "https://www.51cto.com/article/853771.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,14 +82,34 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS 电子盲盒开发实战：从零打造一个让人上瘾的收藏系应用",
+      "url": "https://ost.51cto.com/posts/55558",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS Game Service Kit 联合登录完全指南：从零到一接入华为游戏服务",
       "url": "https://ost.51cto.com/posts/55540",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "Loop 没死，Graph 也不新：Agent 最终还是回到了软件工程",
+      "url": "https://www.51cto.com/article/853884.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "工具碎片化、故障处置慢？DeepSeek Harness 帮助运维人员搭建全自动智能运维闭环",
@@ -77,9 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "GitHub 39.1K+ Star！ 这个数据库神器火了",
+      "url": "https://www.51cto.com/article/853880.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "刚刚，Claude两个新模型曝光！",
@@ -87,9 +137,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "ThreeUI 爆火！一个基于 Three.js 的160+ 3D 组件全开源！",
+      "url": "https://www.51cto.com/article/853878.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "Anthropic滑跪认错！Claude暗中降智实锤",
@@ -97,9 +157,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "微软 AI 智能体系统 Aion 曝光：以 Copilot 为核心、重塑桌面体验",
+      "url": "https://www.51cto.com/article/853877.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "吴恩达：构建和部署AI应用必须啃下这六块硬骨头",
@@ -107,9 +177,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨三十倍！",
+      "url": "https://www.51cto.com/article/853876.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "智身科技亮相2026世界机器人大会，定义\"真正干活的机器人\"",
@@ -117,9 +197,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "Cybermes - 用于自动化渗透测试的 AI 红队 Agent",
+      "url": "https://www.51cto.com/article/853875.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "让AI Agent「试玩」世界模型，长程目标评测有了新基准PlayWorld",
@@ -127,9 +217,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T12:47:34",
       "last_seen_at": "2026-08-24T23:13:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "英伟达服务器涨价超15%！百亿AI基建的「内存难题」",
+      "url": "https://www.51cto.com/article/853874.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T03:53:22",
+      "last_seen_at": "2026-08-25T03:53:22",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "300多组控制实验、70万余TPU小时，普林斯顿团队给出全开放文生图配方i1",
