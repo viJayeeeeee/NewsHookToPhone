@@ -1,63 +1,63 @@
 {
-  "update_time": "2026-08-25T08:15:30",
+  "update_time": "2026-08-25T09:27:43",
   "items": [
+    {
+      "title": "略萨作品：酒吧长谈（纪念版）",
+      "url": "",
+      "last_hot_value": "228人在读",
+      "first_seen_at": "2026-08-24T20:38:38",
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "我们八月见（马尔克斯遗作小说）",
       "url": "",
-      "last_hot_value": "484人在读",
+      "last_hot_value": "573人在读",
       "first_seen_at": "2026-08-24T20:38:38",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "AI提效：人人都要用的WorkBuddy（微信读书特别版）",
       "url": "",
-      "last_hot_value": "5231人在读",
+      "last_hot_value": "5201人在读",
       "first_seen_at": "2026-08-24T22:52:28",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "4604人在读",
+      "last_hot_value": "4535人在读",
       "first_seen_at": "2026-08-22T16:06:52",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 15,
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 16,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "人生财富靠康波",
       "url": "",
-      "last_hot_value": "2174人在读",
+      "last_hot_value": "2157人在读",
       "first_seen_at": "2026-08-23T03:47:06",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 13,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "略萨作品：酒吧长谈（纪念版）",
+      "title": "给我40岁的女儿",
       "url": "",
-      "last_hot_value": "199人在读",
-      "first_seen_at": "2026-08-24T20:38:38",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "荷马史诗《伊利亚特》（罗念生全集·第六卷）",
-      "url": "",
-      "last_hot_value": "919人在读",
-      "first_seen_at": "2026-08-22T09:06:17",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 18,
+      "last_hot_value": "515人在读",
+      "first_seen_at": "2026-08-25T08:15:30",
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,16 +82,6 @@
       "is_new": false
     },
     {
-      "title": "给我40岁的女儿",
-      "url": "",
-      "last_hot_value": "389人在读",
-      "first_seen_at": "2026-08-25T08:15:30",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
       "title": "工作、消费主义和新穷人",
       "url": "",
       "last_hot_value": "4547人在读",
@@ -114,10 +104,10 @@
     {
       "title": "记一忘三二（不开心就读李娟！）",
       "url": "",
-      "last_hot_value": "6343人在读",
+      "last_hot_value": "6317人在读",
       "first_seen_at": "2026-08-24T07:49:49",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
@@ -162,14 +152,24 @@
       "is_new": false
     },
     {
+      "title": "我的阿勒泰（马伊琍、周依然、于适主演同名电视剧原著）",
+      "url": "",
+      "last_hot_value": "5348人在读",
+      "first_seen_at": "2026-08-25T09:27:43",
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "毛泽东选集（全四卷）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-08-25T08:15:30",
-      "last_seen_at": "2026-08-25T08:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-25T09:27:43",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
