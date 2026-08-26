@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-26T05:15:30",
+  "update_time": "2026-08-26T11:02:21",
   "items": [
     {
       "title": "我不难过",
       "url": "https://y.qq.com/n/ryqq/songDetail/001fsNdn1zuZnA",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T22:52:27",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/003GT3CT3p4h82",
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T14:13:25",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 13,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 14,
       "peak_rank": 1,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/002AZauQ1UKQxe",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T07:49:47",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T07:49:47",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,8 +96,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/0016znix01HNzO",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T05:23:42",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
@@ -110,6 +110,16 @@
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "甲乙丙丁 (你我怎么两清) (Live)",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001yKMAF26Wg6A",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:02:21",
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "渝人码头",
@@ -126,10 +136,10 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/0010BrWk2SucQr",
       "last_hot_value": "",
       "first_seen_at": "2026-08-26T05:15:30",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "不回头的人",
@@ -146,10 +156,10 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000qXLmI47rb6L",
       "last_hot_value": "",
       "first_seen_at": "2026-08-26T05:15:30",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Hope to Remain",
@@ -166,8 +176,8 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000BO3xy4fd8BJ",
       "last_hot_value": "",
       "first_seen_at": "2026-08-24T07:49:47",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
@@ -186,10 +196,10 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
       "last_hot_value": "",
       "first_seen_at": "2026-08-26T05:15:30",
-      "last_seen_at": "2026-08-26T05:15:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:02:21",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
