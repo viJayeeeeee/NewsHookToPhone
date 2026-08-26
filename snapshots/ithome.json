@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-25T19:07:49",
+  "update_time": "2026-08-26T11:28:04",
   "items": [
+    {
+      "title": "苹果全新 Mac mini 发布：可选 M6 或 M5 Pro 芯片，6999 元起售",
+      "url": "https://www.ithome.com/0/994/211.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-25T19:07:49",
+      "last_seen_at": "2026-08-26T11:28:04",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
       "url": "https://www.ithome.com/0/993/790.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
       "last_seen_at": "2026-08-25T19:07:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,23 +42,13 @@
       "is_new": false
     },
     {
-      "title": "华为余承东视频意外泄露神秘新机，网友推测是 Mate XT2 非凡大师新款三折叠手机",
-      "url": "https://www.ithome.com/0/993/121.htm",
+      "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
+      "url": "https://www.ithome.com/0/994/219.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:24",
-      "last_seen_at": "2026-08-23T22:47:39",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
-      "url": "https://www.ithome.com/0/993/119.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:24",
-      "last_seen_at": "2026-08-23T16:53:55",
-      "consecutive_count": 0,
-      "peak_rank": 1,
+      "first_seen_at": "2026-08-25T19:07:49",
+      "last_seen_at": "2026-08-26T11:28:04",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -57,7 +57,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
       "last_seen_at": "2026-08-25T19:07:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -92,12 +92,22 @@
       "is_new": false
     },
     {
+      "title": "69 元，苹果官网上线新款抛光布",
+      "url": "https://www.ithome.com/0/994/227.htm",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:04",
+      "last_seen_at": "2026-08-26T11:28:04",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型",
       "url": "https://www.ithome.com/0/993/838.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
       "last_seen_at": "2026-08-25T19:07:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -122,34 +132,14 @@
       "is_new": false
     },
     {
-      "title": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员",
-      "url": "https://www.ithome.com/0/993/181.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-23T11:01:44",
-      "last_seen_at": "2026-08-23T22:47:39",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "消息称某厂新机透明版设计回归，预计归属小米 18 系列",
-      "url": "https://www.ithome.com/0/993/157.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-23T11:01:44",
-      "last_seen_at": "2026-08-23T22:47:39",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "苹果全新 Mac mini 发布：可选 M6 或 M5 Pro 芯片，6999 元起售",
-      "url": "https://www.ithome.com/0/994/211.htm",
+      "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
+      "url": "https://www.ithome.com/0/994/220.htm",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T19:07:49",
-      "last_seen_at": "2026-08-25T19:07:49",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T11:28:04",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米玄戒 O3 行业首发支持 LPDDR6 内存，消息称长鑫存储是核心合作伙伴",
@@ -172,21 +162,11 @@
       "is_new": false
     },
     {
-      "title": "消息称华为 Pura X Max 系列横阔折手机销量破 70 万台，标准版与典藏版差距明显缩小",
-      "url": "https://www.ithome.com/0/993/132.htm",
+      "title": "苹果全新 Mac mini 搭载 Apple N1 无线网络芯片，支持 Wi-Fi 7、蓝牙 6、Thread 网络技术",
+      "url": "https://www.ithome.com/0/994/228.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:24",
-      "last_seen_at": "2026-08-23T22:47:39",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "苹果正式推出 M6 芯片：12 核 CPU，单线程性能全球领先",
-      "url": "https://www.ithome.com/0/994/219.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-25T19:07:49",
-      "last_seen_at": "2026-08-25T19:07:49",
+      "first_seen_at": "2026-08-26T11:28:04",
+      "last_seen_at": "2026-08-26T11:28:04",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -202,14 +182,14 @@
       "is_new": false
     },
     {
-      "title": "微软谈老 Windows 自带游戏《三维弹球》为何删了：我们没法花好几天研究代码",
-      "url": "https://www.ithome.com/0/993/089.htm",
+      "title": "苹果首款折叠手机：iPhone Ultra 主板曝光，内置最强 A20 Pro 芯片",
+      "url": "https://www.ithome.com/0/994/490.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:24",
-      "last_seen_at": "2026-08-23T11:01:44",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "first_seen_at": "2026-08-26T11:28:04",
+      "last_seen_at": "2026-08-26T11:28:04",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "消息称华为 Pura X View 阔直板手机搭载麒麟 9030S 处理器，现阶段全系采用 12GB 运存",
@@ -217,9 +197,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T19:07:49",
       "last_seen_at": "2026-08-25T19:07:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "iPhone 18 Pro 与折叠屏 iPhone 即将登场，苹果 2026 秋季新品发布会何时举办？",
@@ -252,24 +232,14 @@
       "is_new": false
     },
     {
-      "title": "沈腾主演电影《欢迎来龙餐馆》 总票房破 15 亿，进入年度前五",
-      "url": "https://www.ithome.com/0/993/169.htm",
+      "title": "小米手机售后规则再调整，删除二手产品 / 商品不属于三包范围相关表述",
+      "url": "https://www.ithome.com/0/994/254.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-23T11:01:44",
-      "last_seen_at": "2026-08-23T22:47:39",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "消息称 OPPO 阔直板机型进版测试，小屏手机项目暂停",
-      "url": "https://www.ithome.com/0/993/048.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-22T21:09:23",
-      "last_seen_at": "2026-08-23T07:38:24",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "first_seen_at": "2026-08-26T11:28:04",
+      "last_seen_at": "2026-08-26T11:28:04",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "古尔曼：苹果可能在“未来几天内”发布新款 Mac mini",
@@ -277,7 +247,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:49",
       "last_seen_at": "2026-08-25T19:07:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -312,14 +282,14 @@
       "is_new": false
     },
     {
-      "title": "国家卫健委：白血病不再是“不治之症”，中国造血干细胞移植技术处于世界前沿",
-      "url": "https://www.ithome.com/0/993/109.htm",
+      "title": "苹果推出全新 Mac Studio，可选 M5 Max 或 M5 Ultra 处理器，19999 元起售",
+      "url": "https://www.ithome.com/0/994/215.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:24",
-      "last_seen_at": "2026-08-23T11:01:44",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "first_seen_at": "2026-08-26T11:28:04",
+      "last_seen_at": "2026-08-26T11:28:04",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "男子不慎将自己锁在汽车后备箱：近 40℃ 高温被困约 5 小时，靠喊语音助手报警获救",
@@ -327,9 +297,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T19:07:49",
       "last_seen_at": "2026-08-25T19:07:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”",
@@ -372,24 +342,14 @@
       "is_new": false
     },
     {
-      "title": "华为 FreeBuds 7 无线耳机曝光：取消家族式水滴造型设计，支持星闪连接",
-      "url": "https://www.ithome.com/0/993/154.htm",
+      "title": "苹果 iOS 27 正式版发布在即，Siri AI 预计将采用候补名单机制",
+      "url": "https://www.ithome.com/0/994/165.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-23T11:01:44",
-      "last_seen_at": "2026-08-23T22:47:39",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "特斯拉回应近 300 万辆召回：无需全部进店，贴纸 3 年内随时可领",
-      "url": "https://www.ithome.com/0/993/052.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:24",
-      "last_seen_at": "2026-08-23T07:38:24",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-08-26T11:28:04",
+      "last_seen_at": "2026-08-26T11:28:04",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "曝 9 月或是机圈史上最激烈新品月，“华米 OV 耀”旗舰新机将轮番登场",
@@ -397,9 +357,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T19:07:49",
       "last_seen_at": "2026-08-25T19:07:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "消息称苹果外部已有人体验过折叠屏 iPhone：屏幕铰链评价积极，但缺少长焦镜头",
@@ -412,11 +372,11 @@
       "is_new": false
     },
     {
-      "title": "苹果正式推出 M5 Ultra 芯片，最高 36 核 CPU/80 核 GPU，1.2 TB/s 统一内存带宽",
-      "url": "https://www.ithome.com/0/994/220.htm",
+      "title": "男子醉酒后开智驾在超车道停车睡着，被判拘役 1 个月处罚金 2000 元",
+      "url": "https://www.ithome.com/0/994/328.htm",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-25T19:07:49",
-      "last_seen_at": "2026-08-25T19:07:49",
+      "first_seen_at": "2026-08-26T11:28:04",
+      "last_seen_at": "2026-08-26T11:28:04",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
@@ -447,16 +407,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-23T22:47:39",
       "last_seen_at": "2026-08-23T22:47:39",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "苹果官网上架 Bellroy Cinch 邮差包：12L 容量，可收纳 MacBook、AirTag，849 元",
-      "url": "https://www.ithome.com/0/993/031.htm",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:24",
-      "last_seen_at": "2026-08-23T07:38:24",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

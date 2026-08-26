@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-25T19:07:47",
+  "update_time": "2026-08-26T11:28:02",
   "items": [
+    {
+      "title": "HarmonyOS7 WaterFlow 加了 sections 分组后列表划不动？itemsCount 对齐才是关键",
+      "url": "https://ost.51cto.com/posts/55608",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "「重置之神」Tibo：Codex真的有一个「重置」按钮，实体的",
       "url": "https://www.51cto.com/article/853932.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T03:53:22",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -42,14 +52,14 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek 多模态正式发布，终于开眼了：能力接近 Opus-4.8，单图最高按 384 token 计费",
-      "url": "https://www.51cto.com/article/853701.html",
+      "title": "HarmonyOS 7 空间交互开发手记01｜用 ArkUI 沉浸光感重构卡片层级与空间反馈",
+      "url": "https://ost.51cto.com/posts/55607",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:23",
-      "last_seen_at": "2026-08-23T22:47:38",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "六个Claude Code神作，Anthropic亲选",
@@ -57,7 +67,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -82,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "重磅，DeepSeek多模态模型上线了！",
-      "url": "https://www.51cto.com/article/853699.html",
+      "title": "突发，OpenAI首颗「辣椒」芯片压倒英伟达！GPT-6干崩CUDA",
+      "url": "https://www.51cto.com/article/854034.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-23T07:38:23",
-      "last_seen_at": "2026-08-23T22:47:38",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "AI Coding 多需求并行怎么不乱？Worktree + Submodule 的多仓 Git 实践",
@@ -97,7 +107,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -122,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "细数LLM Benchmark模型是如何作弊的",
+      "url": "https://www.51cto.com/article/853755.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "全球首个！十万小时人类数据全开源，Hugging Face罕见站台",
       "url": "https://www.51cto.com/article/853929.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -152,12 +172,22 @@
       "is_new": false
     },
     {
+      "title": "八组原生 API：这些 npm 依赖还要装吗？",
+      "url": "https://www.51cto.com/article/853751.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "Agent 死循环，max_turns 只解决了三分之一：剩下两道防护怎么补",
       "url": "https://www.51cto.com/article/853927.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -182,12 +212,22 @@
       "is_new": false
     },
     {
+      "title": "具身智能的技术挑战和研究方向",
+      "url": "https://www.51cto.com/article/854015.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "花三个月做十个没人用的App：AI提效之后，真正的问题来了",
       "url": "https://www.51cto.com/article/853925.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -212,12 +252,22 @@
       "is_new": false
     },
     {
+      "title": "深入理解 Java Unsafe：从底层魔法到被淘汰的命运",
+      "url": "https://www.51cto.com/article/854007.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "Claude Code 都这么强了，我们还要自己造 Agent 吗？",
       "url": "https://www.51cto.com/article/853923.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -242,12 +292,22 @@
       "is_new": false
     },
     {
+      "title": "面试官：讲一下生产环境完整的Agent缓存体系，哪些数据可以做缓存，哪些不能做缓存？",
+      "url": "https://www.51cto.com/article/853847.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "AI开始替人类调用AI！token用量已是人类5.2倍",
       "url": "https://www.51cto.com/article/853920.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -272,12 +332,22 @@
       "is_new": false
     },
     {
+      "title": "Agent 跨会话记忆的生产落地：LangGraph MemoryStore 如何让 Agent 记住你是谁",
+      "url": "https://www.51cto.com/article/853758.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "悬浮页签实战：从官方 API 到自定义实现，给电商首页换上毛玻璃悬浮底栏",
       "url": "https://ost.51cto.com/posts/55572",
       "last_hot_value": "",
       "first_seen_at": "2026-08-25T12:00:47",
       "last_seen_at": "2026-08-25T19:07:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -300,6 +370,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "硬核可视化：用 CesiumJS 打造专业级时变路径图形系统",
+      "url": "https://www.51cto.com/article/854014.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-26T11:28:02",
+      "last_seen_at": "2026-08-26T11:28:02",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "英伟达服务器涨价超15%！百亿AI基建的「内存难题」",

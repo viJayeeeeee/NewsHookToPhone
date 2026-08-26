@@ -1,123 +1,63 @@
 {
-  "update_time": "2026-08-25T19:07:44",
+  "update_time": "2026-08-26T11:27:59",
   "items": [
-    {
-      "title": "备份完不算完，先还原到临时库验一遍",
-      "url": "https://juejin.cn/post/7676421042796412968",
-      "last_hot_value": "热度:1863",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 10,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "这个本地模型，让我 token 自由了",
-      "url": "https://juejin.cn/post/7676709710489419786",
-      "last_hot_value": "热度:1764",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
-      "url": "https://juejin.cn/post/7675272903249625107",
-      "last_hot_value": "热度:2214",
-      "first_seen_at": "2026-08-22T21:09:18",
-      "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
       "url": "https://juejin.cn/post/7677562804154531890",
-      "last_hot_value": "热度:1035",
+      "last_hot_value": "热度:3888",
       "first_seen_at": "2026-08-25T12:00:43",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
+      "url": "https://juejin.cn/post/7677428850284675082",
+      "last_hot_value": "热度:1035",
+      "first_seen_at": "2026-08-25T03:53:19",
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 5,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
+      "url": "https://juejin.cn/post/7677418026090528794",
+      "last_hot_value": "热度:1035",
+      "first_seen_at": "2026-08-25T06:10:43",
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "一行 CSS 新特性干掉 20 行 JavaScript ?",
       "url": "https://juejin.cn/post/7677254638324350986",
-      "last_hot_value": "热度:747",
+      "last_hot_value": "热度:972",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 8,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "在浏览器里对比 DWG/DXF 图纸 —— @mlightcad/cad-diff-viewer",
       "url": "https://juejin.cn/post/7677109639176749090",
-      "last_hot_value": "热度:747",
+      "last_hot_value": "热度:774",
       "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 8,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产",
-      "url": "https://juejin.cn/post/7675633667490267179",
-      "last_hot_value": "热度:342",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-23T22:47:34",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "超好用 R8 Configuration Analyzer， 优化你的 App 大小和内存",
-      "url": "https://juejin.cn/post/7676092674902868010",
-      "last_hot_value": "热度:594",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 10,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "为什么越来越多人用 kkFileView？",
-      "url": "https://juejin.cn/post/7676641074035605550",
-      "last_hot_value": "热度:630",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-25T03:53:19",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
-      "url": "https://juejin.cn/post/7677428850284675082",
-      "last_hot_value": "热度:675",
-      "first_seen_at": "2026-08-25T03:53:19",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 4,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "虚拟滚动真的比普通滚动性能更好吗？",
-      "url": "https://juejin.cn/post/7676091857219272742",
-      "last_hot_value": "热度:324",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-23T22:47:34",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
-      "url": "https://juejin.cn/post/7677418026090528794",
-      "last_hot_value": "热度:675",
-      "first_seen_at": "2026-08-25T06:10:43",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 3,
+      "title": "一个人 + AI 做的小程序，上线 15 天赚了 10 块 5",
+      "url": "https://juejin.cn/post/7677077660528001070",
+      "last_hot_value": "热度:720",
+      "first_seen_at": "2026-08-25T12:00:43",
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": false
     },
@@ -127,8 +67,18 @@
       "last_hot_value": "热度:549",
       "first_seen_at": "2026-08-24T12:47:31",
       "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "图解 AI Agent ①：大模型接上 API，为什么还不算 Agent？",
+      "url": "https://juejin.cn/post/7677170455305879562",
+      "last_hot_value": "热度:585",
+      "first_seen_at": "2026-08-25T19:07:44",
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 2,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -137,19 +87,19 @@
       "last_hot_value": "热度:540",
       "first_seen_at": "2026-08-24T12:47:31",
       "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "从失业到出书：我一个人靠 AI 搭起了一家小公司",
-      "url": "https://juejin.cn/post/7675947280080879667",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-08-23T07:38:19",
-      "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT-5.6 Sol，EvoX 够猛",
+      "url": "https://juejin.cn/post/7677124067654893622",
+      "last_hot_value": "热度:576",
+      "first_seen_at": "2026-08-26T11:27:59",
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "华为新上Pura X View阔直板手机，特殊屏幕比例设备下，前端应该怎么去适配更完美？送你一套完整工具代码",
@@ -172,14 +122,14 @@
       "is_new": false
     },
     {
-      "title": "从零开发一个 Coding Agent（十三）：实现安全的 read 文件读取工具",
-      "url": "https://juejin.cn/post/7676098169944047643",
-      "last_hot_value": "热度:189",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-23T22:47:34",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "「速通Shell」常用命令（中）——进程、网络与系统信息",
+      "url": "https://juejin.cn/post/7677883485022388267",
+      "last_hot_value": "热度:531",
+      "first_seen_at": "2026-08-26T11:27:59",
+      "last_seen_at": "2026-08-26T11:27:59",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "JWT 3：为什么 Token 要放进 Authorization？Axios 拦截器到底解决了什么？",
@@ -192,54 +142,14 @@
       "is_new": false
     },
     {
-      "title": "Go 1.27 升了一波，泛型方法和 JSON v2 真香但有个坑",
-      "url": "https://juejin.cn/post/7675914752422805514",
-      "last_hot_value": "热度:189",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-23T22:47:34",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "图解 AI Agent ①：大模型接上 API，为什么还不算 Agent？",
-      "url": "https://juejin.cn/post/7677170455305879562",
-      "last_hot_value": "热度:531",
-      "first_seen_at": "2026-08-25T19:07:44",
-      "last_seen_at": "2026-08-25T19:07:44",
+      "title": "两个半月的时间如何赚到 3000 块钱。",
+      "url": "https://juejin.cn/post/7677842844808052776",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-08-26T11:27:59",
+      "last_seen_at": "2026-08-26T11:27:59",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
-    },
-    {
-      "title": "一个人 + AI 做的小程序，上线 15 天赚了 10 块 5",
-      "url": "https://juejin.cn/post/7677077660528001070",
-      "last_hot_value": "热度:441",
-      "first_seen_at": "2026-08-25T12:00:43",
-      "last_seen_at": "2026-08-25T12:00:43",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "给 AI 时代找工作的同学一些实用建议",
-      "url": "https://juejin.cn/post/7676277362519113763",
-      "last_hot_value": "热度:153",
-      "first_seen_at": "2026-08-23T11:01:36",
-      "last_seen_at": "2026-08-23T11:01:36",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek Harness 命令大全",
-      "url": "https://juejin.cn/post/7675947280080240691",
-      "last_hot_value": "热度:360",
-      "first_seen_at": "2026-08-23T07:38:19",
-      "last_seen_at": "2026-08-23T07:38:19",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
     }
   ]
 }
