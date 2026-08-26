@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-08-26T11:02:26",
+  "update_time": "2026-08-26T13:26:45",
   "items": [
     {
       "title": "M5.5 台湾台东县海域",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.5级",
       "first_seen_at": "2026-08-25T08:15:33",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +16,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.9级",
       "first_seen_at": "2026-08-24T20:38:41",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 10,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 11,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.7级",
       "first_seen_at": "2026-08-24T05:23:47",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 12,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 13,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,18 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.0级",
       "first_seen_at": "2026-08-23T15:27:56",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 13,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M4.2 克什米尔",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "4.2级",
-      "first_seen_at": "2026-08-23T11:55:42",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 15,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 14,
       "peak_rank": 1,
       "is_new": false
     },
@@ -56,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.8级",
       "first_seen_at": "2026-08-26T05:15:35",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -66,8 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.0级",
       "first_seen_at": "2026-08-25T10:31:53",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 7,
       "peak_rank": 7,
       "is_new": false
     },
@@ -76,8 +66,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-08-24T07:49:52",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 12,
       "peak_rank": 7,
       "is_new": false
     },
@@ -86,8 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.5级",
       "first_seen_at": "2026-08-25T09:27:46",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 7,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 8,
       "peak_rank": 8,
       "is_new": false
     },
@@ -96,8 +86,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.7级",
       "first_seen_at": "2026-08-24T07:49:52",
-      "last_seen_at": "2026-08-26T11:02:26",
-      "consecutive_count": 11,
+      "last_seen_at": "2026-08-26T13:26:45",
+      "consecutive_count": 12,
       "peak_rank": 8,
       "is_new": false
     },
@@ -117,16 +107,6 @@
       "last_hot_value": "4.8级",
       "first_seen_at": "2026-08-24T07:49:52",
       "last_seen_at": "2026-08-24T07:49:52",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "M3.7 河南濮阳市范县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.7级",
-      "first_seen_at": "2026-08-23T11:55:42",
-      "last_seen_at": "2026-08-23T14:13:30",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
