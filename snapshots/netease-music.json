@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-08-25T17:33:55",
+  "update_time": "2026-08-26T02:54:30",
   "items": [
     {
       "title": "甲乙丙丁 (你我怎么两清)",
       "url": "https://music.163.com/#/song?id=3399839173",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-25T17:33:55",
-      "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "海屿你",
       "url": "https://music.163.com/#/song?id=1973665667",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-25T17:33:55",
-      "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "于是",
+      "url": "https://music.163.com/#/song?id=1303464858",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-08-25T08:15:23",
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 6,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "讴歌",
@@ -27,7 +37,7 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-25T08:15:23",
       "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -36,9 +46,19 @@
       "url": "https://music.163.com/#/song?id=2097443876",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-25T17:33:55",
-      "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 2,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "无题",
+      "url": "https://music.163.com/#/song?id=3423462793",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-08-26T02:54:30",
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -46,20 +66,20 @@
       "url": "https://music.163.com/#/song?id=3404238777",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-24T22:52:25",
-      "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 7,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "于是",
-      "url": "https://music.163.com/#/song?id=1303464858",
+      "title": "还是会想你",
+      "url": "https://music.163.com/#/song?id=1827600686",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-08-25T08:15:23",
-      "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 5,
+      "first_seen_at": "2026-08-26T02:54:30",
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "忘不掉的你",
@@ -76,30 +96,30 @@
       "url": "https://music.163.com/#/song?id=2600493765",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-25T17:33:55",
-      "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "玻璃",
       "url": "https://music.163.com/#/song?id=3382908505",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-25T17:33:55",
-      "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "失眠",
       "url": "https://music.163.com/#/song?id=273114",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-25T17:33:55",
-      "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-26T02:54:30",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我好想你 (苏打绿版)",
@@ -107,7 +127,7 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-08-25T09:27:39",
       "last_seen_at": "2026-08-25T17:33:55",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
