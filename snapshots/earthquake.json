@@ -1,45 +1,65 @@
 {
-  "update_time": "2026-08-26T13:26:45",
+  "update_time": "2026-08-27T20:55:35",
   "items": [
+    {
+      "title": "M3.8 广西柳州市柳南区",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.8级",
+      "first_seen_at": "2026-08-27T20:55:35",
+      "last_seen_at": "2026-08-27T20:55:35",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M5.5 台湾台东县海域",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.5级",
       "first_seen_at": "2026-08-25T08:15:33",
-      "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 9,
+      "last_seen_at": "2026-08-27T20:55:35",
+      "consecutive_count": 10,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "M5.9 印尼班达海",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.9级",
-      "first_seen_at": "2026-08-24T20:38:41",
-      "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 11,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M4.7 四川宜宾市长宁县",
+      "title": "M4.7 西藏那曲市尼玛县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.7级",
-      "first_seen_at": "2026-08-24T05:23:47",
-      "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 13,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-27T20:55:35",
+      "last_seen_at": "2026-08-27T20:55:35",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
-      "title": "M6.0 日本北海道附近海域",
+      "title": "M3.3 四川宜宾市高县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.0级",
-      "first_seen_at": "2026-08-23T15:27:56",
-      "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 14,
-      "peak_rank": 1,
-      "is_new": false
+      "last_hot_value": "3.3级",
+      "first_seen_at": "2026-08-27T20:55:35",
+      "last_seen_at": "2026-08-27T20:55:35",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "M4.5 台湾台东县海域",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "4.5级",
+      "first_seen_at": "2026-08-27T20:55:35",
+      "last_seen_at": "2026-08-27T20:55:35",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "M5.3 哥伦比亚",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "5.3级",
+      "first_seen_at": "2026-08-27T20:55:35",
+      "last_seen_at": "2026-08-27T20:55:35",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "M5.8 日本本州岛",
@@ -47,7 +67,7 @@
       "last_hot_value": "5.8级",
       "first_seen_at": "2026-08-26T05:15:35",
       "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -57,17 +77,7 @@
       "last_hot_value": "6.0级",
       "first_seen_at": "2026-08-25T10:31:53",
       "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 7,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "M3.1 宁夏中卫市海原县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.1级",
-      "first_seen_at": "2026-08-24T07:49:52",
-      "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 12,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -77,39 +87,19 @@
       "last_hot_value": "4.5级",
       "first_seen_at": "2026-08-25T09:27:46",
       "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "M6.7 秘鲁",
+      "title": "M4.2 克什米尔",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.7级",
-      "first_seen_at": "2026-08-24T07:49:52",
-      "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 12,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "M3.6 青海海西州直辖区",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.6级",
-      "first_seen_at": "2026-08-24T07:49:52",
-      "last_seen_at": "2026-08-24T22:52:31",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "M4.8 青海海西州直辖区",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "4.8级",
-      "first_seen_at": "2026-08-24T07:49:52",
-      "last_seen_at": "2026-08-24T07:49:52",
-      "consecutive_count": 0,
+      "last_hot_value": "4.2级",
+      "first_seen_at": "2026-08-27T20:55:35",
+      "last_seen_at": "2026-08-27T20:55:35",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
