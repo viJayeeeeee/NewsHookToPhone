@@ -1,14 +1,24 @@
 {
-  "update_time": "2026-08-26T17:12:02",
+  "update_time": "2026-08-27T10:45:32",
   "items": [
     {
       "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
       "url": "https://juejin.cn/post/7677562804154531890",
-      "last_hot_value": "热度:4455",
+      "last_hot_value": "热度:4995",
       "first_seen_at": "2026-08-25T12:00:43",
-      "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 5,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
+      "url": "https://juejin.cn/post/7677418026090528794",
+      "last_hot_value": "热度:1539",
+      "first_seen_at": "2026-08-25T06:10:43",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 6,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,17 +27,17 @@
       "last_hot_value": "热度:1152",
       "first_seen_at": "2026-08-25T03:53:19",
       "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
-      "url": "https://juejin.cn/post/7677418026090528794",
-      "last_hot_value": "热度:1152",
-      "first_seen_at": "2026-08-25T06:10:43",
-      "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 5,
+      "title": "「速通Shell」常用命令（中）——进程、网络与系统信息",
+      "url": "https://juejin.cn/post/7677883485022388267",
+      "last_hot_value": "热度:1008",
+      "first_seen_at": "2026-08-26T11:27:59",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -37,7 +47,7 @@
       "last_hot_value": "热度:999",
       "first_seen_at": "2026-08-24T12:47:31",
       "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -47,9 +57,39 @@
       "last_hot_value": "热度:783",
       "first_seen_at": "2026-08-24T12:47:31",
       "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 9,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "两个半月的时间如何赚到 3000 块钱。",
+      "url": "https://juejin.cn/post/7677842844808052776",
+      "last_hot_value": "热度:720",
+      "first_seen_at": "2026-08-26T11:27:59",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "Web Components 为什么火不起来？",
+      "url": "https://juejin.cn/post/7677868279283171368",
+      "last_hot_value": "热度:576",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "外包前端和大厂前端，写的代码到底有什么本质区别？",
+      "url": "https://juejin.cn/post/7677502358059073588",
+      "last_hot_value": "热度:567",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "一个人 + AI 做的小程序，上线 15 天赚了 10 块 5",
@@ -57,7 +97,7 @@
       "last_hot_value": "热度:756",
       "first_seen_at": "2026-08-25T12:00:43",
       "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -72,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "「速通Shell」常用命令（中）——进程、网络与系统信息",
-      "url": "https://juejin.cn/post/7677883485022388267",
-      "last_hot_value": "热度:666",
-      "first_seen_at": "2026-08-26T11:27:59",
-      "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 2,
+      "title": "聊聊 Prompt 是怎么一路进化到 Harness 的",
+      "url": "https://juejin.cn/post/7677489259041144866",
+      "last_hot_value": "热度:513",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "图解 AI Agent ①：大模型接上 API，为什么还不算 Agent？",
@@ -87,7 +127,7 @@
       "last_hot_value": "热度:594",
       "first_seen_at": "2026-08-25T19:07:44",
       "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -102,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "图解 AI Agent ②：模型到底是怎么读取文件的？",
+      "url": "https://juejin.cn/post/7677762452274085914",
+      "last_hot_value": "热度:504",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT-5.6 Sol，EvoX 够猛",
       "url": "https://juejin.cn/post/7677124067654893622",
       "last_hot_value": "热度:621",
       "first_seen_at": "2026-08-26T11:27:59",
       "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -122,6 +172,16 @@
       "is_new": false
     },
     {
+      "title": "「速通Shell」常用命令（下）—— 归档、权限与进阶工具",
+      "url": "https://juejin.cn/post/7678166172437004294",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "JWT 3：为什么 Token 要放进 Authorization？Axios 拦截器到底解决了什么？",
       "url": "https://juejin.cn/post/7676826408547041289",
       "last_hot_value": "热度:288",
@@ -132,14 +192,14 @@
       "is_new": false
     },
     {
-      "title": "两个半月的时间如何赚到 3000 块钱。",
-      "url": "https://juejin.cn/post/7677842844808052776",
-      "last_hot_value": "热度:504",
-      "first_seen_at": "2026-08-26T11:27:59",
-      "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 2,
+      "title": "为什么越来越多人用AgentScope ？",
+      "url": "https://juejin.cn/post/7678161312637730862",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-27T10:45:32",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
