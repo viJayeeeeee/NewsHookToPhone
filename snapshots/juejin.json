@@ -1,35 +1,35 @@
 {
-  "update_time": "2026-08-27T10:45:32",
+  "update_time": "2026-08-28T17:04:10",
   "items": [
     {
-      "title": "走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术",
-      "url": "https://juejin.cn/post/7677562804154531890",
-      "last_hot_value": "热度:4995",
-      "first_seen_at": "2026-08-25T12:00:43",
-      "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 5,
+      "title": "两个半月的时间如何赚到 3000 块钱。",
+      "url": "https://juejin.cn/post/7677842844808052776",
+      "last_hot_value": "热度:1008",
+      "first_seen_at": "2026-08-26T11:27:59",
+      "last_seen_at": "2026-08-28T17:04:10",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "向量数据库不该成为新孤岛：KingbaseES 多模融合架构如何减少数据搬运",
-      "url": "https://juejin.cn/post/7677418026090528794",
-      "last_hot_value": "热度:1539",
-      "first_seen_at": "2026-08-25T06:10:43",
-      "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 6,
+      "title": "Web Components 为什么火不起来？",
+      "url": "https://juejin.cn/post/7677868279283171368",
+      "last_hot_value": "热度:954",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-28T17:04:10",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
-      "url": "https://juejin.cn/post/7677428850284675082",
-      "last_hot_value": "热度:1152",
-      "first_seen_at": "2026-08-25T03:53:19",
-      "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "ValidX错误消息国际化完全指南：8种语言9个语言包与三级回退机制",
+      "url": "https://juejin.cn/post/7678747733979201536",
+      "last_hot_value": "热度:630",
+      "first_seen_at": "2026-08-28T17:04:10",
+      "last_seen_at": "2026-08-28T17:04:10",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "「速通Shell」常用命令（中）——进程、网络与系统信息",
@@ -37,48 +37,38 @@
       "last_hot_value": "热度:1008",
       "first_seen_at": "2026-08-26T11:27:59",
       "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "一行 CSS 新特性干掉 20 行 JavaScript ?",
-      "url": "https://juejin.cn/post/7677254638324350986",
-      "last_hot_value": "热度:999",
-      "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-26T17:12:02",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "在浏览器里对比 DWG/DXF 图纸 —— @mlightcad/cad-diff-viewer",
-      "url": "https://juejin.cn/post/7677109639176749090",
-      "last_hot_value": "热度:783",
-      "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-26T17:12:02",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "两个半月的时间如何赚到 3000 块钱。",
-      "url": "https://juejin.cn/post/7677842844808052776",
-      "last_hot_value": "热度:720",
-      "first_seen_at": "2026-08-26T11:27:59",
-      "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 3,
+      "title": "为什么越来越多人用AgentScope ？",
+      "url": "https://juejin.cn/post/7678161312637730862",
+      "last_hot_value": "热度:576",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-28T17:04:10",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "Web Components 为什么火不起来？",
-      "url": "https://juejin.cn/post/7677868279283171368",
-      "last_hot_value": "热度:576",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-27T10:45:32",
+      "title": "GLM-5.3-Flash 发布：追平 Opus 4.8 的智力，1/40 的价格，跑在国产芯片上",
+      "url": "https://juejin.cn/post/7678214547980582952",
+      "last_hot_value": "热度:486",
+      "first_seen_at": "2026-08-28T17:04:10",
+      "last_seen_at": "2026-08-28T17:04:10",
       "consecutive_count": 1,
       "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "Gradle 9.7.0 将提速 Android 构建，Sync 提升接近一倍",
+      "url": "https://juejin.cn/post/7677854475684020267",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-08-28T17:04:10",
+      "last_seen_at": "2026-08-28T17:04:10",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -87,28 +77,18 @@
       "last_hot_value": "热度:567",
       "first_seen_at": "2026-08-27T10:45:32",
       "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "一个人 + AI 做的小程序，上线 15 天赚了 10 块 5",
-      "url": "https://juejin.cn/post/7677077660528001070",
-      "last_hot_value": "热度:756",
-      "first_seen_at": "2026-08-25T12:00:43",
-      "last_seen_at": "2026-08-26T17:12:02",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "客户只想看个页面，我却做了一个静态演示发布系统",
-      "url": "https://juejin.cn/post/7676301268526841856",
-      "last_hot_value": "热度:549",
-      "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 0,
-      "peak_rank": 6,
+      "title": "「速通Shell」常用命令（下）—— 归档、权限与进阶工具",
+      "url": "https://juejin.cn/post/7678166172437004294",
+      "last_hot_value": "热度:441",
+      "first_seen_at": "2026-08-27T10:45:32",
+      "last_seen_at": "2026-08-28T17:04:10",
+      "consecutive_count": 2,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -117,9 +97,9 @@
       "last_hot_value": "热度:513",
       "first_seen_at": "2026-08-27T10:45:32",
       "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "图解 AI Agent ①：大模型接上 API，为什么还不算 Agent？",
@@ -132,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "Sandbox（沙箱）到底是什么?",
-      "url": "https://juejin.cn/post/7676165309280796698",
-      "last_hot_value": "热度:540",
-      "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T19:07:44",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "title": "汤森路透的座上宾？Qwen3.5-397B-A17B到底有什么本事？",
+      "url": "https://juejin.cn/post/7677899267893461034",
+      "last_hot_value": "热度:360",
+      "first_seen_at": "2026-08-28T17:04:10",
+      "last_seen_at": "2026-08-28T17:04:10",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "图解 AI Agent ②：模型到底是怎么读取文件的？",
@@ -147,9 +127,9 @@
       "last_hot_value": "热度:504",
       "first_seen_at": "2026-08-27T10:45:32",
       "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "爽用 DeepSeek V4 Flash、GLM-5.2、Qwen3.8 Max、GPT-5.6 Sol，EvoX 够猛",
@@ -162,41 +142,21 @@
       "is_new": false
     },
     {
-      "title": "华为新上Pura X View阔直板手机，特殊屏幕比例设备下，前端应该怎么去适配更完美？送你一套完整工具代码",
-      "url": "https://juejin.cn/post/7676375370356047899",
-      "last_hot_value": "热度:342",
-      "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-25T06:10:43",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "「速通Shell」常用命令（下）—— 归档、权限与进阶工具",
-      "url": "https://juejin.cn/post/7678166172437004294",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-27T10:45:32",
+      "title": "我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱",
+      "url": "https://juejin.cn/post/7678531174247874586",
+      "last_hot_value": "热度:351",
+      "first_seen_at": "2026-08-28T17:04:10",
+      "last_seen_at": "2026-08-28T17:04:10",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "JWT 3：为什么 Token 要放进 Authorization？Axios 拦截器到底解决了什么？",
-      "url": "https://juejin.cn/post/7676826408547041289",
-      "last_hot_value": "热度:288",
-      "first_seen_at": "2026-08-24T12:47:31",
-      "last_seen_at": "2026-08-24T23:13:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "为什么越来越多人用AgentScope ？",
-      "url": "https://juejin.cn/post/7678161312637730862",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-27T10:45:32",
+      "title": "表格、文档、甘特、大屏、表单一站打通：pxcharts超级表格4.0正式上线！",
+      "url": "https://juejin.cn/post/7678237761537916979",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-08-28T17:04:10",
+      "last_seen_at": "2026-08-28T17:04:10",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

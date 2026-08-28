@@ -1,45 +1,35 @@
 {
-  "update_time": "2026-08-27T10:45:34",
+  "update_time": "2026-08-28T17:04:11",
   "items": [
     {
-      "title": "用蓝耘元生代做 GitHub 热榜解读：Dify Chatflow 接入和真实项目分析",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/164029855",
-      "last_hot_value": "3.6w",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 9,
+      "title": "Linux网络（三）：一台主机到底是如何被网络找到的？从 IP 地址到 MAC 地址，再到端口号",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/164030545",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-08-26T17:12:03",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "GitHub 热榜项目 - 周榜(2026-08-22)",
-      "url": "https://blog.csdn.net/u014390502/article/details/163971003",
-      "last_hot_value": "2.5w",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T03:53:20",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "工业物联网时序数据库选型研究",
+      "url": "https://blog.csdn.net/qq_39866533/article/details/164108931",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
-      "title": "【AI智能体】Codex 插件从使用到项目开发实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163613455",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 9,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "AI 训练数据湖：为什么 RustFS 是 S3 兼容存储的新选择",
-      "url": "https://blog.csdn.net/rustfs_contrib/article/details/163943909",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-08-25T12:00:45",
-      "last_seen_at": "2026-08-26T11:28:01",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "AI 搜索时代，博客应该怎样写",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/163614123",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "墨衍 MoGrow 是什么？给技术创作者的新用户指南",
@@ -47,9 +37,9 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-08-27T10:45:34",
       "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Linux、Windows、macOS 都能用：部署 Nging 搭建 Web 服务器管理面板",
@@ -57,49 +47,19 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-26T11:28:01",
       "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "PyTorch强化学习实战（23）——强化学习在网页导航中的应用",
-      "url": "https://blog.csdn.net/LOVEmy134611/article/details/159766221",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T19:07:45",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "医疗AI可扩展网格信息系统中网格计算技术的智能优化",
-      "url": "https://blog.csdn.net/kkiron/article/details/163948366",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T12:00:45",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "鸿蒙手机远控电脑横评：ToDesk/向日葵/华为远程PC实测，连接、流畅度、键鼠和安全一次看清",
-      "url": "https://blog.csdn.net/qq_33681891/article/details/163974592",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Linux网络（三）：一台主机到底是如何被网络找到的？从 IP 地址到 MAC 地址，再到端口号",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/164030545",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-26T17:12:03",
-      "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 2,
+      "title": "AI Agent 的四根支柱：LLM、工具、记忆与规划是如何协同的",
+      "url": "https://blog.csdn.net/2401_89111612/article/details/164066747",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "达梦VS金仓：数据库替换真正拉开差距的，是迁移工具的工程效率",
@@ -122,14 +82,14 @@
       "is_new": false
     },
     {
-      "title": "Oracle 块清除（Block Cleanout）：commit 之后，数据块里的“战场“谁来打扫？",
-      "url": "https://blog.csdn.net/weixin_63349582/article/details/164017926",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "【AI 测评】不只是和 AI 聊天：Windows 部署 OpenClaw，让大模型开始操作本地电脑",
+      "url": "https://blog.csdn.net/2402_87298751/article/details/164146418",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "一个网页管理多种远程连接：Docker 部署 Next Terminal 与资产审计",
@@ -137,7 +97,7 @@
       "last_hot_value": "8099",
       "first_seen_at": "2026-08-25T19:07:45",
       "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -152,34 +112,14 @@
       "is_new": false
     },
     {
-      "title": "ChatGPT 的回答也能被结构化抓取？AI Bot Scraper 对比测评",
-      "url": "https://blog.csdn.net/m0_64336780/article/details/164018908",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-08-25T06:10:45",
-      "last_seen_at": "2026-08-25T12:00:45",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "告别手工分表：金仓时序数据库超表架构落地的一次实战复盘",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/164000650",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T12:00:45",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "【Linux】线程到底是什么？从轻量级进程、虚拟地址到页表与 MMU，一次理清线程底层模型",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/164035492",
+      "title": "HarmonyOS 7 核心实践：基于 CoreVisionKit 端侧 AI 语义搜图与多模态双链 Vault 架构",
+      "url": "https://blog.csdn.net/sjw890821sjw/article/details/164074915",
       "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-25T12:00:45",
-      "last_seen_at": "2026-08-27T10:45:34",
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
       "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【AI大模型接入SDK】C++日志体系与spdlog封装的理论部分",
@@ -192,14 +132,14 @@
       "is_new": false
     },
     {
-      "title": "NAS 运维到 Playbook：Ansible + cpolar 远程自动化实战",
-      "url": "https://blog.csdn.net/user340/article/details/164025192",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-25T19:07:45",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "SpringBoot3+Flowable 空审批人处理：自动通过、拒绝、指定成员与流程管理员怎么落地",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/164126246",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "给云原生排障助手装上“大脑“和“身体“:蓝耘元生代MaaS×魔珐星云数字人实战",
@@ -207,9 +147,9 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-27T10:45:34",
       "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "为什么 AI UI 测试进了生产就“崩“？一个最被低估的层面",
@@ -222,34 +162,34 @@
       "is_new": false
     },
     {
+      "title": "时序数据库选型深度指南: 为何企业级海量时序场景首选DolphinDB",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/164109978",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "MySQL表的约束详解",
       "url": "https://blog.csdn.net/jiaomorning/article/details/164089420",
       "last_hot_value": "9051",
       "first_seen_at": "2026-08-26T17:12:03",
       "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "第二十一届全国大学生智能车竞赛智慧城市Robotaxi总决赛获奖名单",
-      "url": "https://blog.csdn.net/zhuoqingjoking97298/article/details/164043687",
+      "title": "大模型工程化实战（五）：LLM 网关到底怎么选 - 2026 自研 / LiteLLM/Portkey/Kong/One API 全面对比",
+      "url": "https://blog.csdn.net/xiaobing259/article/details/164003347",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-25T06:10:45",
-      "last_seen_at": "2026-08-25T06:10:45",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "DolphinDB 2.x 集群监控运维平台实战：从指标采集到告警自愈",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/164004488",
-      "last_hot_value": "8854",
-      "first_seen_at": "2026-08-24T12:47:32",
-      "last_seen_at": "2026-08-24T12:47:32",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "OpenClaw 可观测性实战：从日志到全链路追踪的 Agent 运维体系构建（v2.x）",
@@ -257,9 +197,9 @@
       "last_hot_value": "8675",
       "first_seen_at": "2026-08-27T10:45:34",
       "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SpringBoot3+Vue3 固定资产折旧计提：平均年限法、月度批次与净值回写",
@@ -282,14 +222,14 @@
       "is_new": false
     },
     {
-      "title": "600 元 HP 小主机装 macOS：从启动盘、BIOS 到核显加速完整教程",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/164032444",
+      "title": "【从0开始学习计算机网络】| DNS 污染、劫持与 CDN：你的网页是怎么被“掉包“的",
+      "url": "https://blog.csdn.net/2503_94545876/article/details/164086515",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-25T12:00:45",
-      "last_seen_at": "2026-08-25T12:00:45",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "first_seen_at": "2026-08-28T17:04:11",
+      "last_seen_at": "2026-08-28T17:04:11",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "Vue3+dhtmlx-gantt 企业甘特图：任务依赖、拖拽改期、工时回写与 SPA 单例",
@@ -297,16 +237,6 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-25T19:07:45",
       "last_seen_at": "2026-08-25T19:07:45",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "Docker - Dockerfile核心指令详解，FROM到CMD全掌握",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157611500",
-      "last_hot_value": "8883",
-      "first_seen_at": "2026-08-24T18:35:29",
-      "last_seen_at": "2026-08-24T18:35:29",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
