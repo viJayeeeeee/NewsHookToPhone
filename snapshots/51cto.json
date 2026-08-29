@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-28T17:04:13",
+  "update_time": "2026-08-29T19:58:37",
   "items": [
+    {
+      "title": "鸿蒙开发学习记录：onVisibleAreaApproximateChange 降低信息流曝光回调频率",
+      "url": "https://ost.51cto.com/posts/55702",
+      "last_hot_value": "",
+      "first_seen_at": "2026-08-29T19:58:37",
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HarmonyOS7 @Watch 迁 @Monitor 后级联逻辑读到旧值？异步回调时序要这样改",
       "url": "https://ost.51cto.com/posts/55668",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
       "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS悬浮页签开发实战",
@@ -22,14 +32,14 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS7 WaterFlow 加了 sections 分组后列表划不动？itemsCount 对齐才是关键",
-      "url": "https://ost.51cto.com/posts/55608",
+      "title": "HarmonyOS7功能理解10：XComponent黑屏后怎么判断Surface已经失效",
+      "url": "https://ost.51cto.com/posts/55699",
       "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "first_seen_at": "2026-08-29T19:58:37",
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "HarmonyOS7 V2 状态管理倒计时不同步？flushUIUpdates 强制同帧刷新才是正解",
@@ -37,9 +47,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
       "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Spring AOP踩坑实录：六个失效场景+动态代理源码解析，再也不怕切面不生效",
@@ -52,24 +62,14 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS 7 空间交互开发手记01｜用 ArkUI 沉浸光感重构卡片层级与空间反馈",
-      "url": "https://ost.51cto.com/posts/55607",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "基于 NeuralProphet 搭建运维时序数据预测体系，规避故障风险",
       "url": "https://www.51cto.com/article/854278.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【HarmonyOS 7 悬浮页签深度实战】06 智感握姿下的左右手操作适配",
@@ -82,24 +82,14 @@
       "is_new": false
     },
     {
-      "title": "突发，OpenAI首颗「辣椒」芯片压倒英伟达！GPT-6干崩CUDA",
-      "url": "https://www.51cto.com/article/854034.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "pnpm 12 正式发布：用 Rust 重写，开始接管整个 JS 开发环境",
       "url": "https://www.51cto.com/article/854272.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "一个Token是怎么“造”出来的？黄仁勋的“五层蛋糕”理论给出答案",
@@ -112,24 +102,14 @@
       "is_new": false
     },
     {
-      "title": "细数LLM Benchmark模型是如何作弊的",
-      "url": "https://www.51cto.com/article/853755.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "英伟达前AI总监颠覆Transformer！五万亿上下文物理AI，推演整个宇宙",
       "url": "https://www.51cto.com/article/854271.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "它只是想做完这道题，却黑进了Hugging Face：Agent时代最危险的，不是\"觉醒\"",
@@ -142,24 +122,14 @@
       "is_new": false
     },
     {
-      "title": "八组原生 API：这些 npm 依赖还要装吗？",
-      "url": "https://www.51cto.com/article/853751.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "AI自己出题自己练！两个月狂涨11%，编码自测反超Opus 4.8",
       "url": "https://www.51cto.com/article/854270.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "他亲手造出o1和o3，却突然宣布：人类可以永远退休了！",
@@ -172,24 +142,14 @@
       "is_new": false
     },
     {
-      "title": "具身智能的技术挑战和研究方向",
-      "url": "https://www.51cto.com/article/854015.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "GitHub 爆了！ 17K+ Star！20 多种文档格式，一条命令全部转 Markdown",
       "url": "https://www.51cto.com/article/854237.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Specula在67个开源系统中找到382个深层bug，数月形式化验证缩短到几小时",
@@ -202,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "深入理解 Java Unsafe：从底层魔法到被淘汰的命运",
-      "url": "https://www.51cto.com/article/854007.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "突发：OpenAI首次公开入侵Hugging Face完整报告",
       "url": "https://www.51cto.com/article/854268.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "港科大（广州）联合腾讯AI平台部开源VibeWorlding，3D世界构建迎来Vibe Coding时刻？",
@@ -232,24 +182,14 @@
       "is_new": false
     },
     {
-      "title": "面试官：讲一下生产环境完整的Agent缓存体系，哪些数据可以做缓存，哪些不能做缓存？",
-      "url": "https://www.51cto.com/article/853847.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "Claude自己长出浏览器！填表拉数，你的AI打工人有工位了",
       "url": "https://www.51cto.com/article/854267.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "启发学习：让大模型认知从外化到内生",
@@ -262,24 +202,14 @@
       "is_new": false
     },
     {
-      "title": "Agent 跨会话记忆的生产落地：LangGraph MemoryStore 如何让 Agent 记住你是谁",
-      "url": "https://www.51cto.com/article/853758.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "AI加速一切！数学防线刚失守，物理已在AI射程内",
       "url": "https://www.51cto.com/article/854266.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-28T17:04:13",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:37",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI能否独立开展科研？ASI-Bench为科学自主性建立评测标尺",
@@ -287,16 +217,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-27T10:45:36",
       "last_seen_at": "2026-08-27T10:45:36",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "硬核可视化：用 CesiumJS 打造专业级时变路径图形系统",
-      "url": "https://www.51cto.com/article/854014.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-26T11:28:02",
-      "last_seen_at": "2026-08-26T17:12:05",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

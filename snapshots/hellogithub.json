@@ -1,95 +1,105 @@
 {
-  "update_time": "2026-08-28T17:04:19",
+  "update_time": "2026-08-29T19:58:45",
   "items": [
     {
       "title": "陪孩子在线逛史前动物博物馆",
       "url": "https://github.com/s010s/prehistoric-animal-museum",
-      "last_hot_value": "276",
+      "last_hot_value": "433",
       "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "让 AI Agent 帮你做 PPT",
       "url": "https://github.com/chuspeeism/dashi-ppt-skill",
-      "last_hot_value": "318",
+      "last_hot_value": "453",
       "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "轻量级的 Java IDE 编程工具",
       "url": "https://github.com/1lck/Lithe-IDEA",
-      "last_hot_value": "180",
+      "last_hot_value": "290",
       "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "为文章生成手绘配图的技能",
-      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-      "last_hot_value": "169",
-      "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "仅需 4GB 显存就能跑 70B 大模型",
       "url": "https://github.com/lyogavin/airllm",
-      "last_hot_value": "289",
+      "last_hot_value": "424",
       "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "为文章生成手绘配图的技能",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "last_hot_value": "239",
+      "first_seen_at": "2026-08-28T17:04:19",
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "把技术书变成智能体技能",
       "url": "https://github.com/virgiliojr94/book-to-skill",
-      "last_hot_value": "214",
+      "last_hot_value": "327",
       "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "轻量级的服务器控制面板",
       "url": "https://github.com/jhd3197/ServerKit",
-      "last_hot_value": "211",
+      "last_hot_value": "282",
       "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "可视化键盘新标签页",
-      "url": "https://github.com/GXFG/newtab-naivetab",
-      "last_hot_value": "126",
-      "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
+      "title": "让 AI 用 HTML 画原型和图表",
+      "url": "https://github.com/plannotator/effective-html",
+      "last_hot_value": "265",
+      "first_seen_at": "2026-08-29T19:58:45",
+      "last_seen_at": "2026-08-29T19:58:45",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
     },
     {
+      "title": "可视化键盘新标签页",
+      "url": "https://github.com/GXFG/newtab-naivetab",
+      "last_hot_value": "178",
+      "first_seen_at": "2026-08-28T17:04:19",
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "让 Windows 桌面井然有序",
       "url": "https://github.com/Tianyu199509/DeskBox",
-      "last_hot_value": "296",
+      "last_hot_value": "442",
       "first_seen_at": "2026-08-28T17:04:19",
-      "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T19:58:45",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Rust 写的开源中文输入法",
@@ -97,9 +107,9 @@
       "last_hot_value": "195",
       "first_seen_at": "2026-08-28T17:04:19",
       "last_seen_at": "2026-08-28T17:04:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
