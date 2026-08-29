@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-29T19:58:47",
+  "update_time": "2026-08-29T22:15:14",
   "items": [
     {
-      "title": "手把手教你搭建检测并解锁 Apple ID 的自动化程序，发卡网站引流必备",
-      "url": "https://www.nodeseek.com/post-18591-1",
-      "last_hot_value": "查看:5699 回复:42",
-      "first_seen_at": "2026-08-29T19:58:47",
-      "last_seen_at": "2026-08-29T19:58:47",
+      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
+      "url": "https://www.nodeseek.com/post-762899-1",
+      "last_hot_value": "查看:4789 回复:114",
+      "first_seen_at": "2026-08-29T22:15:14",
+      "last_seen_at": "2026-08-29T22:15:14",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
+    },
+    {
+      "title": "手把手教你搭建检测并解锁 Apple ID 的自动化程序，发卡网站引流必备",
+      "url": "https://www.nodeseek.com/post-18591-1",
+      "last_hot_value": "查看:5778 回复:43",
+      "first_seen_at": "2026-08-29T19:58:47",
+      "last_seen_at": "2026-08-29T22:15:14",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
     },
     {
       "title": "[科普/教程]关于\"送中\"，你所要知道的一切！——什么是送中？如何判断是否送中？为什么会送中？如何预防/解决送中？还有完全免费且可以立马拉回去正确归属地的方法？还能“焊死”？？？",
@@ -22,22 +32,42 @@
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:219734 回复:2926",
-      "first_seen_at": "2026-08-29T19:58:47",
-      "last_seen_at": "2026-08-29T19:58:47",
+      "title": "纯命令，记录一下使用LXD在DDP-512M-KVM小鸡上生了一只128M小小鸡",
+      "url": "https://www.nodeseek.com/post-5748-1",
+      "last_hot_value": "查看:863 回复:22",
+      "first_seen_at": "2026-08-29T22:15:14",
+      "last_seen_at": "2026-08-29T22:15:14",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:236637 回复:2185",
+      "first_seen_at": "2026-08-29T22:15:14",
+      "last_seen_at": "2026-08-29T22:15:14",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
     },
     {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:220093 回复:2933",
+      "first_seen_at": "2026-08-29T19:58:47",
+      "last_seen_at": "2026-08-29T22:15:14",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "【存】全国各省份三网 TCP-Ping IPv4 地址",
       "url": "https://www.nodeseek.com/post-68572-1",
-      "last_hot_value": "查看:107638 回复:629",
+      "last_hot_value": "查看:107991 回复:632",
       "first_seen_at": "2026-08-28T17:04:21",
-      "last_seen_at": "2026-08-29T19:58:47",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:14",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -47,7 +77,7 @@
       "last_hot_value": "查看:5737 回复:109",
       "first_seen_at": "2026-08-28T17:04:21",
       "last_seen_at": "2026-08-29T19:58:47",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -62,13 +92,33 @@
       "is_new": false
     },
     {
+      "title": "🧭 Navidash 更新啦！欢迎来定制你的主页！（探针已加入）",
+      "url": "https://www.nodeseek.com/post-680214-1",
+      "last_hot_value": "查看:1977 回复:34",
+      "first_seen_at": "2026-08-29T22:15:14",
+      "last_seen_at": "2026-08-29T22:15:14",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "【教程】Cloudflare 免费版 Bot Fight Mode 如何添加 IP 白名单（踩坑实录）",
       "url": "https://www.nodeseek.com/post-898908-1",
       "last_hot_value": "查看:318 回复:7",
       "first_seen_at": "2026-08-29T19:58:47",
       "last_seen_at": "2026-08-29T19:58:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
+      "url": "https://www.nodeseek.com/post-786238-1",
+      "last_hot_value": "查看:2079 回复:29",
+      "first_seen_at": "2026-08-29T22:15:14",
+      "last_seen_at": "2026-08-29T22:15:14",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -77,9 +127,9 @@
       "last_hot_value": "查看:8452 回复:151",
       "first_seen_at": "2026-08-29T19:58:47",
       "last_seen_at": "2026-08-29T19:58:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
@@ -97,9 +147,9 @@
       "last_hot_value": "查看:262408 回复:506",
       "first_seen_at": "2026-08-29T19:58:47",
       "last_seen_at": "2026-08-29T19:58:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【原创项目+视频教程】🚀GitHub / Docker 加速神器，不用VPS，0元部署！只需复制粘贴！",
@@ -112,6 +162,16 @@
       "is_new": false
     },
     {
+      "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
+      "url": "https://www.nodeseek.com/post-824558-1",
+      "last_hot_value": "查看:9494 回复:142",
+      "first_seen_at": "2026-08-29T22:15:14",
+      "last_seen_at": "2026-08-29T22:15:14",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "【极简备份教程】1分钟快速部署每日备份VPS重要数据至阿里云盘",
       "url": "https://www.nodeseek.com/post-93844-1",
       "last_hot_value": "查看:4301 回复:54",
@@ -122,14 +182,24 @@
       "is_new": false
     },
     {
+      "title": "自用VPS一键脚本工具箱，一个脚本搞定大部分需求",
+      "url": "https://www.nodeseek.com/post-58421-1",
+      "last_hot_value": "查看:48368 回复:476",
+      "first_seen_at": "2026-08-29T22:15:14",
+      "last_seen_at": "2026-08-29T22:15:14",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
       "url": "https://www.nodeseek.com/post-824182-1",
       "last_hot_value": "查看:1408 回复:25",
       "first_seen_at": "2026-08-29T19:58:47",
       "last_seen_at": "2026-08-29T19:58:47",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【⭐项目开源⭐】给新手 MJJ 的自托管图床：OU-Image Hosting / 欧记图床 / R2 & S3 / 公共上传 / 相册管理",

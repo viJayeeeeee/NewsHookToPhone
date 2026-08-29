@@ -1,25 +1,25 @@
 {
-  "update_time": "2026-08-29T19:58:35",
+  "update_time": "2026-08-29T22:15:03",
   "items": [
     {
       "title": "AI 已经能直接改设计稿了:Windows部署Penpot，接入Codex MCP实测",
       "url": "https://blog.csdn.net/2302_79177254/article/details/164153081",
-      "last_hot_value": "2.3w",
+      "last_hot_value": "2.4w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AI大模型接入SDK】Provider分析与实现",
       "url": "https://blog.csdn.net/2401_89899187/article/details/164145795",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "工业物联网时序数据库选型研究",
@@ -36,8 +36,8 @@
       "url": "https://blog.csdn.net/2402_87298751/article/details/164146418",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-28T17:04:11",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -66,10 +66,10 @@
       "url": "https://blog.csdn.net/2601_96395508/article/details/164171216",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI Agent 的四根支柱：LLM、工具、记忆与规划是如何协同的",
@@ -86,20 +86,20 @@
       "url": "https://blog.csdn.net/2502_93799892/article/details/164095097",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "飞牛 NAS 如何部署 ai-goofish-m开发全自动机器人",
       "url": "https://blog.csdn.net/Dovis5884/article/details/164143914",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 7 核心实践：基于 CoreVisionKit 端侧 AI 语义搜图与多模态双链 Vault 架构",
@@ -116,10 +116,10 @@
       "url": "https://blog.csdn.net/2601_94861874/article/details/164088238",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SpringBoot3+Flowable 空审批人处理：自动通过、拒绝、指定成员与流程管理员怎么落地",
@@ -144,12 +144,12 @@
     {
       "title": "PDF 合并、转换也能自己部署：极空间运行 Stirling PDF，文件交给自己的服务器处理",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/164152055",
-      "last_hot_value": "8989",
+      "last_hot_value": "8559",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "时序数据库选型深度指南: 为何企业级海量时序场景首选DolphinDB",
@@ -164,12 +164,12 @@
     {
       "title": "Redis 故障复盘案例：线上事故分析与预防措施总结",
       "url": "https://blog.csdn.net/qq_41840843/article/details/164154922",
-      "last_hot_value": "8377",
+      "last_hot_value": "8538",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "大模型工程化实战（五）：LLM 网关到底怎么选 - 2026 自研 / LiteLLM/Portkey/Kong/One API 全面对比",
@@ -194,12 +194,12 @@
     {
       "title": "【Linux指南】动静态库系列（六）：编译、链接与 ELF：.o、.so、可执行文件到底是什么",
       "url": "https://blog.csdn.net/2302_78391795/article/details/164146255",
-      "last_hot_value": "8366",
+      "last_hot_value": "8517",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T19:58:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:03",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【从0开始学习计算机网络】| DNS 污染、劫持与 CDN：你的网页是怎么被“掉包“的",

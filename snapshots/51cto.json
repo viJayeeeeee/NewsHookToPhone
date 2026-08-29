@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-08-29T19:58:37",
+  "update_time": "2026-08-29T22:15:05",
   "items": [
     {
       "title": "鸿蒙开发学习记录：onVisibleAreaApproximateChange 降低信息流曝光回调频率",
       "url": "https://ost.51cto.com/posts/55702",
       "last_hot_value": "",
       "first_seen_at": "2026-08-29T19:58:37",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS7 @Watch 迁 @Monitor 后级联逻辑读到旧值？异步回调时序要这样改",
@@ -36,10 +36,10 @@
       "url": "https://ost.51cto.com/posts/55699",
       "last_hot_value": "",
       "first_seen_at": "2026-08-29T19:58:37",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS7 V2 状态管理倒计时不同步？flushUIUpdates 强制同帧刷新才是正解",
@@ -66,8 +66,8 @@
       "url": "https://www.51cto.com/article/854278.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://www.51cto.com/article/854272.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -106,8 +106,8 @@
       "url": "https://www.51cto.com/article/854271.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -126,8 +126,8 @@
       "url": "https://www.51cto.com/article/854270.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -146,8 +146,8 @@
       "url": "https://www.51cto.com/article/854237.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -166,8 +166,8 @@
       "url": "https://www.51cto.com/article/854268.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -186,8 +186,8 @@
       "url": "https://www.51cto.com/article/854267.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -206,8 +206,8 @@
       "url": "https://www.51cto.com/article/854266.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-28T17:04:13",
-      "last_seen_at": "2026-08-29T19:58:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-29T22:15:05",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },
