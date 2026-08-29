@@ -1,34 +1,54 @@
 {
-  "update_time": "2026-08-27T20:55:35",
+  "update_time": "2026-08-29T01:00:10",
   "items": [
     {
-      "title": "M3.8 广西柳州市柳南区",
+      "title": "M3.1 新疆阿克苏地区温宿县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.8级",
-      "first_seen_at": "2026-08-27T20:55:35",
-      "last_seen_at": "2026-08-27T20:55:35",
+      "last_hot_value": "3.1级",
+      "first_seen_at": "2026-08-29T01:00:10",
+      "last_seen_at": "2026-08-29T01:00:10",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
     },
     {
-      "title": "M5.5 台湾台东县海域",
+      "title": "M3.8 广西柳州市柳南区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.5级",
-      "first_seen_at": "2026-08-25T08:15:33",
-      "last_seen_at": "2026-08-27T20:55:35",
-      "consecutive_count": 10,
+      "last_hot_value": "3.8级",
+      "first_seen_at": "2026-08-27T20:55:35",
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "M4.2 新疆阿克苏地区温宿县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "4.2级",
+      "first_seen_at": "2026-08-29T01:00:10",
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M4.7 西藏那曲市尼玛县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.7级",
       "first_seen_at": "2026-08-27T20:55:35",
-      "last_seen_at": "2026-08-27T20:55:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 2,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "M3.0 四川宜宾市长宁县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-08-29T01:00:10",
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -36,9 +56,19 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-08-27T20:55:35",
-      "last_seen_at": "2026-08-27T20:55:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 2,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "M5.1 四川内江市隆昌市",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "5.1级",
+      "first_seen_at": "2026-08-29T01:00:10",
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -46,9 +76,19 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.5级",
       "first_seen_at": "2026-08-27T20:55:35",
-      "last_seen_at": "2026-08-27T20:55:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 2,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "M6.0 亚丁湾",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "6.0级",
+      "first_seen_at": "2026-08-29T01:00:10",
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -56,10 +96,10 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.3级",
       "first_seen_at": "2026-08-27T20:55:35",
-      "last_seen_at": "2026-08-27T20:55:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-29T01:00:10",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M5.8 日本本州岛",
@@ -72,34 +112,14 @@
       "is_new": false
     },
     {
-      "title": "M6.0 南极洲斯科舍海",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.0级",
-      "first_seen_at": "2026-08-25T10:31:53",
-      "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "M4.5 台湾宜兰县海域",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "4.5级",
-      "first_seen_at": "2026-08-25T09:27:46",
-      "last_seen_at": "2026-08-26T13:26:45",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "M4.2 克什米尔",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.2级",
       "first_seen_at": "2026-08-27T20:55:35",
       "last_seen_at": "2026-08-27T20:55:35",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
