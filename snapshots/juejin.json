@@ -1,34 +1,34 @@
 {
-  "update_time": "2026-08-29T22:15:01",
+  "update_time": "2026-08-30T13:20:26",
   "items": [
     {
-      "title": "ValidX错误消息国际化完全指南：8种语言9个语言包与三级回退机制",
-      "url": "https://juejin.cn/post/7678747733979201536",
-      "last_hot_value": "热度:684",
-      "first_seen_at": "2026-08-28T17:04:10",
-      "last_seen_at": "2026-08-29T22:15:01",
+      "title": "「速通Shell」Shell 编程性能优化",
+      "url": "https://juejin.cn/post/7678975240300773428",
+      "last_hot_value": "热度:1314",
+      "first_seen_at": "2026-08-29T19:58:33",
+      "last_seen_at": "2026-08-30T13:20:26",
       "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "「速通Shell」Shell 编程性能优化",
-      "url": "https://juejin.cn/post/7678975240300773428",
-      "last_hot_value": "热度:612",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 2,
-      "peak_rank": 2,
+      "title": "ValidX错误消息国际化完全指南：8种语言9个语言包与三级回退机制",
+      "url": "https://juejin.cn/post/7678747733979201536",
+      "last_hot_value": "热度:702",
+      "first_seen_at": "2026-08-28T17:04:10",
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 4,
+      "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "Web Components 为什么火不起来？",
-      "url": "https://juejin.cn/post/7677868279283171368",
-      "last_hot_value": "热度:954",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-28T17:04:10",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "我的开源项目登顶 GitHub 趋势榜 No1 了！",
+      "url": "https://juejin.cn/post/7678618678956163078",
+      "last_hot_value": "热度:549",
+      "first_seen_at": "2026-08-29T19:58:33",
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -37,37 +37,27 @@
       "last_hot_value": "热度:450",
       "first_seen_at": "2026-08-28T17:04:10",
       "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "我的开源项目登顶 GitHub 趋势榜 No1 了！",
-      "url": "https://juejin.cn/post/7678618678956163078",
-      "last_hot_value": "热度:432",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "为什么越来越多人用AgentScope ？",
-      "url": "https://juejin.cn/post/7678161312637730862",
-      "last_hot_value": "热度:576",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-28T17:04:10",
       "consecutive_count": 0,
-      "peak_rank": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "🚀苹果的液态玻璃咋做？🚀",
       "url": "https://juejin.cn/post/7678529068804554787",
-      "last_hot_value": "热度:360",
+      "last_hot_value": "热度:522",
       "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "🤔 v-mortal 是什么？！我只知道 v-model 啊！",
+      "url": "https://juejin.cn/post/7678703379591708724",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-08-29T19:58:33",
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -82,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "Firebase 如何让全球 Android 和 Flutter 开发者集体 Build Fail",
+      "url": "https://juejin.cn/post/7678586341090803748",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-08-29T19:58:33",
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 3,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "Flutter 多窗口支持类型和 API 介绍",
       "url": "https://juejin.cn/post/7678203712679739398",
       "last_hot_value": "热度:324",
       "first_seen_at": "2026-08-29T19:58:33",
       "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -102,54 +102,24 @@
       "is_new": false
     },
     {
-      "title": "外包前端和大厂前端，写的代码到底有什么本质区别？",
-      "url": "https://juejin.cn/post/7677502358059073588",
-      "last_hot_value": "热度:567",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Firebase 如何让全球 Android 和 Flutter 开发者集体 Build Fail",
-      "url": "https://juejin.cn/post/7678586341090803748",
-      "last_hot_value": "热度:288",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 2,
+      "title": "VisActor 全新图可视化开源项目：VGraph",
+      "url": "https://juejin.cn/post/7678646261258043428",
+      "last_hot_value": "热度:243",
+      "first_seen_at": "2026-08-30T13:20:26",
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "「速通Shell」常用命令（下）—— 归档、权限与进阶工具",
-      "url": "https://juejin.cn/post/7678166172437004294",
-      "last_hot_value": "热度:441",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-28T17:04:10",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "聊聊 Prompt 是怎么一路进化到 Harness 的",
-      "url": "https://juejin.cn/post/7677489259041144866",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "🤔 v-mortal 是什么？！我只知道 v-model 啊！",
-      "url": "https://juejin.cn/post/7678703379591708724",
-      "last_hot_value": "热度:261",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 2,
+      "title": "《HelloGitHub》第 125 期",
+      "url": "https://juejin.cn/post/7678607362014937142",
+      "last_hot_value": "热度:171",
+      "first_seen_at": "2026-08-30T13:20:26",
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "汤森路透的座上宾？Qwen3.5-397B-A17B到底有什么本事？",
@@ -162,14 +132,14 @@
       "is_new": false
     },
     {
-      "title": "图解 AI Agent ②：模型到底是怎么读取文件的？",
-      "url": "https://juejin.cn/post/7677762452274085914",
-      "last_hot_value": "热度:504",
-      "first_seen_at": "2026-08-27T10:45:32",
-      "last_seen_at": "2026-08-27T10:45:32",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "听说我兄弟喜欢跑车，所以必须安排上",
+      "url": "https://juejin.cn/post/7678577086287118370",
+      "last_hot_value": "热度:171",
+      "first_seen_at": "2026-08-30T13:20:26",
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "牛来原来是智谱，GLM-5.3-Flash 实测有惊喜也有硬伤",
@@ -177,9 +147,19 @@
       "last_hot_value": "热度:225",
       "first_seen_at": "2026-08-29T19:58:33",
       "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "pm2 替代品，nodejs&bun 线上部署必备工具",
+      "url": "https://juejin.cn/post/7679000152963399689",
+      "last_hot_value": "热度:162",
+      "first_seen_at": "2026-08-30T13:20:26",
+      "last_seen_at": "2026-08-30T13:20:26",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "当 AI 遇见 Flutter | 打造 500+ Widget 专属Logo",
@@ -187,7 +167,7 @@
       "last_hot_value": "热度:207",
       "first_seen_at": "2026-08-29T19:58:33",
       "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },

@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-29T22:15:03",
+  "update_time": "2026-08-30T13:20:27",
   "items": [
     {
       "title": "AI 已经能直接改设计稿了:Windows部署Penpot，接入Codex MCP实测",
       "url": "https://blog.csdn.net/2302_79177254/article/details/164153081",
-      "last_hot_value": "2.4w",
+      "last_hot_value": "2.3w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "AI Agent 的经济账：算力、模型路由与真实 ROI",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/163614155",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-08-30T13:20:27",
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "【AI大模型接入SDK】Provider分析与实现",
@@ -17,7 +27,7 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-29T19:58:35",
       "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "【AI大模型接入SDK】WebSocket & SSE 协议",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/164179780",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-08-30T13:20:27",
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "【AI 测评】不只是和 AI 聊天：Windows 部署 OpenClaw，让大模型开始操作本地电脑",
       "url": "https://blog.csdn.net/2402_87298751/article/details/164146418",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.4w",
       "first_seen_at": "2026-08-28T17:04:11",
-      "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,14 +72,14 @@
       "is_new": false
     },
     {
-      "title": "墨衍 MoGrow 是什么？给技术创作者的新用户指南",
-      "url": "https://blog.csdn.net/zhangyang/article/details/164089165",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-08-27T10:45:34",
-      "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "模拟器横评：电脑上看小说、追短剧用什么模拟器？MuMu、雷电、腾讯手游助手实测",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/164152279",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-08-30T13:20:27",
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "Codex修改异步代码后为什么总出现Promise问题？await、并发执行与异常处理排查",
@@ -67,7 +87,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-29T19:58:35",
       "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -87,9 +107,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-29T19:58:35",
       "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "提示词越攒越多反而找不到？飞牛 NAS 部署 prompts.chat，搭一个自己的 Prompt 库",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/164173366",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-30T13:20:27",
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "飞牛 NAS 如何部署 ai-goofish-m开发全自动机器人",
@@ -97,7 +127,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-29T19:58:35",
       "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -114,10 +144,10 @@
     {
       "title": "linux网络：Http协议",
       "url": "https://blog.csdn.net/2601_94861874/article/details/164088238",
-      "last_hot_value": "1.0w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -132,22 +162,12 @@
       "is_new": false
     },
     {
-      "title": "给云原生排障助手装上“大脑“和“身体“:蓝耘元生代MaaS×魔珐星云数字人实战",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/163614380",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-27T10:45:34",
-      "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "PDF 合并、转换也能自己部署：极空间运行 Stirling PDF，文件交给自己的服务器处理",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/164152055",
-      "last_hot_value": "8559",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -162,12 +182,22 @@
       "is_new": false
     },
     {
+      "title": "C#调用Intel NPU实现YOLOv26极速推理：OpenVINO工业视觉加速实践",
+      "url": "https://blog.csdn.net/guimotion/article/details/164126888",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-08-30T13:20:27",
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "Redis 故障复盘案例：线上事故分析与预防措施总结",
       "url": "https://blog.csdn.net/qq_41840843/article/details/164154922",
       "last_hot_value": "8538",
       "first_seen_at": "2026-08-29T19:58:35",
       "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -182,14 +212,14 @@
       "is_new": false
     },
     {
-      "title": "OpenClaw 可观测性实战：从日志到全链路追踪的 Agent 运维体系构建（v2.x）",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/164091732",
-      "last_hot_value": "8675",
-      "first_seen_at": "2026-08-27T10:45:34",
-      "last_seen_at": "2026-08-27T10:45:34",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "【AI智能体】Harness Engineering 驾驭工程从使用到项目实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/164031319",
+      "last_hot_value": "8878",
+      "first_seen_at": "2026-08-30T13:20:27",
+      "last_seen_at": "2026-08-30T13:20:27",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "【Linux指南】动静态库系列（六）：编译、链接与 ELF：.o、.so、可执行文件到底是什么",
@@ -197,7 +227,7 @@
       "last_hot_value": "8517",
       "first_seen_at": "2026-08-29T19:58:35",
       "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },
