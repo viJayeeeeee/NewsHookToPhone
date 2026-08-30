@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-08-29T17:25:32",
+  "update_time": "2026-08-30T20:11:36",
   "items": [
+    {
+      "title": "再爆冷!WE客场淘汰JDG",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361438&topic_name=%E5%86%8D%E7%88%86%E5%86%B7%21WE%E5%AE%A2%E5%9C%BA%E6%B7%98%E6%B1%B0JDG",
+      "last_hot_value": "210.8W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "下克上!LGD终结让二追三",
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361300&topic_name=%E4%B8%8B%E5%85%8B%E4%B8%8A%21LGD%E7%BB%88%E7%BB%93%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89",
       "last_hot_value": "296.8W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "反向意林合集,老中看了绷不住",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361390&topic_name=%E5%8F%8D%E5%90%91%E6%84%8F%E6%9E%97%E5%90%88%E9%9B%86%2C%E8%80%81%E4%B8%AD%E7%9C%8B%E4%BA%86%E7%BB%B7%E4%B8%8D%E4%BD%8F",
+      "last_hot_value": "152.2W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,18 +37,28 @@
       "last_hot_value": "227.3W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "乐子拉满,孙学大赛花样多",
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361293&topic_name=%E4%B9%90%E5%AD%90%E6%8B%89%E6%BB%A1%2C%E5%AD%99%E5%AD%A6%E5%A4%A7%E8%B5%9B%E8%8A%B1%E6%A0%B7%E5%A4%9A",
-      "last_hot_value": "182.8W讨论",
+      "last_hot_value": "121.6W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
-      "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 2,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "带娃毁濒危标本,博物馆追责",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361461&topic_name=%E5%B8%A6%E5%A8%83%E6%AF%81%E6%BF%92%E5%8D%B1%E6%A0%87%E6%9C%AC%2C%E5%8D%9A%E7%89%A9%E9%A6%86%E8%BF%BD%E8%B4%A3",
+      "last_hot_value": "95.6W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +67,18 @@
       "last_hot_value": "160.9W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "误扔东西拒道歉,女子倒打一耙",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361448&topic_name=%E8%AF%AF%E6%89%94%E4%B8%9C%E8%A5%BF%E6%8B%92%E9%81%93%E6%AD%89%2C%E5%A5%B3%E5%AD%90%E5%80%92%E6%89%93%E4%B8%80%E8%80%99",
+      "last_hot_value": "85.9W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +87,18 @@
       "last_hot_value": "116.7W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "十月删道歉微博,旧言论被批",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361425&topic_name=%E5%8D%81%E6%9C%88%E5%88%A0%E9%81%93%E6%AD%89%E5%BE%AE%E5%8D%9A%2C%E6%97%A7%E8%A8%80%E8%AE%BA%E8%A2%AB%E6%89%B9",
+      "last_hot_value": "62.5W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +107,18 @@
       "last_hot_value": "88.8W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "食堂阿姨打饭偏心遭围攻",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361391&topic_name=%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%E6%89%93%E9%A5%AD%E5%81%8F%E5%BF%83%E9%81%AD%E5%9B%B4%E6%94%BB",
+      "last_hot_value": "61.8W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +127,18 @@
       "last_hot_value": "71.7W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "照样活跃,管泽元转战篮球直播",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361402&topic_name=%E7%85%A7%E6%A0%B7%E6%B4%BB%E8%B7%83%2C%E7%AE%A1%E6%B3%BD%E5%85%83%E8%BD%AC%E6%88%98%E7%AF%AE%E7%90%83%E7%9B%B4%E6%92%AD",
+      "last_hot_value": "50.3W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +147,18 @@
       "last_hot_value": "61.5W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "孙女送纸壳祝寿,老人懵了",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361341&topic_name=%E5%AD%99%E5%A5%B3%E9%80%81%E7%BA%B8%E5%A3%B3%E7%A5%9D%E5%AF%BF%2C%E8%80%81%E4%BA%BA%E6%87%B5%E4%BA%86",
+      "last_hot_value": "44.8W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +167,18 @@
       "last_hot_value": "60.1W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "天灾怪中国,印度人索赔千亿",
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28361371&topic_name=%E5%A4%A9%E7%81%BE%E6%80%AA%E4%B8%AD%E5%9B%BD%2C%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%B4%A2%E8%B5%94%E5%8D%83%E4%BA%BF",
+      "last_hot_value": "35.1W讨论",
+      "first_seen_at": "2026-08-30T20:11:36",
+      "last_seen_at": "2026-08-30T20:11:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +187,9 @@
       "last_hot_value": "42.4W讨论",
       "first_seen_at": "2026-08-29T17:25:32",
       "last_seen_at": "2026-08-29T17:25:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
