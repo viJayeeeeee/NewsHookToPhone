@@ -1,34 +1,44 @@
 {
-  "update_time": "2026-08-30T22:26:58",
+  "update_time": "2026-08-31T00:48:11",
   "items": [
-    {
-      "title": "精要主义",
-      "url": "",
-      "last_hot_value": "835人在读",
-      "first_seen_at": "2026-08-30T22:26:58",
-      "last_seen_at": "2026-08-30T22:26:58",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
     {
       "title": "恶童日记（珍藏纪念版）",
       "url": "",
-      "last_hot_value": "296人在读",
+      "last_hot_value": "330人在读",
       "first_seen_at": "2026-08-30T22:26:58",
-      "last_seen_at": "2026-08-30T22:26:58",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
+      "last_seen_at": "2026-08-31T00:48:11",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "精要主义",
+      "url": "",
+      "last_hot_value": "929人在读",
+      "first_seen_at": "2026-08-30T22:26:58",
+      "last_seen_at": "2026-08-31T00:48:11",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
     },
     {
       "title": "福格行为模型：每天3分钟，你会越来越有能量",
       "url": "",
-      "last_hot_value": "3596人在读",
+      "last_hot_value": "3679人在读",
       "first_seen_at": "2026-08-29T00:59:58",
-      "last_seen_at": "2026-08-30T22:26:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-31T00:48:11",
+      "consecutive_count": 3,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "遥远的救世主（《天道》影视原著）",
+      "url": "",
+      "last_hot_value": "1312人在读",
+      "first_seen_at": "2026-08-30T22:26:58",
+      "last_seen_at": "2026-08-31T00:48:11",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -42,11 +52,11 @@
       "is_new": false
     },
     {
-      "title": "遥远的救世主（《天道》影视原著）",
+      "title": "这世界既残酷也温柔",
       "url": "",
-      "last_hot_value": "368人在读",
-      "first_seen_at": "2026-08-30T22:26:58",
-      "last_seen_at": "2026-08-30T22:26:58",
+      "last_hot_value": "5155人在读",
+      "first_seen_at": "2026-08-31T00:48:11",
+      "last_seen_at": "2026-08-31T00:48:11",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -64,39 +74,49 @@
     {
       "title": "奥德赛（张秋子导读版）（全四册）",
       "url": "",
-      "last_hot_value": "2815人在读",
+      "last_hot_value": "2862人在读",
       "first_seen_at": "2026-08-30T22:26:58",
-      "last_seen_at": "2026-08-30T22:26:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-31T00:48:11",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "无悔追踪（雷佳音、胡歌主演电影《抓特务》原著）",
       "url": "",
-      "last_hot_value": "379人在读",
+      "last_hot_value": "380人在读",
       "first_seen_at": "2026-08-30T22:26:58",
-      "last_seen_at": "2026-08-30T22:26:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-08-31T00:48:11",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "肖申克的救赎（同名电影原著）",
       "url": "",
-      "last_hot_value": "1058人在读",
+      "last_hot_value": "1059人在读",
       "first_seen_at": "2026-08-29T00:59:58",
-      "last_seen_at": "2026-08-30T22:26:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-08-31T00:48:11",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "山",
       "url": "",
-      "last_hot_value": "902人在读",
+      "last_hot_value": "905人在读",
       "first_seen_at": "2026-08-30T22:26:58",
-      "last_seen_at": "2026-08-30T22:26:58",
+      "last_seen_at": "2026-08-31T00:48:11",
+      "consecutive_count": 2,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "有些事情，不需要答案",
+      "url": "",
+      "last_hot_value": "1133人在读",
+      "first_seen_at": "2026-08-31T00:48:11",
+      "last_seen_at": "2026-08-31T00:48:11",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
