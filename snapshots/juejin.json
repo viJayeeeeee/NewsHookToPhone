@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-08-30T13:20:26",
+  "update_time": "2026-08-31T18:31:36",
   "items": [
     {
       "title": "「速通Shell」Shell 编程性能优化",
       "url": "https://juejin.cn/post/7678975240300773428",
-      "last_hot_value": "热度:1314",
+      "last_hot_value": "热度:1746",
       "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "ValidX错误消息国际化完全指南：8种语言9个语言包与三级回退机制",
-      "url": "https://juejin.cn/post/7678747733979201536",
-      "last_hot_value": "热度:702",
-      "first_seen_at": "2026-08-28T17:04:10",
-      "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "公司没给活干，却因为员工看手机把人开了：法院判赔11万元",
+      "url": "https://juejin.cn/post/7679402031226110004",
+      "last_hot_value": "热度:423",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "因为找不到好用的前端占位图，于是我自己写了个谁都能用的占位图功能",
+      "url": "https://juejin.cn/post/7678920712071168046",
+      "last_hot_value": "热度:378",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "我的开源项目登顶 GitHub 趋势榜 No1 了！",
@@ -27,19 +37,19 @@
       "last_hot_value": "热度:549",
       "first_seen_at": "2026-08-29T19:58:33",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "我拿 4 个真实前端任务试了 GLM-5.3 Flash：代码一遍跑通，账单 4 分钱",
-      "url": "https://juejin.cn/post/7678531174247874586",
-      "last_hot_value": "热度:450",
-      "first_seen_at": "2026-08-28T17:04:10",
-      "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "title": "豆包工作Agent正式发布，直接给到夯。",
+      "url": "https://juejin.cn/post/7679623224678613034",
+      "last_hot_value": "热度:360",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "🚀苹果的液态玻璃咋做？🚀",
@@ -47,9 +57,19 @@
       "last_hot_value": "热度:522",
       "first_seen_at": "2026-08-29T19:58:33",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
+      "url": "https://juejin.cn/post/7679247792172433423",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "🤔 v-mortal 是什么？！我只知道 v-model 啊！",
@@ -57,19 +77,19 @@
       "last_hot_value": "热度:414",
       "first_seen_at": "2026-08-29T19:58:33",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "GLM-5.3-Flash 发布：追平 Opus 4.8 的智力，1/40 的价格，跑在国产芯片上",
-      "url": "https://juejin.cn/post/7678214547980582952",
-      "last_hot_value": "热度:486",
-      "first_seen_at": "2026-08-28T17:04:10",
-      "last_seen_at": "2026-08-28T17:04:10",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
+      "title": "AI 时代，一个优化 Flutter 的重复代码工具 Deslop",
+      "url": "https://juejin.cn/post/7679542577553571894",
+      "last_hot_value": "热度:243",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "Firebase 如何让全球 Android 和 Flutter 开发者集体 Build Fail",
@@ -77,7 +97,7 @@
       "last_hot_value": "热度:315",
       "first_seen_at": "2026-08-29T19:58:33",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -92,14 +112,14 @@
       "is_new": false
     },
     {
-      "title": "Gradle 9.7.0 将提速 Android 构建，Sync 提升接近一倍",
-      "url": "https://juejin.cn/post/7677854475684020267",
-      "last_hot_value": "热度:459",
-      "first_seen_at": "2026-08-28T17:04:10",
-      "last_seen_at": "2026-08-28T17:04:10",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "老板要周报？我说不用，代码提交就是进度",
+      "url": "https://juejin.cn/post/7679985418771218470",
+      "last_hot_value": "热度:234",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "VisActor 全新图可视化开源项目：VGraph",
@@ -107,8 +127,18 @@
       "last_hot_value": "热度:243",
       "first_seen_at": "2026-08-30T13:20:26",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "Show me your works & token -稀土掘金上线作品广场和用量统计",
+      "url": "https://juejin.cn/post/7675992325912887315",
+      "last_hot_value": "热度:234",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -117,19 +147,19 @@
       "last_hot_value": "热度:171",
       "first_seen_at": "2026-08-30T13:20:26",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "汤森路透的座上宾？Qwen3.5-397B-A17B到底有什么本事？",
-      "url": "https://juejin.cn/post/7677899267893461034",
-      "last_hot_value": "热度:360",
-      "first_seen_at": "2026-08-28T17:04:10",
-      "last_seen_at": "2026-08-28T17:04:10",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "我做了一个开源项目，让 AI 记住我们解决过的问题：Usora",
+      "url": "https://juejin.cn/post/7679020474672660526",
+      "last_hot_value": "热度:216",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "听说我兄弟喜欢跑车，所以必须安排上",
@@ -137,9 +167,9 @@
       "last_hot_value": "热度:171",
       "first_seen_at": "2026-08-30T13:20:26",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "牛来原来是智谱，GLM-5.3-Flash 实测有惊喜也有硬伤",
@@ -152,14 +182,24 @@
       "is_new": false
     },
     {
+      "title": "Redis已正式接入AI",
+      "url": "https://juejin.cn/post/7680014875347255334",
+      "last_hot_value": "热度:216",
+      "first_seen_at": "2026-08-31T18:31:36",
+      "last_seen_at": "2026-08-31T18:31:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "pm2 替代品，nodejs&bun 线上部署必备工具",
       "url": "https://juejin.cn/post/7679000152963399689",
       "last_hot_value": "热度:162",
       "first_seen_at": "2026-08-30T13:20:26",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "当 AI 遇见 Flutter | 打造 500+ Widget 专属Logo",
@@ -167,16 +207,6 @@
       "last_hot_value": "热度:207",
       "first_seen_at": "2026-08-29T19:58:33",
       "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "表格、文档、甘特、大屏、表单一站打通：pxcharts超级表格4.0正式上线！",
-      "url": "https://juejin.cn/post/7678237761537916979",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-08-28T17:04:10",
-      "last_seen_at": "2026-08-28T17:04:10",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
