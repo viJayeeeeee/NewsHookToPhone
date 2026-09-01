@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-09-01T12:08:24",
+  "update_time": "2026-09-01T19:04:16",
   "items": [
+    {
+      "title": "【LangChain】 实战指南：从模型定义到工具调用与实时天气查询实战",
+      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/164109036",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-09-01T12:08:24",
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "鸿蒙原生应用开发实战：从零搭建家庭能源管理 App，深度集成蓝耘元生代 MaaS 实现 AI 流式对话",
       "url": "https://blog.csdn.net/weixin_52908342/article/details/164192576",
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-08-31T18:31:38",
       "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "鸿蒙应用 AI 对话实战：用蓝耘 MaaS 给礼物 App 装上「多轮对话选礼大脑」",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/164213393",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-09-01T19:04:16",
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "GitHub 热榜项目 - 周榜(2026-08-30)",
       "url": "https://blog.csdn.net/u014390502/article/details/164186053",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-08-31T18:31:38",
-      "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +67,7 @@
       "last_hot_value": "1.8w",
       "first_seen_at": "2026-08-31T18:31:38",
       "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,6 +82,16 @@
       "is_new": false
     },
     {
+      "title": "Docker - Swarm中的负载均衡与服务发现",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157611661",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-09-01T12:08:24",
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "【AI大模型接入SDK】WebSocket & SSE 协议",
       "url": "https://blog.csdn.net/2401_89899187/article/details/164179780",
       "last_hot_value": "1.0w",
@@ -72,11 +102,11 @@
       "is_new": false
     },
     {
-      "title": "【LangChain】 实战指南：从模型定义到工具调用与实时天气查询实战",
-      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/164109036",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T12:08:24",
+      "title": "从本地 AI 到远程工作台：OpenClaw 配合工具，解锁 NAS、小游戏和远程桌面",
+      "url": "https://blog.csdn.net/COLLINSXU/article/details/164259720",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-09-01T19:04:16",
+      "last_seen_at": "2026-09-01T19:04:16",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -112,22 +142,22 @@
       "is_new": false
     },
     {
+      "title": "【AI大模型】-DeepSeek Harness 深度解析",
+      "url": "https://blog.csdn.net/zxc18344522713/article/details/164208421",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-08-31T18:31:38",
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 3,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "Ollama 本地大模型部署实战：从下载到接入 IDE、Web 和 API",
       "url": "https://blog.csdn.net/vipxieliang/article/details/164206712",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-09-01T12:08:24",
       "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "【AI大模型】-DeepSeek Harness 深度解析",
-      "url": "https://blog.csdn.net/zxc18344522713/article/details/164208421",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-31T18:31:38",
-      "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -144,12 +174,12 @@
     {
       "title": "《数据库往事-故事卷》开始了",
       "url": "https://blog.csdn.net/fly2nn/article/details/164193618",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "提示词越攒越多反而找不到？飞牛 NAS 部署 prompts.chat，搭一个自己的 Prompt 库",
@@ -170,16 +200,6 @@
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
-    },
-    {
-      "title": "Docker - Swarm中的负载均衡与服务发现",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157611661",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
     },
     {
       "title": "哈佛 CS50 计算机科学导论笔记（二）",
@@ -204,12 +224,12 @@
     {
       "title": "一个主题直接生成完整视频：Windows 部署 Pixelle-Video，把文案、配图和配音串成自动流程",
       "url": "https://blog.csdn.net/user340/article/details/164230237",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "PDF 合并、转换也能自己部署：极空间运行 Stirling PDF，文件交给自己的服务器处理",
@@ -224,10 +244,10 @@
     {
       "title": "【AI智能体】Harness Engineering 驾驭工程从使用到项目实战详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/164031319",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-30T13:20:27",
-      "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 4,
       "peak_rank": 9,
       "is_new": false
     },
@@ -250,6 +270,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "深入 MySQL 网络通信：客户端如何与服务端建立连接？",
+      "url": "https://blog.csdn.net/qq_62538912/article/details/164231537",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-09-01T19:04:16",
+      "last_seen_at": "2026-09-01T19:04:16",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "基于Java的高德地图公交路线检索服务集成实践",

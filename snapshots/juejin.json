@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-09-01T12:08:22",
+  "update_time": "2026-09-01T19:04:14",
   "items": [
     {
       "title": "豆包工作Agent正式发布，直接给到夯。",
       "url": "https://juejin.cn/post/7679623224678613034",
-      "last_hot_value": "热度:711",
+      "last_hot_value": "热度:801",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -24,10 +24,10 @@
     {
       "title": "Redis已正式接入AI",
       "url": "https://juejin.cn/post/7680014875347255334",
-      "last_hot_value": "热度:612",
+      "last_hot_value": "热度:693",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -44,12 +44,12 @@
     {
       "title": "OpenJDK 全面禁止 AI 生成代码！",
       "url": "https://juejin.cn/post/7680074643861291034",
-      "last_hot_value": "热度:576",
+      "last_hot_value": "热度:666",
       "first_seen_at": "2026-09-01T12:08:22",
-      "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "因为找不到好用的前端占位图，于是我自己写了个谁都能用的占位图功能",
@@ -74,10 +74,10 @@
     {
       "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
       "url": "https://juejin.cn/post/7679247792172433423",
-      "last_hot_value": "热度:522",
+      "last_hot_value": "热度:549",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -94,10 +94,10 @@
     {
       "title": "老板要周报？我说不用，代码提交就是进度",
       "url": "https://juejin.cn/post/7679985418771218470",
-      "last_hot_value": "热度:405",
+      "last_hot_value": "热度:459",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -114,10 +114,10 @@
     {
       "title": "AI 时代，一个优化 Flutter 的重复代码工具 Deslop",
       "url": "https://juejin.cn/post/7679542577553571894",
-      "last_hot_value": "热度:342",
+      "last_hot_value": "热度:360",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -142,14 +142,24 @@
       "is_new": false
     },
     {
-      "title": "微信内部的生产级模型，居然开源了",
-      "url": "https://juejin.cn/post/7680023541135507497",
-      "last_hot_value": "热度:279",
-      "first_seen_at": "2026-09-01T12:08:22",
-      "last_seen_at": "2026-09-01T12:08:22",
+      "title": "我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题",
+      "url": "https://juejin.cn/post/7680143535669198858",
+      "last_hot_value": "热度:351",
+      "first_seen_at": "2026-09-01T19:04:14",
+      "last_seen_at": "2026-09-01T19:04:14",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
+    },
+    {
+      "title": "微信内部的生产级模型，居然开源了",
+      "url": "https://juejin.cn/post/7680023541135507497",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-09-01T12:08:22",
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "VisActor 全新图可视化开源项目：VGraph",
@@ -167,7 +177,7 @@
       "last_hot_value": "热度:279",
       "first_seen_at": "2026-08-31T18:31:36",
       "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -184,12 +194,12 @@
     {
       "title": "登录页还在用渐变？我一口气做了 5 个能摸的背景动效：吹蒲公英、滴墨染水、点熔岩闷裂",
       "url": "https://juejin.cn/post/7680025405151084571",
-      "last_hot_value": "热度:270",
+      "last_hot_value": "热度:315",
       "first_seen_at": "2026-09-01T12:08:22",
-      "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我做了一个开源项目，让 AI 记住我们解决过的问题：Usora",
@@ -222,14 +232,24 @@
       "is_new": false
     },
     {
+      "title": "用了两年 AI 编程工具后，我重新理解了什么是「资深工程师」",
+      "url": "https://juejin.cn/post/7679059713533640747",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-09-01T19:04:14",
+      "last_seen_at": "2026-09-01T19:04:14",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "曾经安卓开发人手一个的 EventBus，为什么现在没人爱用了？",
       "url": "https://juejin.cn/post/7680024375572021286",
       "last_hot_value": "热度:270",
       "first_seen_at": "2026-09-01T12:08:22",
       "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "pm2 替代品，nodejs&bun 线上部署必备工具",
