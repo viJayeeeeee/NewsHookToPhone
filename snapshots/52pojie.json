@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-31T18:31:50",
+  "update_time": "2026-09-01T12:08:36",
   "items": [
+    {
+      "title": "拆书器（拆书工具）",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-31T18:31:50",
+      "last_seen_at": "2026-09-01T12:08:36",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "微信自动锁定工具 Wxlocker 2.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-31T18:31:50",
       "last_seen_at": "2026-08-31T18:31:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Win7极限优化助手1.0",
@@ -17,7 +27,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-30T13:20:39",
       "last_seen_at": "2026-08-31T18:31:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,14 +42,24 @@
       "is_new": false
     },
     {
+      "title": "Beyond 5.2.5",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-31T18:31:50",
+      "last_seen_at": "2026-09-01T12:08:36",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
       "title": "Office办公套件 LibreOffice v26.8.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-31T18:31:50",
       "last_seen_at": "2026-08-31T18:31:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "轻量级屏幕标注工具 MarkerOn v2.9.4",
@@ -47,7 +67,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-30T13:20:39",
       "last_seen_at": "2026-08-31T18:31:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "智能抠图工具 v1.3.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-30T13:20:39",
+      "last_seen_at": "2026-09-01T12:08:36",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "WINDOWS 11 26H2启用包",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-30T13:20:39",
       "last_seen_at": "2026-08-31T18:31:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,13 +112,33 @@
       "is_new": false
     },
     {
+      "title": "微信图片下载与 Word 排版工具",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-30T13:20:39",
+      "last_seen_at": "2026-09-01T12:08:36",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
       "title": "本地重复文件与相似照片清理工具 DupHunter v4.0.1",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-30T13:20:39",
       "last_seen_at": "2026-08-31T18:31:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "Geek卸载工具修改版v1.5.4.180，支持批量卸载！",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-30T13:20:39",
+      "last_seen_at": "2026-09-01T12:08:36",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -97,29 +147,19 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-08-30T13:20:39",
       "last_seen_at": "2026-08-31T18:31:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "拆书器（拆书工具）",
+      "title": "闲鱼助手v1.2",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-31T18:31:50",
-      "last_seen_at": "2026-08-31T18:31:50",
+      "first_seen_at": "2026-09-01T12:08:36",
+      "last_seen_at": "2026-09-01T12:08:36",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
-    },
-    {
-      "title": "智能抠图工具 v1.3.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-30T13:20:39",
-      "last_seen_at": "2026-08-31T18:31:50",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
     },
     {
       "title": "PDF优化工具1.0（一键添加OCR文字索引和处理压缩）",
@@ -129,6 +169,16 @@
       "last_seen_at": "2026-08-29T22:15:15",
       "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "全能效率 MP工具箱 v5.6.45",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-08-30T13:20:39",
+      "last_seen_at": "2026-09-01T12:08:36",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -152,14 +202,14 @@
       "is_new": false
     },
     {
-      "title": "微信图片下载与 Word 排版工具",
+      "title": "超准天气预报 v1.2.9",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-30T13:20:39",
-      "last_seen_at": "2026-08-30T13:20:39",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-09-01T12:08:36",
+      "last_seen_at": "2026-09-01T12:08:36",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "证件照工作室v1.0",
@@ -172,34 +222,24 @@
       "is_new": false
     },
     {
-      "title": "Beyond 5.2.5",
+      "title": "免费配音软件v0.1.0",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-31T18:31:50",
-      "last_seen_at": "2026-08-31T18:31:50",
+      "first_seen_at": "2026-09-01T12:08:36",
+      "last_seen_at": "2026-09-01T12:08:36",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "Geek卸载工具修改版v1.5.4.180，支持批量卸载！",
+      "title": "CE修改器入门（改植物大战僵尸）",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-30T13:20:39",
-      "last_seen_at": "2026-08-30T13:20:39",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "全能效率 MP工具箱 v5.6.45",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-08-30T13:20:39",
-      "last_seen_at": "2026-08-30T13:20:39",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-09-01T12:08:36",
+      "last_seen_at": "2026-09-01T12:08:36",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "野外生存工具：Trail Sense v8.1.1 含离线地图",

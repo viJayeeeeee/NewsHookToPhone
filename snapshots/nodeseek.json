@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-08-31T18:31:48",
+  "update_time": "2026-09-01T12:08:35",
   "items": [
+    {
+      "title": "NS官方邮箱系统正式版(V2)",
+      "url": "https://www.nodeseek.com/post-647200-1",
+      "last_hot_value": "查看:79762 回复:612",
+      "first_seen_at": "2026-09-01T12:08:35",
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
       "url": "https://www.nodeseek.com/post-762899-1",
       "last_hot_value": "查看:4958 回复:118",
       "first_seen_at": "2026-08-29T22:15:14",
       "last_seen_at": "2026-08-31T18:31:48",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,12 +32,22 @@
       "is_new": false
     },
     {
+      "title": "探针主题开源！！！",
+      "url": "https://www.nodeseek.com/post-698953-1",
+      "last_hot_value": "查看:4305 回复:78",
+      "first_seen_at": "2026-09-01T12:08:35",
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "自用VPS一键脚本工具箱，一个脚本搞定大部分需求",
       "url": "https://www.nodeseek.com/post-58421-1",
       "last_hot_value": "查看:48465 回复:479",
       "first_seen_at": "2026-08-29T22:15:14",
       "last_seen_at": "2026-08-31T18:31:48",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,23 +62,43 @@
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:220410 回复:2938",
-      "first_seen_at": "2026-08-29T19:58:47",
-      "last_seen_at": "2026-08-31T18:31:48",
-      "consecutive_count": 4,
+      "title": "我写了个自认为非常牛逼的浏览器插件: StackPrism",
+      "url": "https://www.nodeseek.com/post-722664-1",
+      "last_hot_value": "查看:5219 回复:67",
+      "first_seen_at": "2026-09-01T12:08:35",
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:236637 回复:2185",
+      "last_hot_value": "查看:237817 回复:2192",
       "first_seen_at": "2026-08-29T22:15:14",
-      "last_seen_at": "2026-08-30T13:20:37",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 1,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:220860 回复:2942",
+      "first_seen_at": "2026-08-29T19:58:47",
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 5,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
+      "url": "https://www.nodeseek.com/post-219853-1",
+      "last_hot_value": "查看:9032 回复:66",
+      "first_seen_at": "2026-08-31T18:31:48",
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -67,27 +107,17 @@
       "last_hot_value": "查看:7219 回复:166",
       "first_seen_at": "2026-08-31T18:31:48",
       "last_seen_at": "2026-08-31T18:31:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "【第二期】面向小白：国内ISP与国际ISP的互联详情",
-      "url": "https://www.nodeseek.com/post-219853-1",
-      "last_hot_value": "查看:8965 回复:65",
-      "first_seen_at": "2026-08-31T18:31:48",
-      "last_seen_at": "2026-08-31T18:31:48",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "🧭 Navidash 更新啦！欢迎来定制你的主页！（探针已加入）",
       "url": "https://www.nodeseek.com/post-680214-1",
-      "last_hot_value": "查看:1977 回复:34",
+      "last_hot_value": "查看:2054 回复:35",
       "first_seen_at": "2026-08-29T22:15:14",
-      "last_seen_at": "2026-08-30T13:20:37",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": false
     },
@@ -107,7 +137,7 @@
       "last_hot_value": "查看:8573 回复:152",
       "first_seen_at": "2026-08-29T19:58:47",
       "last_seen_at": "2026-08-31T18:31:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -127,9 +157,9 @@
       "last_hot_value": "查看:148403 回复:387",
       "first_seen_at": "2026-08-31T18:31:48",
       "last_seen_at": "2026-08-31T18:31:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1.21开始维护，结束后上线正式版 nametra.de NS官方米表开启公测，欢迎大家试用体验！",
@@ -142,6 +172,16 @@
       "is_new": false
     },
     {
+      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
+      "url": "https://www.nodeseek.com/post-584268-1",
+      "last_hot_value": "查看:26098 回复:180",
+      "first_seen_at": "2026-09-01T12:08:35",
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
       "url": "https://www.nodeseek.com/post-824558-1",
       "last_hot_value": "查看:9494 回复:142",
@@ -152,14 +192,24 @@
       "is_new": false
     },
     {
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:95772 回复:793",
+      "first_seen_at": "2026-09-01T12:08:35",
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "【教程】如何在发帖使用新支持的 Markdown 扩展语法 tabs / NodeQuality 新排版",
       "url": "https://www.nodeseek.com/post-661603-1",
       "last_hot_value": "查看:3394 回复:55",
       "first_seen_at": "2026-08-31T18:31:48",
       "last_seen_at": "2026-08-31T18:31:48",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
@@ -170,6 +220,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "Komari 1.2.6：全新可定制、可扩展统计图表，支持外部数据库",
+      "url": "https://www.nodeseek.com/post-818779-1",
+      "last_hot_value": "查看:5508 回复:78",
+      "first_seen_at": "2026-09-01T12:08:35",
+      "last_seen_at": "2026-09-01T12:08:35",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

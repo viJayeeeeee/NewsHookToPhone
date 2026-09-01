@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-08-31T18:31:40",
+  "update_time": "2026-09-01T12:08:26",
   "items": [
+    {
+      "title": "HarmonyOS7 单段式拍照连拍后 photoAvailable 不回调？缓冲区没释放，不是框架 bug",
+      "url": "https://ost.51cto.com/posts/55818",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HarmonyOS7 端侧OCR文字识别实战：做一个\"拍书摘\"工具，把识别框叠回原图",
       "url": "https://ost.51cto.com/posts/55769",
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS7开发探讨：组件离开可见区域后资源订阅什么时候停",
@@ -32,14 +42,24 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS7 AI语音朗读实战：做一个逐段高亮的离线朗读器",
+      "url": "https://ost.51cto.com/posts/55817",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "OpenAI被曝按吨囤Mac mini！全拿去训AI了",
       "url": "https://www.51cto.com/article/854466.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 校园应用系列之状态机驱动：鸿蒙 ArkUI下，错题本复习计划页 Tab 下划线筛选与进度卡片",
@@ -62,13 +82,33 @@
       "is_new": false
     },
     {
+      "title": "全新OpenClaw 2.0发布：龙虾史上最大更新，已无人关心",
+      "url": "https://www.51cto.com/article/854588.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "Anthropic 公开了 AI 原生开发实践：规划、设计一直谈到部署和生产维护",
       "url": "https://www.51cto.com/article/854265.html",
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "把 33 页官方手册压成三个动作，给小白的WorkBuddy教程，再也不用折腾 Claude 和 Codex 了",
+      "url": "https://www.51cto.com/article/854453.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -77,8 +117,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "藏太深！ChatGPT中居然还有这么多Codex同款能力",
+      "url": "https://www.51cto.com/article/854580.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -87,8 +137,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "别再拿 “大模型分析日志” 应付面试！这才是可落地的 AIOps 故障诊断架构",
+      "url": "https://www.51cto.com/article/854578.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -97,8 +157,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "Agent 驱动的架构模式初探",
+      "url": "https://www.51cto.com/article/854452.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -107,8 +177,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "不懂 page migrate，别说你懂 NUMA 调优",
+      "url": "https://www.51cto.com/article/854450.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -117,8 +197,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "LLM-as-a-Judge也会失灵：长对话评测不能只看一个分数",
+      "url": "https://www.51cto.com/article/854526.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -127,8 +217,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "龙虾还魂，2.0成飞书了！？",
+      "url": "https://www.51cto.com/article/854569.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-01T12:08:26",
+      "last_seen_at": "2026-09-01T12:08:26",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -137,9 +237,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-08-31T18:31:40",
       "last_seen_at": "2026-08-31T18:31:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
