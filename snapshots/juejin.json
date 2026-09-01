@@ -1,33 +1,23 @@
 {
-  "update_time": "2026-09-01T19:04:14",
+  "update_time": "2026-09-01T23:42:44",
   "items": [
     {
       "title": "豆包工作Agent正式发布，直接给到夯。",
       "url": "https://juejin.cn/post/7679623224678613034",
-      "last_hot_value": "热度:801",
+      "last_hot_value": "热度:810",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "「速通Shell」Shell 编程性能优化",
-      "url": "https://juejin.cn/post/7678975240300773428",
-      "last_hot_value": "热度:1746",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-31T18:31:36",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "Redis已正式接入AI",
       "url": "https://juejin.cn/post/7680014875347255334",
-      "last_hot_value": "热度:693",
+      "last_hot_value": "热度:720",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -44,10 +34,10 @@
     {
       "title": "OpenJDK 全面禁止 AI 生成代码！",
       "url": "https://juejin.cn/post/7680074643861291034",
-      "last_hot_value": "热度:666",
+      "last_hot_value": "热度:711",
       "first_seen_at": "2026-09-01T12:08:22",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -62,32 +52,12 @@
       "is_new": false
     },
     {
-      "title": "我的开源项目登顶 GitHub 趋势榜 No1 了！",
-      "url": "https://juejin.cn/post/7678618678956163078",
-      "last_hot_value": "热度:549",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
       "url": "https://juejin.cn/post/7679247792172433423",
-      "last_hot_value": "热度:549",
+      "last_hot_value": "热度:558",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "🚀苹果的液态玻璃咋做？🚀",
-      "url": "https://juejin.cn/post/7678529068804554787",
-      "last_hot_value": "热度:522",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,19 +66,19 @@
       "url": "https://juejin.cn/post/7679985418771218470",
       "last_hot_value": "热度:459",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "🤔 v-mortal 是什么？！我只知道 v-model 啊！",
-      "url": "https://juejin.cn/post/7678703379591708724",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "title": "我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题",
+      "url": "https://juejin.cn/post/7680143535669198858",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-09-01T19:04:14",
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -116,48 +86,18 @@
       "url": "https://juejin.cn/post/7679542577553571894",
       "last_hot_value": "热度:360",
       "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 4,
       "peak_rank": 6,
       "is_new": false
-    },
-    {
-      "title": "Firebase 如何让全球 Android 和 Flutter 开发者集体 Build Fail",
-      "url": "https://juejin.cn/post/7678586341090803748",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Flutter 多窗口支持类型和 API 介绍",
-      "url": "https://juejin.cn/post/7678203712679739398",
-      "last_hot_value": "热度:324",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题",
-      "url": "https://juejin.cn/post/7680143535669198858",
-      "last_hot_value": "热度:351",
-      "first_seen_at": "2026-09-01T19:04:14",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
     },
     {
       "title": "微信内部的生产级模型，居然开源了",
       "url": "https://juejin.cn/post/7680023541135507497",
-      "last_hot_value": "热度:333",
+      "last_hot_value": "热度:342",
       "first_seen_at": "2026-09-01T12:08:22",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -196,8 +136,8 @@
       "url": "https://juejin.cn/post/7680025405151084571",
       "last_hot_value": "热度:315",
       "first_seen_at": "2026-09-01T12:08:22",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -222,24 +162,14 @@
       "is_new": false
     },
     {
-      "title": "牛来原来是智谱，GLM-5.3-Flash 实测有惊喜也有硬伤",
-      "url": "https://juejin.cn/post/7678580101932220425",
-      "last_hot_value": "热度:225",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-29T22:15:01",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "用了两年 AI 编程工具后，我重新理解了什么是「资深工程师」",
       "url": "https://juejin.cn/post/7679059713533640747",
       "last_hot_value": "热度:306",
       "first_seen_at": "2026-09-01T19:04:14",
-      "last_seen_at": "2026-09-01T19:04:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-01T23:42:44",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "曾经安卓开发人手一个的 EventBus，为什么现在没人爱用了？",
@@ -257,16 +187,6 @@
       "last_hot_value": "热度:162",
       "first_seen_at": "2026-08-30T13:20:26",
       "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "当 AI 遇见 Flutter | 打造 500+ Widget 专属Logo",
-      "url": "https://juejin.cn/post/7678157950377312271",
-      "last_hot_value": "热度:207",
-      "first_seen_at": "2026-08-29T19:58:33",
-      "last_seen_at": "2026-08-29T22:15:01",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

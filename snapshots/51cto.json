@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-09-01T19:04:17",
+  "update_time": "2026-09-01T23:42:47",
   "items": [
     {
       "title": "HarmonyOS7 单段式拍照连拍后 photoAvailable 不回调？缓冲区没释放，不是框架 bug",
       "url": "https://ost.51cto.com/posts/55818",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,22 +32,12 @@
       "is_new": false
     },
     {
-      "title": "鸿蒙开发学习记录：onVisibleAreaApproximateChange 降低信息流曝光回调频率",
-      "url": "https://ost.51cto.com/posts/55702",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-29T19:58:37",
-      "last_seen_at": "2026-08-29T22:15:05",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "HarmonyOS7 AI语音朗读实战：做一个逐段高亮的离线朗读器",
       "url": "https://ost.51cto.com/posts/55817",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,22 +62,12 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS7功能理解10：XComponent黑屏后怎么判断Surface已经失效",
-      "url": "https://ost.51cto.com/posts/55699",
-      "last_hot_value": "",
-      "first_seen_at": "2026-08-29T19:58:37",
-      "last_seen_at": "2026-08-29T22:15:05",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "全新OpenClaw 2.0发布：龙虾史上最大更新，已无人关心",
       "url": "https://www.51cto.com/article/854588.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -106,8 +86,8 @@
       "url": "https://www.51cto.com/article/854453.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -126,8 +106,8 @@
       "url": "https://www.51cto.com/article/854580.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -146,8 +126,8 @@
       "url": "https://www.51cto.com/article/854578.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -166,8 +146,8 @@
       "url": "https://www.51cto.com/article/854452.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -186,8 +166,8 @@
       "url": "https://www.51cto.com/article/854450.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -206,8 +186,8 @@
       "url": "https://www.51cto.com/article/854526.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
@@ -226,8 +206,8 @@
       "url": "https://www.51cto.com/article/854569.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
-      "last_seen_at": "2026-09-01T19:04:17",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:47",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     },

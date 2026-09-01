@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-09-01T19:04:16",
+  "update_time": "2026-09-01T23:42:45",
   "items": [
     {
       "title": "【LangChain】 实战指南：从模型定义到工具调用与实时天气查询实战",
       "url": "https://blog.csdn.net/yhrxh_ymq/article/details/164109036",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "2.1w",
       "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,32 +32,22 @@
       "is_new": false
     },
     {
-      "title": "AI 已经能直接改设计稿了:Windows部署Penpot，接入Codex MCP实测",
-      "url": "https://blog.csdn.net/2302_79177254/article/details/164153081",
-      "last_hot_value": "2.3w",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-30T13:20:27",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "鸿蒙应用 AI 对话实战：用蓝耘 MaaS 给礼物 App 装上「多轮对话选礼大脑」",
       "url": "https://blog.csdn.net/weixin_52908342/article/details/164213393",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-09-01T19:04:16",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GitHub 热榜项目 - 周榜(2026-08-30)",
       "url": "https://blog.csdn.net/u014390502/article/details/164186053",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-31T18:31:38",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -72,22 +62,12 @@
       "is_new": false
     },
     {
-      "title": "【AI大模型接入SDK】Provider分析与实现",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/164145795",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "Docker - Swarm中的负载均衡与服务发现",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157611661",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -106,10 +86,10 @@
       "url": "https://blog.csdn.net/COLLINSXU/article/details/164259720",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-01T19:04:16",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【Linux 篇】数字世界的线程工坊 —— Linux 线程控制与自研线程库深度实战解析",
@@ -132,22 +112,12 @@
       "is_new": false
     },
     {
-      "title": "Codex修改异步代码后为什么总出现Promise问题？await、并发执行与异常处理排查",
-      "url": "https://blog.csdn.net/2601_96395508/article/details/164171216",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "【AI大模型】-DeepSeek Harness 深度解析",
       "url": "https://blog.csdn.net/zxc18344522713/article/details/164208421",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-31T18:31:38",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
@@ -162,22 +132,12 @@
       "is_new": false
     },
     {
-      "title": "计算机网络‑TCP 协议原理与特性解析",
-      "url": "https://blog.csdn.net/2502_93799892/article/details/164095097",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "《数据库往事-故事卷》开始了",
       "url": "https://blog.csdn.net/fly2nn/article/details/164193618",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -187,16 +147,6 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-08-30T13:20:27",
       "last_seen_at": "2026-08-30T13:20:27",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "飞牛 NAS 如何部署 ai-goofish-m开发全自动机器人",
-      "url": "https://blog.csdn.net/Dovis5884/article/details/164143914",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
@@ -212,32 +162,12 @@
       "is_new": false
     },
     {
-      "title": "linux网络：Http协议",
-      "url": "https://blog.csdn.net/2601_94861874/article/details/164088238",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-30T13:20:27",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "一个主题直接生成完整视频：Windows 部署 Pixelle-Video，把文案、配图和配音串成自动流程",
       "url": "https://blog.csdn.net/user340/article/details/164230237",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "PDF 合并、转换也能自己部署：极空间运行 Stirling PDF，文件交给自己的服务器处理",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/164152055",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-30T13:20:27",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -246,8 +176,8 @@
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/164031319",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-30T13:20:27",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 5,
       "peak_rank": 9,
       "is_new": false
     },
@@ -262,24 +192,14 @@
       "is_new": false
     },
     {
-      "title": "Redis 故障复盘案例：线上事故分析与预防措施总结",
-      "url": "https://blog.csdn.net/qq_41840843/article/details/164154922",
-      "last_hot_value": "8538",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "深入 MySQL 网络通信：客户端如何与服务端建立连接？",
       "url": "https://blog.csdn.net/qq_62538912/article/details/164231537",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-01T19:04:16",
-      "last_seen_at": "2026-09-01T19:04:16",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-01T23:42:45",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "基于Java的高德地图公交路线检索服务集成实践",
@@ -287,16 +207,6 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-08-31T18:31:38",
       "last_seen_at": "2026-08-31T18:31:38",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "【Linux指南】动静态库系列（六）：编译、链接与 ELF：.o、.so、可执行文件到底是什么",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/164146255",
-      "last_hot_value": "8517",
-      "first_seen_at": "2026-08-29T19:58:35",
-      "last_seen_at": "2026-08-29T22:15:03",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
