@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-09-01T23:42:45",
+  "update_time": "2026-09-02T10:13:52",
   "items": [
     {
       "title": "【LangChain】 实战指南：从模型定义到工具调用与实时天气查询实战",
       "url": "https://blog.csdn.net/yhrxh_ymq/article/details/164109036",
-      "last_hot_value": "2.1w",
+      "last_hot_value": "2.7w",
       "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -34,10 +34,10 @@
     {
       "title": "鸿蒙应用 AI 对话实战：用蓝耘 MaaS 给礼物 App 装上「多轮对话选礼大脑」",
       "url": "https://blog.csdn.net/weixin_52908342/article/details/164213393",
-      "last_hot_value": "1.9w",
+      "last_hot_value": "2.5w",
       "first_seen_at": "2026-09-01T19:04:16",
-      "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +47,7 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-08-31T18:31:38",
       "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,12 +62,22 @@
       "is_new": false
     },
     {
+      "title": "从本地 AI 到远程工作台：OpenClaw 配合工具，解锁 NAS、小游戏和远程桌面",
+      "url": "https://blog.csdn.net/COLLINSXU/article/details/164259720",
+      "last_hot_value": "2.0w",
+      "first_seen_at": "2026-09-01T19:04:16",
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 3,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
       "title": "Docker - Swarm中的负载均衡与服务发现",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157611661",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-09-01T12:08:24",
       "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,12 +92,12 @@
       "is_new": false
     },
     {
-      "title": "从本地 AI 到远程工作台：OpenClaw 配合工具，解锁 NAS、小游戏和远程桌面",
-      "url": "https://blog.csdn.net/COLLINSXU/article/details/164259720",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-09-01T19:04:16",
-      "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 2,
+      "title": "【AI大模型】-DeepSeek Harness 深度解析",
+      "url": "https://blog.csdn.net/zxc18344522713/article/details/164208421",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-08-31T18:31:38",
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -112,11 +122,11 @@
       "is_new": false
     },
     {
-      "title": "【AI大模型】-DeepSeek Harness 深度解析",
-      "url": "https://blog.csdn.net/zxc18344522713/article/details/164208421",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-31T18:31:38",
-      "last_seen_at": "2026-09-01T23:42:45",
+      "title": "一个主题直接生成完整视频：Windows 部署 Pixelle-Video，把文案、配图和配音串成自动流程",
+      "url": "https://blog.csdn.net/user340/article/details/164230237",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-09-01T12:08:24",
+      "last_seen_at": "2026-09-02T10:13:52",
       "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
@@ -132,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "【AI智能体】Harness Engineering 驾驭工程从使用到项目实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/164031319",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-08-30T13:20:27",
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 6,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
       "title": "《数据库往事-故事卷》开始了",
       "url": "https://blog.csdn.net/fly2nn/article/details/164193618",
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-01T12:08:24",
       "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -152,6 +172,16 @@
       "is_new": false
     },
     {
+      "title": "【BlueZ 】用户态入口：main.c 核心函数与程序启动流程",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/164164199",
+      "last_hot_value": "9406",
+      "first_seen_at": "2026-09-02T10:13:52",
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "哈佛 CS50 计算机科学导论笔记（二）",
       "url": "https://blog.csdn.net/wizardforcel/article/details/164195860",
       "last_hot_value": "1.2w",
@@ -162,24 +192,24 @@
       "is_new": false
     },
     {
-      "title": "一个主题直接生成完整视频：Windows 部署 Pixelle-Video，把文案、配图和配音串成自动流程",
-      "url": "https://blog.csdn.net/user340/article/details/164230237",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 3,
+      "title": "深入理解 Linux IO 模型（一）：阻塞 IO、非阻塞 IO 与信号驱动 IO",
+      "url": "https://blog.csdn.net/Felix_kiss_L/article/details/164257831",
+      "last_hot_value": "8430",
+      "first_seen_at": "2026-09-02T10:13:52",
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【AI智能体】Harness Engineering 驾驭工程从使用到项目实战详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/164031319",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-08-30T13:20:27",
-      "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 5,
+      "title": "Linux 下使用 Trivy 扫描 Docker 镜像漏洞",
+      "url": "https://blog.csdn.net/liu_chen_yang/article/details/163636209",
+      "last_hot_value": "7962",
+      "first_seen_at": "2026-09-02T10:13:52",
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "C#调用Intel NPU实现YOLOv26极速推理：OpenVINO工业视觉加速实践",
@@ -192,12 +222,22 @@
       "is_new": false
     },
     {
+      "title": "基于 Qwen3.8-Max 构建 AI 合同精审系统：文档解析、多轮条款分析 Pipeline 工程实战",
+      "url": "https://blog.csdn.net/weixin_62765017/article/details/164257935",
+      "last_hot_value": "7905",
+      "first_seen_at": "2026-09-02T10:13:52",
+      "last_seen_at": "2026-09-02T10:13:52",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "深入 MySQL 网络通信：客户端如何与服务端建立连接？",
       "url": "https://blog.csdn.net/qq_62538912/article/details/164231537",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-01T19:04:16",
       "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },

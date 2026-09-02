@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-09-01T23:42:47",
+  "update_time": "2026-09-02T10:13:53",
   "items": [
+    {
+      "title": "HarmonyOS7 互动卡片多尺寸实战：一张待办卡的三种尺寸与全端同步",
+      "url": "https://ost.51cto.com/posts/55843",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HarmonyOS7 单段式拍照连拍后 photoAvailable 不回调？缓冲区没释放，不是框架 bug",
       "url": "https://ost.51cto.com/posts/55818",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "你的模块在对你撒谎：深入解析 JavaScript 循环依赖与模块副作用",
+      "url": "https://www.51cto.com/article/854616.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "HarmonyOS7 AI语音朗读实战：做一个逐段高亮的离线朗读器",
       "url": "https://ost.51cto.com/posts/55817",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -62,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "【HarmonyOS 7 平行视界深度实战】01 平行视界、普通分栏与响应式布局怎么选",
+      "url": "https://ost.51cto.com/posts/55825",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "全新OpenClaw 2.0发布：龙虾史上最大更新，已无人关心",
       "url": "https://www.51cto.com/article/854588.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -82,12 +112,22 @@
       "is_new": false
     },
     {
+      "title": "突发！Fable 5.1遭黑客破解，27万字提示词泄露",
+      "url": "https://www.51cto.com/article/854701.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "把 33 页官方手册压成三个动作，给小白的WorkBuddy教程，再也不用折腾 Claude 和 Codex 了",
       "url": "https://www.51cto.com/article/854453.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,12 +142,22 @@
       "is_new": false
     },
     {
+      "title": "AI成本失控？Claude这套\"省钱组合拳\"，值得所有企业学习",
+      "url": "https://www.51cto.com/article/854697.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "藏太深！ChatGPT中居然还有这么多Codex同款能力",
       "url": "https://www.51cto.com/article/854580.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -122,12 +172,22 @@
       "is_new": false
     },
     {
+      "title": "33%！Claude、GPT、Gemini 在真实网站上集体翻车，ClawBench 把 AI agent 打回原形",
+      "url": "https://www.51cto.com/article/854694.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "别再拿 “大模型分析日志” 应付面试！这才是可落地的 AIOps 故障诊断架构",
       "url": "https://www.51cto.com/article/854578.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -142,12 +202,22 @@
       "is_new": false
     },
     {
+      "title": "ThreeUI 开源了！不用从零写 Three.js 直接做 3D 网页",
+      "url": "https://www.51cto.com/article/854692.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "Agent 驱动的架构模式初探",
       "url": "https://www.51cto.com/article/854452.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -162,12 +232,22 @@
       "is_new": false
     },
     {
+      "title": "AI能挖漏洞吗？北航等机构把真实漏洞炼进了模型参数",
+      "url": "https://www.51cto.com/article/854691.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "不懂 page migrate，别说你懂 NUMA 调优",
       "url": "https://www.51cto.com/article/854450.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -182,12 +262,22 @@
       "is_new": false
     },
     {
+      "title": "会写async/await不算高手，真正厉害的人都懂这四个异步策略",
+      "url": "https://www.51cto.com/article/854645.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "LLM-as-a-Judge也会失灵：长对话评测不能只看一个分数",
       "url": "https://www.51cto.com/article/854526.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -202,12 +292,22 @@
       "is_new": false
     },
     {
+      "title": "一文看懂AI Agent演进史：重新理解智能体底层逻辑",
+      "url": "https://www.51cto.com/article/854690.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-02T10:13:53",
+      "last_seen_at": "2026-09-02T10:13:53",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "龙虾还魂，2.0成飞书了！？",
       "url": "https://www.51cto.com/article/854569.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-01T12:08:26",
       "last_seen_at": "2026-09-01T23:42:47",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },

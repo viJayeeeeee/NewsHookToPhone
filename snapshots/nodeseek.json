@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-09-01T23:42:54",
+  "update_time": "2026-09-02T10:14:03",
   "items": [
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:221389 回复:2947",
+      "first_seen_at": "2026-09-02T10:14:03",
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "NS官方邮箱系统正式版(V2)",
       "url": "https://www.nodeseek.com/post-647200-1",
       "last_hot_value": "查看:80210 回复:615",
       "first_seen_at": "2026-09-01T12:08:35",
-      "last_seen_at": "2026-09-01T23:42:54",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,10 +26,10 @@
       "url": "https://www.nodeseek.com/post-523722-1",
       "last_hot_value": "查看:18721 回复:223",
       "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-01T23:42:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "探针主题开源！！！",
@@ -46,18 +56,18 @@
       "url": "https://www.nodeseek.com/post-503956-1",
       "last_hot_value": "查看:1480 回复:6",
       "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-01T23:42:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从零开始的VPS科普(1)：认识你的第一台服务器",
       "url": "https://www.nodeseek.com/post-656474-1",
       "last_hot_value": "查看:7298 回复:167",
       "first_seen_at": "2026-08-31T18:31:48",
-      "last_seen_at": "2026-09-01T23:42:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
@@ -76,8 +86,8 @@
       "url": "https://www.nodeseek.com/post-54366-1",
       "last_hot_value": "查看:149017 回复:389",
       "first_seen_at": "2026-08-31T18:31:48",
-      "last_seen_at": "2026-09-01T23:42:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
@@ -86,19 +96,29 @@
       "url": "https://www.nodeseek.com/post-684012-1",
       "last_hot_value": "查看:9155 回复:118",
       "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-01T23:42:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
       "url": "https://www.nodeseek.com/post-810146-1",
       "last_hot_value": "查看:9767 回复:119",
       "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-01T23:42:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 2,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:238288 回复:2199",
+      "first_seen_at": "2026-09-02T10:14:03",
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -116,10 +136,10 @@
       "url": "https://www.nodeseek.com/post-709258-1",
       "last_hot_value": "查看:32270 回复:486",
       "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-01T23:42:54",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-02T10:14:03",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
