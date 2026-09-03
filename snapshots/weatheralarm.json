@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-09-03T04:30:23",
+  "update_time": "2026-09-03T09:14:57",
   "items": [
+    {
+      "title": "江苏省南通市启东市气象台发布海区大风黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/32068141600000_20260903165317.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "贵州省安顺市紫云县气象台发布大风蓝色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/52042541600000_20260903121043.html",
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "贵州省毕节市纳雍县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/52052541600000_20260903165157.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,8 +37,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "云南省昆明市嵩明县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/53012741600000_20260903165025.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "江西省宜春市袁州区气象台发布暴雨蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/36090241600000_20260903165108.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "云南省普洱市墨江哈尼族自治县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/53082241600000_20260903164630.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "广东省梅州市蕉岭县气象台发布暴雨红色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/44142741600000_20260903164857.html",
+      "last_hot_value": "红色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "江苏省南通市海门区气象台发布海区大风黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/32061441600000_20260903164431.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +137,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "江西省赣州市崇义县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/36072541600000_20260903164907.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +157,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "云南省楚雄彝族自治州大姚县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/53232641600000_20260903164217.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +177,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "福建省泉州市气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/35050041600000_20260903164200.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-03T09:14:57",
+      "last_seen_at": "2026-09-03T09:14:57",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +197,9 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-03T04:30:23",
       "last_seen_at": "2026-09-03T04:30:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
