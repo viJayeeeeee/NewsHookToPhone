@@ -1,95 +1,65 @@
 {
-  "update_time": "2026-09-02T10:13:50",
+  "update_time": "2026-09-03T20:02:33",
   "items": [
     {
-      "title": "豆包工作Agent正式发布，直接给到夯。",
-      "url": "https://juejin.cn/post/7679623224678613034",
-      "last_hot_value": "热度:1179",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 5,
+      "title": "Java切面编程（AOP）详解：从核心概念到实战应用",
+      "url": "https://juejin.cn/post/7680496681512042548",
+      "last_hot_value": "热度:4905",
+      "first_seen_at": "2026-09-03T20:02:33",
+      "last_seen_at": "2026-09-03T20:02:33",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "OpenJDK 全面禁止 AI 生成代码！",
       "url": "https://juejin.cn/post/7680074643861291034",
-      "last_hot_value": "热度:1125",
+      "last_hot_value": "热度:1728",
       "first_seen_at": "2026-09-01T12:08:22",
-      "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 4,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "Redis已正式接入AI",
-      "url": "https://juejin.cn/post/7680014875347255334",
-      "last_hot_value": "热度:954",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-02T10:13:50",
+      "last_seen_at": "2026-09-03T20:02:33",
       "consecutive_count": 5,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "公司没给活干，却因为员工看手机把人开了：法院判赔11万元",
-      "url": "https://juejin.cn/post/7679402031226110004",
-      "last_hot_value": "热度:423",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-08-31T18:31:36",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "因为找不到好用的前端占位图，于是我自己写了个谁都能用的占位图功能",
-      "url": "https://juejin.cn/post/7678920712071168046",
-      "last_hot_value": "热度:378",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-08-31T18:31:36",
-      "consecutive_count": 0,
-      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "我用 Qwen3.8-Max 搭了一个电商商品资料包体检助手，6 份资料和 1 张商品图一次查出 27 个问题",
       "url": "https://juejin.cn/post/7680143535669198858",
-      "last_hot_value": "热度:702",
+      "last_hot_value": "热度:1539",
       "first_seen_at": "2026-09-01T19:04:14",
-      "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 3,
-      "peak_rank": 4,
+      "last_seen_at": "2026-09-03T20:02:33",
+      "consecutive_count": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "看懂大模型架构术语，帮助你理解目前常见的大模型开源架构",
-      "url": "https://juejin.cn/post/7679247792172433423",
-      "last_hot_value": "热度:693",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 5,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "老板要周报？我说不用，代码提交就是进度",
-      "url": "https://juejin.cn/post/7679985418771218470",
-      "last_hot_value": "热度:630",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 5,
+      "title": "为什么越来越多人用 OpenSearch？",
+      "url": "https://juejin.cn/post/7680375814231605299",
+      "last_hot_value": "热度:621",
+      "first_seen_at": "2026-09-03T20:02:33",
+      "last_seen_at": "2026-09-03T20:02:33",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "AI 时代，一个优化 Flutter 的重复代码工具 Deslop",
-      "url": "https://juejin.cn/post/7679542577553571894",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 5,
+      "title": "sys_dump 备了库，角色和权限别漏在外面",
+      "url": "https://juejin.cn/post/7680551559094517802",
+      "last_hot_value": "热度:612",
+      "first_seen_at": "2026-09-03T20:02:33",
+      "last_seen_at": "2026-09-03T20:02:33",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "AI全栈开发最佳实践💐",
+      "url": "https://juejin.cn/post/7680741276414296104",
+      "last_hot_value": "热度:576",
+      "first_seen_at": "2026-09-03T20:02:33",
+      "last_seen_at": "2026-09-03T20:02:33",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "登录页还在用渐变？我一口气做了 5 个能摸的背景动效：吹蒲公英、滴墨染水、点熔岩闷裂",
@@ -97,7 +67,7 @@
       "last_hot_value": "热度:486",
       "first_seen_at": "2026-09-01T12:08:22",
       "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -107,59 +77,39 @@
       "last_hot_value": "热度:441",
       "first_seen_at": "2026-09-01T12:08:22",
       "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 4,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "VisActor 全新图可视化开源项目：VGraph",
-      "url": "https://juejin.cn/post/7678646261258043428",
-      "last_hot_value": "热度:243",
-      "first_seen_at": "2026-08-30T13:20:26",
-      "last_seen_at": "2026-08-30T13:20:26",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "Show me your works & token -稀土掘金上线作品广场和用量统计",
-      "url": "https://juejin.cn/post/7675992325912887315",
-      "last_hot_value": "热度:279",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 0,
+      "title": "PC 网站接入微信登录，这 10 个坑我替你踩完了！",
+      "url": "https://juejin.cn/post/7680216488121008138",
+      "last_hot_value": "热度:441",
+      "first_seen_at": "2026-09-03T20:02:33",
+      "last_seen_at": "2026-09-03T20:02:33",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "《HelloGitHub》第 125 期",
-      "url": "https://juejin.cn/post/7678607362014937142",
-      "last_hot_value": "热度:171",
-      "first_seen_at": "2026-08-30T13:20:26",
-      "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "我做了一个开源项目，让 AI 记住我们解决过的问题：Usora",
-      "url": "https://juejin.cn/post/7679020474672660526",
-      "last_hot_value": "热度:216",
-      "first_seen_at": "2026-08-31T18:31:36",
-      "last_seen_at": "2026-08-31T18:31:36",
-      "consecutive_count": 0,
+      "title": "从零搭建你的 AI 编程工作流",
+      "url": "https://juejin.cn/post/7680065840814260224",
+      "last_hot_value": "热度:405",
+      "first_seen_at": "2026-09-03T20:02:33",
+      "last_seen_at": "2026-09-03T20:02:33",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "听说我兄弟喜欢跑车，所以必须安排上",
-      "url": "https://juejin.cn/post/7678577086287118370",
-      "last_hot_value": "热度:171",
-      "first_seen_at": "2026-08-30T13:20:26",
-      "last_seen_at": "2026-08-30T13:20:26",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "Android 17 + OkHttp 5.5.0 ，全新 ECH 下你的 HTTPS 域名可以请求时被安全隐藏",
+      "url": "https://juejin.cn/post/7680110774044475398",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-09-03T20:02:33",
+      "last_seen_at": "2026-09-03T20:02:33",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "整理了一份 DeepSeek Harness 必备插件清单！",
@@ -167,9 +117,9 @@
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-09-02T10:13:50",
       "last_seen_at": "2026-09-02T10:13:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "用了两年 AI 编程工具后，我重新理解了什么是「资深工程师」",
@@ -187,16 +137,6 @@
       "last_hot_value": "热度:270",
       "first_seen_at": "2026-09-01T12:08:22",
       "last_seen_at": "2026-09-01T12:08:22",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "pm2 替代品，nodejs&bun 线上部署必备工具",
-      "url": "https://juejin.cn/post/7679000152963399689",
-      "last_hot_value": "热度:162",
-      "first_seen_at": "2026-08-30T13:20:26",
-      "last_seen_at": "2026-08-30T13:20:26",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
