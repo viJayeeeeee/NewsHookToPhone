@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-09-04T01:36:44",
+  "update_time": "2026-09-04T06:15:07",
   "items": [
     {
       "title": "M5.1 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "5.1级",
       "first_seen_at": "2026-09-04T01:36:44",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.8 四川绵阳市北川县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.8级",
       "first_seen_at": "2026-09-03T17:20:41",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.5级",
       "first_seen_at": "2026-09-03T09:14:59",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,8 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.0级",
       "first_seen_at": "2026-09-03T04:30:25",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -46,8 +46,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.3级",
       "first_seen_at": "2026-09-03T17:20:41",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,8 +56,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-09-03T09:14:59",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -66,8 +66,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.2级",
       "first_seen_at": "2026-09-03T04:30:25",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -76,8 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-09-03T09:14:59",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -86,8 +86,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-09-03T04:30:25",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -96,8 +96,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-09-03T04:30:25",
-      "last_seen_at": "2026-09-04T01:36:44",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-04T06:15:07",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
