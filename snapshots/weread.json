@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-09-03T17:20:37",
+  "update_time": "2026-09-04T01:36:40",
   "items": [
     {
       "title": "都柏林人",
       "url": "",
-      "last_hot_value": "267人在读",
+      "last_hot_value": "409人在读",
       "first_seen_at": "2026-09-03T09:14:55",
-      "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-04T01:36:40",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,19 +16,29 @@
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-09-03T09:14:55",
-      "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-04T01:36:40",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "略萨作品：酒吧长谈（纪念版）",
       "url": "",
-      "last_hot_value": "632人在读",
+      "last_hot_value": "622人在读",
       "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-04T01:36:40",
+      "consecutive_count": 4,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "AI提效：人人都要用的WorkBuddy（微信读书特别版）",
+      "url": "",
+      "last_hot_value": "2822人在读",
+      "first_seen_at": "2026-09-03T04:30:22",
+      "last_seen_at": "2026-09-04T01:36:40",
+      "consecutive_count": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -42,53 +52,63 @@
       "is_new": false
     },
     {
-      "title": "AI提效：人人都要用的WorkBuddy（微信读书特别版）",
-      "url": "",
-      "last_hot_value": "2760人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "米德尔马契",
       "url": "",
       "last_hot_value": "808人在读",
       "first_seen_at": "2026-09-03T04:30:22",
       "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "这世界既残酷也温柔",
+      "url": "",
+      "last_hot_value": "3035人在读",
+      "first_seen_at": "2026-09-03T09:14:55",
+      "last_seen_at": "2026-09-04T01:36:40",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "明亮的夜晚",
       "url": "",
-      "last_hot_value": "2923人在读",
+      "last_hot_value": "2997人在读",
       "first_seen_at": "2026-09-03T09:14:55",
-      "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-04T01:36:40",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "故事：材质、结构、风格和银幕剧作的原理",
       "url": "",
-      "last_hot_value": "712人在读",
+      "last_hot_value": "734人在读",
       "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-04T01:36:40",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "这世界既残酷也温柔",
+      "title": "毛泽东选集（全四卷）",
       "url": "",
-      "last_hot_value": "3120人在读",
-      "first_seen_at": "2026-09-03T09:14:55",
-      "last_seen_at": "2026-09-03T17:20:37",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-09-03T04:30:22",
+      "last_seen_at": "2026-09-04T01:36:40",
+      "consecutive_count": 4,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "中国社会各阶层分析",
+      "url": "",
+      "last_hot_value": "829人在读",
+      "first_seen_at": "2026-09-03T17:20:37",
+      "last_seen_at": "2026-09-04T01:36:40",
       "consecutive_count": 2,
-      "peak_rank": 6,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -102,21 +122,11 @@
       "is_new": false
     },
     {
-      "title": "毛泽东选集（全四卷）",
+      "title": "明朝那些事儿（全集）",
       "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 3,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "中国社会各阶层分析",
-      "url": "",
-      "last_hot_value": "788人在读",
-      "first_seen_at": "2026-09-03T17:20:37",
-      "last_seen_at": "2026-09-03T17:20:37",
+      "last_hot_value": "4人在读",
+      "first_seen_at": "2026-09-04T01:36:40",
+      "last_seen_at": "2026-09-04T01:36:40",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true
