@@ -1,35 +1,35 @@
 {
-  "update_time": "2026-09-03T20:02:43",
+  "update_time": "2026-09-06T18:06:37",
   "items": [
+    {
+      "title": "CloudSSH 开源项目：借助 Cloudflare Workers 打造免费且功能强大 Web SSH 终端，用浏览器远程管理服务器，连接信息云端同步 + AI Agent智能运维，一键部署还不花一分钱",
+      "url": "https://www.nodeseek.com/post-898574-1",
+      "last_hot_value": "查看:2594 回复:50",
+      "first_seen_at": "2026-09-03T20:02:43",
+      "last_seen_at": "2026-09-06T18:06:37",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "不止DMIT、BWH ❗❗❗ 超全面的NS热门商家套餐汇总",
       "url": "https://www.nodeseek.com/post-600406-1",
       "last_hot_value": "查看:14264 回复:196",
       "first_seen_at": "2026-09-03T20:02:43",
       "last_seen_at": "2026-09-03T20:02:43",
+      "consecutive_count": 0,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
+      "url": "https://www.nodeseek.com/post-786238-1",
+      "last_hot_value": "查看:2244 回复:30",
+      "first_seen_at": "2026-09-06T18:06:37",
+      "last_seen_at": "2026-09-06T18:06:37",
       "consecutive_count": 1,
-      "peak_rank": 1,
+      "peak_rank": 2,
       "is_new": true
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:221873 回复:2956",
-      "first_seen_at": "2026-09-02T10:14:03",
-      "last_seen_at": "2026-09-03T20:02:43",
-      "consecutive_count": 2,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "NS官方邮箱系统正式版(V2)",
-      "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:80599 回复:616",
-      "first_seen_at": "2026-09-01T12:08:35",
-      "last_seen_at": "2026-09-03T20:02:43",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
     },
     {
       "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
@@ -37,26 +37,6 @@
       "last_hot_value": "查看:8778 回复:156",
       "first_seen_at": "2026-09-03T20:02:43",
       "last_seen_at": "2026-09-03T20:02:43",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "常见各种线路和网络的科普",
-      "url": "https://www.nodeseek.com/post-523722-1",
-      "last_hot_value": "查看:18721 回复:223",
-      "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-02T10:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "探针主题开源！！！",
-      "url": "https://www.nodeseek.com/post-698953-1",
-      "last_hot_value": "查看:4305 回复:78",
-      "first_seen_at": "2026-09-01T12:08:35",
-      "last_seen_at": "2026-09-01T19:04:25",
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
@@ -67,59 +47,39 @@
       "last_hot_value": "查看:25820 回复:172",
       "first_seen_at": "2026-09-03T20:02:43",
       "last_seen_at": "2026-09-03T20:02:43",
+      "consecutive_count": 0,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "推荐一款开源好看的可视化路由追踪软件，同时支持windows和Linux【附图】",
+      "url": "https://www.nodeseek.com/post-6789-1",
+      "last_hot_value": "查看:2815 回复:27",
+      "first_seen_at": "2026-09-06T18:06:37",
+      "last_seen_at": "2026-09-06T18:06:37",
       "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "我写了个自认为非常牛逼的浏览器插件: StackPrism",
-      "url": "https://www.nodeseek.com/post-722664-1",
-      "last_hot_value": "查看:5219 回复:67",
-      "first_seen_at": "2026-09-01T12:08:35",
-      "last_seen_at": "2026-09-01T19:04:25",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "[经验] IOS 去广告方法汇总",
-      "url": "https://www.nodeseek.com/post-503956-1",
-      "last_hot_value": "查看:1480 回复:6",
-      "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-02T10:14:03",
-      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
       "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:29111 回复:261",
+      "last_hot_value": "查看:30256 回复:264",
       "first_seen_at": "2026-09-03T20:02:43",
-      "last_seen_at": "2026-09-03T20:02:43",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:238842 回复:2203",
-      "first_seen_at": "2026-09-02T10:14:03",
-      "last_seen_at": "2026-09-03T20:02:43",
+      "last_seen_at": "2026-09-06T18:06:37",
       "consecutive_count": 2,
-      "peak_rank": 6,
+      "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "Monolith — 一套跑在 Cloudflare 免费套餐上的高质感博客系统",
-      "url": "https://www.nodeseek.com/post-684012-1",
-      "last_hot_value": "查看:9155 回复:118",
-      "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-02T10:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
+      "url": "https://www.nodeseek.com/post-724033-1",
+      "last_hot_value": "查看:4039 回复:39",
+      "first_seen_at": "2026-09-06T18:06:37",
+      "last_seen_at": "2026-09-06T18:06:37",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "🧭 Navidash 更新啦！欢迎来定制你的主页！（探针已加入）",
@@ -127,59 +87,29 @@
       "last_hot_value": "查看:2192 回复:37",
       "first_seen_at": "2026-09-03T20:02:43",
       "last_seen_at": "2026-09-03T20:02:43",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
-      "url": "https://www.nodeseek.com/post-810146-1",
-      "last_hot_value": "查看:9767 回复:119",
-      "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-02T10:14:03",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "CloudSSH 开源项目：借助 Cloudflare Workers 打造免费且功能强大 Web SSH 终端，用浏览器远程管理服务器，连接信息云端同步 + AI Agent智能运维，一键部署还不花一分钱",
-      "url": "https://www.nodeseek.com/post-898574-1",
-      "last_hot_value": "查看:2069 回复:41",
-      "first_seen_at": "2026-09-03T20:02:43",
-      "last_seen_at": "2026-09-03T20:02:43",
+      "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
+      "url": "https://www.nodeseek.com/post-878721-1",
+      "last_hot_value": "查看:3287 回复:69",
+      "first_seen_at": "2026-09-06T18:06:37",
+      "last_seen_at": "2026-09-06T18:06:37",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
     },
     {
-      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
-      "url": "https://www.nodeseek.com/post-584268-1",
-      "last_hot_value": "查看:26098 回复:180",
-      "first_seen_at": "2026-09-01T12:08:35",
-      "last_seen_at": "2026-09-01T19:04:25",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "『重磅』NodeSeek社区的探针产品：NodeGet，公测！",
-      "url": "https://www.nodeseek.com/post-709258-1",
-      "last_hot_value": "查看:32270 回复:486",
-      "first_seen_at": "2026-09-01T23:42:54",
-      "last_seen_at": "2026-09-02T10:14:03",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:95772 回复:793",
-      "first_seen_at": "2026-09-01T12:08:35",
-      "last_seen_at": "2026-09-01T19:04:25",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "nodewarden 1.0.0 正式版已经发布，大家可以当做主力使用了。",
+      "url": "https://www.nodeseek.com/post-622577-1",
+      "last_hot_value": "查看:15237 回复:190",
+      "first_seen_at": "2026-09-06T18:06:37",
+      "last_seen_at": "2026-09-06T18:06:37",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "QD ～ 不仅限于自动签到的定时任务自动执行框架",
@@ -187,16 +117,6 @@
       "last_hot_value": "查看:7522 回复:30",
       "first_seen_at": "2026-09-03T20:02:43",
       "last_seen_at": "2026-09-03T20:02:43",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "Komari 1.2.6：全新可定制、可扩展统计图表，支持外部数据库",
-      "url": "https://www.nodeseek.com/post-818779-1",
-      "last_hot_value": "查看:5508 回复:78",
-      "first_seen_at": "2026-09-01T12:08:35",
-      "last_seen_at": "2026-09-01T19:04:25",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
