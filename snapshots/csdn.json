@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-09-07T16:14:33",
+  "update_time": "2026-09-07T19:45:32",
   "items": [
+    {
+      "title": "Linux网络（五）：一文吃透 UDP Socket 编程：从 socket、bind 到数据收发与地址处理",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/164214312",
+      "last_hot_value": "2.2w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "本体驱动的AI大模型",
       "url": "https://blog.csdn.net/herosunly/article/details/164395531",
-      "last_hot_value": "2.9w",
+      "last_hot_value": "2.2w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "HTTPS 加密流程深度解析｜从 HTTP 痛点到 TLS 握手全过程",
       "url": "https://blog.csdn.net/2502_93799892/article/details/164427434",
-      "last_hot_value": "2.1w",
+      "last_hot_value": "1.6w",
       "first_seen_at": "2026-09-07T16:14:33",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AI开发】从 Vibe Coding 到 LangGraph，AI 开发框架一次看懂",
@@ -27,8 +37,18 @@
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-09-07T05:38:41",
       "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "Linux网络——IP协议 子网 路由 IP的分片字段",
+      "url": "https://blog.csdn.net/oooooooooooohd/article/details/164402126",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -37,8 +57,28 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-07T05:38:41",
       "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "【AI大模型接入SDK】ChatGPT API",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/164395951",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-09-07T19:45:32",
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "【AI智能体】Codex 制作RAG知识库应用实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163771724",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -47,29 +87,29 @@
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-09-07T05:38:41",
       "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】Codex 制作RAG知识库应用实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163771724",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "gpt-6-astra测试，测试你的模型有没有降智",
       "url": "https://blog.csdn.net/qq_43761275/article/details/164430162",
-      "last_hot_value": "1.5w",
+      "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "GitHub 热榜项目 - 周榜(2026-09-06)",
+      "url": "https://blog.csdn.net/u014390502/article/details/164427429",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-09-07T19:45:32",
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "数据库为什么变慢？KEMCC让排障从零散线索走向根因定位",
@@ -84,21 +124,11 @@
     {
       "title": "PandaWiki 本地 AI 知识库实战：文档导入、智能问答与远程访问",
       "url": "https://blog.csdn.net/m0_73879806/article/details/164461433",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-07T16:14:33",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "Linux网络——IP协议 子网 路由 IP的分片字段",
-      "url": "https://blog.csdn.net/oooooooooooohd/article/details/164402126",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 0,
-      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -107,9 +137,9 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-07T16:14:33",
       "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 的 Memory 到底该记什么？",
@@ -122,14 +152,14 @@
       "is_new": false
     },
     {
-      "title": "Linux网络（五）：一文吃透 UDP Socket 编程：从 socket、bind 到数据收发与地址处理",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/164214312",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 2,
+      "title": "多台 Linux 服务器怎么统一装 Docker？用 Ansible Playbook 固化部署流程",
+      "url": "https://blog.csdn.net/u014727709/article/details/164456185",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-09-07T19:45:32",
+      "last_seen_at": "2026-09-07T19:45:32",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

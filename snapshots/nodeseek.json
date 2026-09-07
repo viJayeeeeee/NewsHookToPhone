@@ -1,14 +1,24 @@
 {
-  "update_time": "2026-09-07T16:14:42",
+  "update_time": "2026-09-07T19:45:41",
   "items": [
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:240548 回复:2214",
       "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T16:14:42",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 2,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
+      "url": "https://www.nodeseek.com/post-865242-1",
+      "last_hot_value": "查看:30609 回复:265",
+      "first_seen_at": "2026-09-07T19:45:41",
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -26,20 +36,20 @@
       "url": "https://www.nodeseek.com/post-792082-1",
       "last_hot_value": "查看:5936 回复:94",
       "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T16:14:42",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "自用VPS一键脚本工具箱，一个脚本搞定大部分需求",
       "url": "https://www.nodeseek.com/post-58421-1",
       "last_hot_value": "查看:49110 回复:488",
       "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T16:14:42",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "推荐一款开源好看的可视化路由追踪软件，同时支持windows和Linux【附图】",
@@ -52,24 +62,34 @@
       "is_new": false
     },
     {
+      "title": "CloudSSH 开源项目：借助 Cloudflare Workers 打造免费且功能强大 Web SSH 终端，用浏览器远程管理服务器，连接信息云端同步 + AI Agent智能运维，一键部署还不花一分钱",
+      "url": "https://www.nodeseek.com/post-898574-1",
+      "last_hot_value": "查看:2808 回复:51",
+      "first_seen_at": "2026-09-07T19:45:41",
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
       "url": "https://www.nodeseek.com/post-810146-1",
       "last_hot_value": "查看:10420 回复:125",
       "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T16:14:42",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
       "url": "https://www.nodeseek.com/post-572284-1",
       "last_hot_value": "查看:67146 回复:198",
       "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T16:14:42",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
@@ -86,10 +106,10 @@
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:223626 回复:2971",
       "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T16:14:42",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
@@ -106,20 +126,20 @@
       "url": "https://www.nodeseek.com/post-824558-1",
       "last_hot_value": "查看:10200 回复:147",
       "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T16:14:42",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "小科普：国际互联优秀是怎么判断的？",
       "url": "https://www.nodeseek.com/post-312375-1",
       "last_hot_value": "查看:6155 回复:53",
       "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T16:14:42",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T19:45:41",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "nodewarden 1.0.0 正式版已经发布，大家可以当做主力使用了。",
