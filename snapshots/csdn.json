@@ -1,185 +1,105 @@
 {
-  "update_time": "2026-09-03T20:02:34",
+  "update_time": "2026-09-07T05:38:41",
   "items": [
     {
-      "title": "【LangChain】 实战指南：从模型定义到工具调用与实时天气查询实战",
-      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/164109036",
-      "last_hot_value": "2.5w",
-      "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-03T20:02:34",
-      "consecutive_count": 5,
+      "title": "本体驱动的AI大模型",
+      "url": "https://blog.csdn.net/herosunly/article/details/164395531",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "从本地到公网：Windows 部署 KouriChat，并接入 DeepSeek 实现微信 AI 对话",
-      "url": "https://blog.csdn.net/mrdeam/article/details/164270020",
-      "last_hot_value": "2.3w",
-      "first_seen_at": "2026-09-03T20:02:34",
-      "last_seen_at": "2026-09-03T20:02:34",
-      "consecutive_count": 1,
-      "peak_rank": 2,
       "is_new": true
     },
     {
-      "title": "鸿蒙应用 AI 对话实战：用蓝耘 MaaS 给礼物 App 装上「多轮对话选礼大脑」",
-      "url": "https://blog.csdn.net/weixin_52908342/article/details/164213393",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-09-01T19:04:16",
-      "last_seen_at": "2026-09-03T20:02:34",
-      "consecutive_count": 4,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "从本地 AI 到远程工作台：OpenClaw 配合工具，解锁 NAS、小游戏和远程桌面",
-      "url": "https://blog.csdn.net/COLLINSXU/article/details/164259720",
-      "last_hot_value": "8844",
-      "first_seen_at": "2026-09-01T19:04:16",
-      "last_seen_at": "2026-09-03T20:02:34",
-      "consecutive_count": 4,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "别让你的 Agent 一口吃成胖子：AI Agent 任务拆分的工程实践指南",
-      "url": "https://blog.csdn.net/2401_89111612/article/details/164153484",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-09-03T20:02:34",
-      "last_seen_at": "2026-09-03T20:02:34",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "Docker - Swarm中的负载均衡与服务发现",
-      "url": "https://blog.csdn.net/qq_41187124/article/details/157611661",
+      "title": "【AI开发】从 Vibe Coding 到 LangGraph，AI 开发框架一次看懂",
+      "url": "https://blog.csdn.net/2601_96587588/article/details/164230281",
       "last_hot_value": "1.4w",
-      "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
-      "title": "【AI 应用 -- 白话大模型（篇八）】《从零系统学习 AI Skill之起源发展、文件结构、编写原则、机制原理与项目实战案例》",
-      "url": "https://blog.csdn.net/2501_93351213/article/details/164262916",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-09-03T20:02:34",
-      "last_seen_at": "2026-09-03T20:02:34",
+      "title": "从“数据出库“到“模型入库“：DolphinDB 库内机器学习全流程实践",
+      "url": "https://blog.csdn.net/IRpickstars/article/details/164403985",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "【AI智能体】Codex 制作RAG知识库应用实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163771724",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "【AI大模型接入SDK】Gemini模型接入知识体系",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/164396347",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
     },
     {
-      "title": "一个主题直接生成完整视频：Windows 部署 Pixelle-Video，把文案、配图和配音串成自动流程",
-      "url": "https://blog.csdn.net/user340/article/details/164230237",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-02T10:13:52",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "Ollama 本地大模型部署实战：从下载到接入 IDE、Web 和 API",
-      "url": "https://blog.csdn.net/vipxieliang/article/details/164206712",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T12:08:24",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "【BlueZ 】用户态入口：main.c 核心函数与程序启动流程",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/164164199",
+      "title": "数据库为什么变慢？KEMCC让排障从零散线索走向根因定位",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/164398131",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-02T10:13:52",
-      "last_seen_at": "2026-09-03T20:02:34",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "《数据库往事-故事卷》开始了",
-      "url": "https://blog.csdn.net/fly2nn/article/details/164193618",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-09-01T12:08:24",
-      "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "计算机网络｜数据链路层详解：MAC 地址、交换机、ARP 协议、CRC 校验",
-      "url": "https://blog.csdn.net/2502_93799892/article/details/164213960",
-      "last_hot_value": "9403",
-      "first_seen_at": "2026-09-03T20:02:34",
-      "last_seen_at": "2026-09-03T20:02:34",
+      "title": "gpt-6-astra测试，测试你的模型有没有降智",
+      "url": "https://blog.csdn.net/qq_43761275/article/details/164430162",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
     },
     {
-      "title": "SpringBoot3+Vue3 用户多组织：默认任职、关联组织和顶栏切公司怎么配",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/164269399",
-      "last_hot_value": "9306",
-      "first_seen_at": "2026-09-03T20:02:34",
-      "last_seen_at": "2026-09-03T20:02:34",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "深入理解 Linux IO 模型（一）：阻塞 IO、非阻塞 IO 与信号驱动 IO",
-      "url": "https://blog.csdn.net/Felix_kiss_L/article/details/164257831",
-      "last_hot_value": "8430",
-      "first_seen_at": "2026-09-02T10:13:52",
-      "last_seen_at": "2026-09-02T10:13:52",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "实时语音 Agent：从语音机器人到连续协作界面",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/163614191",
-      "last_hot_value": "9200",
-      "first_seen_at": "2026-09-03T20:02:34",
-      "last_seen_at": "2026-09-03T20:02:34",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "Linux 下使用 Trivy 扫描 Docker 镜像漏洞",
-      "url": "https://blog.csdn.net/liu_chen_yang/article/details/163636209",
-      "last_hot_value": "7962",
-      "first_seen_at": "2026-09-02T10:13:52",
-      "last_seen_at": "2026-09-02T10:13:52",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "基于 Qwen3.8-Max 构建 AI 合同精审系统：文档解析、多轮条款分析 Pipeline 工程实战",
-      "url": "https://blog.csdn.net/weixin_62765017/article/details/164257935",
-      "last_hot_value": "7905",
-      "first_seen_at": "2026-09-02T10:13:52",
-      "last_seen_at": "2026-09-02T10:13:52",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "深入 MySQL 网络通信：客户端如何与服务端建立连接？",
-      "url": "https://blog.csdn.net/qq_62538912/article/details/164231537",
+      "title": "Linux网络——IP协议 子网 路由 IP的分片字段",
+      "url": "https://blog.csdn.net/oooooooooooohd/article/details/164402126",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-01T19:04:16",
-      "last_seen_at": "2026-09-01T23:42:45",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "AI 的 Memory 到底该记什么？",
+      "url": "https://blog.csdn.net/2403_87933448/article/details/164370823",
+      "last_hot_value": "9224",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "Linux网络（五）：一文吃透 UDP Socket 编程：从 socket、bind 到数据收发与地址处理",
+      "url": "https://blog.csdn.net/Z2314246476/article/details/164214312",
+      "last_hot_value": "9130",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T05:38:41",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
