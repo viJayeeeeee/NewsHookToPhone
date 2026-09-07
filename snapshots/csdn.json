@@ -1,55 +1,75 @@
 {
-  "update_time": "2026-09-07T05:38:41",
+  "update_time": "2026-09-07T16:14:33",
   "items": [
     {
       "title": "本体驱动的AI大模型",
       "url": "https://blog.csdn.net/herosunly/article/details/164395531",
-      "last_hot_value": "1.7w",
+      "last_hot_value": "2.9w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T16:14:33",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "【AI开发】从 Vibe Coding 到 LangGraph，AI 开发框架一次看懂",
-      "url": "https://blog.csdn.net/2601_96587588/article/details/164230281",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
+      "title": "HTTPS 加密流程深度解析｜从 HTTP 痛点到 TLS 握手全过程",
+      "url": "https://blog.csdn.net/2502_93799892/article/details/164427434",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-09-07T16:14:33",
+      "last_seen_at": "2026-09-07T16:14:33",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
     },
     {
-      "title": "从“数据出库“到“模型入库“：DolphinDB 库内机器学习全流程实践",
-      "url": "https://blog.csdn.net/IRpickstars/article/details/164403985",
-      "last_hot_value": "1.4w",
+      "title": "【AI开发】从 Vibe Coding 到 LangGraph，AI 开发框架一次看懂",
+      "url": "https://blog.csdn.net/2601_96587588/article/details/164230281",
+      "last_hot_value": "2.1w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
+      "last_seen_at": "2026-09-07T16:14:33",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
-      "title": "【AI智能体】Codex 制作RAG知识库应用实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163771724",
-      "last_hot_value": "1.4w",
+      "title": "从“数据出库“到“模型入库“：DolphinDB 库内机器学习全流程实践",
+      "url": "https://blog.csdn.net/IRpickstars/article/details/164403985",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
+      "last_seen_at": "2026-09-07T16:14:33",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "【AI大模型接入SDK】Gemini模型接入知识体系",
       "url": "https://blog.csdn.net/2401_89899187/article/details/164396347",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T16:14:33",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "【AI智能体】Codex 制作RAG知识库应用实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163771724",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T16:14:33",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "gpt-6-astra测试，测试你的模型有没有降智",
+      "url": "https://blog.csdn.net/qq_43761275/article/details/164430162",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-09-07T05:38:41",
+      "last_seen_at": "2026-09-07T16:14:33",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "数据库为什么变慢？KEMCC让排障从零散线索走向根因定位",
@@ -57,16 +77,16 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-07T05:38:41",
       "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "gpt-6-astra测试，测试你的模型有没有降智",
-      "url": "https://blog.csdn.net/qq_43761275/article/details/164430162",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
+      "title": "PandaWiki 本地 AI 知识库实战：文档导入、智能问答与远程访问",
+      "url": "https://blog.csdn.net/m0_73879806/article/details/164461433",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-09-07T16:14:33",
+      "last_seen_at": "2026-09-07T16:14:33",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -77,8 +97,18 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-07T05:38:41",
       "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "SpringBoot3+UniApp+LiveKit 企业音视频通话：资料卡拨打、来电浮层、通话中控制怎么落地",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/164431389",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-09-07T16:14:33",
+      "last_seen_at": "2026-09-07T16:14:33",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,19 +117,19 @@
       "last_hot_value": "9224",
       "first_seen_at": "2026-09-07T05:38:41",
       "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Linux网络（五）：一文吃透 UDP Socket 编程：从 socket、bind 到数据收发与地址处理",
       "url": "https://blog.csdn.net/Z2314246476/article/details/164214312",
-      "last_hot_value": "9130",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-07T16:14:33",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

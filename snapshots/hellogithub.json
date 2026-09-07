@@ -1,14 +1,114 @@
 {
-  "update_time": "2026-09-06T18:06:35",
+  "update_time": "2026-09-07T16:14:41",
   "items": [
+    {
+      "title": "让 Windows 桌面井然有序",
+      "url": "https://github.com/Tianyu199509/DeskBox",
+      "last_hot_value": "2473",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "轻量级的 Java IDE 编程工具",
+      "url": "https://github.com/1lck/Lithe-IDEA",
+      "last_hot_value": "2005",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "陪孩子在线逛史前动物博物馆",
+      "url": "https://github.com/s010s/prehistoric-animal-museum",
+      "last_hot_value": "1749",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "让 AI Agent 帮你做 PPT",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+      "last_hot_value": "1797",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "把技术书变成智能体技能",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "last_hot_value": "1352",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "仅需 4GB 显存就能跑 70B 大模型",
+      "url": "https://github.com/lyogavin/airllm",
+      "last_hot_value": "2030",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "为文章生成手绘配图的技能",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "last_hot_value": "1055",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "Rust 写的开源中文输入法",
+      "url": "https://github.com/huanfeng/WindInput",
+      "last_hot_value": "1141",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "DeepSeek 开源的智能体框架",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "last_hot_value": "1079",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
     {
       "title": "让 AI 直接说重点的技能",
       "url": "https://github.com/ayghri/i-have-adhd",
       "last_hot_value": "765",
       "first_seen_at": "2026-09-06T18:06:35",
       "last_seen_at": "2026-09-06T18:06:35",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "清除 AI 水印的工具",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "last_hot_value": "762",
+      "first_seen_at": "2026-09-07T16:14:41",
+      "last_seen_at": "2026-09-07T16:14:41",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     }
   ]

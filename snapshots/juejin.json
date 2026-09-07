@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-09-06T18:06:17",
+  "update_time": "2026-09-07T16:14:31",
   "items": [
+    {
+      "title": "走进AI Agent第三篇：让 Agent 记住你",
+      "url": "https://juejin.cn/post/7682394398210932763",
+      "last_hot_value": "热度:3150",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "GPT-6 发布当晚，三大 AI 集体宕机 4 小时——我扒完时间线，发现最该慌的不是宕机",
       "url": "https://juejin.cn/post/7681475476906950691",
       "last_hot_value": "热度:549",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "Java切面编程（AOP）详解：从核心概念到实战应用",
-      "url": "https://juejin.cn/post/7680496681512042548",
-      "last_hot_value": "热度:4905",
-      "first_seen_at": "2026-09-03T20:02:33",
-      "last_seen_at": "2026-09-03T20:02:33",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "三年了，AI为何还没有抢走程序员饭碗？",
+      "url": "https://juejin.cn/post/7682262550978936884",
+      "last_hot_value": "热度:1017",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "Bun 真的能取代 Node.js 吗？",
@@ -27,8 +37,18 @@
       "last_hot_value": "热度:531",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+      "url": "https://juejin.cn/post/7681931232724860970",
+      "last_hot_value": "热度:423",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -37,9 +57,19 @@
       "last_hot_value": "热度:495",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "聊个比较有意思的 Flutter Web 问题",
+      "url": "https://juejin.cn/post/7681411791876177983",
+      "last_hot_value": "热度:378",
+      "first_seen_at": "2026-09-06T18:06:17",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 2,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "一周之内，前端 AI 编程的格局被彻底改写了三次",
@@ -47,8 +77,18 @@
       "last_hot_value": "热度:432",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "GPT - 6 Astra 的使用焚诀",
+      "url": "https://juejin.cn/post/7682634449856217115",
+      "last_hot_value": "热度:351",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -57,39 +97,29 @@
       "last_hot_value": "热度:405",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "为什么越来越多人用 OpenSearch？",
-      "url": "https://juejin.cn/post/7680375814231605299",
-      "last_hot_value": "热度:621",
-      "first_seen_at": "2026-09-03T20:02:33",
-      "last_seen_at": "2026-09-03T20:02:33",
       "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "聊个比较有意思的 Flutter Web 问题",
-      "url": "https://juejin.cn/post/7681411791876177983",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-09-06T18:06:17",
-      "last_seen_at": "2026-09-06T18:06:17",
+      "title": "太好了！NestJS 12 大版本转向 ESM，新项目默认构建换 Rspack",
+      "url": "https://juejin.cn/post/7681204371800948736",
+      "last_hot_value": "热度:288",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
     },
     {
-      "title": "sys_dump 备了库，角色和权限别漏在外面",
-      "url": "https://juejin.cn/post/7680551559094517802",
-      "last_hot_value": "热度:612",
-      "first_seen_at": "2026-09-03T20:02:33",
-      "last_seen_at": "2026-09-03T20:02:33",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
+      "title": "聊聊怎么缓解找工作的焦虑感？",
+      "url": "https://juejin.cn/post/7682362046578884660",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "AI 时代，也许你的 Flutter 需要一套 Dartastic OpenTelemetry 监控",
@@ -97,19 +127,19 @@
       "last_hot_value": "热度:297",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "AI全栈开发最佳实践💐",
-      "url": "https://juejin.cn/post/7680741276414296104",
-      "last_hot_value": "热度:576",
-      "first_seen_at": "2026-09-03T20:02:33",
-      "last_seen_at": "2026-09-03T20:02:33",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "设计稿里的图片明明很清晰，为什么到了手机上却糊了？一文讲透 DPR、压缩与格式选择",
+      "url": "https://juejin.cn/post/7682406523184709670",
+      "last_hot_value": "热度:243",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "一个人，4个岗位，20天：我用Cursor+Codex上线了一款微信小游戏",
@@ -117,19 +147,19 @@
       "last_hot_value": "热度:288",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "PC 网站接入微信登录，这 10 个坑我替你踩完了！",
-      "url": "https://juejin.cn/post/7680216488121008138",
-      "last_hot_value": "热度:441",
-      "first_seen_at": "2026-09-03T20:02:33",
-      "last_seen_at": "2026-09-03T20:02:33",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "支持独立部署的地图方案",
+      "url": "https://juejin.cn/post/7682362046578966580",
+      "last_hot_value": "热度:225",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "别卷CRUD了！前端用Next.js+LangChain.js，低成本冲进AI高薪赛道",
@@ -137,19 +167,19 @@
       "last_hot_value": "热度:225",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "从零搭建你的 AI 编程工作流",
-      "url": "https://juejin.cn/post/7680065840814260224",
-      "last_hot_value": "热度:405",
-      "first_seen_at": "2026-09-03T20:02:33",
-      "last_seen_at": "2026-09-03T20:02:33",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "💬面试官：Markdown 流式解析如何避免标签截断？「直接重新让 marked 全部渲染」行不行？",
+      "url": "https://juejin.cn/post/7682217734722027558",
+      "last_hot_value": "热度:225",
+      "first_seen_at": "2026-09-07T16:14:31",
+      "last_seen_at": "2026-09-07T16:14:31",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "日常修改，3秒生效：腾讯音乐 Android 秒编方案 Jugg 开源",
@@ -157,16 +187,6 @@
       "last_hot_value": "热度:207",
       "first_seen_at": "2026-09-06T18:06:17",
       "last_seen_at": "2026-09-06T18:06:17",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "Android 17 + OkHttp 5.5.0 ，全新 ECH 下你的 HTTPS 域名可以请求时被安全隐藏",
-      "url": "https://juejin.cn/post/7680110774044475398",
-      "last_hot_value": "热度:342",
-      "first_seen_at": "2026-09-03T20:02:33",
-      "last_seen_at": "2026-09-03T20:02:33",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
