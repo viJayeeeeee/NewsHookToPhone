@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-09-08T20:16:58",
+  "update_time": "2026-09-08T22:35:45",
   "items": [
     {
       "title": "Linux网络（五）：一文吃透 UDP Socket 编程：从 socket、bind 到数据收发与地址处理",
       "url": "https://blog.csdn.net/Z2314246476/article/details/164214312",
       "last_hot_value": "1.6w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://blog.csdn.net/u014390502/article/details/164427429",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-09-07T19:45:32",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,10 +56,10 @@
       "url": "https://blog.csdn.net/2401_89899187/article/details/164623867",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-08T20:16:58",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Linux网络——IP协议 子网 路由 IP的分片字段",
@@ -84,10 +84,10 @@
     {
       "title": "【AI智能体】Codex 制作RAG知识库应用实战操作详解",
       "url": "https://blog.csdn.net/zhangcongyi420/article/details/163771724",
-      "last_hot_value": "7220",
+      "last_hot_value": "7814",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,10 +96,10 @@
       "url": "https://blog.csdn.net/qq_57761637/article/details/164602220",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-08T20:16:58",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AI大模型接入SDK】ChatGPT API",
@@ -124,20 +124,20 @@
     {
       "title": "【LibreCAD 2D架构】从两个坐标到图形实体：RS_ActionDrawLine如何创建RS_Line",
       "url": "https://blog.csdn.net/2302_80177460/article/details/164423160",
-      "last_hot_value": "1.2w",
+      "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-08T20:16:58",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "gpt-6-astra测试，测试你的模型有没有降智",
       "url": "https://blog.csdn.net/qq_43761275/article/details/164430162",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 5,
       "peak_rank": 5,
       "is_new": false
     },
@@ -152,14 +152,24 @@
       "is_new": false
     },
     {
+      "title": "【计算机组成原理 | 第八章】I/O系统",
+      "url": "https://blog.csdn.net/2502_94242477/article/details/164426160",
+      "last_hot_value": "7886",
+      "first_seen_at": "2026-09-08T20:16:58",
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "星空组网真实体验：Mac远程访问Ubuntu，SSH与HTTP全流程验证",
       "url": "https://blog.csdn.net/2401_87629362/article/details/164578929",
-      "last_hot_value": "7761",
+      "last_hot_value": "7741",
       "first_seen_at": "2026-09-08T20:16:58",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "PandaWiki 本地 AI 知识库实战：文档导入、智能问答与远程访问",
@@ -172,24 +182,14 @@
       "is_new": false
     },
     {
-      "title": "【计算机组成原理 | 第八章】I/O系统",
-      "url": "https://blog.csdn.net/2502_94242477/article/details/164426160",
-      "last_hot_value": "7465",
-      "first_seen_at": "2026-09-08T20:16:58",
-      "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
       "title": "# SpringBoot3+Flowable+IM 审批打通在线聊天：催办、沟通不用切微信，点办理人直接对话",
       "url": "https://blog.csdn.net/zhouzhongyan/article/details/164507318",
       "last_hot_value": "7361",
       "first_seen_at": "2026-09-08T20:16:58",
       "last_seen_at": "2026-09-08T20:16:58",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SpringBoot3+UniApp+LiveKit 企业音视频通话：资料卡拨打、来电浮层、通话中控制怎么落地",
@@ -210,6 +210,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "源端并行解析 × 目标端多通道入库：KFS 同步架构深度解读",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/164589229",
+      "last_hot_value": "7369",
+      "first_seen_at": "2026-09-08T22:35:45",
+      "last_seen_at": "2026-09-08T22:35:45",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "多台 Linux 服务器怎么统一装 Docker？用 Ansible Playbook 固化部署流程",
