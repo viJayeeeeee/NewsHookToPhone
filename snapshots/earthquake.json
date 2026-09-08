@@ -1,84 +1,104 @@
 {
-  "update_time": "2026-09-08T09:21:45",
+  "update_time": "2026-09-08T17:39:36",
   "items": [
     {
       "title": "M2.6 河北唐山市滦州市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.6级",
       "first_seen_at": "2026-09-08T09:21:45",
-      "last_seen_at": "2026-09-08T09:21:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.3 云南昭通市巧家县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-09-08T09:21:45",
-      "last_seen_at": "2026-09-08T09:21:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.2 新疆乌鲁木齐市达坂城区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-09-08T09:21:45",
-      "last_seen_at": "2026-09-08T09:21:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.0 云南昭通市巧家县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.0级",
       "first_seen_at": "2026-09-08T09:21:45",
-      "last_seen_at": "2026-09-08T09:21:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.2 新疆阿克苏地区库车市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-09-08T09:21:45",
-      "last_seen_at": "2026-09-08T09:21:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.7 新疆克孜勒苏州乌恰县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-09-08T09:21:45",
-      "last_seen_at": "2026-09-08T09:21:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.3 新疆巴音郭楞州轮台县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-09-08T09:21:45",
-      "last_seen_at": "2026-09-08T09:21:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.3 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-09-08T09:21:45",
-      "last_seen_at": "2026-09-08T09:21:45",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 2,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "M3.0 四川宜宾市长宁县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-09-08T17:39:36",
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "M3.1 四川宜宾市高县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.1级",
+      "first_seen_at": "2026-09-08T17:39:36",
+      "last_seen_at": "2026-09-08T17:39:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     }
   ]

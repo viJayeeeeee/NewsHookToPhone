@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-09-08T09:21:44",
+  "update_time": "2026-09-08T17:39:34",
   "items": [
+    {
+      "title": "四川省攀枝花市米易县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/51042141600000_20260909011246.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "云南省德宏傣族景颇族自治州陇川县气象台发布雷电黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/53312441600000_20260908170120.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "新疆维吾尔自治区阿克苏地区沙雅县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/65292441600000_20260909010747.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,8 +37,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "云南省保山市施甸县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/53052141600000_20260909005959.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "四川省凉山彝族自治州普格县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/51342841600000_20260909005149.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "四川省乐山市马边彝族自治县气象台发布暴雨橙色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/51113341600000_20260909004917.html",
+      "last_hot_value": "橙色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "四川省乐山市沐川县气象台发布暴雨橙色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/51112941600000_20260909004748.html",
+      "last_hot_value": "橙色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "四川省广元市气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/51080041600000_20260909003212.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +137,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "四川省阿坝藏族羌族自治州阿坝县气象台发布暴雨黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/51323141600000_20260909003209.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +157,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "四川省攀枝花市盐边县气象台发布雷电黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/51042241600000_20260909003002.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +177,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "山东省临沂市平邑县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/37132641600000_20260909003000.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-09-08T17:39:34",
+      "last_seen_at": "2026-09-08T17:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +197,9 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-09-08T09:21:44",
       "last_seen_at": "2026-09-08T09:21:44",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

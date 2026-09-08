@@ -1,54 +1,94 @@
 {
-  "update_time": "2026-09-08T09:21:40",
+  "update_time": "2026-09-08T17:39:31",
   "items": [
     {
       "title": "冰箱没有鸡蛋",
       "url": "https://y.qq.com/n/ryqq/songDetail/003rucaJ1vkeYx",
       "last_hot_value": "",
       "first_seen_at": "2026-09-08T09:21:40",
-      "last_seen_at": "2026-09-08T09:21:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "穿帮",
       "url": "https://y.qq.com/n/ryqq/songDetail/004V93ZW0Y6jZF",
       "last_hot_value": "",
       "first_seen_at": "2026-09-08T09:21:40",
-      "last_seen_at": "2026-09-08T09:21:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "潮汐锁定",
       "url": "https://y.qq.com/n/ryqq/songDetail/000OV6dD44VhCe",
       "last_hot_value": "",
       "first_seen_at": "2026-09-08T09:21:40",
-      "last_seen_at": "2026-09-08T09:21:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "黑与红",
       "url": "https://y.qq.com/n/ryqq/songDetail/002N0Q1x3b7Olz",
       "last_hot_value": "",
       "first_seen_at": "2026-09-08T09:21:40",
-      "last_seen_at": "2026-09-08T09:21:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "如是春",
       "url": "https://y.qq.com/n/ryqq/songDetail/0037OjL44KAvAw",
       "last_hot_value": "",
       "first_seen_at": "2026-09-08T09:21:40",
-      "last_seen_at": "2026-09-08T09:21:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 2,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "我不难过",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001fsNdn1zuZnA",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-08T17:39:31",
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "甲乙丙丁 (你我怎么两清)",
+      "url": "https://y.qq.com/n/ryqq/songDetail/002AZauQ1UKQxe",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-08T17:39:31",
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "泪海",
+      "url": "https://y.qq.com/n/ryqq/songDetail/003Haf8k2E6fYX",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-08T17:39:31",
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "恋人",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-08T17:39:31",
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -56,10 +96,10 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/0005QhzT3McVui",
       "last_hot_value": "",
       "first_seen_at": "2026-09-08T09:21:40",
-      "last_seen_at": "2026-09-08T09:21:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-08T17:39:31",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
