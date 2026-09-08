@@ -1,205 +1,55 @@
 {
-  "update_time": "2026-09-04T23:45:48",
+  "update_time": "2026-09-08T09:21:42",
   "items": [
     {
-      "title": "遥远的救世主（《天道》影视原著）",
+      "title": "鱼不存在",
       "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-09-03T09:14:55",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 6,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "都柏林人",
-      "url": "",
-      "last_hot_value": "510人在读",
-      "first_seen_at": "2026-09-03T09:14:55",
-      "last_seen_at": "2026-09-04T06:15:04",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "AI提效：人人都要用的WorkBuddy（微信读书特别版）",
-      "url": "",
-      "last_hot_value": "2904人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 7,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "略萨作品：酒吧长谈（纪念版）",
-      "url": "",
-      "last_hot_value": "483人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 7,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "人生财富靠康波",
-      "url": "",
-      "last_hot_value": "1564人在读",
-      "first_seen_at": "2026-09-04T17:55:17",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "鳄鱼手记",
-      "url": "",
-      "last_hot_value": "785人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-03T09:14:55",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
-      "url": "",
-      "last_hot_value": "3956人在读",
-      "first_seen_at": "2026-09-04T17:55:17",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "米德尔马契",
-      "url": "",
-      "last_hot_value": "808人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-03T17:20:37",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "这世界既残酷也温柔",
-      "url": "",
-      "last_hot_value": "3000人在读",
-      "first_seen_at": "2026-09-03T09:14:55",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 6,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "明亮的夜晚",
-      "url": "",
-      "last_hot_value": "3048人在读",
-      "first_seen_at": "2026-09-03T09:14:55",
-      "last_seen_at": "2026-09-04T06:15:04",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "故事：材质、结构、风格和银幕剧作的原理",
-      "url": "",
-      "last_hot_value": "734人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-04T01:36:40",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "月亮流到我跟前",
-      "url": "",
-      "last_hot_value": "460人在读",
-      "first_seen_at": "2026-09-04T17:55:17",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "毛泽东选集（全四卷）",
-      "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 7,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "关键跃升：新任管理者成事的底层逻辑",
-      "url": "",
-      "last_hot_value": "525人在读",
-      "first_seen_at": "2026-09-04T06:15:04",
-      "last_seen_at": "2026-09-04T23:45:48",
-      "consecutive_count": 3,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "中国社会各阶层分析",
-      "url": "",
-      "last_hot_value": "851人在读",
-      "first_seen_at": "2026-09-03T17:20:37",
-      "last_seen_at": "2026-09-04T06:15:04",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "置身事内：中国政府与经济发展",
-      "url": "",
-      "last_hot_value": "9343人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-03T04:30:22",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "什么样的爱值得勇敢一次",
-      "url": "",
-      "last_hot_value": "478人在读",
-      "first_seen_at": "2026-09-04T23:45:48",
-      "last_seen_at": "2026-09-04T23:45:48",
+      "last_hot_value": "1148人在读",
+      "first_seen_at": "2026-09-08T09:21:42",
+      "last_seen_at": "2026-09-08T09:21:42",
       "consecutive_count": 1,
-      "peak_rank": 10,
+      "peak_rank": 2,
       "is_new": true
     },
     {
-      "title": "都柏林人（文学史上最震撼人心的一场雪）",
+      "title": "背叛（《天道》原著作者豆豆开山之作）",
       "url": "",
-      "last_hot_value": "641人在读",
-      "first_seen_at": "2026-09-04T17:55:17",
-      "last_seen_at": "2026-09-04T17:55:17",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
+      "last_hot_value": "2539人在读",
+      "first_seen_at": "2026-09-08T09:21:42",
+      "last_seen_at": "2026-09-08T09:21:42",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
-      "title": "明朝那些事儿（全集）",
+      "title": "我是因为高兴才娶你",
       "url": "",
-      "last_hot_value": "4人在读",
-      "first_seen_at": "2026-09-04T01:36:40",
-      "last_seen_at": "2026-09-04T06:15:04",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
+      "last_hot_value": "1236人在读",
+      "first_seen_at": "2026-09-08T09:21:42",
+      "last_seen_at": "2026-09-08T09:21:42",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
-      "title": "精要主义：迷茫期如何改命？",
+      "title": "章鱼学会冷静",
       "url": "",
-      "last_hot_value": "2147人在读",
-      "first_seen_at": "2026-09-03T04:30:22",
-      "last_seen_at": "2026-09-03T04:30:22",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
+      "last_hot_value": "2102人在读",
+      "first_seen_at": "2026-09-08T09:21:42",
+      "last_seen_at": "2026-09-08T09:21:42",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "伊加利亚的女儿们",
+      "url": "",
+      "last_hot_value": "1297人在读",
+      "first_seen_at": "2026-09-08T09:21:42",
+      "last_seen_at": "2026-09-08T09:21:42",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     }
   ]
 }
