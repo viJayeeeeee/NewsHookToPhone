@@ -1,13 +1,13 @@
 {
-  "update_time": "2026-09-08T17:39:32",
+  "update_time": "2026-09-09T00:35:52",
   "items": [
     {
       "title": "鱼不存在",
       "url": "",
-      "last_hot_value": "1626人在读",
+      "last_hot_value": "1842人在读",
       "first_seen_at": "2026-09-08T09:21:42",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,40 +16,40 @@
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "正面管教（修订版）",
       "url": "",
-      "last_hot_value": "1050人在读",
+      "last_hot_value": "1111人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "背叛（《天道》原著作者豆豆开山之作）",
       "url": "",
-      "last_hot_value": "3252人在读",
+      "last_hot_value": "3372人在读",
       "first_seen_at": "2026-09-08T09:21:42",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "以日为鉴：衰退时代生存指南（微信读书特别版）",
       "url": "",
-      "last_hot_value": "5847人在读",
+      "last_hot_value": "5819人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我是因为高兴才娶你",
@@ -62,34 +62,44 @@
       "is_new": false
     },
     {
-      "title": "人生财富靠康波",
-      "url": "",
-      "last_hot_value": "1834人在读",
-      "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
       "title": "毛泽东选集（全四卷）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "人生财富靠康波",
+      "url": "",
+      "last_hot_value": "1858人在读",
+      "first_seen_at": "2026-09-08T17:39:32",
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "地下室手记",
+      "url": "",
+      "last_hot_value": "25人在读",
+      "first_seen_at": "2026-09-08T17:39:32",
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "这世界既残酷也温柔",
       "url": "",
-      "last_hot_value": "2153人在读",
+      "last_hot_value": "2151人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "章鱼学会冷静",
@@ -102,14 +112,24 @@
       "is_new": false
     },
     {
+      "title": "异乡人",
+      "url": "",
+      "last_hot_value": "6人在读",
+      "first_seen_at": "2026-09-09T00:35:52",
+      "last_seen_at": "2026-09-09T00:35:52",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "清冽的内在（安妮宝贝新书独家首发）",
       "url": "",
       "last_hot_value": "262人在读",
       "first_seen_at": "2026-09-08T17:39:32",
       "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "伊加利亚的女儿们",
@@ -120,16 +140,6 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
-    },
-    {
-      "title": "地下室手记",
-      "url": "",
-      "last_hot_value": "29人在读",
-      "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-08T17:39:32",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
     }
   ]
 }
