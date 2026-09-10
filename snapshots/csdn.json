@@ -1,25 +1,25 @@
 {
-  "update_time": "2026-09-08T22:35:45",
+  "update_time": "2026-09-10T15:24:07",
   "items": [
     {
-      "title": "Linux网络（五）：一文吃透 UDP Socket 编程：从 socket、bind 到数据收发与地址处理",
-      "url": "https://blog.csdn.net/Z2314246476/article/details/164214312",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 5,
+      "title": "让 NAS里的 AI 真正常驻：Hermes 接入微信，从本地 Agent 到远程管理",
+      "url": "https://blog.csdn.net/m0_68390957/article/details/164632225",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "本体驱动的AI大模型",
-      "url": "https://blog.csdn.net/herosunly/article/details/164395531",
-      "last_hot_value": "2.2w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T19:45:32",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
+      "title": "N1 飞牛 NAS 部署 OpenClaw 实测：Node.js 环境、模型配置、微信接入与远程 SSH",
+      "url": "https://blog.csdn.net/mrdeam/article/details/164612764",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "GitHub 热榜项目 - 周榜(2026-09-06)",
@@ -27,7 +27,7 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-09-07T19:45:32",
       "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -42,14 +42,14 @@
       "is_new": false
     },
     {
-      "title": "【AI开发】从 Vibe Coding 到 LangGraph，AI 开发框架一次看懂",
-      "url": "https://blog.csdn.net/2601_96587588/article/details/164230281",
-      "last_hot_value": "2.1w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
+      "title": "【AI大模型接入SDK】Ollama跨平台部署与运维指南",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/164823161",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "【AI大模型接入SDK】大模型部署方案：云端接入与本地部署对比分析",
@@ -57,39 +57,19 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-08T20:16:58",
       "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "Linux网络——IP协议 子网 路由 IP的分片字段",
-      "url": "https://blog.csdn.net/oooooooooooohd/article/details/164402126",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T19:45:32",
       "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "从“数据出库“到“模型入库“：DolphinDB 库内机器学习全流程实践",
-      "url": "https://blog.csdn.net/IRpickstars/article/details/164403985",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "【AI智能体】Codex 制作RAG知识库应用实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/163771724",
-      "last_hot_value": "7814",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 5,
+      "title": "刚刚，DeepSeek V4.1 Flash模型突然上线内测：5 分钟接入9月10日就要下线的内测版",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/164629225",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Word 定稿、PDF 版本、盖章扫描件：一份合同的三种形态，差异到底怎么比？",
@@ -97,7 +77,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-08T20:16:58",
       "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -112,14 +92,14 @@
       "is_new": false
     },
     {
-      "title": "【AI大模型接入SDK】Gemini模型接入知识体系",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/164396347",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T16:14:33",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "【计算几何】闵可夫斯基差演示",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/164091399",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【LibreCAD 2D架构】从两个坐标到图形实体：RS_ActionDrawLine如何创建RS_Line",
@@ -127,29 +107,29 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-09-08T20:16:58",
       "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "gpt-6-astra测试，测试你的模型有没有降智",
-      "url": "https://blog.csdn.net/qq_43761275/article/details/164430162",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "数据库为什么变慢？KEMCC让排障从零散线索走向根因定位",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/164398131",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
       "consecutive_count": 0,
-      "peak_rank": 6,
+      "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "基于 WorkBuddy 搭配 Hy4 Preview 打造「苏轼《定风波》三维诗词页」：Three.js + Web Speech API 从 AI 建模到网页朗读的完整实践",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/164758086",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "大模型工程化实战（九）：Token 成本六维优化——把 token 账本摊开算：缓存命中、上下文裁剪、小模型路由、重试预算，一份 mock 日流量实测省 60% 成本",
+      "url": "https://blog.csdn.net/xiaobing259/article/details/164428158",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "【计算机组成原理 | 第八章】I/O系统",
@@ -157,7 +137,7 @@
       "last_hot_value": "7886",
       "first_seen_at": "2026-09-08T20:16:58",
       "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -167,7 +147,7 @@
       "last_hot_value": "7741",
       "first_seen_at": "2026-09-08T20:16:58",
       "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -180,6 +160,26 @@
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "服务一多就别全靠命令行：用 1Panel 管理极空间上的 Docker 应用",
+      "url": "https://blog.csdn.net/Dovis5884/article/details/164631529",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "【Linux网络】网络层协议 IP ：从网络层原理到 Linux 内核源码",
+      "url": "https://blog.csdn.net/yhrxh_ymq/article/details/164370199",
+      "last_hot_value": "8667",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "# SpringBoot3+Flowable+IM 审批打通在线聊天：催办、沟通不用切微信，点办理人直接对话",
@@ -202,14 +202,14 @@
       "is_new": false
     },
     {
-      "title": "AI 的 Memory 到底该记什么？",
-      "url": "https://blog.csdn.net/2403_87933448/article/details/164370823",
-      "last_hot_value": "9224",
-      "first_seen_at": "2026-09-07T05:38:41",
-      "last_seen_at": "2026-09-07T05:38:41",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
+      "title": "当网站开始为 AI Agent 设计：Agentic Internet 正在重写互联网",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/164340718",
+      "last_hot_value": "8260",
+      "first_seen_at": "2026-09-10T15:24:07",
+      "last_seen_at": "2026-09-10T15:24:07",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "源端并行解析 × 目标端多通道入库：KFS 同步架构深度解读",
@@ -217,9 +217,9 @@
       "last_hot_value": "7369",
       "first_seen_at": "2026-09-08T22:35:45",
       "last_seen_at": "2026-09-08T22:35:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "多台 Linux 服务器怎么统一装 Docker？用 Ansible Playbook 固化部署流程",
