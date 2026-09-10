@@ -1,24 +1,54 @@
 {
-  "update_time": "2026-09-09T00:35:52",
+  "update_time": "2026-09-10T18:39:16",
   "items": [
-    {
-      "title": "鱼不存在",
-      "url": "",
-      "last_hot_value": "1842人在读",
-      "first_seen_at": "2026-09-08T09:21:42",
-      "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "遥远的救世主（《天道》影视原著）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "鱼不存在",
+      "url": "",
+      "last_hot_value": "3473人在读",
+      "first_seen_at": "2026-09-08T09:21:42",
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "基层中国的运行逻辑",
+      "url": "",
+      "last_hot_value": "1628人在读",
+      "first_seen_at": "2026-09-10T18:39:16",
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 1,
       "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "为什么精英都是时间控",
+      "url": "",
+      "last_hot_value": "253人在读",
+      "first_seen_at": "2026-09-10T18:39:16",
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "背叛（《天道》原著作者豆豆开山之作）",
+      "url": "",
+      "last_hot_value": "4251人在读",
+      "first_seen_at": "2026-09-08T09:21:42",
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 4,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -27,17 +57,7 @@
       "last_hot_value": "1111人在读",
       "first_seen_at": "2026-09-08T17:39:32",
       "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "背叛（《天道》原著作者豆豆开山之作）",
-      "url": "",
-      "last_hot_value": "3372人在读",
-      "first_seen_at": "2026-09-08T09:21:42",
-      "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -47,7 +67,7 @@
       "last_hot_value": "5819人在读",
       "first_seen_at": "2026-09-08T17:39:32",
       "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -62,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "置身事内：中国政府与经济发展",
+      "url": "",
+      "last_hot_value": "7983人在读",
+      "first_seen_at": "2026-09-10T18:39:16",
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "毛泽东选集（全四卷）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -77,27 +107,37 @@
       "last_hot_value": "1858人在读",
       "first_seen_at": "2026-09-08T17:39:32",
       "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
+      "title": "恨海情天文学短篇集：我爱你，你死吧",
+      "url": "",
+      "last_hot_value": "698人在读",
+      "first_seen_at": "2026-09-10T18:39:16",
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "地下室手记",
       "url": "",
-      "last_hot_value": "25人在读",
+      "last_hot_value": "208人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "这世界既残酷也温柔",
       "url": "",
-      "last_hot_value": "2151人在读",
+      "last_hot_value": "1920人在读",
       "first_seen_at": "2026-09-08T17:39:32",
-      "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T18:39:16",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },
@@ -117,9 +157,9 @@
       "last_hot_value": "6人在读",
       "first_seen_at": "2026-09-09T00:35:52",
       "last_seen_at": "2026-09-09T00:35:52",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "清冽的内在（安妮宝贝新书独家首发）",
