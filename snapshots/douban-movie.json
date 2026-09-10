@@ -1,23 +1,63 @@
 {
-  "update_time": "2026-09-09T20:08:01",
+  "update_time": "2026-09-10T06:38:12",
   "items": [
     {
       "title": "求救信号",
       "url": "https://movie.douban.com/subject/36439868/",
       "last_hot_value": "7.0",
       "first_seen_at": "2026-09-09T09:31:48",
-      "last_seen_at": "2026-09-09T20:08:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "夜王",
+      "url": "https://movie.douban.com/subject/37375594/",
+      "last_hot_value": "7.8",
+      "first_seen_at": "2026-09-10T06:38:12",
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "激情邀约",
+      "url": "https://movie.douban.com/subject/35801126/",
+      "last_hot_value": "7.3",
+      "first_seen_at": "2026-09-10T06:38:12",
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "耳语者",
+      "url": "https://movie.douban.com/subject/37228429/",
+      "last_hot_value": "5.9",
+      "first_seen_at": "2026-09-10T06:38:12",
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "牢笼鬼魂",
+      "url": "https://movie.douban.com/subject/36146114/",
+      "last_hot_value": "6.7",
+      "first_seen_at": "2026-09-10T06:38:12",
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "末世行者",
       "url": "https://movie.douban.com/subject/37107254/",
       "last_hot_value": "0.0",
       "first_seen_at": "2026-09-09T09:31:48",
-      "last_seen_at": "2026-09-09T20:08:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -26,8 +66,8 @@
       "url": "https://movie.douban.com/subject/37200003/",
       "last_hot_value": "5.5",
       "first_seen_at": "2026-09-09T09:31:48",
-      "last_seen_at": "2026-09-09T20:08:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -36,18 +76,28 @@
       "url": "https://movie.douban.com/subject/35211447/",
       "last_hot_value": "5.6",
       "first_seen_at": "2026-09-09T09:31:48",
-      "last_seen_at": "2026-09-09T20:08:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "蔷薇修剪术",
+      "url": "https://movie.douban.com/subject/36419426/",
+      "last_hot_value": "5.4",
+      "first_seen_at": "2026-09-10T06:38:12",
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "大濛",
       "url": "https://movie.douban.com/subject/36680492/",
       "last_hot_value": "8.2",
       "first_seen_at": "2026-09-09T09:31:48",
-      "last_seen_at": "2026-09-09T20:08:01",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-10T06:38:12",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     }
