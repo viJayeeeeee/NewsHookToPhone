@@ -1,26 +1,6 @@
 {
-  "update_time": "2026-09-10T15:24:17",
+  "update_time": "2026-09-10T21:15:39",
   "items": [
-    {
-      "title": "CloudSSH 开源项目：借助 Cloudflare Workers 打造免费且功能强大 Web SSH 终端，用浏览器远程管理服务器，连接信息云端同步 + AI Agent智能运维，一键部署还不花一分钱",
-      "url": "https://www.nodeseek.com/post-898574-1",
-      "last_hot_value": "查看:3405 回复:63",
-      "first_seen_at": "2026-09-07T19:45:41",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:241912 回复:2223",
-      "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 5,
-      "peak_rank": 1,
-      "is_new": false
-    },
     {
       "title": "【开源】Kaloscope：一站式自动追番+弹幕播放+漫画轻小说聚合工具（09/08 更新支持 OpenList 离线下载）",
       "url": "https://www.nodeseek.com/post-766657-1",
@@ -36,39 +16,9 @@
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:821861 回复:1192",
       "first_seen_at": "2026-09-10T15:24:17",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-10T21:15:39",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:225134 回复:2985",
-      "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 5,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
-      "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:30609 回复:265",
-      "first_seen_at": "2026-09-07T19:45:41",
-      "last_seen_at": "2026-09-07T19:45:41",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
-      "url": "https://www.nodeseek.com/post-810146-1",
-      "last_hot_value": "查看:11277 回复:132",
-      "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 5,
-      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -82,36 +32,6 @@
       "is_new": false
     },
     {
-      "title": "【开源】ForwardX：一个好看又能打的多主机端口/隧道转发管理面板",
-      "url": "https://www.nodeseek.com/post-792082-1",
-      "last_hot_value": "查看:5936 回复:94",
-      "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T19:45:41",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "自用VPS一键脚本工具箱，一个脚本搞定大部分需求",
-      "url": "https://www.nodeseek.com/post-58421-1",
-      "last_hot_value": "查看:49110 回复:488",
-      "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T19:45:41",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
-      "url": "https://www.nodeseek.com/post-824558-1",
-      "last_hot_value": "查看:10710 回复:153",
-      "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "[发布]Pulse Monitor 一款极度简约的探针搭建教程",
       "url": "https://www.nodeseek.com/post-558294-1",
       "last_hot_value": "查看:7337 回复:98",
@@ -122,14 +42,24 @@
       "is_new": false
     },
     {
+      "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
+      "url": "https://www.nodeseek.com/post-878721-1",
+      "last_hot_value": "查看:3464 回复:70",
+      "first_seen_at": "2026-09-10T21:15:39",
+      "last_seen_at": "2026-09-10T21:15:39",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "完全开源、本地 SQLite 管理一切：我写了一个多桌面邮件客户端 OneMail",
       "url": "https://www.nodeseek.com/post-738638-1",
       "last_hot_value": "查看:1526 回复:33",
       "first_seen_at": "2026-09-10T15:24:17",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-10T21:15:39",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源】CDT-Monitor:阿里云 CDT 流量监控与自动化熔断工具。支持多账号管理、阈值自动停机（含节省模式）及抢占式实例保活。",
@@ -142,24 +72,14 @@
       "is_new": false
     },
     {
-      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
-      "url": "https://www.nodeseek.com/post-572284-1",
-      "last_hot_value": "查看:67146 回复:198",
-      "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T19:45:41",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "【更新v0.3.0】一键脚本： 更改iPhone手机定位",
       "url": "https://www.nodeseek.com/post-828462-1",
       "last_hot_value": "查看:9480 回复:165",
       "first_seen_at": "2026-09-10T15:24:17",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-10T21:15:39",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "真正的GCP/谷歌云免费机。使用自带VPC规则屏蔽CDN互联厂家的IP。以及关于免费机AMD CPU区域分配情况及其他详解",
@@ -176,18 +96,8 @@
       "url": "https://www.nodeseek.com/post-54366-1",
       "last_hot_value": "查看:151188 回复:397",
       "first_seen_at": "2026-09-10T15:24:17",
-      "last_seen_at": "2026-09-10T15:24:17",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "小科普：国际互联优秀是怎么判断的？",
-      "url": "https://www.nodeseek.com/post-312375-1",
-      "last_hot_value": "查看:6155 回复:53",
-      "first_seen_at": "2026-09-07T16:14:42",
-      "last_seen_at": "2026-09-07T19:45:41",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-10T21:15:39",
+      "consecutive_count": 2,
       "peak_rank": 10,
       "is_new": false
     }
