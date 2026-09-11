@@ -1,6 +1,16 @@
 {
-  "update_time": "2026-09-10T21:15:39",
+  "update_time": "2026-09-11T05:28:37",
   "items": [
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:242300 回复:2225",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "【开源】Kaloscope：一站式自动追番+弹幕播放+漫画轻小说聚合工具（09/08 更新支持 OpenList 离线下载）",
       "url": "https://www.nodeseek.com/post-766657-1",
@@ -12,14 +22,34 @@
       "is_new": false
     },
     {
+      "title": "【保姆级教程】20r一年！Termius土区从账号注册到订阅完整版教程！",
+      "url": "https://www.nodeseek.com/post-295429-1",
+      "last_hot_value": "查看:26591 回复:175",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
-      "last_hot_value": "查看:821861 回复:1192",
+      "last_hot_value": "查看:822037 回复:1192",
       "first_seen_at": "2026-09-10T15:24:17",
-      "last_seen_at": "2026-09-10T21:15:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "从零开始的VPS科普(1)：认识你的第一台服务器",
+      "url": "https://www.nodeseek.com/post-656474-1",
+      "last_hot_value": "查看:7496 回复:168",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "QD ～ 不仅限于自动签到的定时任务自动执行框架",
@@ -32,6 +62,26 @@
       "is_new": false
     },
     {
+      "title": "⭐[Dooongの教程] 通过CloudFlare+SaaS回源优选IP使国内用户高速访问网站",
+      "url": "https://www.nodeseek.com/post-42661-1",
+      "last_hot_value": "查看:72429 回复:254",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "NodeWarden 1.2.0，新增WebVault网页密码管理页面、send功能、多用户管理、logo",
+      "url": "https://www.nodeseek.com/post-633350-1",
+      "last_hot_value": "查看:8512 回复:163",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "[发布]Pulse Monitor 一款极度简约的探针搭建教程",
       "url": "https://www.nodeseek.com/post-558294-1",
       "last_hot_value": "查看:7337 回复:98",
@@ -42,13 +92,33 @@
       "is_new": false
     },
     {
+      "title": "[科普/教程]关于\"送中\"，你所要知道的一切！——什么是送中？如何判断是否送中？为什么会送中？如何预防/解决送中？还有完全免费且可以立马拉回去正确归属地的方法？还能“焊死”？？？",
+      "url": "https://www.nodeseek.com/post-485530-1",
+      "last_hot_value": "查看:15898 回复:210",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
       "url": "https://www.nodeseek.com/post-878721-1",
       "last_hot_value": "查看:3464 回复:70",
       "first_seen_at": "2026-09-10T21:15:39",
       "last_seen_at": "2026-09-10T21:15:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "CloudSSH 开源项目：借助 Cloudflare Workers 打造免费且功能强大 Web SSH 终端，用浏览器远程管理服务器，连接信息云端同步 + AI Agent智能运维，一键部署还不花一分钱",
+      "url": "https://www.nodeseek.com/post-898574-1",
+      "last_hot_value": "查看:3634 回复:68",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -57,7 +127,7 @@
       "last_hot_value": "查看:1526 回复:33",
       "first_seen_at": "2026-09-10T15:24:17",
       "last_seen_at": "2026-09-10T21:15:39",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -77,9 +147,19 @@
       "last_hot_value": "查看:9480 回复:165",
       "first_seen_at": "2026-09-10T15:24:17",
       "last_seen_at": "2026-09-10T21:15:39",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "让 AI 帮你调 VPS 网络：中转机和落地机 TCP 调优",
+      "url": "https://www.nodeseek.com/post-810146-1",
+      "last_hot_value": "查看:11393 回复:132",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "真正的GCP/谷歌云免费机。使用自带VPC规则屏蔽CDN互联厂家的IP。以及关于免费机AMD CPU区域分配情况及其他详解",
@@ -92,12 +172,22 @@
       "is_new": false
     },
     {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:226019 回复:2985",
+      "first_seen_at": "2026-09-11T05:28:37",
+      "last_seen_at": "2026-09-11T05:28:37",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
+    },
+    {
       "title": "NAT机商家合集-置顶每月更新中",
       "url": "https://www.nodeseek.com/post-54366-1",
       "last_hot_value": "查看:151188 回复:397",
       "first_seen_at": "2026-09-10T15:24:17",
       "last_seen_at": "2026-09-10T21:15:39",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

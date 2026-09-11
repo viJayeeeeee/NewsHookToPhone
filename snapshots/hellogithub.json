@@ -1,15 +1,105 @@
 {
-  "update_time": "2026-09-10T21:15:38",
+  "update_time": "2026-09-11T05:28:36",
   "items": [
+    {
+      "title": "让 Windows 桌面井然有序",
+      "url": "https://github.com/Tianyu199509/DeskBox",
+      "last_hot_value": "3645",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "轻量级的 Java IDE 编程工具",
+      "url": "https://github.com/1lck/Lithe-IDEA",
+      "last_hot_value": "2451",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "把技术书变成智能体技能",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "last_hot_value": "1924",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "陪孩子在线逛史前动物博物馆",
+      "url": "https://github.com/s010s/prehistoric-animal-museum",
+      "last_hot_value": "2122",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "让 AI Agent 帮你做 PPT",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+      "last_hot_value": "2223",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "仅需 4GB 显存就能跑 70B 大模型",
+      "url": "https://github.com/lyogavin/airllm",
+      "last_hot_value": "2490",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
     {
       "title": "《深入理解 AI Agent：设计原理与工程实践》",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "last_hot_value": "7801",
+      "last_hot_value": "7831",
       "first_seen_at": "2026-09-10T15:24:15",
-      "last_seen_at": "2026-09-10T21:15:38",
-      "consecutive_count": 2,
-      "peak_rank": 8,
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 3,
+      "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "为文章生成手绘配图的技能",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "last_hot_value": "1324",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "Rust 写的开源中文输入法",
+      "url": "https://github.com/huanfeng/WindInput",
+      "last_hot_value": "1462",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "DeepSeek 开源的智能体框架",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "last_hot_value": "1473",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-11T05:28:36",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }

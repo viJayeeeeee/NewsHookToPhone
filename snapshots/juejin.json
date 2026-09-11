@@ -1,43 +1,103 @@
 {
-  "update_time": "2026-09-10T21:15:28",
+  "update_time": "2026-09-11T05:28:21",
   "items": [
+    {
+      "title": "三年了，AI为何还没有抢走程序员饭碗？",
+      "url": "https://juejin.cn/post/7682262550978936884",
+      "last_hot_value": "热度:5949",
+      "first_seen_at": "2026-09-11T05:28:21",
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "异构数据同步不只追延迟：用 KFS 守住不停机迁移的每一笔账",
+      "url": "https://juejin.cn/post/7682364222383308850",
+      "last_hot_value": "热度:2061",
+      "first_seen_at": "2026-09-11T05:28:21",
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "OpenAI ：GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了",
+      "url": "https://juejin.cn/post/7681931232724860970",
+      "last_hot_value": "热度:1422",
+      "first_seen_at": "2026-09-11T05:28:21",
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
     {
       "title": "9 月第一周，前端圈又炸了四次",
       "url": "https://juejin.cn/post/7682949323614224390",
-      "last_hot_value": "热度:1116",
+      "last_hot_value": "热度:1296",
       "first_seen_at": "2026-09-10T15:24:05",
-      "last_seen_at": "2026-09-10T21:15:28",
-      "consecutive_count": 2,
-      "peak_rank": 5,
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "GPT - 6 Astra 的使用焚诀",
+      "url": "https://juejin.cn/post/7682634449856217115",
+      "last_hot_value": "热度:1269",
+      "first_seen_at": "2026-09-11T05:28:21",
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "支持独立部署的地图方案",
+      "url": "https://juejin.cn/post/7682362046578966580",
+      "last_hot_value": "热度:1080",
+      "first_seen_at": "2026-09-11T05:28:21",
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "设计稿里的图片明明很清晰，为什么到了手机上却糊了？一文讲透 DPR、压缩与格式选择",
+      "url": "https://juejin.cn/post/7682406523184709670",
+      "last_hot_value": "热度:972",
+      "first_seen_at": "2026-09-11T05:28:21",
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "明明做了很多事，为什么简历看起来还是没含金量？",
       "url": "https://juejin.cn/post/7682253775991734323",
-      "last_hot_value": "热度:900",
+      "last_hot_value": "热度:963",
       "first_seen_at": "2026-09-08T20:16:56",
-      "last_seen_at": "2026-09-10T21:15:28",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 5,
       "peak_rank": 8,
       "is_new": false
     },
     {
       "title": "再见了EasyExcel，我决定用Apache Fesod",
       "url": "https://juejin.cn/post/7682698191628632107",
-      "last_hot_value": "热度:828",
+      "last_hot_value": "热度:918",
       "first_seen_at": "2026-09-10T15:24:05",
-      "last_seen_at": "2026-09-10T21:15:28",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
     },
     {
       "title": "阿里开源了一个神级Agent项目",
       "url": "https://juejin.cn/post/7681931232724910122",
-      "last_hot_value": "热度:810",
+      "last_hot_value": "热度:873",
       "first_seen_at": "2026-09-10T15:24:05",
-      "last_seen_at": "2026-09-10T21:15:28",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-11T05:28:21",
+      "consecutive_count": 3,
       "peak_rank": 10,
       "is_new": false
     }
