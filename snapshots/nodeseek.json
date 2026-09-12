@@ -1,23 +1,13 @@
 {
-  "update_time": "2026-09-11T05:28:37",
+  "update_time": "2026-09-12T00:01:59",
   "items": [
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
       "last_hot_value": "查看:242300 回复:2225",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "【开源】Kaloscope：一站式自动追番+弹幕播放+漫画轻小说聚合工具（09/08 更新支持 OpenList 离线下载）",
-      "url": "https://www.nodeseek.com/post-766657-1",
-      "last_hot_value": "查看:1491 回复:13",
-      "first_seen_at": "2026-09-08T20:17:07",
-      "last_seen_at": "2026-09-08T22:35:56",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,18 +16,18 @@
       "url": "https://www.nodeseek.com/post-295429-1",
       "last_hot_value": "查看:26591 回复:175",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
       "url": "https://www.nodeseek.com/post-387328-1",
       "last_hot_value": "查看:822037 回复:1192",
       "first_seen_at": "2026-09-10T15:24:17",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -46,18 +36,8 @@
       "url": "https://www.nodeseek.com/post-656474-1",
       "last_hot_value": "查看:7496 回复:168",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "QD ～ 不仅限于自动签到的定时任务自动执行框架",
-      "url": "https://www.nodeseek.com/post-17695-1",
-      "last_hot_value": "查看:7733 回复:33",
-      "first_seen_at": "2026-09-08T20:17:07",
-      "last_seen_at": "2026-09-08T22:35:56",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
@@ -66,28 +46,18 @@
       "url": "https://www.nodeseek.com/post-42661-1",
       "last_hot_value": "查看:72429 回复:254",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NodeWarden 1.2.0，新增WebVault网页密码管理页面、send功能、多用户管理、logo",
       "url": "https://www.nodeseek.com/post-633350-1",
       "last_hot_value": "查看:8512 回复:163",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "[发布]Pulse Monitor 一款极度简约的探针搭建教程",
-      "url": "https://www.nodeseek.com/post-558294-1",
-      "last_hot_value": "查看:7337 回复:98",
-      "first_seen_at": "2026-09-08T20:17:07",
-      "last_seen_at": "2026-09-08T22:35:56",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 5,
       "is_new": false
     },
@@ -96,10 +66,10 @@
       "url": "https://www.nodeseek.com/post-485530-1",
       "last_hot_value": "查看:15898 回复:210",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
@@ -116,10 +86,10 @@
       "url": "https://www.nodeseek.com/post-898574-1",
       "last_hot_value": "查看:3634 回复:68",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "完全开源、本地 SQLite 管理一切：我写了一个多桌面邮件客户端 OneMail",
@@ -127,16 +97,6 @@
       "last_hot_value": "查看:1526 回复:33",
       "first_seen_at": "2026-09-10T15:24:17",
       "last_seen_at": "2026-09-10T21:15:39",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "【开源】CDT-Monitor:阿里云 CDT 流量监控与自动化熔断工具。支持多账号管理、阈值自动停机（含节省模式）及抢占式实例保活。",
-      "url": "https://www.nodeseek.com/post-587165-1",
-      "last_hot_value": "查看:11536 回复:154",
-      "first_seen_at": "2026-09-08T20:17:07",
-      "last_seen_at": "2026-09-08T22:35:56",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
@@ -156,18 +116,8 @@
       "url": "https://www.nodeseek.com/post-810146-1",
       "last_hot_value": "查看:11393 回复:132",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "真正的GCP/谷歌云免费机。使用自带VPC规则屏蔽CDN互联厂家的IP。以及关于免费机AMD CPU区域分配情况及其他详解",
-      "url": "https://www.nodeseek.com/post-393299-1",
-      "last_hot_value": "查看:24388 回复:146",
-      "first_seen_at": "2026-09-08T20:17:07",
-      "last_seen_at": "2026-09-08T22:35:56",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
@@ -176,10 +126,10 @@
       "url": "https://www.nodeseek.com/post-1033-1",
       "last_hot_value": "查看:226019 回复:2985",
       "first_seen_at": "2026-09-11T05:28:37",
-      "last_seen_at": "2026-09-11T05:28:37",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:59",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "NAT机商家合集-置顶每月更新中",

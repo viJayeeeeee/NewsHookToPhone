@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-09-11T05:28:25",
+  "update_time": "2026-09-12T00:01:50",
   "items": [
+    {
+      "title": "HarmonyOS 7 软键盘避让实战：聊天界面一次做对",
+      "url": "https://ost.51cto.com/posts/56140",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-12T00:01:50",
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HarmonyOS 7平行视界实战：让单栏页面自动变成左右分栏",
       "url": "https://ost.51cto.com/posts/56139",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS跟手半模态实战：让弹窗跟随触发位置显示",
@@ -22,24 +32,14 @@
       "is_new": false
     },
     {
-      "title": "HarmonyOS7 ArkGraphics 3D 动态增删 Node 时，场景树与组件树 Diff 怎么对齐才不拖垮布局性能",
-      "url": "https://ost.51cto.com/posts/56043",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
       "title": "HarmonyOS 分布式文件系统跨设备文件访问与拷贝完全指南",
       "url": "https://ost.51cto.com/posts/56138",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
       "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "基于HarmonyOS 6.0的天气预报页面实战：高颜值ArkUI卡片化UI构建详解",
@@ -52,24 +52,14 @@
       "is_new": false
     },
     {
-      "title": "Arm发布新一代AI原生计算平台，加速智能体AI与移动图形创新",
-      "url": "https://server.51cto.com/article/855274.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
       "title": "不靠堆数量！揭秘 AI 基础设施智能体的可靠核心，SRE 必看",
       "url": "https://www.51cto.com/article/855611.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "模型没有心灵，但它们在从预训练到替换恐惧中发展出了心理阴影",
@@ -82,24 +72,14 @@
       "is_new": false
     },
     {
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "url": "https://www.51cto.com/article/855271.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
       "title": "淘天RAG三面被问:\"用GPT给另一个大模型的输出打分,这事儿靠谱吗?\"我当场答\"当然靠谱,GPT更强\",面试官却让我回去再想想，但事后越想越心虚",
       "url": "https://www.51cto.com/article/855610.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "从人机交互到机机交互，IDC白皮书定义AI主机“为智能体而生”",
@@ -112,24 +92,14 @@
       "is_new": false
     },
     {
-      "title": "EMNLP'26 | 多模态检索头首次被锁定：揭开大模型长文档内部检索真相",
-      "url": "https://www.51cto.com/article/855269.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
       "title": "四大多 Agent 架构详解 ：Agent 也要搞组织架构？一文讲透 Hierarchical 分层协同",
       "url": "https://www.51cto.com/article/855609.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI 下一步往哪走？苹果已经给出了答案",
@@ -142,24 +112,14 @@
       "is_new": false
     },
     {
-      "title": "端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧",
-      "url": "https://www.51cto.com/article/855265.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
       "title": "OpenAI这是拿千禧年难题当Benchmark刷啊",
       "url": "https://www.51cto.com/article/855608.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "前端人彻底赢麻了！这个 PDF 方案火了",
@@ -172,24 +132,14 @@
       "is_new": false
     },
     {
-      "title": "EMNLP 2026 Main｜预测越像真实环境，Agent反而做得更差？我们把世界模型的训练目标从\"状态一致\"换成了\"行为一致\"",
-      "url": "https://www.51cto.com/article/855263.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
       "title": "108亿天价薪酬留不住！Meta又失亿元AI先生",
       "url": "https://www.51cto.com/article/855607.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "如何驾驭GPT-6 Astra？OpenAI的官方手册来了，我把最该抄的几句话总结出来",
@@ -202,24 +152,14 @@
       "is_new": false
     },
     {
-      "title": "OpenAI放大招，一句话生成网站革了SaaS的命！",
-      "url": "https://www.51cto.com/article/855262.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
       "title": "DeepSeek V4.1 Flash 正式发布，又一波模型被斩杀了，自家模型都没放过",
       "url": "https://www.51cto.com/article/855606.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Java 魔法探秘：从 Java 代码到 CPU 指令，一个方法调用的完整生命周期",
@@ -232,21 +172,11 @@
       "is_new": false
     },
     {
-      "title": "系统综述259项工作：AI创作如何从「会生成」走到「能交付」？",
-      "url": "https://www.51cto.com/article/855260.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
       "title": "OpenAI这是拿千禧年难题当Benchmark刷啊",
       "url": "https://www.51cto.com/article/855605.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
+      "first_seen_at": "2026-09-12T00:01:50",
+      "last_seen_at": "2026-09-12T00:01:50",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -262,24 +192,14 @@
       "is_new": false
     },
     {
-      "title": "刚刚，寒武纪拿下PyTorch最高席位！与英伟达同桌",
-      "url": "https://www.51cto.com/article/855255.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
       "title": "2026 年，AI 拼的不再是模型，而是这三件事：Agent、多模态与工程化",
       "url": "https://www.51cto.com/article/855522.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-11T05:28:25",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:50",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "缓存与队列：别只会用 String！Redis 常用数据结构及对应业务场景总结",
@@ -287,16 +207,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-10T15:24:09",
       "last_seen_at": "2026-09-10T21:15:31",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "【HarmonyOS 7 平行视界深度实战】05 1:1、1:2、2:1 分栏比例如何分配",
-      "url": "https://ost.51cto.com/posts/56033",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-08T20:16:59",
-      "last_seen_at": "2026-09-08T22:35:47",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

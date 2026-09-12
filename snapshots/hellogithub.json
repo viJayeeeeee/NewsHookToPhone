@@ -1,94 +1,104 @@
 {
-  "update_time": "2026-09-11T05:28:36",
+  "update_time": "2026-09-12T00:01:57",
   "items": [
     {
       "title": "让 Windows 桌面井然有序",
       "url": "https://github.com/Tianyu199509/DeskBox",
-      "last_hot_value": "3645",
+      "last_hot_value": "3853",
       "first_seen_at": "2026-09-11T05:28:36",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "轻量级的 Java IDE 编程工具",
       "url": "https://github.com/1lck/Lithe-IDEA",
-      "last_hot_value": "2451",
+      "last_hot_value": "2526",
       "first_seen_at": "2026-09-11T05:28:36",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "把技术书变成智能体技能",
       "url": "https://github.com/virgiliojr94/book-to-skill",
-      "last_hot_value": "1924",
+      "last_hot_value": "2029",
       "first_seen_at": "2026-09-11T05:28:36",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "陪孩子在线逛史前动物博物馆",
       "url": "https://github.com/s010s/prehistoric-animal-museum",
-      "last_hot_value": "2122",
+      "last_hot_value": "2186",
       "first_seen_at": "2026-09-11T05:28:36",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "让 AI Agent 帮你做 PPT",
       "url": "https://github.com/chuspeeism/dashi-ppt-skill",
-      "last_hot_value": "2223",
+      "last_hot_value": "2300",
       "first_seen_at": "2026-09-11T05:28:36",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "仅需 4GB 显存就能跑 70B 大模型",
-      "url": "https://github.com/lyogavin/airllm",
-      "last_hot_value": "2490",
-      "first_seen_at": "2026-09-11T05:28:36",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "《深入理解 AI Agent：设计原理与工程实践》",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "last_hot_value": "7831",
+      "last_hot_value": "7914",
       "first_seen_at": "2026-09-10T15:24:15",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 3,
-      "peak_rank": 7,
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 4,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "仅需 4GB 显存就能跑 70B 大模型",
+      "url": "https://github.com/lyogavin/airllm",
+      "last_hot_value": "2575",
+      "first_seen_at": "2026-09-11T05:28:36",
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "为文章生成手绘配图的技能",
       "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-      "last_hot_value": "1324",
+      "last_hot_value": "1363",
       "first_seen_at": "2026-09-11T05:28:36",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Rust 写的开源中文输入法",
       "url": "https://github.com/huanfeng/WindInput",
-      "last_hot_value": "1462",
+      "last_hot_value": "1527",
       "first_seen_at": "2026-09-11T05:28:36",
-      "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 2,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "在线 AI 简历编辑器",
+      "url": "https://github.com/JOYCEQL/magic-resume",
+      "last_hot_value": "4011",
+      "first_seen_at": "2026-09-12T00:01:57",
+      "last_seen_at": "2026-09-12T00:01:57",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +107,9 @@
       "last_hot_value": "1473",
       "first_seen_at": "2026-09-11T05:28:36",
       "last_seen_at": "2026-09-11T05:28:36",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
