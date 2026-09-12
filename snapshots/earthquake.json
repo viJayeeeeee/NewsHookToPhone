@@ -1,23 +1,23 @@
 {
-  "update_time": "2026-09-12T06:45:16",
+  "update_time": "2026-09-12T23:04:32",
   "items": [
     {
       "title": "M6.5 印尼爪哇岛附近海域",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.5级",
       "first_seen_at": "2026-09-12T06:45:16",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.2 贵州毕节市威宁县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-09-10T23:10:12",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +26,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.8级",
       "first_seen_at": "2026-09-10T18:39:19",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
@@ -36,18 +36,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-09-12T06:45:16",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.0 云南丽江市古城区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-09-10T18:39:19",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 4,
       "peak_rank": 2,
       "is_new": false
     },
@@ -56,18 +56,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-09-12T06:45:16",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.0 新疆阿克苏地区拜城县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-09-10T18:39:19",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 4,
       "peak_rank": 3,
       "is_new": false
     },
@@ -76,18 +76,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.5级",
       "first_seen_at": "2026-09-12T06:45:16",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.6 河南济源市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-09-10T18:39:19",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 4,
       "peak_rank": 4,
       "is_new": false
     },
@@ -96,8 +96,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.6级",
       "first_seen_at": "2026-09-10T18:39:19",
-      "last_seen_at": "2026-09-12T06:45:16",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-12T23:04:32",
+      "consecutive_count": 4,
       "peak_rank": 5,
       "is_new": false
     }

@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-09-12T06:45:08",
+  "update_time": "2026-09-12T23:04:25",
   "items": [
+    {
+      "title": "甲乙丙丁 (你我怎么两清)",
+      "url": "https://music.163.com/#/song?id=3399839173",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-09-12T23:04:25",
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "海屿你",
+      "url": "https://music.163.com/#/song?id=1973665667",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-09-12T23:04:25",
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
     {
       "title": "两 难",
       "url": "https://music.163.com/#/song?id=2163210456",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-09-12T06:45:08",
-      "last_seen_at": "2026-09-12T06:45:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "于是",
@@ -22,24 +42,34 @@
       "is_new": false
     },
     {
+      "title": "我不难过",
+      "url": "https://music.163.com/#/song?id=287398",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-09-12T23:04:25",
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "Lost",
       "url": "https://music.163.com/#/song?id=479979029",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-09-12T06:45:08",
-      "last_seen_at": "2026-09-12T06:45:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "遐想",
       "url": "https://music.163.com/#/song?id=2018733994",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-09-12T06:45:08",
-      "last_seen_at": "2026-09-12T06:45:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "还是会想你",
@@ -52,14 +82,44 @@
       "is_new": false
     },
     {
+      "title": "碎碎念",
+      "url": "https://music.163.com/#/song?id=2097443876",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-09-12T23:04:25",
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "恋人",
+      "url": "https://music.163.com/#/song?id=2600493765",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-09-12T23:04:25",
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "玻璃",
+      "url": "https://music.163.com/#/song?id=3382908505",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-09-12T23:04:25",
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "再见太难",
       "url": "https://music.163.com/#/song?id=3416333610",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-09-12T06:45:08",
-      "last_seen_at": "2026-09-12T06:45:08",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-12T23:04:25",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
