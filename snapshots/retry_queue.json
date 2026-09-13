@@ -1139,5 +1139,19 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-09-12T00:02:10",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hostloc",
+    "platform_name": "全球主机交流",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-13T14:36:45",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ithome-xijiayi",
+    "platform_name": "IT之家喜加一",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-13T14:36:54",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]

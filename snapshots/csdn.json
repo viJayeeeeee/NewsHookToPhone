@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-09-12T00:01:49",
+  "update_time": "2026-09-13T14:36:24",
   "items": [
     {
-      "title": "如何采集Amazon 商品数据？两种方案实测：从自建爬虫到采集 API",
-      "url": "https://blog.csdn.net/m0_64336780/article/details/164957572",
-      "last_hot_value": "2.0w",
-      "first_seen_at": "2026-09-12T00:01:49",
-      "last_seen_at": "2026-09-12T00:01:49",
+      "title": "飞牛 NAS 装上 Netdata：实时查看 CPU、内存、磁盘、网络与异常告警",
+      "url": "https://blog.csdn.net/weixin_52908342/article/details/165120719",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
+    },
+    {
+      "title": "如何采集Amazon 商品数据？两种方案实测：从自建爬虫到采集 API",
+      "url": "https://blog.csdn.net/m0_64336780/article/details/164957572",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-09-12T00:01:49",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
     },
     {
       "title": "【AI大模型接入SDK】Ollama跨平台部署与运维指南",
@@ -17,7 +27,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-10T15:24:07",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "AI 已经开始做原创科研了吗？",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/164864436",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "【从0开始学习计算机网络】| 三次握手：为什么是三次，不是两次或四次？",
       "url": "https://blog.csdn.net/2503_94545876/article/details/164739838",
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-09-10T21:15:30",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -52,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "【AI大模型接入SDK】Ollama API 全量响应实现",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/164825945",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "【计算几何】闵可夫斯基差演示",
       "url": "https://blog.csdn.net/he_zhidan/article/details/164091399",
       "last_hot_value": "9424",
       "first_seen_at": "2026-09-10T15:24:07",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -67,9 +97,19 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-09-11T05:28:23",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "整理极空间时我试了件好玩的事：Docker 跑起马里奥，再用 cpolar 带到外网",
+      "url": "https://blog.csdn.net/Pocker_Spades_A/article/details/165125257",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "当网站开始为 AI Agent 设计：Agentic Internet 正在重写互联网",
@@ -77,7 +117,7 @@
       "last_hot_value": "1.5w",
       "first_seen_at": "2026-09-10T15:24:07",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -87,7 +127,7 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-10T15:24:07",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,13 +142,33 @@
       "is_new": false
     },
     {
+      "title": "AI Agent 的核心能力循环：感知→规划→执行→反思→记",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/165122245",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "Docker - 基于Docker的微服务架构全栈部署实战",
       "url": "https://blog.csdn.net/qq_41187124/article/details/157612072",
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-09-12T00:01:49",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "用纯 Rust 重写 Podcastfy：把网页、PDF 和一段文字，变成一档双人对话播客",
+      "url": "https://blog.csdn.net/qq8864/article/details/165128044",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -117,7 +177,7 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-11T05:28:23",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -142,6 +202,16 @@
       "is_new": false
     },
     {
+      "title": "人工智能技术丛书《LangGraph智能体设计模式与多智能体开发》",
+      "url": "https://blog.csdn.net/qq_41840843/article/details/164982405",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "服务一多就别全靠命令行：用 1Panel 管理极空间上的 Docker 应用",
       "url": "https://blog.csdn.net/Dovis5884/article/details/164631529",
       "last_hot_value": "1.0w",
@@ -152,13 +222,33 @@
       "is_new": false
     },
     {
+      "title": "鸿蒙平台 Notepadqq 文本编辑器适配实战：基于 Electron 壳方案的轻量级多标签编辑器开发",
+      "url": "https://blog.csdn.net/COLLINSXU/article/details/165006740",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "AtomMQTT Broker — 用 Rust 实现的轻量级高性能 MQTT 消息代理",
       "url": "https://blog.csdn.net/qq8864/article/details/164883403",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-09-12T00:01:49",
       "last_seen_at": "2026-09-12T00:01:49",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "AI 视频生成能不能真正跑通？MoneyPrinterTurbo 本地制作、远程访问与授权验证",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/165236474",
+      "last_hot_value": "9088",
+      "first_seen_at": "2026-09-13T14:36:24",
+      "last_seen_at": "2026-09-13T14:36:24",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {

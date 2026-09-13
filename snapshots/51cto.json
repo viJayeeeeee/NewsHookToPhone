@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-09-12T00:01:50",
+  "update_time": "2026-09-13T14:36:26",
   "items": [
+    {
+      "title": "突发，Dario提全球AI限速三步计划！奥特曼马斯克第一时间支持",
+      "url": "https://www.51cto.com/article/855696.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:26",
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HarmonyOS 7 软键盘避让实战：聊天界面一次做对",
       "url": "https://ost.51cto.com/posts/56140",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T00:01:50",
       "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "HarmonyOS 7平行视界实战：让单栏页面自动变成左右分栏",
@@ -17,7 +27,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
       "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -30,6 +40,16 @@
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+      "url": "https://www.51cto.com/article/855695.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:26",
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "HarmonyOS 分布式文件系统跨设备文件访问与拷贝完全指南",
@@ -52,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS LTPO 帧率实战：别把刷新率锁死 120Hz，expected 按内容填",
+      "url": "https://ost.51cto.com/posts/56156",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:26",
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "不靠堆数量！揭秘 AI 基础设施智能体的可靠核心，SRE 必看",
       "url": "https://www.51cto.com/article/855611.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -72,12 +102,22 @@
       "is_new": false
     },
     {
+      "title": "刚刚，陶哲轩、邓煜等菲奖得主联合抗议：AI公司正毁掉整个数学圈！",
+      "url": "https://www.51cto.com/article/855694.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:26",
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "淘天RAG三面被问:\"用GPT给另一个大模型的输出打分,这事儿靠谱吗?\"我当场答\"当然靠谱,GPT更强\",面试官却让我回去再想想，但事后越想越心虚",
       "url": "https://www.51cto.com/article/855610.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -92,12 +132,22 @@
       "is_new": false
     },
     {
+      "title": "HarmonyOS 7 系统日历实战：让应用住进用户的日程表",
+      "url": "https://ost.51cto.com/posts/56149",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:26",
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "四大多 Agent 架构详解 ：Agent 也要搞组织架构？一文讲透 Hierarchical 分层协同",
       "url": "https://www.51cto.com/article/855609.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -112,14 +162,14 @@
       "is_new": false
     },
     {
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊",
-      "url": "https://www.51cto.com/article/855608.html",
+      "title": "程序员的黄金时代还没结束！Android大神Jake Wharton：只会写代码的人危险了，但是懂系统的人没有",
+      "url": "https://www.51cto.com/article/855690.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-09-11T05:28:25",
-      "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-09-13T14:36:26",
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "前端人彻底赢麻了！这个 PDF 方案火了",
@@ -137,7 +187,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
       "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -157,7 +207,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
       "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -173,13 +223,13 @@
     },
     {
       "title": "OpenAI这是拿千禧年难题当Benchmark刷啊",
-      "url": "https://www.51cto.com/article/855605.html",
+      "url": "https://www.51cto.com/article/855608.html",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T00:01:50",
-      "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-13T14:36:26",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Electron 淘汰？Vercel 发布 Native SDK，适配桌面端和手机端！",
@@ -197,7 +247,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:25",
       "last_seen_at": "2026-09-12T00:01:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     },

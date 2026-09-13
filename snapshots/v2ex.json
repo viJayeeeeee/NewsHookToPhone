@@ -1,15 +1,25 @@
 {
-  "update_time": "2026-09-12T00:01:45",
+  "update_time": "2026-09-13T14:36:21",
   "items": [
+    {
+      "title": "你们一天喝多少咖啡的？",
+      "url": "https://www.v2ex.com/t/1241624",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "筷子不能竖着插在饭里是全国性的常识吗？",
       "url": "https://www.v2ex.com/t/1241327",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T00:01:45",
       "last_seen_at": "2026-09-12T00:01:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！",
@@ -32,12 +42,22 @@
       "is_new": false
     },
     {
+      "title": "陶哲轩等数学家反对 AI，论失败的意义",
+      "url": "https://www.v2ex.com/t/1241637",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配",
       "url": "https://www.v2ex.com/t/1241226",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:18",
       "last_seen_at": "2026-09-12T00:01:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -47,7 +67,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:18",
       "last_seen_at": "2026-09-12T00:01:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
     },
@@ -60,6 +80,16 @@
       "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "用 Astra 把家乡的竹林老屋做成一个可以游览的网页",
+      "url": "https://www.v2ex.com/t/1241660",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "一直有个疑问，感觉用 cursor 的人很少",
@@ -82,12 +112,22 @@
       "is_new": false
     },
     {
+      "title": "SRE 岗 offer 选择",
+      "url": "https://www.v2ex.com/t/1241623",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "躺平是不是版本答案？",
       "url": "https://www.v2ex.com/t/1241205",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:18",
       "last_seen_at": "2026-09-12T00:01:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -102,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "有没有什么工具，可以远程让 codex 干活？",
+      "url": "https://www.v2ex.com/t/1241635",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "-52% 还能回本吗",
       "url": "https://www.v2ex.com/t/1241315",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T00:01:45",
       "last_seen_at": "2026-09-12T00:01:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "openai，我 qnmd！",
@@ -132,14 +182,24 @@
       "is_new": false
     },
     {
+      "title": "为了 Duo 这碟醋，苹果真是包了不少饺子啊……",
+      "url": "https://www.v2ex.com/t/1241642",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "真难啊，做个网站 3 个月 600 曝光， 40 次点击。",
       "url": "https://www.v2ex.com/t/1241297",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T00:01:45",
       "last_seen_at": "2026-09-12T00:01:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Duo 真的很不苹果",
@@ -162,12 +222,22 @@
       "is_new": false
     },
     {
+      "title": "pdd 的金领冠真的不能买吗？",
+      "url": "https://www.v2ex.com/t/1241677",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "最近几月大家用 ai 开发之后，还会加班吗？",
       "url": "https://www.v2ex.com/t/1241211",
       "last_hot_value": "",
       "first_seen_at": "2026-09-11T05:28:18",
       "last_seen_at": "2026-09-12T00:01:45",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -182,14 +252,24 @@
       "is_new": false
     },
     {
+      "title": "大家的椅子手托在双手打字场景有这个问题吗，现在很难受",
+      "url": "https://www.v2ex.com/t/1241644",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "为一个弱智的问题 大家怎么插入的图片",
       "url": "https://www.v2ex.com/t/1241328",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T00:01:45",
       "last_seen_at": "2026-09-12T00:01:45",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "感觉手里的 12pm 快坚持不住了，换的话推荐换哪款",
@@ -200,6 +280,16 @@
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "中美大模型是否会分别占据高端、中低端市场？",
+      "url": "https://www.v2ex.com/t/1241658",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T14:36:21",
+      "last_seen_at": "2026-09-13T14:36:21",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     }
   ]
 }
