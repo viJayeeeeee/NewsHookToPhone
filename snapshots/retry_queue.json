@@ -1146,12 +1146,5 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-09-13T14:36:45",
     "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "ithome-xijiayi",
-    "platform_name": "IT之家喜加一",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-13T14:36:54",
-    "reason": "获取失败（已重试 3 次）"
   }
 ]

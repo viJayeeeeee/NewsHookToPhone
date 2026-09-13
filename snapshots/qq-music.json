@@ -1,45 +1,55 @@
 {
-  "update_time": "2026-09-12T23:04:27",
+  "update_time": "2026-09-13T17:44:31",
   "items": [
+    {
+      "title": "我不难过",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001fsNdn1zuZnA",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-12T23:04:27",
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "世界如此",
       "url": "https://y.qq.com/n/ryqq/songDetail/004c8lwy1OB6qe",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T06:45:11",
       "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
-    },
-    {
-      "title": "我不难过",
-      "url": "https://y.qq.com/n/ryqq/songDetail/001fsNdn1zuZnA",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-12T23:04:27",
-      "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
     },
     {
       "title": "甲乙丙丁 (你我怎么两清)",
       "url": "https://y.qq.com/n/ryqq/songDetail/002AZauQ1UKQxe",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T23:04:27",
-      "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "泪海",
       "url": "https://y.qq.com/n/ryqq/songDetail/003Haf8k2E6fYX",
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T23:04:27",
-      "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "恋人",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-12T23:04:27",
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "笨蛋",
@@ -52,23 +62,13 @@
       "is_new": false
     },
     {
-      "title": "恋人",
-      "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V",
-      "last_hot_value": "",
-      "first_seen_at": "2026-09-12T23:04:27",
-      "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
       "title": "情歌",
       "url": "https://y.qq.com/n/ryqq/songDetail/0010BrWk2SucQr",
       "last_hot_value": "",
       "first_seen_at": "2026-09-10T18:39:14",
-      "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 4,
-      "peak_rank": 6,
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 5,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -76,10 +76,30 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000BO3xy4fd8BJ",
       "last_hot_value": "",
       "first_seen_at": "2026-09-10T18:39:14",
-      "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 5,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "雨爱",
+      "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-10T18:39:14",
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "失眠",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001Y2S0F1OaM2s",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T17:44:31",
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "琵琶曲",
@@ -87,19 +107,29 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-12T23:04:27",
       "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "特别的人",
+      "url": "https://y.qq.com/n/ryqq/songDetail/003cSLOO35W3yP",
+      "last_hot_value": "",
+      "first_seen_at": "2026-09-13T17:44:31",
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
-      "title": "雨爱",
-      "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic",
+      "title": "Always Online",
+      "url": "https://y.qq.com/n/ryqq/songDetail/001N8e5Q4Gjxda",
       "last_hot_value": "",
-      "first_seen_at": "2026-09-10T18:39:14",
-      "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 4,
-      "peak_rank": 8,
-      "is_new": false
+      "first_seen_at": "2026-09-13T17:44:31",
+      "last_seen_at": "2026-09-13T17:44:31",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "开始懂了",
@@ -107,7 +137,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-10T18:39:14",
       "last_seen_at": "2026-09-12T23:04:27",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

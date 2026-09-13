@@ -1,35 +1,45 @@
 {
-  "update_time": "2026-09-12T23:04:29",
+  "update_time": "2026-09-13T17:44:33",
   "items": [
     {
       "title": "人生的八个层级",
       "url": "",
-      "last_hot_value": "1453人在读",
+      "last_hot_value": "7630人在读",
       "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "住小房子的女人",
-      "url": "",
-      "last_hot_value": "4447人在读",
-      "first_seen_at": "2026-09-12T06:45:12",
-      "last_seen_at": "2026-09-12T23:04:29",
+      "last_seen_at": "2026-09-13T17:44:33",
       "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "北京法源寺（文学性与思想性相结合的经典作品）",
+      "title": "住小房子的女人",
       "url": "",
-      "last_hot_value": "1403人在读",
-      "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-12T23:04:29",
+      "last_hot_value": "3919人在读",
+      "first_seen_at": "2026-09-12T06:45:12",
+      "last_seen_at": "2026-09-13T17:44:33",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "走过",
+      "url": "",
+      "last_hot_value": "833人在读",
+      "first_seen_at": "2026-09-13T17:44:33",
+      "last_seen_at": "2026-09-13T17:44:33",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "北京法源寺（文学性与思想性相结合的经典作品）",
+      "url": "",
+      "last_hot_value": "2065人在读",
+      "first_seen_at": "2026-09-12T23:04:29",
+      "last_seen_at": "2026-09-13T17:44:33",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "为什么精英都是时间控",
@@ -56,10 +66,10 @@
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-13T17:44:33",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "灿烂千阳",
@@ -67,19 +77,29 @@
       "last_hot_value": "1446人在读",
       "first_seen_at": "2026-09-12T06:45:12",
       "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "我以为这辈子完蛋了",
       "url": "",
-      "last_hot_value": "1307人在读",
+      "last_hot_value": "1714人在读",
       "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-13T17:44:33",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "哈利波特完整系列（全七册）",
+      "url": "",
+      "last_hot_value": "7602人在读",
+      "first_seen_at": "2026-09-12T06:45:12",
+      "last_seen_at": "2026-09-13T17:44:33",
+      "consecutive_count": 3,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "我才不想做家务（全网剖析隐形家务最彻底的一本书！）",
@@ -87,8 +107,18 @@
       "last_hot_value": "1907人在读",
       "first_seen_at": "2026-09-12T06:45:12",
       "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "背叛（《天道》原著作者豆豆开山之作）",
+      "url": "",
+      "last_hot_value": "4209人在读",
+      "first_seen_at": "2026-09-12T23:04:29",
+      "last_seen_at": "2026-09-13T17:44:33",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -99,16 +129,6 @@
       "last_seen_at": "2026-09-10T23:10:09",
       "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "哈利波特完整系列（全七册）",
-      "url": "",
-      "last_hot_value": "6829人在读",
-      "first_seen_at": "2026-09-12T06:45:12",
-      "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 2,
-      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -132,13 +152,23 @@
       "is_new": false
     },
     {
-      "title": "背叛（《天道》原著作者豆豆开山之作）",
+      "title": "追问",
       "url": "",
-      "last_hot_value": "4150人在读",
-      "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-12T23:04:29",
+      "last_hot_value": "812人在读",
+      "first_seen_at": "2026-09-13T17:44:33",
+      "last_seen_at": "2026-09-13T17:44:33",
       "consecutive_count": 1,
-      "peak_rank": 8,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "不原谅也没关系",
+      "url": "",
+      "last_hot_value": "1736人在读",
+      "first_seen_at": "2026-09-13T17:44:33",
+      "last_seen_at": "2026-09-13T17:44:33",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -147,9 +177,9 @@
       "last_hot_value": "512人在读",
       "first_seen_at": "2026-09-12T23:04:29",
       "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你是你吃出来的（套装共2册）",
