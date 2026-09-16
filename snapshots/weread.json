@@ -1,25 +1,15 @@
 {
-  "update_time": "2026-09-13T17:44:33",
+  "update_time": "2026-09-16T12:19:37",
   "items": [
     {
-      "title": "人生的八个层级",
+      "title": "兰花与蒲公英",
       "url": "",
-      "last_hot_value": "7630人在读",
-      "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 2,
+      "last_hot_value": "2191人在读",
+      "first_seen_at": "2026-09-16T12:19:37",
+      "last_seen_at": "2026-09-16T12:19:37",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "住小房子的女人",
-      "url": "",
-      "last_hot_value": "3919人在读",
-      "first_seen_at": "2026-09-12T06:45:12",
-      "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "走过",
@@ -27,129 +17,39 @@
       "last_hot_value": "833人在读",
       "first_seen_at": "2026-09-13T17:44:33",
       "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "天幕红尘（《遥远的救世主》姊妹篇）",
+      "url": "",
+      "last_hot_value": "2838人在读",
+      "first_seen_at": "2026-09-16T12:19:37",
+      "last_seen_at": "2026-09-16T12:19:37",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
-      "title": "北京法源寺（文学性与思想性相结合的经典作品）",
+      "title": "幸得诸君慰平生",
       "url": "",
-      "last_hot_value": "2065人在读",
-      "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 2,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "为什么精英都是时间控",
-      "url": "",
-      "last_hot_value": "1767人在读",
-      "first_seen_at": "2026-09-10T18:39:16",
-      "last_seen_at": "2026-09-12T06:45:12",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "基层中国的运行逻辑",
-      "url": "",
-      "last_hot_value": "1677人在读",
-      "first_seen_at": "2026-09-10T18:39:16",
-      "last_seen_at": "2026-09-10T23:10:09",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "遥远的救世主（《天道》影视原著）",
-      "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 2,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "灿烂千阳",
-      "url": "",
-      "last_hot_value": "1446人在读",
-      "first_seen_at": "2026-09-12T06:45:12",
-      "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "我以为这辈子完蛋了",
-      "url": "",
-      "last_hot_value": "1714人在读",
-      "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "哈利波特完整系列（全七册）",
-      "url": "",
-      "last_hot_value": "7602人在读",
-      "first_seen_at": "2026-09-12T06:45:12",
-      "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 3,
+      "last_hot_value": "905人在读",
+      "first_seen_at": "2026-09-16T12:19:37",
+      "last_seen_at": "2026-09-16T12:19:37",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "我才不想做家务（全网剖析隐形家务最彻底的一本书！）",
+      "title": "寂寞的游戏",
       "url": "",
-      "last_hot_value": "1907人在读",
-      "first_seen_at": "2026-09-12T06:45:12",
-      "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "背叛（《天道》原著作者豆豆开山之作）",
-      "url": "",
-      "last_hot_value": "4209人在读",
-      "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "置身事内：中国政府与经济发展",
-      "url": "",
-      "last_hot_value": "7997人在读",
-      "first_seen_at": "2026-09-10T18:39:16",
-      "last_seen_at": "2026-09-10T23:10:09",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "新宋·大结局（全15册）",
-      "url": "",
-      "last_hot_value": "419人在读",
-      "first_seen_at": "2026-09-12T06:45:12",
-      "last_seen_at": "2026-09-12T06:45:12",
-      "consecutive_count": 0,
+      "last_hot_value": "305人在读",
+      "first_seen_at": "2026-09-16T12:19:37",
+      "last_seen_at": "2026-09-16T12:19:37",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "恨海情天文学短篇集：我爱你，你死吧",
-      "url": "",
-      "last_hot_value": "717人在读",
-      "first_seen_at": "2026-09-10T18:39:16",
-      "last_seen_at": "2026-09-10T23:10:09",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "追问",
@@ -157,8 +57,18 @@
       "last_hot_value": "812人在读",
       "first_seen_at": "2026-09-13T17:44:33",
       "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "毛泽东选集（全四卷）",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-09-16T12:19:37",
+      "last_seen_at": "2026-09-16T12:19:37",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -167,36 +77,6 @@
       "last_hot_value": "1736人在读",
       "first_seen_at": "2026-09-13T17:44:33",
       "last_seen_at": "2026-09-13T17:44:33",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "中国人的血脂管理指南",
-      "url": "",
-      "last_hot_value": "512人在读",
-      "first_seen_at": "2026-09-12T23:04:29",
-      "last_seen_at": "2026-09-12T23:04:29",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "你是你吃出来的（套装共2册）",
-      "url": "",
-      "last_hot_value": "851人在读",
-      "first_seen_at": "2026-09-12T06:45:12",
-      "last_seen_at": "2026-09-12T06:45:12",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "如何找到想做的事",
-      "url": "",
-      "last_hot_value": "779人在读",
-      "first_seen_at": "2026-09-10T23:10:09",
-      "last_seen_at": "2026-09-10T23:10:09",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
