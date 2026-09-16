@@ -1146,12 +1146,5 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-09-13T14:36:45",
     "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "sina",
-    "platform_name": "新浪热搜",
-    "category_name": "社交媒体·热榜",
-    "failed_at": "2026-09-16T01:55:46",
-    "reason": "获取失败（已重试 3 次）"
   }
 ]
