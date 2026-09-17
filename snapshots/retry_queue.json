@@ -1148,20 +1148,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "nodeseek",
-    "platform_name": "NodeSeek",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-17T18:51:18",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "52pojie",
-    "platform_name": "吾爱破解",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-17T18:51:26",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "hostloc",
     "platform_name": "全球主机交流",
     "category_name": "科技·开发者",
@@ -1169,10 +1155,31 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "ithome-xijiayi",
-    "platform_name": "IT之家喜加一",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-17T18:51:42",
+    "platform_type": "weread",
+    "platform_name": "微信读书",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-17T22:00:51",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weatheralarm",
+    "platform_name": "天气预警",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-17T22:00:59",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "earthquake",
+    "platform_name": "地震速报",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-17T22:01:07",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "history",
+    "platform_name": "历史上的今天",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-17T22:01:16",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
