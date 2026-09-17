@@ -1146,5 +1146,33 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-09-13T14:36:45",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "nodeseek",
+    "platform_name": "NodeSeek",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-17T18:51:18",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "52pojie",
+    "platform_name": "吾爱破解",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-17T18:51:26",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hostloc",
+    "platform_name": "全球主机交流",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-17T18:51:34",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ithome-xijiayi",
+    "platform_name": "IT之家喜加一",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-17T18:51:42",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
