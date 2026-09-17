@@ -1,25 +1,35 @@
 {
-  "update_time": "2026-09-16T12:19:41",
+  "update_time": "2026-09-17T15:00:58",
   "items": [
     {
-      "title": "M3.6 青海海西州直辖区",
+      "title": "M6.4 安德烈亚诺夫群岛",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.6级",
-      "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-16T12:19:41",
+      "last_hot_value": "6.4级",
+      "first_seen_at": "2026-09-17T15:00:58",
+      "last_seen_at": "2026-09-17T15:00:58",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
     },
     {
-      "title": "M3.6 内蒙古阿拉善盟阿拉善左旗",
+      "title": "M3.6 青海海西州直辖区",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
-      "first_seen_at": "2026-09-13T17:44:36",
-      "last_seen_at": "2026-09-16T12:19:41",
+      "first_seen_at": "2026-09-16T12:19:41",
+      "last_seen_at": "2026-09-17T15:00:58",
       "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "M3.1 新疆克孜勒苏州阿克陶县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.1级",
+      "first_seen_at": "2026-09-17T15:00:58",
+      "last_seen_at": "2026-09-17T15:00:58",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M2.8 云南临沧市耿马县",
@@ -27,49 +37,49 @@
       "last_hot_value": "2.8级",
       "first_seen_at": "2026-09-16T12:19:41",
       "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.0 新疆和田地区皮山县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-17T15:00:58",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.5 云南普洱市墨江县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.5级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-17T15:00:58",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.0 四川阿坝州理县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-17T15:00:58",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.1 台湾台东县海域",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.1级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-17T15:00:58",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.1 台湾花莲县",
@@ -77,18 +87,28 @@
       "last_hot_value": "4.1级",
       "first_seen_at": "2026-09-16T12:19:41",
       "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.1 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-17T15:00:58",
+      "consecutive_count": 2,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "M6.5 印尼爪哇岛附近海域",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "6.5级",
+      "first_seen_at": "2026-09-17T15:00:58",
+      "last_seen_at": "2026-09-17T15:00:58",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     }
   ]
