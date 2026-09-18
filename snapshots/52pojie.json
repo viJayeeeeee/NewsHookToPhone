@@ -1,34 +1,54 @@
 {
-  "update_time": "2026-09-17T22:00:30",
+  "update_time": "2026-09-18T12:03:17",
   "items": [
+    {
+      "title": "微信防撤回工具v1.3",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-09-18T12:03:17",
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "MobaXterm 26.5 中文汉化版",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-09-17T22:00:30",
       "last_seen_at": "2026-09-17T22:00:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Excel通用财务账模板",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-09-17T22:00:30",
-      "last_seen_at": "2026-09-17T22:00:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "第三方精简版知乎 Zhihu++ v0.29.2",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-09-17T22:00:30",
-      "last_seen_at": "2026-09-17T22:00:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 2,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "茶话间 Teahouse v0.57.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-09-18T12:03:17",
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -36,19 +56,39 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-09-17T22:00:30",
-      "last_seen_at": "2026-09-17T22:00:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "文本转语音工具edge-tts-gui v0.16.2",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-09-17T22:00:30",
-      "last_seen_at": "2026-09-17T22:00:30",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 2,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "【更新】图片转换王V 1.06 支持【Al、PSD、PSB、PDF、RAW等格式】",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-09-18T12:03:17",
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "Windows 网络快速切换工具",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-09-18T12:03:17",
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -57,9 +97,9 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-09-17T22:00:30",
       "last_seen_at": "2026-09-17T22:00:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SpeedTest-1.2.3",
@@ -67,8 +107,28 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-09-17T22:00:30",
       "last_seen_at": "2026-09-17T22:00:30",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "截图工具 PixPin 3.5.5.1 便携正式版",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-09-18T12:03:17",
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "手机转电脑麦克风工具 MicYou 2.0.3",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-09-18T12:03:17",
+      "last_seen_at": "2026-09-18T12:03:17",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     }
   ]

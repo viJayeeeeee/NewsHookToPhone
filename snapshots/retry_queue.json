@@ -1155,41 +1155,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "sspai",
-    "platform_name": "少数派",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-18T01:52:02",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "ifanr",
-    "platform_name": "爱范儿",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-18T01:52:11",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "hellogithub",
-    "platform_name": "HelloGitHub",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-18T01:52:19",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "nodeseek",
-    "platform_name": "NodeSeek",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-18T01:52:27",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "52pojie",
-    "platform_name": "吾爱破解",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-09-18T01:52:35",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "hostloc",
     "platform_name": "全球主机交流",
     "category_name": "科技·开发者",
@@ -1222,6 +1187,48 @@
     "platform_name": "果壳",
     "category_name": "行业·商业",
     "failed_at": "2026-09-18T06:55:01",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "netease-music",
+    "platform_name": "网易云音乐",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-18T12:04:02",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "qq-music",
+    "platform_name": "QQ音乐",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-18T12:04:11",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weread",
+    "platform_name": "微信读书",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-18T12:04:19",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weatheralarm",
+    "platform_name": "天气预警",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-18T12:04:27",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "earthquake",
+    "platform_name": "地震速报",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-18T12:04:36",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "history",
+    "platform_name": "历史上的今天",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-18T12:04:45",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
