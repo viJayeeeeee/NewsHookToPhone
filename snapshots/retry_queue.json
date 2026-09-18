@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "weread",
-    "platform_name": "微信读书",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T12:04:19",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "weatheralarm",
-    "platform_name": "天气预警",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T12:04:27",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "earthquake",
     "platform_name": "地震速报",
     "category_name": "音乐·阅读·生活",
@@ -1313,6 +1299,34 @@
     "platform_name": "历史上的今天",
     "category_name": "音乐·阅读·生活",
     "failed_at": "2026-09-18T21:24:53",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "lol",
+    "platform_name": "英雄联盟",
+    "category_name": "游戏",
+    "failed_at": "2026-09-18T23:34:47",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "genshin",
+    "platform_name": "原神",
+    "category_name": "游戏",
+    "failed_at": "2026-09-18T23:34:55",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "honkai",
+    "platform_name": "崩坏3",
+    "category_name": "游戏",
+    "failed_at": "2026-09-18T23:35:04",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "starrail",
+    "platform_name": "星穹铁道",
+    "category_name": "游戏",
+    "failed_at": "2026-09-18T23:35:12",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
