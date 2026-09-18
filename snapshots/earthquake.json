@@ -1,12 +1,12 @@
 {
-  "update_time": "2026-09-17T15:00:58",
+  "update_time": "2026-09-18T00:01:44",
   "items": [
     {
-      "title": "M6.4 安德烈亚诺夫群岛",
+      "title": "M3.0 新疆巴音郭楞州库尔勒市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.4级",
-      "first_seen_at": "2026-09-17T15:00:58",
-      "last_seen_at": "2026-09-17T15:00:58",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-09-18T00:01:44",
+      "last_seen_at": "2026-09-18T00:01:44",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
@@ -16,28 +16,48 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "M6.4 安德烈亚诺夫群岛",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "6.4级",
+      "first_seen_at": "2026-09-17T15:00:58",
+      "last_seen_at": "2026-09-17T15:00:58",
+      "consecutive_count": 0,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "M6.5 福克斯群岛",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "6.5级",
+      "first_seen_at": "2026-09-18T00:01:44",
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M3.1 新疆克孜勒苏州阿克陶县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-09-17T15:00:58",
-      "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M2.8 云南临沧市耿马县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.8级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": false
     },
@@ -46,8 +66,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -56,8 +76,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.5级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
@@ -66,8 +86,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.0级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
     },
@@ -76,8 +96,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.1级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 3,
       "peak_rank": 6,
       "is_new": false
     },
@@ -86,8 +106,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.1级",
       "first_seen_at": "2026-09-16T12:19:41",
-      "last_seen_at": "2026-09-16T12:19:41",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-09-18T00:01:44",
+      "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": false
     },
@@ -97,7 +117,7 @@
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-09-16T12:19:41",
       "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -107,9 +127,9 @@
       "last_hot_value": "6.5级",
       "first_seen_at": "2026-09-17T15:00:58",
       "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
