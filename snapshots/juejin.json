@@ -1,65 +1,75 @@
 {
-  "update_time": "2026-09-17T18:50:57",
+  "update_time": "2026-09-18T01:51:48",
   "items": [
     {
       "title": "前端2秒生成500页矢量PDF，rust真的强到没朋友",
       "url": "https://juejin.cn/post/7685644889096011827",
-      "last_hot_value": "热度:2250",
+      "last_hot_value": "热度:2295",
       "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "黄仁勋台上接特朗普电话开免提，全场听到一句话：AI 不会减速",
       "url": "https://juejin.cn/post/7685320540698361899",
-      "last_hot_value": "热度:1440",
+      "last_hot_value": "热度:1458",
       "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "ChatGPT 开启无限 token",
       "url": "https://juejin.cn/post/7685770509585629190",
-      "last_hot_value": "热度:900",
+      "last_hot_value": "热度:936",
       "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "⚡2026 年了，十万级表格还只会「虚拟滚动」？难怪你的页面照样卡顿",
       "url": "https://juejin.cn/post/7686043275371708450",
-      "last_hot_value": "热度:648",
+      "last_hot_value": "热度:666",
       "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "🤖 AI写代码越跑越快，项目组件却越来越乱？一套工程闭环根治重复造轮子 ⚡",
       "url": "https://juejin.cn/post/7685970177332592655",
-      "last_hot_value": "热度:585",
+      "last_hot_value": "热度:594",
       "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "前端转型全栈 00：AI 时代该学哪些，不该学哪些",
       "url": "https://juejin.cn/post/7685561582916304906",
       "last_hot_value": "热度:576",
       "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Codex 最新焚决发布，快！",
+      "url": "https://juejin.cn/post/7686029820083929097",
+      "last_hot_value": "热度:540",
+      "first_seen_at": "2026-09-17T18:50:57",
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "全球最聪明的几个人，本周突然一起说“别卷了”",
@@ -67,36 +77,36 @@
       "last_hot_value": "热度:522",
       "first_seen_at": "2026-09-17T18:50:57",
       "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "Codex 最新焚决发布，快！",
-      "url": "https://juejin.cn/post/7686029820083929097",
-      "last_hot_value": "热度:504",
-      "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "5 年级的儿子居然学会了破解。。。",
       "url": "https://juejin.cn/post/7685987418991001600",
-      "last_hot_value": "热度:432",
+      "last_hot_value": "热度:459",
       "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "AI会让程序员失业吗？200年前的手工织工已经给出了答案",
       "url": "https://juejin.cn/post/7685276242113019938",
-      "last_hot_value": "热度:405",
+      "last_hot_value": "热度:423",
       "first_seen_at": "2026-09-17T18:50:57",
-      "last_seen_at": "2026-09-17T18:50:57",
+      "last_seen_at": "2026-09-18T01:51:48",
+      "consecutive_count": 2,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "JDK27正式发布，人麻了!",
+      "url": "https://juejin.cn/post/7686174631263404073",
+      "last_hot_value": "热度:414",
+      "first_seen_at": "2026-09-18T01:51:48",
+      "last_seen_at": "2026-09-18T01:51:48",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

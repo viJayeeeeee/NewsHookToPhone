@@ -1,94 +1,104 @@
 {
-  "update_time": "2026-09-17T18:51:00",
+  "update_time": "2026-09-18T01:51:50",
   "items": [
+    {
+      "title": "AI Agent 越界之后：为什么只有沙箱还不够",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/164885374",
+      "last_hot_value": "1.5w",
+      "first_seen_at": "2026-09-17T18:51:00",
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Flutter 三方库 share_handler 鸿蒙使用指南",
       "url": "https://blog.csdn.net/qiaomu8559968/article/details/165438186",
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "AI Agent 越界之后：为什么只有沙箱还不够",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/164885374",
+      "title": "Prometheus 告警怎么推到钉钉？从单群通知到跨网络 Alertmanager 实战",
+      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/165732655",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "【认识大模型】【一堂课厘清AI五大核心概念：从人工智能到大语言模型】流食般投喂",
       "url": "https://blog.csdn.net/dj_798/article/details/165491995",
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "Prometheus 告警怎么推到钉钉？从单群通知到跨网络 Alertmanager 实战",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/165732655",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "DSH 改造：在外部订阅套餐下打通图片识别、生图与语音插件",
-      "url": "https://blog.csdn.net/2302_80329073/article/details/165623079",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "没有公网 IP 也想远程连 PostgreSQL？从本地数据库到固定 TCP 地址完整配置",
       "url": "https://blog.csdn.net/m0_68390957/article/details/165565251",
-      "last_hot_value": "9321",
+      "last_hot_value": "8966",
       "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
-      "title": "KES-Operator正式发布：把KES集群交给K8s自己管哦",
-      "url": "https://blog.csdn.net/weixin_42878111/article/details/165705264",
-      "last_hot_value": "9321",
+      "title": "DSH 改造：在外部订阅套餐下打通图片识别、生图与语音插件",
+      "url": "https://blog.csdn.net/2302_80329073/article/details/165623079",
+      "last_hot_value": "7448",
       "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "大模型工程化实战（十一）：知识库防腐坏——巡检揪出缺/腐/乱、治理先软下架止血、灰度换版可回滚：模型没换、prompt 没换，RAG 正确率却往下掉，先别查模型，查粮仓",
-      "url": "https://blog.csdn.net/xiaobing259/article/details/165242919",
-      "last_hot_value": "7731",
-      "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "普通摄像头怎么加上 AI 监控？用 Frigate 把识别和事件管理放到绿联 NAS",
       "url": "https://blog.csdn.net/liu_chen_yang/article/details/165744544",
+      "last_hot_value": "8612",
+      "first_seen_at": "2026-09-17T18:51:00",
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "大模型工程化实战（十一）：知识库防腐坏——巡检揪出缺/腐/乱、治理先软下架止血、灰度换版可回滚：模型没换、prompt 没换，RAG 正确率却往下掉，先别查模型，查粮仓",
+      "url": "https://blog.csdn.net/xiaobing259/article/details/165242919",
+      "last_hot_value": "8257",
+      "first_seen_at": "2026-09-17T18:51:00",
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "KES-Operator正式发布：把KES集群交给K8s自己管哦",
+      "url": "https://blog.csdn.net/weixin_42878111/article/details/165705264",
       "last_hot_value": "7269",
       "first_seen_at": "2026-09-17T18:51:00",
-      "last_seen_at": "2026-09-17T18:51:00",
+      "last_seen_at": "2026-09-18T01:51:50",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "【AI智能体】Codex 制作AI视频实战操作详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/164164193",
+      "last_hot_value": "7903",
+      "first_seen_at": "2026-09-18T01:51:50",
+      "last_seen_at": "2026-09-18T01:51:50",
       "consecutive_count": 1,
-      "peak_rank": 9,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -97,9 +107,9 @@
       "last_hot_value": "6941",
       "first_seen_at": "2026-09-17T18:51:00",
       "last_seen_at": "2026-09-17T18:51:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
