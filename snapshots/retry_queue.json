@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "netease-music",
-    "platform_name": "网易云音乐",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T15:31:44",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "qq-music",
-    "platform_name": "QQ音乐",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T15:31:52",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "weread",
     "platform_name": "微信读书",
     "category_name": "音乐·阅读·生活",
@@ -1334,6 +1320,27 @@
     "platform_name": "果壳",
     "category_name": "行业·商业",
     "failed_at": "2026-09-19T01:33:46",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-19T06:12:14",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-19T06:12:22",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "guokr",
+    "platform_name": "果壳",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-19T06:12:32",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
