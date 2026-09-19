@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "netease-music",
-    "platform_name": "网易云音乐",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T21:24:13",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "qq-music",
-    "platform_name": "QQ音乐",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T21:24:21",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "weread",
     "platform_name": "微信读书",
     "category_name": "音乐·阅读·生活",
@@ -1446,6 +1432,69 @@
     "platform_name": "果壳",
     "category_name": "行业·商业",
     "failed_at": "2026-09-19T21:29:18",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weibo",
+    "platform_name": "微博热搜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:18:45",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "zhihu",
+    "platform_name": "知乎热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:18:54",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douyin",
+    "platform_name": "抖音热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:19:02",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "bilibili",
+    "platform_name": "哔哩哔哩",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:19:10",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "kuaishou",
+    "platform_name": "快手热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:19:18",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "tieba",
+    "platform_name": "百度贴吧",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:19:26",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "acfun",
+    "platform_name": "A站",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:19:34",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "zhihu-daily",
+    "platform_name": "知乎日报",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:19:42",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sina",
+    "platform_name": "新浪热搜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-09-19T23:19:50",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
