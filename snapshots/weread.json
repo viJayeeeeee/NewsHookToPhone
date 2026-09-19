@@ -1,43 +1,43 @@
 {
-  "update_time": "2026-09-18T23:32:10",
+  "update_time": "2026-09-19T10:05:16",
   "items": [
-    {
-      "title": "追问",
-      "url": "",
-      "last_hot_value": "5347人在读",
-      "first_seen_at": "2026-09-18T23:32:10",
-      "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
     {
       "title": "遥远的救世主（《天道》影视原著）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-09-17T15:00:48",
-      "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "兰花与蒲公英",
       "url": "",
-      "last_hot_value": "1551人在读",
+      "last_hot_value": "1243人在读",
       "first_seen_at": "2026-09-16T12:19:37",
-      "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "追问",
+      "url": "",
+      "last_hot_value": "5593人在读",
+      "first_seen_at": "2026-09-18T23:32:10",
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "天幕红尘（《遥远的救世主》姊妹篇）",
       "url": "",
-      "last_hot_value": "3769人在读",
+      "last_hot_value": "3671人在读",
       "first_seen_at": "2026-09-16T12:19:37",
-      "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
@@ -47,8 +47,18 @@
       "last_hot_value": "6087人在读",
       "first_seen_at": "2026-09-17T15:00:48",
       "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "毛泽东选集（全四卷）",
+      "url": "",
+      "last_hot_value": "1人在读",
+      "first_seen_at": "2026-09-16T12:19:37",
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -64,12 +74,12 @@
     {
       "title": "人生财富靠康波",
       "url": "",
-      "last_hot_value": "1714人在读",
+      "last_hot_value": "1759人在读",
       "first_seen_at": "2026-09-18T23:32:10",
-      "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "幸得诸君慰平生",
@@ -79,6 +89,16 @@
       "last_seen_at": "2026-09-16T12:19:37",
       "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "背叛（《天道》原著作者豆豆开山之作）",
+      "url": "",
+      "last_hot_value": "3985人在读",
+      "first_seen_at": "2026-09-17T15:00:48",
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 4,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -102,42 +122,42 @@
       "is_new": false
     },
     {
+      "title": "寂寞的游戏",
+      "url": "",
+      "last_hot_value": "339人在读",
+      "first_seen_at": "2026-09-16T12:19:37",
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "一个无政府主义者的意外死亡",
       "url": "",
       "last_hot_value": "418人在读",
       "first_seen_at": "2026-09-18T23:32:10",
       "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "背叛（《天道》原著作者豆豆开山之作）",
-      "url": "",
-      "last_hot_value": "4276人在读",
-      "first_seen_at": "2026-09-17T15:00:48",
-      "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 3,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "寂寞的游戏",
-      "url": "",
-      "last_hot_value": "305人在读",
-      "first_seen_at": "2026-09-16T12:19:37",
-      "last_seen_at": "2026-09-16T12:19:37",
       "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
+      "title": "北京法源寺（文学性与思想性相结合的经典作品）",
+      "url": "",
+      "last_hot_value": "2288人在读",
+      "first_seen_at": "2026-09-18T23:32:10",
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 2,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
       "title": "哈利波特完整系列（全七册）",
       "url": "",
-      "last_hot_value": "9163人在读",
+      "last_hot_value": "8854人在读",
       "first_seen_at": "2026-09-17T15:00:48",
-      "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-19T10:05:16",
+      "consecutive_count": 2,
       "peak_rank": 9,
       "is_new": false
     },
@@ -159,26 +179,6 @@
       "last_seen_at": "2026-09-18T00:01:40",
       "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "北京法源寺（文学性与思想性相结合的经典作品）",
-      "url": "",
-      "last_hot_value": "2511人在读",
-      "first_seen_at": "2026-09-18T23:32:10",
-      "last_seen_at": "2026-09-18T23:32:10",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "毛泽东选集（全四卷）",
-      "url": "",
-      "last_hot_value": "1人在读",
-      "first_seen_at": "2026-09-16T12:19:37",
-      "last_seen_at": "2026-09-16T12:19:37",
-      "consecutive_count": 0,
-      "peak_rank": 10,
       "is_new": false
     }
   ]
