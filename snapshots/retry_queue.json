@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "earthquake",
-    "platform_name": "地震速报",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T15:32:18",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "history",
-    "platform_name": "历史上的今天",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T15:32:29",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "douban-movie",
     "platform_name": "豆瓣电影",
     "category_name": "文化·兴趣",
@@ -1355,6 +1341,48 @@
     "platform_name": "星穹铁道",
     "category_name": "游戏",
     "failed_at": "2026-09-19T10:08:50",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "netease-music",
+    "platform_name": "网易云音乐",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-19T13:49:48",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "qq-music",
+    "platform_name": "QQ音乐",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-19T13:49:56",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weread",
+    "platform_name": "微信读书",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-19T13:50:05",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weatheralarm",
+    "platform_name": "天气预警",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-19T13:50:13",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "earthquake",
+    "platform_name": "地震速报",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-19T13:50:22",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "history",
+    "platform_name": "历史上的今天",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-09-19T13:50:30",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
