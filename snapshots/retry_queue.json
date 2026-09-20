@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "earthquake",
-    "platform_name": "地震速报",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T21:24:46",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "history",
-    "platform_name": "历史上的今天",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T21:24:53",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "lol",
     "platform_name": "英雄联盟",
     "category_name": "游戏",
@@ -1502,6 +1488,27 @@
     "platform_name": "果壳",
     "category_name": "行业·商业",
     "failed_at": "2026-09-20T00:54:04",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-20T05:33:02",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-20T05:33:11",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "guokr",
+    "platform_name": "果壳",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-20T05:33:20",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
