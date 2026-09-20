@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "huxiu",
-    "platform_name": "虎嗅",
-    "category_name": "行业·商业",
-    "failed_at": "2026-09-19T06:12:22",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "guokr",
-    "platform_name": "果壳",
-    "category_name": "行业·商业",
-    "failed_at": "2026-09-19T06:12:32",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "lol",
     "platform_name": "英雄联盟",
     "category_name": "游戏",
@@ -1586,6 +1572,48 @@
     "platform_name": "酷安",
     "category_name": "文化·兴趣",
     "failed_at": "2026-09-20T19:42:18",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-movie",
+    "platform_name": "豆瓣电影",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-20T22:00:42",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-group",
+    "platform_name": "豆瓣小组",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-20T22:00:50",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "jianshu",
+    "platform_name": "简书",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-20T22:00:58",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ngabbs",
+    "platform_name": "NGA论坛",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-20T22:01:06",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hupu",
+    "platform_name": "虎扑",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-20T22:01:14",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "coolapk",
+    "platform_name": "酷安",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-20T22:01:22",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
