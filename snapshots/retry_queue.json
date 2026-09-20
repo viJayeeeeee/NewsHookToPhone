@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "honkai",
-    "platform_name": "崩坏3",
-    "category_name": "游戏",
-    "failed_at": "2026-09-18T23:35:04",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "starrail",
-    "platform_name": "星穹铁道",
-    "category_name": "游戏",
-    "failed_at": "2026-09-18T23:35:12",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "36kr",
     "platform_name": "36氪",
     "category_name": "行业·商业",
@@ -1516,6 +1502,34 @@
     "platform_name": "果壳",
     "category_name": "行业·商业",
     "failed_at": "2026-09-20T10:11:10",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "lol",
+    "platform_name": "英雄联盟",
+    "category_name": "游戏",
+    "failed_at": "2026-09-20T14:09:56",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "genshin",
+    "platform_name": "原神",
+    "category_name": "游戏",
+    "failed_at": "2026-09-20T14:10:05",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "honkai",
+    "platform_name": "崩坏3",
+    "category_name": "游戏",
+    "failed_at": "2026-09-20T14:10:13",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "starrail",
+    "platform_name": "星穹铁道",
+    "category_name": "游戏",
+    "failed_at": "2026-09-20T14:10:21",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
