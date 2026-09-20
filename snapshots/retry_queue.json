@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "weread",
-    "platform_name": "微信读书",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T21:24:29",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "weatheralarm",
-    "platform_name": "天气预警",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-18T21:24:37",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "earthquake",
     "platform_name": "地震速报",
     "category_name": "音乐·阅读·生活",
@@ -1495,6 +1481,27 @@
     "platform_name": "新浪热搜",
     "category_name": "社交媒体·热榜",
     "failed_at": "2026-09-19T23:19:50",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-20T00:53:46",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-20T00:53:55",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "guokr",
+    "platform_name": "果壳",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-20T00:54:04",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
