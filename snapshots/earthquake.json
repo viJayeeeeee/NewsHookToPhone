@@ -1,23 +1,33 @@
 {
-  "update_time": "2026-09-20T05:26:58",
+  "update_time": "2026-09-21T18:56:50",
   "items": [
+    {
+      "title": "M3.2 新疆和田地区策勒县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.2级",
+      "first_seen_at": "2026-09-21T18:56:50",
+      "last_seen_at": "2026-09-21T18:56:50",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M2.4 河北唐山市迁西县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.4级",
       "first_seen_at": "2026-09-20T05:26:58",
-      "last_seen_at": "2026-09-20T05:26:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-21T18:56:50",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M4.0 西藏那曲市申扎县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.0级",
       "first_seen_at": "2026-09-19T13:46:21",
-      "last_seen_at": "2026-09-20T05:26:58",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-21T18:56:50",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,28 +36,8 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-09-19T01:30:33",
-      "last_seen_at": "2026-09-20T05:26:58",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M3.0 新疆巴音郭楞州库尔勒市",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-09-18T00:01:44",
-      "last_seen_at": "2026-09-20T05:26:58",
+      "last_seen_at": "2026-09-21T18:56:50",
       "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M6.4 安德烈亚诺夫群岛",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.4级",
-      "first_seen_at": "2026-09-17T15:00:58",
-      "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -56,38 +46,18 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.1级",
       "first_seen_at": "2026-09-20T05:26:58",
-      "last_seen_at": "2026-09-20T05:26:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-21T18:56:50",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.2 四川甘孜州新龙县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-09-19T01:30:33",
-      "last_seen_at": "2026-09-20T05:26:58",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M6.5 福克斯群岛",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.5级",
-      "first_seen_at": "2026-09-18T00:01:44",
-      "last_seen_at": "2026-09-20T05:26:58",
+      "last_seen_at": "2026-09-21T18:56:50",
       "consecutive_count": 4,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "M3.1 新疆克孜勒苏州阿克陶县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.1级",
-      "first_seen_at": "2026-09-17T15:00:58",
-      "last_seen_at": "2026-09-20T05:26:58",
-      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
@@ -96,29 +66,19 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-09-20T05:26:58",
-      "last_seen_at": "2026-09-20T05:26:58",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-21T18:56:50",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.6 四川甘孜州新龙县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-09-19T01:30:33",
-      "last_seen_at": "2026-09-20T05:26:58",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-09-21T18:56:50",
+      "consecutive_count": 4,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "M6.5 印尼爪哇岛附近海域",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.5级",
-      "first_seen_at": "2026-09-17T15:00:58",
-      "last_seen_at": "2026-09-17T15:00:58",
-      "consecutive_count": 0,
-      "peak_rank": 10,
       "is_new": false
     }
   ]

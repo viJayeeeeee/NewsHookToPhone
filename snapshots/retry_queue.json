@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "earthquake",
-    "platform_name": "地震速报",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-19T13:50:22",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "history",
-    "platform_name": "历史上的今天",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-09-19T13:50:30",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "douban-movie",
     "platform_name": "豆瓣电影",
     "category_name": "文化·兴趣",
@@ -1796,6 +1782,48 @@
     "platform_name": "历史上的今天",
     "category_name": "音乐·阅读·生活",
     "failed_at": "2026-09-21T13:35:27",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-movie",
+    "platform_name": "豆瓣电影",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-21T19:07:55",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-group",
+    "platform_name": "豆瓣小组",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-21T19:08:03",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "jianshu",
+    "platform_name": "简书",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-21T19:08:11",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ngabbs",
+    "platform_name": "NGA论坛",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-21T19:08:19",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hupu",
+    "platform_name": "虎扑",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-21T19:08:28",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "coolapk",
+    "platform_name": "酷安",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-09-21T19:08:36",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
