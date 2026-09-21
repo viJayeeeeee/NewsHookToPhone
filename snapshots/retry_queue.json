@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "honkai",
-    "platform_name": "崩坏3",
-    "category_name": "游戏",
-    "failed_at": "2026-09-19T10:08:42",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "starrail",
-    "platform_name": "星穹铁道",
-    "category_name": "游戏",
-    "failed_at": "2026-09-19T10:08:50",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "netease-music",
     "platform_name": "网易云音乐",
     "category_name": "音乐·阅读·生活",
@@ -1684,6 +1670,34 @@
     "platform_name": "IT之家喜加一",
     "category_name": "科技·开发者",
     "failed_at": "2026-09-20T23:56:27",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "lol",
+    "platform_name": "英雄联盟",
+    "category_name": "游戏",
+    "failed_at": "2026-09-21T01:46:53",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "genshin",
+    "platform_name": "原神",
+    "category_name": "游戏",
+    "failed_at": "2026-09-21T01:47:02",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "honkai",
+    "platform_name": "崩坏3",
+    "category_name": "游戏",
+    "failed_at": "2026-09-21T01:47:10",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "starrail",
+    "platform_name": "星穹铁道",
+    "category_name": "游戏",
+    "failed_at": "2026-09-21T01:47:18",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
