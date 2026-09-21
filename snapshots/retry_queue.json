@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "douban-movie",
-    "platform_name": "豆瓣电影",
-    "category_name": "文化·兴趣",
-    "failed_at": "2026-09-19T16:59:03",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "douban-group",
-    "platform_name": "豆瓣小组",
-    "category_name": "文化·兴趣",
-    "failed_at": "2026-09-19T16:59:12",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "jianshu",
     "platform_name": "简书",
     "category_name": "文化·兴趣",
@@ -1824,6 +1810,34 @@
     "platform_name": "酷安",
     "category_name": "文化·兴趣",
     "failed_at": "2026-09-21T19:08:36",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "lol",
+    "platform_name": "英雄联盟",
+    "category_name": "游戏",
+    "failed_at": "2026-09-21T22:41:09",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "genshin",
+    "platform_name": "原神",
+    "category_name": "游戏",
+    "failed_at": "2026-09-21T22:41:18",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "honkai",
+    "platform_name": "崩坏3",
+    "category_name": "游戏",
+    "failed_at": "2026-09-21T22:41:25",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "starrail",
+    "platform_name": "星穹铁道",
+    "category_name": "游戏",
+    "failed_at": "2026-09-21T22:41:33",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
