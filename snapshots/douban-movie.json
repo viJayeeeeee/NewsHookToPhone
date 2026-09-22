@@ -1,45 +1,105 @@
 {
-  "update_time": "2026-09-21T22:29:39",
+  "update_time": "2026-09-22T10:26:48",
   "items": [
     {
       "title": "求救信号",
       "url": "https://movie.douban.com/subject/36439868/",
       "last_hot_value": "7.1",
       "first_seen_at": "2026-09-19T16:55:16",
-      "last_seen_at": "2026-09-21T22:29:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "希望",
+      "url": "https://movie.douban.com/subject/36179101/",
+      "last_hot_value": "5.6",
+      "first_seen_at": "2026-09-22T10:26:48",
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "罗斯",
+      "url": "https://movie.douban.com/subject/35322132/",
+      "last_hot_value": "8.6",
+      "first_seen_at": "2026-09-22T10:26:48",
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "抓特务",
+      "url": "https://movie.douban.com/subject/36812879/",
+      "last_hot_value": "7.4",
+      "first_seen_at": "2026-09-22T10:26:48",
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "激情邀约",
       "url": "https://movie.douban.com/subject/35801126/",
       "last_hot_value": "7.3",
       "first_seen_at": "2026-09-19T16:55:16",
-      "last_seen_at": "2026-09-21T22:29:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 3,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "盒子里的羊",
+      "url": "https://movie.douban.com/subject/37227467/",
+      "last_hot_value": "5.8",
+      "first_seen_at": "2026-09-22T10:26:48",
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "夜王",
       "url": "https://movie.douban.com/subject/37375594/",
       "last_hot_value": "7.8",
       "first_seen_at": "2026-09-19T16:55:16",
-      "last_seen_at": "2026-09-21T22:29:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "死亡禁区实录",
+      "url": "https://movie.douban.com/subject/37380650/",
+      "last_hot_value": "0.0",
+      "first_seen_at": "2026-09-22T10:26:48",
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "大濛",
       "url": "https://movie.douban.com/subject/36680492/",
       "last_hot_value": "8.2",
       "first_seen_at": "2026-09-19T16:55:16",
-      "last_seen_at": "2026-09-21T22:29:39",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 3,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "不成功穿越指南",
+      "url": "https://movie.douban.com/subject/36823889/",
+      "last_hot_value": "6.5",
+      "first_seen_at": "2026-09-22T10:26:48",
+      "last_seen_at": "2026-09-22T10:26:48",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     }
   ]
 }
