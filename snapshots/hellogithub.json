@@ -1,42 +1,42 @@
 {
-  "update_time": "2026-09-18T12:03:14",
+  "update_time": "2026-09-23T00:01:49",
   "items": [
     {
       "title": "基于 Rust 的高性能分布式存储系统",
       "url": "https://github.com/rustfs/rustfs",
-      "last_hot_value": "7905",
-      "first_seen_at": "2026-09-17T18:51:09",
-      "last_seen_at": "2026-09-18T12:03:14",
-      "consecutive_count": 2,
+      "last_hot_value": "8534",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "让 Windows 桌面井然有序",
-      "url": "https://github.com/Tianyu199509/DeskBox",
-      "last_hot_value": "5648",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "把技术书变成智能体技能",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "last_hot_value": "3121",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
-      "consecutive_count": 1,
-      "peak_rank": 3,
       "is_new": true
     },
     {
       "title": "让 AI Agent 帮你做 PPT",
       "url": "https://github.com/chuspeeism/dashi-ppt-skill",
-      "last_hot_value": "3069",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
+      "last_hot_value": "3622",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "让 Windows 桌面井然有序",
+      "url": "https://github.com/Tianyu199509/DeskBox",
+      "last_hot_value": "6554",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "把技术书变成智能体技能",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "last_hot_value": "3767",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
       "consecutive_count": 1,
       "peak_rank": 4,
       "is_new": true
@@ -44,9 +44,9 @@
     {
       "title": "轻量级的 Java IDE 编程工具",
       "url": "https://github.com/1lck/Lithe-IDEA",
-      "last_hot_value": "3264",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
+      "last_hot_value": "3641",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -54,9 +54,9 @@
     {
       "title": "陪孩子在线逛史前动物博物馆",
       "url": "https://github.com/s010s/prehistoric-animal-museum",
-      "last_hot_value": "2693",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
+      "last_hot_value": "2966",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -64,29 +64,29 @@
     {
       "title": "《深入理解 AI Agent：设计原理与工程实践》",
       "url": "https://github.com/bojieli/ai-agent-book",
-      "last_hot_value": "8577",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
+      "last_hot_value": "9004",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
     },
     {
-      "title": "仅需 4GB 显存就能跑 70B 大模型",
-      "url": "https://github.com/lyogavin/airllm",
-      "last_hot_value": "3253",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
+      "title": "为文章生成手绘配图的技能",
+      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+      "last_hot_value": "2057",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
       "consecutive_count": 1,
       "peak_rank": 8,
       "is_new": true
     },
     {
-      "title": "为文章生成手绘配图的技能",
-      "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
-      "last_hot_value": "1786",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
+      "title": "仅需 4GB 显存就能跑 70B 大模型",
+      "url": "https://github.com/lyogavin/airllm",
+      "last_hot_value": "3642",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
       "consecutive_count": 1,
       "peak_rank": 9,
       "is_new": true
@@ -94,9 +94,9 @@
     {
       "title": "Rust 写的开源中文输入法",
       "url": "https://github.com/huanfeng/WindInput",
-      "last_hot_value": "2152",
-      "first_seen_at": "2026-09-18T12:03:14",
-      "last_seen_at": "2026-09-18T12:03:14",
+      "last_hot_value": "2436",
+      "first_seen_at": "2026-09-23T00:01:49",
+      "last_seen_at": "2026-09-23T00:01:49",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

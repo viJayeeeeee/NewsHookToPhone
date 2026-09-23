@@ -1,44 +1,44 @@
 {
-  "update_time": "2026-09-21T18:56:50",
+  "update_time": "2026-09-23T00:03:05",
   "items": [
+    {
+      "title": "M4.2 新疆阿克苏地区拜城县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "4.2级",
+      "first_seen_at": "2026-09-23T00:02:09",
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "M3.2 新疆和田地区策勒县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.2级",
       "first_seen_at": "2026-09-21T18:56:50",
-      "last_seen_at": "2026-09-21T18:56:50",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 6,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M2.4 河北唐山市迁西县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "2.4级",
       "first_seen_at": "2026-09-20T05:26:58",
-      "last_seen_at": "2026-09-21T18:56:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "M4.0 西藏那曲市申扎县",
+      "title": "M3.2 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "4.0级",
-      "first_seen_at": "2026-09-19T13:46:21",
-      "last_seen_at": "2026-09-21T18:56:50",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "M3.7 新疆阿克苏地区沙雅县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.7级",
-      "first_seen_at": "2026-09-19T01:30:33",
-      "last_seen_at": "2026-09-21T18:56:50",
-      "consecutive_count": 4,
-      "peak_rank": 1,
+      "last_hot_value": "3.2级",
+      "first_seen_at": "2026-09-23T00:02:09",
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 5,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -46,19 +46,19 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "4.1级",
       "first_seen_at": "2026-09-20T05:26:58",
-      "last_seen_at": "2026-09-21T18:56:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "M3.2 四川甘孜州新龙县",
+      "title": "M3.0 西藏那曲市班戈县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.2级",
-      "first_seen_at": "2026-09-19T01:30:33",
-      "last_seen_at": "2026-09-21T18:56:50",
-      "consecutive_count": 4,
-      "peak_rank": 2,
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-09-23T00:02:09",
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 5,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -66,19 +66,39 @@
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-09-20T05:26:58",
-      "last_seen_at": "2026-09-21T18:56:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 7,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "M3.6 四川甘孜州新龙县",
+      "title": "M6.2 巴布亚新几内亚",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.6级",
-      "first_seen_at": "2026-09-19T01:30:33",
-      "last_seen_at": "2026-09-21T18:56:50",
+      "last_hot_value": "6.2级",
+      "first_seen_at": "2026-09-23T00:02:09",
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 5,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "M4.0 西藏那曲市申扎县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "4.0级",
+      "first_seen_at": "2026-09-23T00:02:36",
+      "last_seen_at": "2026-09-23T00:03:05",
       "consecutive_count": 4,
-      "peak_rank": 3,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "M3.7 新疆阿克苏地区沙雅县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.7级",
+      "first_seen_at": "2026-09-23T00:02:36",
+      "last_seen_at": "2026-09-23T00:03:05",
+      "consecutive_count": 4,
+      "peak_rank": 10,
       "is_new": false
     }
   ]
