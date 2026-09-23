@@ -1162,20 +1162,6 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "zhihu",
-    "platform_name": "知乎热榜",
-    "category_name": "社交媒体·热榜",
-    "failed_at": "2026-09-19T23:18:54",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "douyin",
-    "platform_name": "抖音热榜",
-    "category_name": "社交媒体·热榜",
-    "failed_at": "2026-09-19T23:19:02",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "bilibili",
     "platform_name": "哔哩哔哩",
     "category_name": "社交媒体·热榜",
@@ -1194,6 +1180,90 @@
     "platform_name": "全球主机交流",
     "category_name": "科技·开发者",
     "failed_at": "2026-09-21T06:55:30",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "v2ex",
+    "platform_name": "V2EX",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:05:35",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "juejin",
+    "platform_name": "掘金",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:05:43",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "csdn",
+    "platform_name": "CSDN",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:05:51",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "51cto",
+    "platform_name": "51CTO",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:05:59",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ithome",
+    "platform_name": "IT之家",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:06:07",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sspai",
+    "platform_name": "少数派",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:06:16",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ifanr",
+    "platform_name": "爱范儿",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:06:25",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hellogithub",
+    "platform_name": "HelloGitHub",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:06:33",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "nodeseek",
+    "platform_name": "NodeSeek",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:06:41",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "52pojie",
+    "platform_name": "吾爱破解",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:06:50",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hostloc",
+    "platform_name": "全球主机交流",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:06:58",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ithome-xijiayi",
+    "platform_name": "IT之家喜加一",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-09-23T02:07:06",
     "reason": "获取失败（已重试 3 次）"
   }
 ]
