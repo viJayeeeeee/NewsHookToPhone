@@ -1937,5 +1937,26 @@
     "category_name": "社交媒体·热榜",
     "failed_at": "2026-09-25T15:50:38",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-25T19:48:34",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-25T19:48:43",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "guokr",
+    "platform_name": "果壳",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-25T19:48:51",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
