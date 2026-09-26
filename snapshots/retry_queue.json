@@ -2378,5 +2378,47 @@
     "category_name": "社交媒体·热榜",
     "failed_at": "2026-09-26T20:51:52",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "baidu",
+    "platform_name": "百度热搜",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-09-26T23:32:43",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "toutiao",
+    "platform_name": "今日头条",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-09-26T23:32:51",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "thepaper",
+    "platform_name": "澎湃新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-09-26T23:32:59",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sina-news",
+    "platform_name": "新浪新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-09-26T23:33:07",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "netease-news",
+    "platform_name": "网易新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-09-26T23:33:15",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "qq-news",
+    "platform_name": "腾讯新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-09-26T23:33:22",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
