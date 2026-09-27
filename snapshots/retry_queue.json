@@ -2651,5 +2651,26 @@
     "category_name": "音乐·阅读·生活",
     "failed_at": "2026-09-27T20:04:48",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-27T23:02:17",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-27T23:02:27",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "guokr",
+    "platform_name": "果壳",
+    "category_name": "行业·商业",
+    "failed_at": "2026-09-27T23:02:35",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
