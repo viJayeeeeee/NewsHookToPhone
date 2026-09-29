@@ -2091,5 +2091,33 @@
     "category_name": "游戏",
     "failed_at": "2026-09-29T16:17:57",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "lol",
+    "platform_name": "英雄联盟",
+    "category_name": "游戏",
+    "failed_at": "2026-09-29T20:50:23",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "genshin",
+    "platform_name": "原神",
+    "category_name": "游戏",
+    "failed_at": "2026-09-29T20:50:32",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "honkai",
+    "platform_name": "崩坏3",
+    "category_name": "游戏",
+    "failed_at": "2026-09-29T20:50:40",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "starrail",
+    "platform_name": "星穹铁道",
+    "category_name": "游戏",
+    "failed_at": "2026-09-29T20:50:48",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
