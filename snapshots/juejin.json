@@ -1,45 +1,55 @@
 {
-  "update_time": "2026-09-29T00:17:50",
+  "update_time": "2026-09-30T00:05:09",
   "items": [
     {
-      "title": "为什么越来越多人用 OnlyOffice？",
-      "url": "https://juejin.cn/post/7689599510955278336",
-      "last_hot_value": "热度:1062",
+      "title": "突发！字节内部大调整，QA直接转研发了？",
+      "url": "https://juejin.cn/post/7689818941397778478",
+      "last_hot_value": "热度:2241",
       "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "突发！字节内部大调整，QA直接转研发了？",
-      "url": "https://juejin.cn/post/7689818941397778478",
-      "last_hot_value": "热度:1008",
+      "title": "为什么越来越多人用 OnlyOffice？",
+      "url": "https://juejin.cn/post/7689599510955278336",
+      "last_hot_value": "热度:1548",
       "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
-      "peak_rank": 2,
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 5,
+      "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "用 AI 迁项目有多爽？我把 Webpack 迁 Vite 的全过程记下来了",
       "url": "https://juejin.cn/post/7689096640691683343",
-      "last_hot_value": "热度:360",
+      "last_hot_value": "热度:513",
       "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "顶级模型一句话，AI 写出了能玩的 QQ飞车",
       "url": "https://juejin.cn/post/7689377403413430307",
-      "last_hot_value": "热度:189",
+      "last_hot_value": "热度:414",
       "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "读懂LangGraph 的分支执行逻辑",
+      "url": "https://juejin.cn/post/7690468159975637038",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-09-30T00:05:09",
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "为什么前端应该主动去学数据库？",
@@ -47,39 +57,49 @@
       "last_hot_value": "热度:171",
       "first_seen_at": "2026-09-29T00:14:28",
       "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "Flutter 多窗口重要优化合并，多窗口性能和实用性大幅提升",
+      "url": "https://juejin.cn/post/7690393223730642980",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-09-29T00:14:28",
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 5,
+      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "2026年，你终于可以在 `<textarea>` 里定位任意字符了",
       "url": "https://juejin.cn/post/7690190550998007827",
-      "last_hot_value": "热度:162",
+      "last_hot_value": "热度:270",
       "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "第一次当面试官有感",
       "url": "https://juejin.cn/post/7689408456148074523",
-      "last_hot_value": "热度:153",
+      "last_hot_value": "热度:279",
       "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "Flutter 多窗口重要优化合并，多窗口性能和实用性大幅提升",
-      "url": "https://juejin.cn/post/7690393223730642980",
-      "last_hot_value": "热度:144",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
-      "peak_rank": 8,
-      "is_new": false
+      "title": "DeepSeek Harness 出了桌面端？我把它扒了一遍",
+      "url": "https://juejin.cn/post/7690197651808616502",
+      "last_hot_value": "热度:234",
+      "first_seen_at": "2026-09-30T00:05:09",
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "一天一个开源项目（第 227 篇）：Strands Agents Harness SDK —— 从「手写 Agent 循环」到「一行代码拿到生产级 Agent」",
@@ -87,9 +107,19 @@
       "last_hot_value": "热度:135",
       "first_seen_at": "2026-09-29T00:14:28",
       "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "我排查了一下午，发现项目打包体积翻倍的元凶是它",
+      "url": "https://juejin.cn/post/7690614916369252387",
+      "last_hot_value": "热度:225",
+      "first_seen_at": "2026-09-30T00:05:09",
+      "last_seen_at": "2026-09-30T00:05:09",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...",
@@ -97,7 +127,7 @@
       "last_hot_value": "热度:126",
       "first_seen_at": "2026-09-29T00:14:28",
       "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

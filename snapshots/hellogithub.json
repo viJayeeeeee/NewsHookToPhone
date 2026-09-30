@@ -1,54 +1,64 @@
 {
-  "update_time": "2026-09-29T00:17:59",
+  "update_time": "2026-09-30T00:05:17",
   "items": [
     {
       "title": "更快地训练大模型和具身模型",
       "url": "https://github.com/baidu-baige/LoongForge",
-      "last_hot_value": "321",
+      "last_hot_value": "556",
       "first_seen_at": "2026-09-29T00:14:37",
-      "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "绘制论文配图的 Python 脚本集合",
       "url": "https://github.com/ChenLiu-1996/figures4papers",
-      "last_hot_value": "170",
+      "last_hot_value": "322",
       "first_seen_at": "2026-09-29T00:14:37",
-      "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "手绘风格 AI 生图技能包",
       "url": "https://github.com/yang0/handraw-style",
-      "last_hot_value": "224",
+      "last_hot_value": "461",
       "first_seen_at": "2026-09-29T00:14:37",
-      "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 5,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "让多个 AI 智能体共享团队经验",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "last_hot_value": "167",
-      "first_seen_at": "2026-09-29T00:14:37",
-      "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
-      "peak_rank": 4,
       "is_new": false
     },
     {
       "title": "AI 原生的个人笔记应用",
       "url": "https://github.com/tianma-if/edgeever",
-      "last_hot_value": "234",
+      "last_hot_value": "437",
       "first_seen_at": "2026-09-29T00:14:37",
-      "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
-      "peak_rank": 5,
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 5,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "让多个 AI 智能体共享团队经验",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "last_hot_value": "271",
+      "first_seen_at": "2026-09-29T00:14:37",
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 5,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "统一管理 AI 技能包的工具",
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "last_hot_value": "309",
+      "first_seen_at": "2026-09-29T00:14:37",
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 5,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -57,19 +67,29 @@
       "last_hot_value": "220",
       "first_seen_at": "2026-09-29T00:14:37",
       "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "把字幕变成手绘动画",
       "url": "https://github.com/geeklee/srt-whiteboard-animation",
-      "last_hot_value": "196",
+      "last_hot_value": "310",
       "first_seen_at": "2026-09-29T00:14:37",
-      "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "Windows 上的 iPhone 投屏工具",
+      "url": "https://github.com/RayrenSX/iPhoneMirror",
+      "last_hot_value": "149",
+      "first_seen_at": "2026-09-30T00:05:17",
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "小巧的 HTTP 压测工具",
@@ -77,9 +97,19 @@
       "last_hot_value": "165",
       "first_seen_at": "2026-09-29T00:14:37",
       "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "基于 ESP32 的四旋翼无人机",
+      "url": "https://github.com/okalachev/flix",
+      "last_hot_value": "277",
+      "first_seen_at": "2026-09-30T00:05:17",
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "适用于低配设备的 B 站直播录制工具",
@@ -87,19 +117,19 @@
       "last_hot_value": "105",
       "first_seen_at": "2026-09-29T00:14:37",
       "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "统一管理 AI 技能包的工具",
-      "url": "https://github.com/xingkongliang/skills-manager",
-      "last_hot_value": "180",
-      "first_seen_at": "2026-09-29T00:14:37",
-      "last_seen_at": "2026-09-29T00:17:59",
-      "consecutive_count": 4,
+      "title": "听声识鸟的电子墨水相框",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "last_hot_value": "154",
+      "first_seen_at": "2026-09-30T00:05:17",
+      "last_seen_at": "2026-09-30T00:05:17",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

@@ -1,43 +1,63 @@
 {
-  "update_time": "2026-09-29T00:16:35",
+  "update_time": "2026-09-30T00:05:59",
   "items": [
+    {
+      "title": "我看见的世界：李飞飞自传",
+      "url": "",
+      "last_hot_value": "1441人在读",
+      "first_seen_at": "2026-09-30T00:04:40",
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "恨海情天文学短篇集：我爱你，你死吧",
       "url": "",
-      "last_hot_value": "2404人在读",
+      "last_hot_value": "4011人在读",
       "first_seen_at": "2026-09-29T00:16:35",
-      "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 4,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "第一性原理：普通人的人生高效手册",
       "url": "",
-      "last_hot_value": "6789人在读",
+      "last_hot_value": "7040人在读",
       "first_seen_at": "2026-09-29T00:15:32",
-      "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 5,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "我从达尔文那里学到的投资知识",
+      "url": "",
+      "last_hot_value": "530人在读",
+      "first_seen_at": "2026-09-30T00:04:40",
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "偏跟山过不去",
       "url": "",
-      "last_hot_value": "2089人在读",
+      "last_hot_value": "1826人在读",
       "first_seen_at": "2026-09-29T00:15:32",
-      "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 5,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "我是个算命先生（李现、李一桐主演影视剧《我不是大师》原著）",
       "url": "",
-      "last_hot_value": "4719人在读",
+      "last_hot_value": "4755人在读",
       "first_seen_at": "2026-09-29T00:15:32",
-      "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -47,7 +67,7 @@
       "last_hot_value": "1448人在读",
       "first_seen_at": "2026-09-29T00:15:32",
       "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -57,39 +77,49 @@
       "last_hot_value": "794人在读",
       "first_seen_at": "2026-09-29T00:15:32",
       "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "天幕红尘（《遥远的救世主》姊妹篇）",
       "url": "",
-      "last_hot_value": "4823人在读",
+      "last_hot_value": "4908人在读",
       "first_seen_at": "2026-09-29T00:16:35",
-      "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 4,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "北京法源寺（文学性与思想性相结合的经典作品）",
+      "url": "",
+      "last_hot_value": "2512人在读",
+      "first_seen_at": "2026-09-30T00:04:40",
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 3,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "背叛（《天道》原著作者豆豆开山之作）",
       "url": "",
-      "last_hot_value": "3916人在读",
+      "last_hot_value": "3770人在读",
       "first_seen_at": "2026-09-29T00:16:35",
-      "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 4,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "遥远的救世主（《天道》影视原著）",
       "url": "",
       "last_hot_value": "1人在读",
       "first_seen_at": "2026-09-29T00:16:35",
-      "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-09-30T00:05:59",
+      "consecutive_count": 4,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "硬科技浪潮",
@@ -97,7 +127,7 @@
       "last_hot_value": "838人在读",
       "first_seen_at": "2026-09-29T00:15:32",
       "last_seen_at": "2026-09-29T00:16:35",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
