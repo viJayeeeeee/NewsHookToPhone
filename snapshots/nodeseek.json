@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-09-30T00:05:19",
+  "update_time": "2026-10-01T00:02:02",
   "items": [
+    {
+      "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
+      "url": "https://www.nodeseek.com/post-786238-1",
+      "last_hot_value": "查看:3492 回复:47",
+      "first_seen_at": "2026-09-29T00:14:38",
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:239543 回复:3077",
+      "last_hot_value": "查看:240428 回复:3083",
       "first_seen_at": "2026-09-29T00:15:07",
-      "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,8 +27,18 @@
       "last_hot_value": "查看:89209 回复:636",
       "first_seen_at": "2026-09-29T00:14:38",
       "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
+      "url": "https://www.nodeseek.com/post-878721-1",
+      "last_hot_value": "查看:4315 回复:77",
+      "first_seen_at": "2026-09-29T00:14:38",
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -27,18 +47,18 @@
       "last_hot_value": "查看:155730 回复:402",
       "first_seen_at": "2026-09-30T00:05:19",
       "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "Nodyssey（开源安卓端 NS 论坛/ [IOS自签]）",
-      "url": "https://www.nodeseek.com/post-878721-1",
-      "last_hot_value": "查看:4159 回复:75",
-      "first_seen_at": "2026-09-29T00:14:38",
-      "last_seen_at": "2026-09-29T00:18:00",
       "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
+      "url": "https://www.nodeseek.com/post-865242-1",
+      "last_hot_value": "查看:39865 回复:297",
+      "first_seen_at": "2026-09-30T00:05:19",
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -47,9 +67,9 @@
       "last_hot_value": "查看:112167 回复:637",
       "first_seen_at": "2026-09-30T00:05:19",
       "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "CloudSSH 开源项目：借助 Cloudflare Workers 打造免费且功能强大 Web SSH 终端，用浏览器远程管理服务器，连接信息云端同步 + AI Agent智能运维，一键部署还不花一分钱",
@@ -62,12 +82,22 @@
       "is_new": false
     },
     {
+      "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
+      "url": "https://www.nodeseek.com/post-286885-1",
+      "last_hot_value": "查看:251840 回复:511",
+      "first_seen_at": "2026-10-01T00:02:02",
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:252525 回复:2282",
+      "last_hot_value": "查看:253247 回复:2283",
       "first_seen_at": "2026-09-29T00:15:07",
-      "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 5,
       "peak_rank": 4,
       "is_new": false
     },
@@ -77,9 +107,9 @@
       "last_hot_value": "查看:3009 回复:36",
       "first_seen_at": "2026-09-30T00:05:19",
       "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
@@ -87,16 +117,16 @@
       "last_hot_value": "查看:111207 回复:280",
       "first_seen_at": "2026-09-29T00:15:07",
       "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
     {
-      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
-      "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:39423 回复:295",
-      "first_seen_at": "2026-09-30T00:05:19",
-      "last_seen_at": "2026-09-30T00:05:19",
+      "title": "从零开始的VPS科普(1)：认识你的第一台服务器",
+      "url": "https://www.nodeseek.com/post-656474-1",
+      "last_hot_value": "查看:8439 回复:176",
+      "first_seen_at": "2026-10-01T00:02:02",
+      "last_seen_at": "2026-10-01T00:02:02",
       "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": true
@@ -104,12 +134,22 @@
     {
       "title": "【开源】不想再为管理多个Emby服折腾了，所以我写了一个聚合反代网关",
       "url": "https://www.nodeseek.com/post-767126-1",
-      "last_hot_value": "查看:7904 回复:114",
+      "last_hot_value": "查看:8065 回复:115",
       "first_seen_at": "2026-09-29T00:14:38",
-      "last_seen_at": "2026-09-29T00:18:00",
-      "consecutive_count": 0,
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 1,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
+      "url": "https://www.nodeseek.com/post-584268-1",
+      "last_hot_value": "查看:29634 回复:188",
+      "first_seen_at": "2026-10-01T00:02:02",
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "不止DMIT、BWH ❗❗❗ 超全面的NS热门商家套餐汇总",
@@ -117,8 +157,18 @@
       "last_hot_value": "查看:15300 回复:200",
       "first_seen_at": "2026-09-30T00:05:19",
       "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "nametra.de NS官方米表开启公测，欢迎大家试用体验！",
+      "url": "https://www.nodeseek.com/post-373751-1",
+      "last_hot_value": "查看:291844 回复:517",
+      "first_seen_at": "2026-10-01T00:02:02",
+      "last_seen_at": "2026-10-01T00:02:02",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -127,16 +177,6 @@
       "last_hot_value": "查看:17188 回复:274",
       "first_seen_at": "2026-09-30T00:05:19",
       "last_seen_at": "2026-09-30T00:05:19",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
-      "url": "https://www.nodeseek.com/post-786238-1",
-      "last_hot_value": "查看:3199 回复:36",
-      "first_seen_at": "2026-09-29T00:14:38",
-      "last_seen_at": "2026-09-29T00:18:00",
       "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false

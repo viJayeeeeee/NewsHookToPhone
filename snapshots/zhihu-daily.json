@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-09-30T00:07:13",
+  "update_time": "2026-10-01T00:02:44",
   "items": [
+    {
+      "title": "天生失明的人复明后看到这个世界对精神的冲击会不会很大？",
+      "url": "https://daily.zhihu.com/story/9793085",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-01T00:02:44",
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "猫咪底层代码到底是什么，为什么总是那么神经？",
       "url": "https://daily.zhihu.com/story/9792892",
       "last_hot_value": "",
       "first_seen_at": "2026-09-30T00:04:34",
-      "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 5,
       "peak_rank": 1,
       "is_new": false
     },
@@ -16,8 +26,8 @@
       "url": "https://daily.zhihu.com/story/9792867",
       "last_hot_value": "",
       "first_seen_at": "2026-09-29T00:15:49",
-      "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 9,
       "peak_rank": 1,
       "is_new": false
     },
@@ -26,8 +36,8 @@
       "url": "https://daily.zhihu.com/story/9792849",
       "last_hot_value": "",
       "first_seen_at": "2026-09-29T00:15:49",
-      "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 9,
       "peak_rank": 2,
       "is_new": false
     },
@@ -36,8 +46,8 @@
       "url": "https://daily.zhihu.com/story/9792829",
       "last_hot_value": "",
       "first_seen_at": "2026-09-29T00:15:49",
-      "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 8,
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 9,
       "peak_rank": 3,
       "is_new": false
     },
@@ -47,7 +57,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-29T00:15:49",
       "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -62,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "可不可以莫名其妙地教我一个知识?",
+      "url": "https://daily.zhihu.com/story/9793090",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-01T00:02:44",
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "网购燃气灶防风罩一月后妻儿中毒死亡，该产品为何会导致如此严重的事故？是否该全面禁售？",
       "url": "https://daily.zhihu.com/story/9792895",
       "last_hot_value": "",
       "first_seen_at": "2026-09-30T00:04:34",
-      "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 5,
       "peak_rank": 6,
       "is_new": false
     },
@@ -77,17 +97,27 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-29T00:15:49",
       "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "普通大众对「航空航天工程」存在哪些常见的误解或不切实际的想象？",
+      "url": "https://daily.zhihu.com/story/9793098",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-01T00:02:44",
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "瓶装水在开封后，多久会变质？",
       "url": "https://daily.zhihu.com/story/9792905",
       "last_hot_value": "",
       "first_seen_at": "2026-09-30T00:04:34",
-      "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 4,
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 5,
       "peak_rank": 7,
       "is_new": false
     },
@@ -97,9 +127,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-29T00:15:49",
       "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 8,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "arxiv 新论文解释语言模型产生幻觉的原因，为什么LLM宁可瞎编也不说我不知道？",
+      "url": "https://daily.zhihu.com/story/9793108",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-01T00:02:44",
+      "last_seen_at": "2026-10-01T00:02:44",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "瞎扯 · 如何正确地吐槽",
@@ -107,7 +147,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-09-29T00:16:02",
       "last_seen_at": "2026-09-30T00:07:13",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
