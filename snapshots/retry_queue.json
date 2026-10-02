@@ -1447,5 +1447,33 @@
     "category_name": "新闻·资讯",
     "failed_at": "2026-10-02T06:40:49",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "lol",
+    "platform_name": "英雄联盟",
+    "category_name": "游戏",
+    "failed_at": "2026-10-02T13:00:11",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "genshin",
+    "platform_name": "原神",
+    "category_name": "游戏",
+    "failed_at": "2026-10-02T13:00:23",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "honkai",
+    "platform_name": "崩坏3",
+    "category_name": "游戏",
+    "failed_at": "2026-10-02T13:00:31",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "starrail",
+    "platform_name": "星穹铁道",
+    "category_name": "游戏",
+    "failed_at": "2026-10-02T13:00:39",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
