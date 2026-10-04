@@ -1804,5 +1804,47 @@
     "category_name": "行业·商业",
     "failed_at": "2026-10-04T04:21:37",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "netease-music",
+    "platform_name": "网易云音乐",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-10-04T10:45:34",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "qq-music",
+    "platform_name": "QQ音乐",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-10-04T10:45:44",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weread",
+    "platform_name": "微信读书",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-10-04T10:45:52",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weatheralarm",
+    "platform_name": "天气预警",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-10-04T10:46:00",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "earthquake",
+    "platform_name": "地震速报",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-10-04T10:46:09",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "history",
+    "platform_name": "历史上的今天",
+    "category_name": "音乐·阅读·生活",
+    "failed_at": "2026-10-04T10:46:18",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
