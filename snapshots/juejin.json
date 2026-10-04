@@ -1,185 +1,105 @@
 {
-  "update_time": "2026-10-01T00:01:52",
+  "update_time": "2026-10-04T00:19:10",
   "items": [
     {
-      "title": "突发！字节内部大调整，QA直接转研发了？",
-      "url": "https://juejin.cn/post/7689818941397778478",
-      "last_hot_value": "热度:3141",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-10-01T00:01:52",
-      "consecutive_count": 6,
+      "title": "Shopify 回应为什么从 RN 回到原生，为什么不用 KMP ？",
+      "url": "https://juejin.cn/post/7691207444283113506",
+      "last_hot_value": "热度:504",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "为什么越来越多人用 OnlyOffice？",
-      "url": "https://juejin.cn/post/7689599510955278336",
-      "last_hot_value": "热度:1548",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-30T00:05:09",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "漫话大模型：7 家中国公司被点名「蒸馏」，他们到底偷走了什么？",
-      "url": "https://juejin.cn/post/7690769804492341298",
-      "last_hot_value": "热度:684",
-      "first_seen_at": "2026-10-01T00:01:52",
-      "last_seen_at": "2026-10-01T00:01:52",
+      "title": "31岁罗福莉，晋升小米最高职级22级",
+      "url": "https://juejin.cn/post/7691227873460125734",
+      "last_hot_value": "热度:387",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
     },
     {
-      "title": "用 GPT-6 Astra 和 Tripo3D 做智慧农业 3D 大屏：从调研到可巡检园区全流程实录",
-      "url": "https://juejin.cn/post/7690497704220196883",
-      "last_hot_value": "热度:450",
-      "first_seen_at": "2026-10-01T00:01:52",
-      "last_seen_at": "2026-10-01T00:01:52",
+      "title": "千问偷偷进村修改 token plan 重置周期这个事大家都知道了吧？",
+      "url": "https://juejin.cn/post/7691284233897656383",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
       "consecutive_count": 1,
       "peak_rank": 3,
       "is_new": true
     },
     {
-      "title": "用 AI 迁项目有多爽？我把 Webpack 迁 Vite 的全过程记下来了",
-      "url": "https://juejin.cn/post/7689096640691683343",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-30T00:05:09",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "读懂LangGraph 的分支执行逻辑",
-      "url": "https://juejin.cn/post/7690468159975637038",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-09-30T00:05:09",
-      "last_seen_at": "2026-10-01T00:01:52",
-      "consecutive_count": 2,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "顶级模型一句话，AI 写出了能玩的 QQ飞车",
-      "url": "https://juejin.cn/post/7689377403413430307",
-      "last_hot_value": "热度:414",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-30T00:05:09",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "2026年，你终于可以在 `<textarea>` 里定位任意字符了",
-      "url": "https://juejin.cn/post/7690190550998007827",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-10-01T00:01:52",
-      "consecutive_count": 6,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "为什么前端应该主动去学数据库？",
-      "url": "https://juejin.cn/post/7690097952816709659",
-      "last_hot_value": "热度:171",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "我重写了整个项目，但没人感谢我！",
-      "url": "https://juejin.cn/post/7690869176362270729",
-      "last_hot_value": "热度:378",
-      "first_seen_at": "2026-10-01T00:01:52",
-      "last_seen_at": "2026-10-01T00:01:52",
+      "title": "Node.js 50个优势场景盘点：一个人单干，为啥我多数时候只用它",
+      "url": "https://juejin.cn/post/7691227873459028006",
+      "last_hot_value": "热度:153",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
       "consecutive_count": 1,
-      "peak_rank": 6,
+      "peak_rank": 4,
       "is_new": true
     },
     {
-      "title": "Flutter 多窗口重要优化合并，多窗口性能和实用性大幅提升",
-      "url": "https://juejin.cn/post/7690393223730642980",
-      "last_hot_value": "热度:378",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-10-01T00:01:52",
-      "consecutive_count": 6,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "第一次当面试官有感",
-      "url": "https://juejin.cn/post/7689408456148074523",
-      "last_hot_value": "热度:279",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-30T00:05:09",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek Harness 出了桌面端？我把它扒了一遍",
-      "url": "https://juejin.cn/post/7690197651808616502",
-      "last_hot_value": "热度:378",
-      "first_seen_at": "2026-09-30T00:05:09",
-      "last_seen_at": "2026-10-01T00:01:52",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "非游戏开发者用 AI 做微信小游戏的完整实录：聊天出 MVP、备案 27 天、踩坑",
-      "url": "https://juejin.cn/post/7690435049426681898",
-      "last_hot_value": "热度:351",
-      "first_seen_at": "2026-10-01T00:01:52",
-      "last_seen_at": "2026-10-01T00:01:52",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "一天一个开源项目（第 227 篇）：Strands Agents Harness SDK —— 从「手写 Agent 循环」到「一行代码拿到生产级 Agent」",
-      "url": "https://juejin.cn/post/7689299285138128932",
+      "title": "KMP 又改了编译流程， Separate Compilation 禁止了 `commonMain` 的依赖穿透",
+      "url": "https://juejin.cn/post/7691872111024586752",
       "last_hot_value": "热度:135",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "同样用 Element Plus，为什么你的后台总有一股“模板味”？",
-      "url": "https://juejin.cn/post/7690405198255325234",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-10-01T00:01:52",
-      "last_seen_at": "2026-10-01T00:01:52",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
       "consecutive_count": 1,
-      "peak_rank": 10,
+      "peak_rank": 5,
       "is_new": true
     },
     {
-      "title": "我排查了一下午，发现项目打包体积翻倍的元凶是它",
-      "url": "https://juejin.cn/post/7690614916369252387",
-      "last_hot_value": "热度:225",
-      "first_seen_at": "2026-09-30T00:05:09",
-      "last_seen_at": "2026-09-30T00:05:09",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
+      "title": "Vue3 UIKit 实战：把聊天、会话、主题和移动端适配全部封装好",
+      "url": "https://juejin.cn/post/7691345821564174363",
+      "last_hot_value": "热度:126",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
-      "title": "栗子前端技术周刊第 148 期 - Turborepo 2.11、Chrome 154 iframe、Node.js 26...",
-      "url": "https://juejin.cn/post/7689866047096602666",
+      "title": "给页面加一个 JSON 编辑器：jsoneditor 的功能、配置和接入注意事项",
+      "url": "https://juejin.cn/post/7691155417934594074",
       "last_hot_value": "热度:126",
-      "first_seen_at": "2026-09-29T00:14:28",
-      "last_seen_at": "2026-09-29T00:17:50",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "ai agent --- redis 缓存",
+      "url": "https://juejin.cn/post/7691450666426286134",
+      "last_hot_value": "热度:108",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "MCP 技术分享：从协议握手到 LangGraph 多 Server 调用",
+      "url": "https://juejin.cn/post/7691835382220111872",
+      "last_hot_value": "热度:90",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "Go 写业务，Rust 扛底盘：一套可落地的混合架构",
+      "url": "https://juejin.cn/post/7691152001448820746",
+      "last_hot_value": "热度:90",
+      "first_seen_at": "2026-10-04T00:19:10",
+      "last_seen_at": "2026-10-04T00:19:10",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
