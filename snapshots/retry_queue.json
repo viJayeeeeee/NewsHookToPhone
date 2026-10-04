@@ -1972,5 +1972,68 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-10-04T19:15:23",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weibo",
+    "platform_name": "微博热搜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:31:09",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "zhihu",
+    "platform_name": "知乎热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:31:18",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douyin",
+    "platform_name": "抖音热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:31:26",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "bilibili",
+    "platform_name": "哔哩哔哩",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:31:34",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "kuaishou",
+    "platform_name": "快手热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:31:42",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "tieba",
+    "platform_name": "百度贴吧",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:31:50",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "acfun",
+    "platform_name": "A站",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:31:58",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "zhihu-daily",
+    "platform_name": "知乎日报",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:32:06",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sina",
+    "platform_name": "新浪热搜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-10-04T22:32:14",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
