@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-10-07T00:08:53",
+  "update_time": "2026-10-10T00:47:46",
   "items": [
     {
       "title": "更快地训练大模型和具身模型",
       "url": "https://github.com/baidu-baige/LoongForge",
-      "last_hot_value": "1257",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
-      "consecutive_count": 2,
+      "last_hot_value": "1813",
+      "first_seen_at": "2026-10-10T00:47:46",
+      "last_seen_at": "2026-10-10T00:47:46",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "手绘风格 AI 生图技能包",
       "url": "https://github.com/yang0/handraw-style",
-      "last_hot_value": "1265",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
-      "consecutive_count": 2,
+      "last_hot_value": "2037",
+      "first_seen_at": "2026-10-10T00:47:46",
+      "last_seen_at": "2026-10-10T00:47:46",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "统一管理 AI 技能包的工具",
       "url": "https://github.com/xingkongliang/skills-manager",
-      "last_hot_value": "947",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
-      "consecutive_count": 2,
+      "last_hot_value": "1474",
+      "first_seen_at": "2026-10-10T00:47:46",
+      "last_seen_at": "2026-10-10T00:47:46",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "把字幕变成手绘动画",
       "url": "https://github.com/geeklee/srt-whiteboard-animation",
-      "last_hot_value": "717",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
-      "consecutive_count": 2,
+      "last_hot_value": "1112",
+      "first_seen_at": "2026-10-10T00:47:46",
+      "last_seen_at": "2026-10-10T00:47:46",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "绘制论文配图的 Python 脚本集合",
       "url": "https://github.com/ChenLiu-1996/figures4papers",
-      "last_hot_value": "706",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
-      "consecutive_count": 2,
+      "last_hot_value": "917",
+      "first_seen_at": "2026-10-10T00:47:46",
+      "last_seen_at": "2026-10-10T00:47:46",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "AI 原生的个人笔记应用",
       "url": "https://github.com/tianma-if/edgeever",
-      "last_hot_value": "1064",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
-      "consecutive_count": 2,
+      "last_hot_value": "1530",
+      "first_seen_at": "2026-10-10T00:47:46",
+      "last_seen_at": "2026-10-10T00:47:46",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Windows 上的 iPhone 投屏工具",
-      "url": "https://github.com/RayrenSX/iPhoneMirror",
-      "last_hot_value": "452",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
+      "title": "让 AI Agent 帮你做 PPT",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+      "last_hot_value": "5143",
+      "first_seen_at": "2026-10-10T00:46:40",
+      "last_seen_at": "2026-10-10T00:47:46",
       "consecutive_count": 2,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "用 Python 开发跨平台应用的框架",
-      "url": "https://github.com/flet-dev/flet",
-      "last_hot_value": "464",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
+      "title": "一分钟搭建个人域名邮箱",
+      "url": "https://github.com/Jinnrry/PMail",
+      "last_hot_value": "733",
+      "first_seen_at": "2026-10-10T00:46:40",
+      "last_seen_at": "2026-10-10T00:47:46",
       "consecutive_count": 2,
       "peak_rank": 8,
       "is_new": false
     },
     {
-      "title": "免装驱动的网页版游戏鼠标设置工具",
-      "url": "https://github.com/OpenMouse-Project/openmouse",
-      "last_hot_value": "548",
-      "first_seen_at": "2026-10-04T00:19:21",
-      "last_seen_at": "2026-10-07T00:08:53",
-      "consecutive_count": 3,
+      "title": "Windows 上的 iPhone 投屏工具",
+      "url": "https://github.com/RayrenSX/iPhoneMirror",
+      "last_hot_value": "670",
+      "first_seen_at": "2026-10-10T00:47:46",
+      "last_seen_at": "2026-10-10T00:47:46",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "让多个 AI 智能体共享团队经验",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "last_hot_value": "557",
-      "first_seen_at": "2026-10-07T00:07:14",
-      "last_seen_at": "2026-10-07T00:08:53",
-      "consecutive_count": 2,
+      "title": "免装驱动的网页版游戏鼠标设置工具",
+      "url": "https://github.com/OpenMouse-Project/openmouse",
+      "last_hot_value": "862",
+      "first_seen_at": "2026-10-10T00:47:46",
+      "last_seen_at": "2026-10-10T00:47:46",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

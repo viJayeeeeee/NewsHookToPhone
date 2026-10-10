@@ -1,105 +1,95 @@
 {
-  "update_time": "2026-10-07T00:10:23",
+  "update_time": "2026-10-10T00:47:33",
   "items": [
     {
-      "title": "OriginOS 7 给我的感觉不是功能变多了，而是把截屏、卡包、日历、文件、通知、录音等等这些日常能力串了起来，生活里很多事都能通过小 V 一句话推进。大家感受一下！ <a class=\"feed-link-tag\" href=\"/t/OriginOS7?type=13\">#OriginOS7#</a> <a class=\"feed-link-tag\" href=\"/t/OriginOS7%E5%8F%91%E5%B8%83?type=13\">#OriginOS7发布#</a> <a class=\"feed-link-tag\" href=\"/t/%E9%85%B7%E5%AE%89%E6%95%B0%E7%A0%81?type=13\">#酷安数码#</a> <a href=\"https://weibo.com/1746523974/Rint7evc4\">[视频]微博视频</a>",
-      "url": "https://www.coolapk.com/feed/73785409",
+      "title": "别买国行！澳门18pm512才10500人民币， <a class=\"feed-link-tag\" href=\"/t/iPhone17Pro?type=0\">#iPhone17Pro#</a> <a class=\"feed-link-tag\" href=\"/t/iPhone18ProMax?type=0\">#iPhone18ProMax#</a> <a class=\"feed-link-tag\" href=\"/t/iPhone18Pro?type=0\">#iPhone18Pro#</a>",
+      "url": "https://www.coolapk.com/feed/74244655",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "8月份暑假在北京朝阳区某大型商场地下超市做了一个月收银员暑工，日均约500单，每天接触顾客上千人。站在收银这个视角，单看顾客结账掏出来的手机，分享下这段时间的实地观察 1.品牌占有率大致：苹果&gt;&gt;华为&gt;&gt;小米≈OPPO≈vivo&gt;荣耀 2.折叠屏普及率远超我的预想，能占到1/4。折叠机用户大多40岁以上，而且60岁以上的老年群体里也不少见；男性用户远多于女性。女性用的基本都是小折叠，以竖向上下折（类似Pocket）和Pura X小阔折为主 折叠屏品牌分布：华为&gt;&gt;三星&gt;荣耀&gt;&gt;米OV，后面这三家其实很少见到。 三折叠机型非常少见。我所在的区域不算高端富人区，一个月下来总共只见到5台三折，三男两女：4台红色，1台黑色 3.iPhone在老年人里使用率比想象高很多。不过不是老iPhone（13及之前，大刘海... <a href=\"\">查看更多</a>",
-      "url": "https://www.coolapk.com/feed/74176571",
+      "title": "【华为客服回应“华为手机上懂车帝App相关视频无法播放”：鸿蒙系统还在适配当中】 10月8日，懂车帝发布测试视频，实测3台全新尊界V800，称在100km/h-0紧急制动时刹车踏板支架全部被踩断，相关测试引发外界关注。 10月9日早间，据多家媒体报道，懂车帝发布的尊界V800制动测试主视频在多个平台已无法正常查看。 同时有网民发视频称，自己用华为手机打开懂车帝App，无法播放尊界V800相关测试视频，页面显示“功能陆续开放中，敬请期待”。网民怀疑是华为手机限制了对相关视频的播放，称“懂车帝APP被挟持”。 针对该问题，南方日报记者使用安装鸿蒙系统的华为手机进行了测试，发现懂车帝App中的相关视频确实无法播放。不过，无法播放的视频不仅限于尊界V800相关视频，而是App中来源标注为抖音的视频都打不开。 9日中午，记者就此问题咨询华为手机客服。客服表示... <a href=\"\">查看更多</a>",
+      "url": "https://www.coolapk.com/feed/74253968",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "今天下午去售后讨论了这个存储颗粒问题。给大家补充一些信息，有能力的大佬可以继续挖掘一下。 首先对于存储颗粒，x300橘子7系统读取不了ufs型号，但售后降级到PD2509D_A_16.0.21.8.W10.V000L1版本可以使用酷友那款app读取。我的机器昨天测试结果基本都是七八万，随机读写都小于1000。 我的机器降级后读取结果为三星KLUFG4NHHB- FOG1，此型号在vivo内部公告vknow有提及，描述大概意思好像是此型号出的时候ufs4.1标准没定好还是什么，后续经ota达到了ufs4.1标准，说可以在三星半导体官网查询芯片最新信息。 我手机降级系统未导入数据的情况下，随机读取速度最高提到了1700，不过读取速度始终从未上千。将数据导回本机后，随机读取降到1300，随机写入依旧七八百。 服务我的店员本人使用iqoo15ultra，但是他的跑分同样偏低... <a href=\"\">查看更多</a>",
-      "url": "https://www.coolapk.com/feed/74198389",
+      "title": "【东风标致：没见过把刹车踩断的】 10月9日，东风标致不同平台账号发布制动踏板相关内容。 其中，抖音认证主体为东风标致雪铁龙汽车销售有限责任公司的账号发布视频，配文称“见过把油门踩断的，没见过把刹车踩断的，这是经历了什么神仙工况？东风标致良心用料，守住安全底线。” 东风标致官微则发布视频，展示制动踏板支架采用一体式冲压金属材质，并配文：“制动是性能，更是基本功”。 <a class=\"feed-link-tag\" href=\"/t/%E4%BB%8A%E6%97%A5%E7%83%AD%E7%82%B9?type=0\">#今日热点#</a> <a class=\"feed-link-tag\" href=\"/t/%E6%B1%BD%E8%BD%A6?type=0\">#汽车#</a> <a class=\"feed-link-tag\" href=\"/t/%E6%87%82%E8%BD%A6%E5%B8%9D%E6%B5%8B%E8%AF%95%E5%B0%8A%E7%95%8CV800%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%96%AD%E8%A3%82?type=0\">#懂车帝测试尊界V800刹车踏板断裂#</a>",
+      "url": "https://www.coolapk.com/feed/74250320",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "<a class=\"feed-link-tag\" href=\"/t/%E9%85%B7%E5%AE%89%E5%A4%9C%E8%AF%9D?type=0\">#酷安夜话#</a> 各位大哥哥大姐姐 我刚过完生日已经16了 开智了想读书但是发现已经学不会了 很多东西都落下了 然后想着干脆休学去打工赚钱算了 可以挣点小钱养活自己 也比读书在学校听天书什么都学不到好",
-      "url": "https://www.coolapk.com/feed/74183561",
+      "title": "漫展结束了，兰博，我女朋友意犹未尽。用了AI修图师，兄弟们coloros17的AI修图是真的太好用了一键出图呀，这集（功能）神了<a class=\"feed-link-tag\" href=\"/t/%E6%88%91%E5%9C%A8%E9%85%B7%E5%AE%89%E6%99%92%E5%A5%B3%E5%8F%8B?type=0\">#我在酷安晒女友#</a> <a class=\"feed-link-tag\" href=\"/t/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1?type=0\">#手机摄影#</a> <a class=\"feed-link-tag\" href=\"/t/%E6%BC%AB%E5%B1%95?type=0\">#漫展#</a>",
+      "url": "https://www.coolapk.com/feed/74255955",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "刚给18pm贴上膜，278.8g，这是人用的重量吗兄弟们，卧槽了[发怒][发怒][发怒]<a class=\"feed-link-tag\" href=\"/t/iPhone18ProMax?type=0\">#iPhone18ProMax#</a> <a class=\"feed-link-tag\" href=\"/t/iOS27?type=0\">#iOS27#</a> <a class=\"feed-link-tag\" href=\"/t/%E6%95%B0%E7%A0%81%E6%97%A5%E5%B8%B8?type=0\">#数码日常#</a>",
-      "url": "https://www.coolapk.com/feed/74191756",
+      "title": "真的是太难受了兄弟们，昨天在郑州人民公园和对象在南门对着的湖旁边的椅子上坐着，我就把手机放到我的左边空位上，扭头和对象说话，中途还拿手机拍了张照片，结果又过了十分钟手表突然提示断开连接，我就意识到手机没了，去找的时候也不知道去哪找，先报了警，也就做个笔录立个案，其实能找的概率太小了，这个手机是我大学攒了好久的钱考研之后买的，才用了半年就没了[流泪][流泪][流泪]，好难受啊，为什么刚好就把我的偷走了，为什么我都没发现[流泪][流泪][流泪] <a class=\"feed-link-tag\" href=\"/t/vivoX200Pro?type=0\">#vivoX200Pro#</a> <a class=\"feed-link-tag\" href=\"/t/OriginOS7?type=0\">#OriginOS7#</a> <a class=\"feed-link-tag\" href=\"/t/%E9%85%B7%E5%AE%89%E5%A4%9C%E8%AF%9D?type=0\">#酷安夜话#</a>",
+      "url": "https://www.coolapk.com/feed/74232895",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "刷小米18屏幕视频，发现还有博主提小米11的高定三星e4观感多好[流汗滑稽]，真有这么好的口碑吗？ 我当时高中关学校，没机会见过米11真机 最后米13主推三星e6，之后全面华星了 <a class=\"feed-link-tag\" href=\"/t/%E5%B0%8F%E7%B1%B317ProMax?type=0\">#小米17ProMax#</a> <a class=\"feed-link-tag\" href=\"/t/%E5%B0%8F%E7%B1%B318?type=0\">#小米18#</a> <a class=\"feed-link-tag\" href=\"/t/%E5%B0%8F%E7%B1%B318Pro?type=0\">#小米18Pro#</a>",
-      "url": "https://www.coolapk.com/feed/74184545",
+      "title": "奋斗45年终于提车了！！！明天去交尾款。总落地22.2万 （终生免费小保养，赠送360 此处奋斗指的是爸妈[cos滑稽]<a class=\"feed-link-tag\" href=\"/t/%E9%85%B7%E5%B7%A5%E4%BD%9C?type=0\">#酷工作#</a> <a class=\"feed-link-tag\" href=\"/t/%E6%95%B0%E7%A0%81%E6%97%A5%E5%B8%B8?type=0\">#数码日常#</a> 我必须好好的找个3000工作，不然养不起。目前存款8.5万，过几天买苹果备用机<a class=\"feed-link-tag\" href=\"/t/%E6%8F%90%E8%BD%A6%E6%8A%A5%E5%91%8A?type=0\">#提车报告#</a>",
+      "url": "https://www.coolapk.com/feed/74231866",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "小米17Ultra有可能在半年后迎来一波价格暴涨，在此处立一个Flag。 有一位名叫姜尧耕 <a class=\"feed-link-uname\" href=\"/u/姜尧耕\">@姜尧耕</a> 的图像传感器领域专业级爱好者，他发现小米17ultra搭载的所谓光影猎人1050L实际上是一颗划时代的图像传感器。 并且在为这台手机开发一系列算法之后，成功实现了真实5000万像素的图像分辨率的照片以及超越全部现役全画幅和4433中画幅相机的超高动态范围。 实际大概有17档，而且是可用17档，接近数十万元的飞思IQ4150。 他在即将发布的论文里公布了这些工作细节，并且完全公开算法以供摄影爱好者检验真实效果。 他以平和的口吻提到小米官方提供的raw数据完全不能体现这台手机主摄的真实水平，甚至严重劣化其5000万像素模式不如全画幅2400万像素的分辨率水平，让很多人误以为是17ultra镜头模组设计水平不足。 他还专门测试了其购买的这台小米17ultra的镜头模组分辨率... <a href=\"\">查看更多</a>",
-      "url": "https://www.coolapk.com/feed/74159090",
-      "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "以阔换阔了[牛牛呲牙笑][牛牛呲牙笑]，用惯了只适应阔直板了，看样子以后只能用这种胖墩墩的手机了[流泪][流泪][流泪][流泪]<a class=\"feed-link-tag\" href=\"/t/%E5%8D%8E%E4%B8%BAMate90ProMax?type=0\">#华为Mate90ProMax#</a>",
-      "url": "https://www.coolapk.com/feed/74191864",
+      "title": "买了苹果，就要接受没有小窗不能分身的缺点；买了华为就要接受性能不佳的缺点；买了小米要接受功能不全，系统操蛋的问题；买了 OPPO 又要接受推送不好的问题；买了 VIVO 又要接受负优化，审美 childish，大圆饼的问题；买了荣耀又要接受小白条沉浸一塌糊涂，并行动画迟迟不上的问题；买了三星又得接受本地化烂，续航拉闸的问题。有没有一款手机能做到动画好，可以小窗分屏，性能完美，屏幕比较护眼，拍照比较可以，推送完美，小白条沉浸做得比较好，系统动画比较完美，不是大圆饼，或者后色凸起比较小的手机啊[流泪][流泪] <a class=\"feed-link-tag\" href=\"/t/ColorOS17?type=0\">#ColorOS17#</a> <a class=\"feed-link-tag\" href=\"/t/OriginOS6?type=0\">#OriginOS6#</a> <a class=\"feed-link-tag\" href=\"/t/%E9%B8%BF%E8%92%99NEXT?type=0\">#鸿蒙NEXT#</a>",
+      "url": "https://www.coolapk.com/feed/74245108",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "今天去线下店摸了两分钟苹果18Promax，这就是高端旗舰手机的感觉吗？滑动起来太流畅了，而且握持手感也巨好。屏幕清晰度也是巨特么高[呲牙] 摸了两分钟后，感觉我平时用的华为nova14ultra 瞬间不香了，平时玩的时候真没觉得卡，摸了苹果18Promax之后，才能知道nova14ultra有多卡顿[流泪][流泪][流泪] 摸归摸，但没办法买下来……只能眼馋<a class=\"feed-link-tag\" href=\"/t/%E9%B8%BF%E8%92%997?type=0\">#鸿蒙7#</a> <a class=\"feed-link-tag\" href=\"/t/%E5%8D%8E%E4%B8%BAMate90ProMax?type=0\">#华为Mate90ProMax#</a> <a class=\"feed-link-tag\" href=\"/t/iOS27?type=0\">#iOS27#</a>",
-      "url": "https://www.coolapk.com/feed/74176516",
+      "title": "徕卡一瞬 M9：三个模型权重全部解出，以及我为什么放弃手机端移植 项目地址：<a class=\"feed-link-url\" href=\"https://github.com/benbaobaoshigemi/OffLineM9\" title=\"https://github.com/benbaobaoshigemi/OffLineM9\" target=\"_blank\" rel=\"nofollow\">查看链接</a> 徕卡一瞬 M9 的三个神经网络模型——ColorFix、StyleTrans High 和 StyleTrans Low，权重已经全部解出，网络结构也已成功还原。整个网络只使用了卷积、ReLU、Pixel Unshuffle、Depth-to-Space、Nearest 上采样、MaxPool、Concat 和 Clamp 等基础运算，均可通过 ONNX 标准算子实现。这意味着模型本身并不依赖特定硬件，理论上可以迁移到各种计算平台，以 ONNX、PyTorch 等不同形式运行。至于实际运行效率和硬件加速支持，则取决于具体设备和推理后端。 这里提供了一个基于 PyTorch 的运行示例，接受 RAW 图像作为输入... <a href=\"\">查看更多</a>",
+      "url": "https://www.coolapk.com/feed/74256894",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "是我眼睛不敏感吗？那么多人喷小米18 Pro Max的屏幕。这回把17 Pro Max放到旁边，你们来看看哪个是17，哪个是18吧？我是看不出啥区别。[撇嘴]<a class=\"feed-link-tag\" href=\"/t/%E5%B0%8F%E7%B1%B318?type=0\">#小米18#</a> <a class=\"feed-link-tag\" href=\"/t/%E5%B0%8F%E7%B1%B317ProMax?type=0\">#小米17ProMax#</a> <a class=\"feed-link-tag\" href=\"/t/%E5%B0%8F%E7%B1%B318ProMax?type=0\">#小米18ProMax#</a>",
-      "url": "https://www.coolapk.com/feed/74189748",
+      "title": "从来没有这么害怕更新过[捂脸]18 Pro Max这几天的更新有点过于频繁了，而且疯狂撤包，难道8EE6真的有这么多潜在问题吗？[受虐滑稽]相比之下，18 Pro的8E6很明显就稳多了 不过我首发买的目前没有任何大问题，都是一些系统偶发的小bug，差不多也都修复了。 顺带提一嘴，自动任务里面的工作日完全不生效，这么多人反馈，但官方到现在都不修复，绝了[强] <a class=\"feed-link-tag\" href=\"/t/%E5%B0%8F%E7%B1%B318Pro?type=0\">#小米18Pro#</a> <a class=\"feed-link-tag\" href=\"/t/HyperOS4?type=0\">#HyperOS4#</a> <a class=\"feed-link-tag\" href=\"/t/%E5%B0%8F%E7%B1%B317ProMax?type=0\">#小米17ProMax#</a>",
+      "url": "https://www.coolapk.com/feed/74220497",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-07T00:07:03",
-      "last_seen_at": "2026-10-07T00:10:23",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-10T00:47:33",
+      "last_seen_at": "2026-10-10T00:47:33",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
