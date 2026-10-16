@@ -1286,5 +1286,47 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-10-14T23:05:02",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "baidu",
+    "platform_name": "百度热搜",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-16T02:03:41",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "toutiao",
+    "platform_name": "今日头条",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-16T02:03:50",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "thepaper",
+    "platform_name": "澎湃新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-16T02:03:58",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sina-news",
+    "platform_name": "新浪新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-16T02:04:07",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "netease-news",
+    "platform_name": "网易新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-16T02:04:15",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "qq-news",
+    "platform_name": "腾讯新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-16T02:04:23",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
