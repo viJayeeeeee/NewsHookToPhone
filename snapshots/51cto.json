@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-10-16T00:13:19",
+  "update_time": "2026-10-16T15:54:14",
   "items": [
+    {
+      "title": "1024 程序员节・向光而行，码向未来 | 鸿蒙开发者全攻略・这一年，我们一起写鸿蒙",
+      "url": "https://ost.51cto.com/posts/59869",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "给 HarmonyOS 6 柱状图加入场动画：一根一根蹦出来",
       "url": "https://ost.51cto.com/posts/59729",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "从一张照片开始：唤醒企业沉睡的数据资产",
+      "url": "https://www.51cto.com/article/858410.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
@@ -17,9 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "HarmonyOS 7 列表拖拽排序实战：从起拖到落位的完整链路",
+      "url": "https://ost.51cto.com/posts/59855",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "鸿蒙ArkUI水波纹动画开发：从零打造数字键盘交互特效",
@@ -27,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "别让运维孤军奋战做 AIOps：跨团队数据协作才是落地核心",
+      "url": "https://www.51cto.com/article/858387.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "你的内部知识库，就是 LLM 最大的攻击面：用 STRIDE 给上下文感知 AI 做一次完整威胁建模",
@@ -37,9 +77,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "八大平台、十项任务、一支 “智能体军团”，账单到底长什么样？",
+      "url": "https://www.51cto.com/article/858385.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "当视频模型回到原点，它还认得这里吗？Honeycomb用恒定大小记忆守住长视频的一致性",
@@ -47,9 +97,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "React 开发：内置高阶 Hooks 实战精讲，吃透性能优化核心",
+      "url": "https://www.51cto.com/article/858323.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "苹果LensVLM：长上下文压缩成图片，模型边看边「放大」",
@@ -57,9 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "神经多样性意识的多模态情感计算架构：一种面向神经发育评估的可审计推理体系",
+      "url": "https://www.51cto.com/article/858383.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "ACL 2026｜MMSearch-R1：让多模态模型学会「该搜就搜」，代价是什么？",
@@ -67,9 +137,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "神经网络可解释性被AI解决了？90%神经元只有一个功能",
+      "url": "https://www.51cto.com/article/858381.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "清华提出Jev-LDE：ICL示例只改一次，1-shot平均准确率就能暴涨",
@@ -77,9 +157,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "一边Demo惊艳，一边生产环境翻车：AI智能体的\"伪强大\"被伯克利撕开了",
+      "url": "https://www.51cto.com/article/858380.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Anthropic震撼研究：AI竟能通过电视盒子自我复制",
@@ -87,9 +177,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "从单服务到跨应用工作流：小红书 AllSpark 提出 CompoWorld，探索组合式环境扩展",
+      "url": "https://www.51cto.com/article/858378.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-16T15:54:14",
+      "last_seen_at": "2026-10-16T15:54:14",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "开源文档解析MinerU从3.0到4.0：统一文档模型、API接口、本地文档库和更友好的Agent阅读支持",
@@ -97,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T00:09:08",
       "last_seen_at": "2026-10-16T00:13:19",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

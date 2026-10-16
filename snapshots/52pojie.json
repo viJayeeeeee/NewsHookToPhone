@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-10-16T00:13:28",
+  "update_time": "2026-10-16T15:54:23",
   "items": [
+    {
+      "title": "智能深度磁盘清理优化 MangoDisk v1.1.8",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T00:09:18",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 6,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "微软常用运行库合集 2026.10.14",
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-10-16T00:09:18",
       "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "打印助手 V3",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T00:09:18",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 6,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,9 +37,19 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-10-16T00:09:18",
       "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "红果短剧7.3.9.32 谷歌应用商店精简版",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T15:54:23",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "广告自动跳过工具 GKD v1.13.0-beta-1",
@@ -27,58 +57,8 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-10-16T00:09:18",
       "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "智能深度磁盘清理优化 MangoDisk v1.1.8",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-10-16T00:09:18",
-      "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "打印助手 V3",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-10-16T00:09:18",
-      "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.13)",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-10-16T00:09:18",
-      "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "Filee-1.10.0免费开源的离线文件格式转换工具",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-10-16T00:09:18",
-      "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "摸鱼工具--把小说藏进 Word里看 v1.0",
-      "url": "",
-      "last_hot_value": "回复:0 查看:0",
-      "first_seen_at": "2026-10-16T00:09:18",
-      "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
-      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -86,10 +66,100 @@
       "url": "",
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-10-16T00:09:18",
-      "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
-      "peak_rank": 9,
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 6,
+      "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "罗技键盘鼠标电量托盘显示工具C++V5版",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T15:54:23",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "汇格 - 免费开源的本地 Excel / CSV 批量处理工具（拖入即配置合并）",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T15:54:23",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "千千静听 TTPlayer 5.7.9 社区绿色典藏版(2026.10.13)",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T00:09:18",
+      "last_seen_at": "2026-10-16T00:13:28",
+      "consecutive_count": 0,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "豆包千问无水印图片视频下载助手 1.0.2",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T15:54:23",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "Filee-1.10.0免费开源的离线文件格式转换工具",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T00:09:18",
+      "last_seen_at": "2026-10-16T00:13:28",
+      "consecutive_count": 0,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "证件照处理工具1015更新",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T15:54:23",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "摸鱼工具--把小说藏进 Word里看 v1.0",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T00:09:18",
+      "last_seen_at": "2026-10-16T00:13:28",
+      "consecutive_count": 0,
+      "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "启动U盘开源制作工具 Ventoy 1.1.18",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T15:54:23",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "老旧车机复活apk-DiPlay 0.2.20--10.15更新！",
+      "url": "",
+      "last_hot_value": "回复:0 查看:0",
+      "first_seen_at": "2026-10-16T15:54:23",
+      "last_seen_at": "2026-10-16T15:54:23",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "罗技键盘鼠标电量托盘显示工具C++V4版",
@@ -97,7 +167,7 @@
       "last_hot_value": "回复:0 查看:0",
       "first_seen_at": "2026-10-16T00:09:18",
       "last_seen_at": "2026-10-16T00:13:28",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
