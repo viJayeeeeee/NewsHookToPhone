@@ -1,15 +1,15 @@
 {
-  "update_time": "2026-10-16T15:54:14",
+  "update_time": "2026-10-17T03:20:24",
   "items": [
     {
       "title": "1024 程序员节・向光而行，码向未来 | 鸿蒙开发者全攻略・这一年，我们一起写鸿蒙",
       "url": "https://ost.51cto.com/posts/59869",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "给 HarmonyOS 6 柱状图加入场动画：一根一根蹦出来",
@@ -26,10 +26,10 @@
       "url": "https://www.51cto.com/article/858410.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
@@ -46,10 +46,10 @@
       "url": "https://ost.51cto.com/posts/59855",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "鸿蒙ArkUI水波纹动画开发：从零打造数字键盘交互特效",
@@ -66,10 +66,10 @@
       "url": "https://www.51cto.com/article/858387.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "你的内部知识库，就是 LLM 最大的攻击面：用 STRIDE 给上下文感知 AI 做一次完整威胁建模",
@@ -86,10 +86,10 @@
       "url": "https://www.51cto.com/article/858385.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "当视频模型回到原点，它还认得这里吗？Honeycomb用恒定大小记忆守住长视频的一致性",
@@ -106,10 +106,10 @@
       "url": "https://www.51cto.com/article/858323.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "苹果LensVLM：长上下文压缩成图片，模型边看边「放大」",
@@ -126,10 +126,10 @@
       "url": "https://www.51cto.com/article/858383.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "ACL 2026｜MMSearch-R1：让多模态模型学会「该搜就搜」，代价是什么？",
@@ -146,10 +146,10 @@
       "url": "https://www.51cto.com/article/858381.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "清华提出Jev-LDE：ICL示例只改一次，1-shot平均准确率就能暴涨",
@@ -166,10 +166,10 @@
       "url": "https://www.51cto.com/article/858380.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Anthropic震撼研究：AI竟能通过电视盒子自我复制",
@@ -186,10 +186,10 @@
       "url": "https://www.51cto.com/article/858378.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-16T15:54:14",
-      "last_seen_at": "2026-10-16T15:54:14",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-17T03:20:24",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "开源文档解析MinerU从3.0到4.0：统一文档模型、API接口、本地文档库和更友好的Agent阅读支持",

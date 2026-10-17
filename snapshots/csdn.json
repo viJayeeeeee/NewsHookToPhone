@@ -1,24 +1,44 @@
 {
-  "update_time": "2026-10-16T15:54:12",
+  "update_time": "2026-10-17T03:20:23",
   "items": [
     {
       "title": "信息抽取的上限，在字段定义时就定了：4 份企业文档实测 AI Agent 与 Scriber",
       "url": "https://blog.csdn.net/Dovis5884/article/details/168018660",
-      "last_hot_value": "2.0w",
+      "last_hot_value": "1.9w",
       "first_seen_at": "2026-10-16T00:09:07",
-      "last_seen_at": "2026-10-16T15:54:12",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-10-17T03:20:23",
+      "consecutive_count": 7,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "Spring AI + Qwen3.8：AI助手生成周报实战，从工作事项到人工确认卡",
       "url": "https://blog.csdn.net/zhouzhongyan/article/details/167589742",
-      "last_hot_value": "1.3w",
+      "last_hot_value": "1.0w",
       "first_seen_at": "2026-10-16T00:09:07",
-      "last_seen_at": "2026-10-16T15:54:12",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-10-17T03:20:23",
+      "consecutive_count": 7,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "TimechoAI：让时序预测更易用，让数据真正参与决策",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/168029388",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-10-16T15:54:12",
+      "last_seen_at": "2026-10-17T03:20:23",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "260+异构同步链路实战：KFS如何实现DDL语义化自动翻译，破解CDC同步痛点",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/167921343",
+      "last_hot_value": "6273",
+      "first_seen_at": "2026-10-16T00:09:07",
+      "last_seen_at": "2026-10-17T03:20:23",
+      "consecutive_count": 7,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -27,18 +47,18 @@
       "last_hot_value": "8418",
       "first_seen_at": "2026-10-16T00:09:07",
       "last_seen_at": "2026-10-16T15:54:12",
-      "consecutive_count": 6,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "260+异构同步链路实战：KFS如何实现DDL语义化自动翻译，破解CDC同步痛点",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/167921343",
-      "last_hot_value": "1.1w",
+      "title": "【AI】为什么和 AI 聊久了，它就开始忘事？",
+      "url": "https://blog.csdn.net/2501_91731683/article/details/168018570",
+      "last_hot_value": "7840",
       "first_seen_at": "2026-10-16T00:09:07",
-      "last_seen_at": "2026-10-16T15:54:12",
-      "consecutive_count": 6,
-      "peak_rank": 3,
+      "last_seen_at": "2026-10-17T03:20:23",
+      "consecutive_count": 7,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -47,9 +67,9 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-10-16T15:54:12",
       "last_seen_at": "2026-10-16T15:54:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【宠粉赠书】智能体工作流设计：方法与实践",
@@ -62,12 +82,12 @@
       "is_new": false
     },
     {
-      "title": "【AI】为什么和 AI 聊久了，它就开始忘事？",
-      "url": "https://blog.csdn.net/2501_91731683/article/details/168018570",
-      "last_hot_value": "1.0w",
+      "title": "【计算几何 排样】libnest2d的放置器",
+      "url": "https://blog.csdn.net/he_zhidan/article/details/166848774",
+      "last_hot_value": "7629",
       "first_seen_at": "2026-10-16T00:09:07",
-      "last_seen_at": "2026-10-16T15:54:12",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-10-17T03:20:23",
+      "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": false
     },
@@ -82,14 +102,24 @@
       "is_new": false
     },
     {
+      "title": "时序数据库是什么？2026 年五款工业时序数据库横评与场景解析",
+      "url": "https://blog.csdn.net/lbbxmx111/article/details/167919914",
+      "last_hot_value": "7329",
+      "first_seen_at": "2026-10-17T03:20:23",
+      "last_seen_at": "2026-10-17T03:20:23",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "AI Agent 工程化开发实战（一）：Agent 开发的四个层次——积木、运行时、薄壳、套件",
       "url": "https://blog.csdn.net/xiaobing259/article/details/167587674",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-10-16T15:54:12",
       "last_seen_at": "2026-10-16T15:54:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Leaflet + leaflet-draw 在无坐标图上做自定义标绘（CRS.Simple 像素坐标系实战）",
@@ -102,23 +132,43 @@
       "is_new": false
     },
     {
-      "title": "1956亿行时序数据只存“1/45“？聊聊金仓时序数据库背后的压缩与写入硬功夫",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/167919137",
-      "last_hot_value": "9071",
-      "first_seen_at": "2026-10-16T15:54:12",
-      "last_seen_at": "2026-10-16T15:54:12",
+      "title": "网络原理｜第一阶段：网络层、IP 数据报、网络接口与逐跳转发机制",
+      "url": "https://blog.csdn.net/2401_86112610/article/details/167928960",
+      "last_hot_value": "6829",
+      "first_seen_at": "2026-10-17T03:20:23",
+      "last_seen_at": "2026-10-17T03:20:23",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
     },
     {
-      "title": "TimechoAI：让时序预测更易用，让数据真正参与决策",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/168029388",
-      "last_hot_value": "8610",
+      "title": "1956亿行时序数据只存“1/45“？聊聊金仓时序数据库背后的压缩与写入硬功夫",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/167919137",
+      "last_hot_value": "9071",
       "first_seen_at": "2026-10-16T15:54:12",
       "last_seen_at": "2026-10-16T15:54:12",
+      "consecutive_count": 0,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "BPE 是怎么把一个中文词切碎的",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/168015099",
+      "last_hot_value": "6785",
+      "first_seen_at": "2026-10-17T03:20:23",
+      "last_seen_at": "2026-10-17T03:20:23",
       "consecutive_count": 1,
       "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "【C++/薄弱梳理】RAII-智能指针-异常-移动语义",
+      "url": "https://blog.csdn.net/2401_89263742/article/details/168028580",
+      "last_hot_value": "6414",
+      "first_seen_at": "2026-10-17T03:20:23",
+      "last_seen_at": "2026-10-17T03:20:23",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -127,16 +177,6 @@
       "last_hot_value": "8474",
       "first_seen_at": "2026-10-16T15:54:12",
       "last_seen_at": "2026-10-16T15:54:12",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "【计算几何 排样】libnest2d的放置器",
-      "url": "https://blog.csdn.net/he_zhidan/article/details/166848774",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-10-16T00:09:07",
-      "last_seen_at": "2026-10-16T00:13:17",
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
