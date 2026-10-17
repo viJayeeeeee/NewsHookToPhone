@@ -1300,33 +1300,5 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-10-16T19:22:10",
     "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "lol",
-    "platform_name": "英雄联盟",
-    "category_name": "游戏",
-    "failed_at": "2026-10-17T07:48:03",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "genshin",
-    "platform_name": "原神",
-    "category_name": "游戏",
-    "failed_at": "2026-10-17T07:48:12",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "honkai",
-    "platform_name": "崩坏3",
-    "category_name": "游戏",
-    "failed_at": "2026-10-17T07:48:25",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "starrail",
-    "platform_name": "星穹铁道",
-    "category_name": "游戏",
-    "failed_at": "2026-10-17T07:48:32",
-    "reason": "获取失败（已重试 3 次）"
   }
 ]
