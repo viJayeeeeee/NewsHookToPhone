@@ -1342,5 +1342,47 @@
     "category_name": "音乐·阅读·生活",
     "failed_at": "2026-10-17T14:51:24",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "baidu",
+    "platform_name": "百度热搜",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-17T17:44:46",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "toutiao",
+    "platform_name": "今日头条",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-17T17:44:54",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "thepaper",
+    "platform_name": "澎湃新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-17T17:45:02",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sina-news",
+    "platform_name": "新浪新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-17T17:45:10",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "netease-news",
+    "platform_name": "网易新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-17T17:45:18",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "qq-news",
+    "platform_name": "腾讯新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-10-17T17:45:26",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
