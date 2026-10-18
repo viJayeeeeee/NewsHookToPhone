@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-10-18T10:20:55",
+  "update_time": "2026-10-18T17:19:34",
   "items": [
+    {
+      "title": "【从零开始大模型开发与微调:基于PyTorch与ChatGLM】(从ChatGLM本地化到LoRA、PEFT的高级微调)",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/168140637",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-10-18T17:19:34",
+      "last_seen_at": "2026-10-18T17:19:34",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "TimechoAI：让时序预测更易用，让数据真正参与决策",
       "url": "https://blog.csdn.net/lrq13965748542/article/details/168029388",
       "last_hot_value": "2.2w",
       "first_seen_at": "2026-10-16T15:54:12",
       "last_seen_at": "2026-10-18T10:20:55",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -32,14 +42,34 @@
       "is_new": false
     },
     {
-      "title": "Linux 网络：序列化与反序列化",
-      "url": "https://blog.csdn.net/AbandonForce/article/details/168248445",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-10-18T10:20:55",
-      "last_seen_at": "2026-10-18T10:20:55",
+      "title": "【AI智能体】Codex 制作数字人商品展示和口播视频实战详解",
+      "url": "https://blog.csdn.net/zhangcongyi420/article/details/167216255",
+      "last_hot_value": "7399",
+      "first_seen_at": "2026-10-18T17:19:34",
+      "last_seen_at": "2026-10-18T17:19:34",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
+    },
+    {
+      "title": "Linux 网络：序列化与反序列化",
+      "url": "https://blog.csdn.net/AbandonForce/article/details/168248445",
+      "last_hot_value": "6225",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T17:19:34",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "设备监控数据怎么存、怎么查？Spring Boot + TimescaleDB 完整实战",
+      "url": "https://blog.csdn.net/2403_86779341/article/details/168145850",
+      "last_hot_value": "6783",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T17:19:34",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "【Plain Language Large Model】【开源闭源选型终极指南：三维度决策框架】流食般投喂",
@@ -47,9 +77,9 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-10-18T10:20:55",
       "last_seen_at": "2026-10-18T10:20:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "260+异构同步链路实战：KFS如何实现DDL语义化自动翻译，破解CDC同步痛点",
@@ -72,14 +102,24 @@
       "is_new": false
     },
     {
+      "title": "飞牛部署Damselfly实战：Docker Compose、照片目录、7100访问与固定地址",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/168342744",
+      "last_hot_value": "6546",
+      "first_seen_at": "2026-10-18T17:19:34",
+      "last_seen_at": "2026-10-18T17:19:34",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "Agent 接入企业微信/钉钉：渠道对接实",
       "url": "https://blog.csdn.net/sinat_41617212/article/details/168146030",
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-10-18T10:20:55",
       "last_seen_at": "2026-10-18T10:20:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【AI】为什么和 AI 聊久了，它就开始忘事？",
@@ -112,11 +152,11 @@
       "is_new": false
     },
     {
-      "title": "设备监控数据怎么存、怎么查？Spring Boot + TimescaleDB 完整实战",
-      "url": "https://blog.csdn.net/2403_86779341/article/details/168145850",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-10-18T10:20:55",
-      "last_seen_at": "2026-10-18T10:20:55",
+      "title": "用 WorkBuddy + 麦当劳 MCP，做一个会算营养、比价格、还能下单的减脂私教",
+      "url": "https://blog.csdn.net/qq_33681891/article/details/168244556",
+      "last_hot_value": "6471",
+      "first_seen_at": "2026-10-18T17:19:34",
+      "last_seen_at": "2026-10-18T17:19:34",
       "consecutive_count": 1,
       "peak_rank": 5,
       "is_new": true
@@ -144,12 +184,12 @@
     {
       "title": "【计算机网络】| 详解链路层：MAC 地址与VLAN",
       "url": "https://blog.csdn.net/2503_94545876/article/details/168133225",
-      "last_hot_value": "8147",
+      "last_hot_value": "5650",
       "first_seen_at": "2026-10-18T10:20:55",
-      "last_seen_at": "2026-10-18T10:20:55",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-18T17:19:34",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "时序数据库是什么？2026 年五款工业时序数据库横评与场景解析",
@@ -182,14 +222,24 @@
       "is_new": false
     },
     {
-      "title": "【AI智能体】Langchain 结构化输出结果实战操作详解",
-      "url": "https://blog.csdn.net/congge_study/article/details/165491045",
-      "last_hot_value": "6549",
-      "first_seen_at": "2026-10-18T10:20:55",
-      "last_seen_at": "2026-10-18T10:20:55",
+      "title": "读对了，做错了：决策模型的错多数不在读这一层",
+      "url": "https://blog.csdn.net/wodekouwei/article/details/168145769",
+      "last_hot_value": "6013",
+      "first_seen_at": "2026-10-18T17:19:34",
+      "last_seen_at": "2026-10-18T17:19:34",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
+    },
+    {
+      "title": "【AI智能体】Langchain 结构化输出结果实战操作详解",
+      "url": "https://blog.csdn.net/congge_study/article/details/165491045",
+      "last_hot_value": "5612",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T17:19:34",
+      "consecutive_count": 2,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "网络原理｜第一阶段：网络层、IP 数据报、网络接口与逐跳转发机制",
@@ -212,14 +262,24 @@
       "is_new": false
     },
     {
+      "title": "K8s Ingress 返回 502 但后端日志正常：4 类上游断连与排查链",
+      "url": "https://blog.csdn.net/2501_92769340/article/details/167498389",
+      "last_hot_value": "5753",
+      "first_seen_at": "2026-10-18T17:19:34",
+      "last_seen_at": "2026-10-18T17:19:34",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "预训练数据处理_清洗去重质量过滤",
       "url": "https://blog.csdn.net/2302_78391795/article/details/168221767",
       "last_hot_value": "6221",
       "first_seen_at": "2026-10-18T10:20:55",
       "last_seen_at": "2026-10-18T10:20:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "BPE 是怎么把一个中文词切碎的",
@@ -237,9 +297,9 @@
       "last_hot_value": "5991",
       "first_seen_at": "2026-10-18T10:20:55",
       "last_seen_at": "2026-10-18T10:20:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【C++/薄弱梳理】RAII-智能指针-异常-移动语义",
@@ -267,9 +327,9 @@
       "last_hot_value": "5756",
       "first_seen_at": "2026-10-18T10:20:55",
       "last_seen_at": "2026-10-18T10:20:55",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Agent 事件驱动架构：从轮询到事件触发的架构升级",
