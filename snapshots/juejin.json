@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-10-17T03:20:21",
+  "update_time": "2026-10-18T10:20:54",
   "items": [
+    {
+      "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
+      "url": "https://juejin.cn/post/7697075629647003698",
+      "last_hot_value": "热度:2295",
+      "first_seen_at": "2026-10-16T15:54:10",
+      "last_seen_at": "2026-10-18T10:20:54",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "老干妈靠AI闷赚54亿，你的AI还在写文案？",
       "url": "https://juejin.cn/post/7696118815167807539",
       "last_hot_value": "热度:1710",
       "first_seen_at": "2026-10-16T00:09:05",
       "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -22,13 +32,33 @@
       "is_new": false
     },
     {
+      "title": "一个周末就想把短链服务推到 10 万 QPS，真能靠加 Redis 做到吗？",
+      "url": "https://juejin.cn/post/7696889902293614642",
+      "last_hot_value": "热度:1602",
+      "first_seen_at": "2026-10-18T10:20:54",
+      "last_seen_at": "2026-10-18T10:20:54",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
       "title": "把 AutoCAD 搬进浏览器，到底有多难？聊聊 CADCraft、OpenCAD Studio 和 MLightCAD",
       "url": "https://juejin.cn/post/7696483064553701376",
       "last_hot_value": "热度:1233",
       "first_seen_at": "2026-10-16T00:09:05",
       "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "中国 3D CAD 的突围之路：当 AI 开始挑战几何内核",
+      "url": "https://juejin.cn/post/7696820671752323107",
+      "last_hot_value": "热度:918",
+      "first_seen_at": "2026-10-17T03:20:21",
+      "last_seen_at": "2026-10-18T10:20:54",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -37,7 +67,7 @@
       "last_hot_value": "热度:1071",
       "first_seen_at": "2026-10-16T00:09:05",
       "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,14 +82,14 @@
       "is_new": false
     },
     {
-      "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
-      "url": "https://juejin.cn/post/7697075629647003698",
-      "last_hot_value": "热度:720",
-      "first_seen_at": "2026-10-16T15:54:10",
-      "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 2,
+      "title": "学会 SQLAlchemy 搭建 Python 与 MySQL 之间的数据访问桥梁 🚀",
+      "url": "https://juejin.cn/post/7697168479082889243",
+      "last_hot_value": "热度:675",
+      "first_seen_at": "2026-10-18T10:20:54",
+      "last_seen_at": "2026-10-18T10:20:54",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA",
@@ -72,12 +102,22 @@
       "is_new": false
     },
     {
+      "title": "汽水music自动看广告领取VIP",
+      "url": "https://juejin.cn/post/7696662898144870451",
+      "last_hot_value": "热度:504",
+      "first_seen_at": "2026-10-17T03:20:21",
+      "last_seen_at": "2026-10-18T10:20:54",
+      "consecutive_count": 2,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
       "title": "AI 时代，软件程序员未来 10—15 年的职业前景",
       "url": "https://juejin.cn/post/7696118815168954419",
       "last_hot_value": "热度:684",
       "first_seen_at": "2026-10-16T15:54:10",
       "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -92,21 +132,31 @@
       "is_new": false
     },
     {
+      "title": "Qoder sonus模型 20分钟，复刻 马斯克 飞天汽车",
+      "url": "https://juejin.cn/post/7696838570036314148",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-10-18T10:20:54",
+      "last_seen_at": "2026-10-18T10:20:54",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "腾讯又交作业了，开源版 WorkBuddy 太夯了！这回是只粉色小章鱼Octop!",
       "url": "https://juejin.cn/post/7696461528959090731",
       "last_hot_value": "热度:576",
       "first_seen_at": "2026-10-16T15:54:10",
       "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "中国 3D CAD 的突围之路：当 AI 开始挑战几何内核",
-      "url": "https://juejin.cn/post/7696820671752323107",
-      "last_hot_value": "热度:576",
-      "first_seen_at": "2026-10-17T03:20:21",
-      "last_seen_at": "2026-10-17T03:20:21",
+      "title": "前端转全栈最低成本的技术栈选择",
+      "url": "https://juejin.cn/post/7696713457149362230",
+      "last_hot_value": "热度:351",
+      "first_seen_at": "2026-10-18T10:20:54",
+      "last_seen_at": "2026-10-18T10:20:54",
       "consecutive_count": 1,
       "peak_rank": 7,
       "is_new": true
@@ -117,7 +167,7 @@
       "last_hot_value": "热度:531",
       "first_seen_at": "2026-10-16T15:54:10",
       "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -132,6 +182,16 @@
       "is_new": false
     },
     {
+      "title": "程序员 1v1 访谈系列第三期：先不要想在工作中有突破",
+      "url": "https://juejin.cn/post/7696767647511691299",
+      "last_hot_value": "热度:279",
+      "first_seen_at": "2026-10-18T10:20:54",
+      "last_seen_at": "2026-10-18T10:20:54",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "程序员 1v1 访谈系列第二期：很焦虑但又不知道干啥",
       "url": "https://juejin.cn/post/7696056043500716066",
       "last_hot_value": "热度:459",
@@ -142,12 +202,22 @@
       "is_new": false
     },
     {
+      "title": "前端是如何死去的？| 完整时间线",
+      "url": "https://juejin.cn/post/7696709714028216370",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-10-18T10:20:54",
+      "last_seen_at": "2026-10-18T10:20:54",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
       "title": "我让 Gemini 4 当高管、DeepSeek 当员工，开了一家软件公司（Day 1）",
       "url": "https://juejin.cn/post/7696083307454038026",
       "last_hot_value": "热度:405",
       "first_seen_at": "2026-10-16T15:54:10",
       "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -162,11 +232,11 @@
       "is_new": false
     },
     {
-      "title": "汽水music自动看广告领取VIP",
-      "url": "https://juejin.cn/post/7696662898144870451",
-      "last_hot_value": "热度:369",
-      "first_seen_at": "2026-10-17T03:20:21",
-      "last_seen_at": "2026-10-17T03:20:21",
+      "title": "浏览器为什么加载不了超大图片",
+      "url": "https://juejin.cn/post/7697087660390547466",
+      "last_hot_value": "热度:207",
+      "first_seen_at": "2026-10-18T10:20:54",
+      "last_seen_at": "2026-10-18T10:20:54",
       "consecutive_count": 1,
       "peak_rank": 10,
       "is_new": true

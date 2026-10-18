@@ -1302,171 +1302,10 @@
     "reason": "获取失败（已重试 3 次）"
   },
   {
-    "platform_type": "netease-music",
-    "platform_name": "网易云音乐",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-10-17T14:50:42",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "qq-music",
-    "platform_name": "QQ音乐",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-10-17T14:50:51",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "weread",
-    "platform_name": "微信读书",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-10-17T14:50:59",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "weatheralarm",
-    "platform_name": "天气预警",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-10-17T14:51:08",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "earthquake",
-    "platform_name": "地震速报",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-10-17T14:51:16",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "history",
-    "platform_name": "历史上的今天",
-    "category_name": "音乐·阅读·生活",
-    "failed_at": "2026-10-17T14:51:24",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "baidu",
-    "platform_name": "百度热搜",
-    "category_name": "新闻·资讯",
-    "failed_at": "2026-10-17T17:44:46",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "toutiao",
-    "platform_name": "今日头条",
-    "category_name": "新闻·资讯",
-    "failed_at": "2026-10-17T17:44:54",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "thepaper",
-    "platform_name": "澎湃新闻",
-    "category_name": "新闻·资讯",
-    "failed_at": "2026-10-17T17:45:02",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "sina-news",
-    "platform_name": "新浪新闻",
-    "category_name": "新闻·资讯",
-    "failed_at": "2026-10-17T17:45:10",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "netease-news",
-    "platform_name": "网易新闻",
-    "category_name": "新闻·资讯",
-    "failed_at": "2026-10-17T17:45:18",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "qq-news",
-    "platform_name": "腾讯新闻",
-    "category_name": "新闻·资讯",
-    "failed_at": "2026-10-17T17:45:26",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "v2ex",
-    "platform_name": "V2EX",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:55:42",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "juejin",
-    "platform_name": "掘金",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:55:51",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "csdn",
-    "platform_name": "CSDN",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:56:00",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "51cto",
-    "platform_name": "51CTO",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:56:08",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "ithome",
-    "platform_name": "IT之家",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:56:16",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "sspai",
-    "platform_name": "少数派",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:56:24",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "ifanr",
-    "platform_name": "爱范儿",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:56:32",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "hellogithub",
-    "platform_name": "HelloGitHub",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:56:40",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "nodeseek",
-    "platform_name": "NodeSeek",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:56:48",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "52pojie",
-    "platform_name": "吾爱破解",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:56:57",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
     "platform_type": "hostloc",
     "platform_name": "全球主机交流",
     "category_name": "科技·开发者",
     "failed_at": "2026-10-17T19:57:05",
-    "reason": "获取失败（已重试 3 次）"
-  },
-  {
-    "platform_type": "ithome-xijiayi",
-    "platform_name": "IT之家喜加一",
-    "category_name": "科技·开发者",
-    "failed_at": "2026-10-17T19:57:13",
     "reason": "获取失败（已重试 3 次）"
   },
   {
@@ -1719,6 +1558,48 @@
     "platform_name": "IT之家喜加一",
     "category_name": "科技·开发者",
     "failed_at": "2026-10-18T06:24:11",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-movie",
+    "platform_name": "豆瓣电影",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-18T10:25:48",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-group",
+    "platform_name": "豆瓣小组",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-18T10:25:56",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "jianshu",
+    "platform_name": "简书",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-18T10:26:04",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ngabbs",
+    "platform_name": "NGA论坛",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-18T10:26:12",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hupu",
+    "platform_name": "虎扑",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-18T10:26:20",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "coolapk",
+    "platform_name": "酷安",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-18T10:26:28",
     "reason": "获取失败（已重试 3 次）"
   }
 ]

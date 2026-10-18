@@ -1,33 +1,53 @@
 {
-  "update_time": "2026-10-17T03:20:32",
+  "update_time": "2026-10-18T10:21:07",
   "items": [
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:266248 回复:2348",
+      "first_seen_at": "2026-10-16T00:10:04",
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 7,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
       "url": "https://www.nodeseek.com/post-572284-1",
-      "last_hot_value": "查看:85057 回复:222",
+      "last_hot_value": "查看:85725 回复:226",
       "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "极简探针，它终于开源发布了！",
       "url": "https://www.nodeseek.com/post-925236-1",
-      "last_hot_value": "查看:21531 回复:300",
+      "last_hot_value": "查看:21694 回复:300",
       "first_seen_at": "2026-10-16T00:10:04",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 6,
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 7,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:254120 回复:3154",
+      "first_seen_at": "2026-10-16T00:10:04",
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 7,
+      "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
       "url": "https://www.nodeseek.com/post-824558-1",
-      "last_hot_value": "查看:13049 回复:166",
+      "last_hot_value": "查看:13198 回复:167",
       "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 3,
       "peak_rank": 2,
       "is_new": false
     },
@@ -37,18 +57,8 @@
       "last_hot_value": "查看:113870 回复:285",
       "first_seen_at": "2026-10-16T00:09:16",
       "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:265637 回复:2342",
-      "first_seen_at": "2026-10-16T00:10:04",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 6,
-      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -57,29 +67,39 @@
       "last_hot_value": "查看:4861 回复:36",
       "first_seen_at": "2026-10-16T00:09:16",
       "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "懒人教程，通过dd迁移kvm服务器数据，不用重新安装软件",
       "url": "https://www.nodeseek.com/post-120-1",
-      "last_hot_value": "查看:1608 回复:8",
+      "last_hot_value": "查看:1615 回复:8",
       "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 3,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:253612 回复:3150",
-      "first_seen_at": "2026-10-16T00:10:04",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 6,
+      "title": "nametra.de NS官方米表开启公测，欢迎大家试用体验！",
+      "url": "https://www.nodeseek.com/post-373751-1",
+      "last_hot_value": "查看:317009 回复:540",
+      "first_seen_at": "2026-10-18T10:21:07",
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
+      "url": "https://www.nodeseek.com/post-786238-1",
+      "last_hot_value": "查看:5831 回复:63",
+      "first_seen_at": "2026-10-18T10:21:07",
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "Telegram 解封渠道大全",
@@ -94,10 +114,10 @@
     {
       "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
       "url": "https://www.nodeseek.com/post-584268-1",
-      "last_hot_value": "查看:31907 回复:198",
+      "last_hot_value": "查看:32020 回复:198",
       "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -114,10 +134,10 @@
     {
       "title": "NS官方邮箱系统正式版(V2)",
       "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:96965 回复:646",
+      "last_hot_value": "查看:97491 回复:646",
       "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-18T10:21:07",
+      "consecutive_count": 3,
       "peak_rank": 8,
       "is_new": false
     },

@@ -1,35 +1,55 @@
 {
-  "update_time": "2026-10-16T15:54:06",
+  "update_time": "2026-10-18T10:20:38",
   "items": [
+    {
+      "title": "M4.3 缅甸",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "4.3级",
+      "first_seen_at": "2026-10-18T10:20:38",
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "M6.9 俄罗斯堪察加半岛",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "6.9级",
       "first_seen_at": "2026-10-16T15:54:06",
-      "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.1 新疆塔城地区乌苏市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-10-16T00:12:49",
-      "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 4,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "M3.2 新疆巴音郭楞州和静县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.2级",
+      "first_seen_at": "2026-10-18T10:20:38",
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "M3.1 青海海南州兴海县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
       "last_hot_value": "3.1级",
       "first_seen_at": "2026-10-16T15:54:06",
-      "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "M3.4 辽宁盘锦市双台子区",
@@ -37,9 +57,19 @@
       "last_hot_value": "3.4级",
       "first_seen_at": "2026-10-16T00:12:49",
       "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "M3.8 西藏阿里地区改则县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.8级",
+      "first_seen_at": "2026-10-18T10:20:38",
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "M3.3 新疆昌吉州木垒县",
@@ -47,9 +77,19 @@
       "last_hot_value": "3.3级",
       "first_seen_at": "2026-10-16T00:12:49",
       "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "M3.0 新疆阿克苏地区乌什县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-10-18T10:20:38",
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "M6.7 中大西洋海岭中部",
@@ -57,9 +97,19 @@
       "last_hot_value": "6.7级",
       "first_seen_at": "2026-10-16T00:12:49",
       "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "M5.9 巴基斯坦",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "5.9级",
+      "first_seen_at": "2026-10-18T10:20:38",
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "M4.4 内蒙古阿拉善盟阿拉善左旗",
@@ -67,9 +117,19 @@
       "last_hot_value": "4.4级",
       "first_seen_at": "2026-10-16T00:12:49",
       "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "M3.0 西藏日喀则市拉孜县",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-10-18T10:20:38",
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "M6.1 巴拿马以南海域",
@@ -77,9 +137,19 @@
       "last_hot_value": "6.1级",
       "first_seen_at": "2026-10-16T00:12:49",
       "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "M3.2 新疆阿克苏地区库车市",
+      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
+      "last_hot_value": "3.2级",
+      "first_seen_at": "2026-10-18T10:20:38",
+      "last_seen_at": "2026-10-18T10:20:38",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "M3.6 宁夏固原市原州区",
@@ -87,7 +157,7 @@
       "last_hot_value": "3.6级",
       "first_seen_at": "2026-10-16T00:12:49",
       "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
@@ -97,7 +167,7 @@
       "last_hot_value": "3.7级",
       "first_seen_at": "2026-10-16T00:12:49",
       "last_seen_at": "2026-10-16T15:54:06",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },

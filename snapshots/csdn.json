@@ -1,13 +1,23 @@
 {
-  "update_time": "2026-10-17T03:20:23",
+  "update_time": "2026-10-18T10:20:55",
   "items": [
+    {
+      "title": "TimechoAI：让时序预测更易用，让数据真正参与决策",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/168029388",
+      "last_hot_value": "2.2w",
+      "first_seen_at": "2026-10-16T15:54:12",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "信息抽取的上限，在字段定义时就定了：4 份企业文档实测 AI Agent 与 Scriber",
       "url": "https://blog.csdn.net/Dovis5884/article/details/168018660",
       "last_hot_value": "1.9w",
       "first_seen_at": "2026-10-16T00:09:07",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
@@ -17,19 +27,29 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-10-16T00:09:07",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "TimechoAI：让时序预测更易用，让数据真正参与决策",
-      "url": "https://blog.csdn.net/lrq13965748542/article/details/168029388",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-10-16T15:54:12",
-      "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 2,
+      "title": "Linux 网络：序列化与反序列化",
+      "url": "https://blog.csdn.net/AbandonForce/article/details/168248445",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "【Plain Language Large Model】【开源闭源选型终极指南：三维度决策框架】流食般投喂",
+      "url": "https://blog.csdn.net/dj_798/article/details/168027166",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "260+异构同步链路实战：KFS如何实现DDL语义化自动翻译，破解CDC同步痛点",
@@ -37,7 +57,7 @@
       "last_hot_value": "6273",
       "first_seen_at": "2026-10-16T00:09:07",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
     },
@@ -52,12 +72,22 @@
       "is_new": false
     },
     {
+      "title": "Agent 接入企业微信/钉钉：渠道对接实",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/168146030",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
       "title": "【AI】为什么和 AI 聊久了，它就开始忘事？",
       "url": "https://blog.csdn.net/2501_91731683/article/details/168018570",
       "last_hot_value": "7840",
       "first_seen_at": "2026-10-16T00:09:07",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 7,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
     },
@@ -82,12 +112,22 @@
       "is_new": false
     },
     {
+      "title": "设备监控数据怎么存、怎么查？Spring Boot + TimescaleDB 完整实战",
+      "url": "https://blog.csdn.net/2403_86779341/article/details/168145850",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
       "title": "【计算几何 排样】libnest2d的放置器",
       "url": "https://blog.csdn.net/he_zhidan/article/details/166848774",
       "last_hot_value": "7629",
       "first_seen_at": "2026-10-16T00:09:07",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -102,14 +142,24 @@
       "is_new": false
     },
     {
+      "title": "【计算机网络】| 详解链路层：MAC 地址与VLAN",
+      "url": "https://blog.csdn.net/2503_94545876/article/details/168133225",
+      "last_hot_value": "8147",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
       "title": "时序数据库是什么？2026 年五款工业时序数据库横评与场景解析",
       "url": "https://blog.csdn.net/lbbxmx111/article/details/167919914",
       "last_hot_value": "7329",
       "first_seen_at": "2026-10-17T03:20:23",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AI Agent 工程化开发实战（一）：Agent 开发的四个层次——积木、运行时、薄壳、套件",
@@ -132,14 +182,24 @@
       "is_new": false
     },
     {
+      "title": "【AI智能体】Langchain 结构化输出结果实战操作详解",
+      "url": "https://blog.csdn.net/congge_study/article/details/165491045",
+      "last_hot_value": "6549",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "网络原理｜第一阶段：网络层、IP 数据报、网络接口与逐跳转发机制",
       "url": "https://blog.csdn.net/2401_86112610/article/details/167928960",
       "last_hot_value": "6829",
       "first_seen_at": "2026-10-17T03:20:23",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "1956亿行时序数据只存“1/45“？聊聊金仓时序数据库背后的压缩与写入硬功夫",
@@ -152,13 +212,33 @@
       "is_new": false
     },
     {
+      "title": "预训练数据处理_清洗去重质量过滤",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/168221767",
+      "last_hot_value": "6221",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
       "title": "BPE 是怎么把一个中文词切碎的",
       "url": "https://blog.csdn.net/Mrxiao_bo/article/details/168015099",
       "last_hot_value": "6785",
       "first_seen_at": "2026-10-17T03:20:23",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "Redis 从 0 到 1（十一）：缓存穿透/击穿/雪崩三连击，Go 3 套防御代码",
+      "url": "https://blog.csdn.net/2501_92769340/article/details/167399690",
+      "last_hot_value": "5991",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -167,9 +247,9 @@
       "last_hot_value": "6414",
       "first_seen_at": "2026-10-17T03:20:23",
       "last_seen_at": "2026-10-17T03:20:23",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "C++ 异步任务的结果怎么拿回来？一文讲清 future、async、promise、shared_future 与 packaged_task",
@@ -180,6 +260,16 @@
       "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "Linux系统——进程间通信之管道",
+      "url": "https://blog.csdn.net/2501_93697341/article/details/167586574",
+      "last_hot_value": "5756",
+      "first_seen_at": "2026-10-18T10:20:55",
+      "last_seen_at": "2026-10-18T10:20:55",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "Agent 事件驱动架构：从轮询到事件触发的架构升级",
