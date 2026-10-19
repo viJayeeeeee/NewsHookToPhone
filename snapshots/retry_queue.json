@@ -1335,5 +1335,89 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-10-19T06:52:23",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "v2ex",
+    "platform_name": "V2EX",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:49:56",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "juejin",
+    "platform_name": "掘金",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:50:04",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "csdn",
+    "platform_name": "CSDN",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:50:12",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "51cto",
+    "platform_name": "51CTO",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:50:20",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ithome",
+    "platform_name": "IT之家",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:50:28",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sspai",
+    "platform_name": "少数派",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:50:36",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ifanr",
+    "platform_name": "爱范儿",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:50:44",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hellogithub",
+    "platform_name": "HelloGitHub",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:50:52",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "nodeseek",
+    "platform_name": "NodeSeek",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:51:00",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "52pojie",
+    "platform_name": "吾爱破解",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:51:08",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hostloc",
+    "platform_name": "全球主机交流",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:51:16",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ithome-xijiayi",
+    "platform_name": "IT之家喜加一",
+    "category_name": "科技·开发者",
+    "failed_at": "2026-10-19T19:51:24",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
