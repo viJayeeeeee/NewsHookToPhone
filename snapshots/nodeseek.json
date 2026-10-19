@@ -1,74 +1,64 @@
 {
-  "update_time": "2026-10-18T10:21:07",
+  "update_time": "2026-10-19T14:00:17",
   "items": [
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:266248 回复:2348",
-      "first_seen_at": "2026-10-16T00:10:04",
-      "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 7,
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:255010 回复:3164",
+      "first_seen_at": "2026-10-19T13:58:23",
+      "last_seen_at": "2026-10-19T14:00:17",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
       "url": "https://www.nodeseek.com/post-572284-1",
-      "last_hot_value": "查看:85725 回复:226",
+      "last_hot_value": "查看:86203 回复:226",
       "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-18T10:21:07",
+      "last_seen_at": "2026-10-19T14:00:17",
+      "consecutive_count": 7,
+      "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:267442 回复:2356",
+      "first_seen_at": "2026-10-19T13:58:23",
+      "last_seen_at": "2026-10-19T14:00:17",
       "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "极简探针，它终于开源发布了！",
-      "url": "https://www.nodeseek.com/post-925236-1",
-      "last_hot_value": "查看:21694 回复:300",
-      "first_seen_at": "2026-10-16T00:10:04",
-      "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:254120 回复:3154",
-      "first_seen_at": "2026-10-16T00:10:04",
-      "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
       "url": "https://www.nodeseek.com/post-824558-1",
-      "last_hot_value": "查看:13198 回复:167",
+      "last_hot_value": "查看:13259 回复:167",
       "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 3,
+      "last_seen_at": "2026-10-19T14:00:17",
+      "consecutive_count": 7,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——IP质量体检脚本# bash <(curl -sL IP.Check.Place)",
-      "url": "https://www.nodeseek.com/post-105666-1",
-      "last_hot_value": "查看:113870 回复:285",
-      "first_seen_at": "2026-10-16T00:09:16",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "📢 Claude Code 是如何知道你在中国大陆的？",
-      "url": "https://www.nodeseek.com/post-804404-1",
-      "last_hot_value": "查看:4861 回复:36",
-      "first_seen_at": "2026-10-16T00:09:16",
-      "last_seen_at": "2026-10-17T03:20:32",
-      "consecutive_count": 0,
+      "title": "常见VPS测试方法",
+      "url": "https://www.nodeseek.com/post-726469-1",
+      "last_hot_value": "查看:6757 回复:118",
+      "first_seen_at": "2026-10-19T13:57:57",
+      "last_seen_at": "2026-10-19T14:00:17",
+      "consecutive_count": 4,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
+      "url": "https://www.nodeseek.com/post-286885-1",
+      "last_hot_value": "查看:255269 回复:515",
+      "first_seen_at": "2026-10-19T13:57:57",
+      "last_seen_at": "2026-10-19T14:00:17",
+      "consecutive_count": 4,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -77,8 +67,18 @@
       "last_hot_value": "查看:1615 回复:8",
       "first_seen_at": "2026-10-16T15:54:22",
       "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 3,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
+      "url": "https://www.nodeseek.com/post-865242-1",
+      "last_hot_value": "查看:46136 回复:318",
+      "first_seen_at": "2026-10-19T13:58:23",
+      "last_seen_at": "2026-10-19T14:00:17",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -87,9 +87,19 @@
       "last_hot_value": "查看:317009 回复:540",
       "first_seen_at": "2026-10-18T10:21:07",
       "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
+      "url": "https://www.nodeseek.com/post-584268-1",
+      "last_hot_value": "查看:32193 回复:201",
+      "first_seen_at": "2026-10-16T15:54:22",
+      "last_seen_at": "2026-10-19T14:00:17",
+      "consecutive_count": 7,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
@@ -97,38 +107,28 @@
       "last_hot_value": "查看:5831 回复:63",
       "first_seen_at": "2026-10-18T10:21:07",
       "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "Telegram 解封渠道大全",
-      "url": "https://www.nodeseek.com/post-309892-1",
-      "last_hot_value": "查看:6174 回复:39",
-      "first_seen_at": "2026-10-16T00:09:16",
-      "last_seen_at": "2026-10-16T00:13:26",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
-      "url": "https://www.nodeseek.com/post-584268-1",
-      "last_hot_value": "查看:32020 回复:198",
-      "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-18T10:21:07",
+      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
+      "url": "https://www.nodeseek.com/post-287967-1",
+      "last_hot_value": "查看:105353 回复:819",
+      "first_seen_at": "2026-10-19T13:58:23",
+      "last_seen_at": "2026-10-19T14:00:17",
       "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
-      "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:45191 回复:316",
-      "first_seen_at": "2026-10-16T00:09:16",
-      "last_seen_at": "2026-10-16T00:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 7,
+      "title": "NAT机商家合集-置顶每月更新中",
+      "url": "https://www.nodeseek.com/post-54366-1",
+      "last_hot_value": "查看:161452 回复:409",
+      "first_seen_at": "2026-10-19T13:58:23",
+      "last_seen_at": "2026-10-19T14:00:17",
+      "consecutive_count": 3,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -137,38 +137,8 @@
       "last_hot_value": "查看:97491 回复:646",
       "first_seen_at": "2026-10-16T15:54:22",
       "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 3,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:104664 回复:817",
-      "first_seen_at": "2026-10-16T00:09:16",
-      "last_seen_at": "2026-10-16T00:13:26",
       "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "[开源] 受够了安卓端鱼龙混杂的格式转换应用，我写了一个免费无广告的纯本地转换工具——ZenConverter",
-      "url": "https://www.nodeseek.com/post-824182-1",
-      "last_hot_value": "查看:2370 回复:30",
-      "first_seen_at": "2026-10-16T00:09:16",
-      "last_seen_at": "2026-10-16T00:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "NAT机商家合集-置顶每月更新中",
-      "url": "https://www.nodeseek.com/post-54366-1",
-      "last_hot_value": "查看:160492 回复:408",
-      "first_seen_at": "2026-10-16T00:09:16",
-      "last_seen_at": "2026-10-16T00:13:26",
-      "consecutive_count": 0,
-      "peak_rank": 10,
       "is_new": false
     }
   ]

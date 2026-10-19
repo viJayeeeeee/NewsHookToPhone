@@ -1,84 +1,64 @@
 {
-  "update_time": "2026-10-18T10:20:31",
+  "update_time": "2026-10-19T13:59:43",
   "items": [
     {
       "title": "我不难过",
       "url": "https://music.163.com/#/song?id=287398",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:13:52",
-      "last_seen_at": "2026-10-18T10:20:31",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-19T13:59:43",
+      "last_seen_at": "2026-10-19T13:59:43",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "海屿你",
       "url": "https://music.163.com/#/song?id=1973665667",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:13:52",
-      "last_seen_at": "2026-10-18T10:20:31",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "罗生门（Follow）",
-      "url": "https://music.163.com/#/song?id=1456890009",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:13:52",
-      "last_seen_at": "2026-10-18T10:20:31",
+      "first_seen_at": "2026-10-19T13:59:43",
+      "last_seen_at": "2026-10-19T13:59:43",
       "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": false
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "如果呢",
       "url": "https://music.163.com/#/song?id=1842728629",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:12:43",
-      "last_seen_at": "2026-10-18T10:20:31",
+      "first_seen_at": "2026-10-19T13:59:43",
+      "last_seen_at": "2026-10-19T13:59:43",
       "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "红",
-      "url": "https://music.163.com/#/song?id=1918576268",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:12:43",
-      "last_seen_at": "2026-10-16T15:53:59",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "天龙八部之宿敌",
       "url": "https://music.163.com/#/song?id=167691",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:12:43",
-      "last_seen_at": "2026-10-18T10:20:31",
-      "consecutive_count": 4,
+      "first_seen_at": "2026-10-19T13:59:43",
+      "last_seen_at": "2026-10-19T13:59:43",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "甲乙丙丁 (你我怎么两清)",
       "url": "https://music.163.com/#/song?id=3399839173",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:13:52",
-      "last_seen_at": "2026-10-18T10:20:31",
-      "consecutive_count": 3,
-      "peak_rank": 4,
-      "is_new": false
+      "first_seen_at": "2026-10-19T13:59:43",
+      "last_seen_at": "2026-10-19T13:59:43",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
-      "title": "明知故犯",
-      "url": "https://music.163.com/#/song?id=3342319503",
+      "title": "忘不掉的你",
+      "url": "https://music.163.com/#/song?id=1851652156",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:13:52",
-      "last_seen_at": "2026-10-18T10:20:31",
-      "consecutive_count": 3,
-      "peak_rank": 5,
+      "first_seen_at": "2026-10-16T15:53:59",
+      "last_seen_at": "2026-10-19T13:59:43",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -87,29 +67,39 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-10-18T10:20:31",
       "last_seen_at": "2026-10-18T10:20:31",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "忘不掉的你",
-      "url": "https://music.163.com/#/song?id=1851652156",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T15:53:59",
-      "last_seen_at": "2026-10-16T15:53:59",
       "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
     {
+      "title": "明知故犯",
+      "url": "https://music.163.com/#/song?id=3342319503",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-10-19T13:59:43",
+      "last_seen_at": "2026-10-19T13:59:43",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
       "title": "恋人",
       "url": "https://music.163.com/#/song?id=2600493765",
       "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:13:52",
-      "last_seen_at": "2026-10-18T10:20:31",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-19T13:59:43",
+      "last_seen_at": "2026-10-19T13:59:43",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "罗生门（Follow）",
+      "url": "https://music.163.com/#/song?id=1456890009",
+      "last_hot_value": "热度:0",
+      "first_seen_at": "2026-10-19T13:59:43",
+      "last_seen_at": "2026-10-19T13:59:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "回到你身边",
@@ -126,10 +116,10 @@
       "url": "https://music.163.com/#/song?id=2097443876",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-10-18T10:20:31",
-      "last_seen_at": "2026-10-18T10:20:31",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-19T13:59:43",
+      "consecutive_count": 3,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "全息恋人",
@@ -137,16 +127,6 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-10-16T15:53:59",
       "last_seen_at": "2026-10-16T15:53:59",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "玻璃",
-      "url": "https://music.163.com/#/song?id=3382908505",
-      "last_hot_value": "热度:0",
-      "first_seen_at": "2026-10-16T00:13:52",
-      "last_seen_at": "2026-10-16T00:13:52",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

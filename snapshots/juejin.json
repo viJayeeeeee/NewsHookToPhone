@@ -1,54 +1,44 @@
 {
-  "update_time": "2026-10-18T17:19:33",
+  "update_time": "2026-10-19T13:59:56",
   "items": [
+    {
+      "title": "一个周末就想把短链服务推到 10 万 QPS，真能靠加 Redis 做到吗？",
+      "url": "https://juejin.cn/post/7696889902293614642",
+      "last_hot_value": "热度:2250",
+      "first_seen_at": "2026-10-18T10:20:54",
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "本来只想给内网开个口子，Natapp 却多给了一道防护",
       "url": "https://juejin.cn/post/7697075629647003698",
       "last_hot_value": "热度:2367",
       "first_seen_at": "2026-10-16T15:54:10",
       "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 4,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "老干妈靠AI闷赚54亿，你的AI还在写文案？",
-      "url": "https://juejin.cn/post/7696118815167807539",
-      "last_hot_value": "热度:1710",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-17T03:20:21",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "SQL 编辑器不只是写查询：我用 KStudio 排查一次订单异常",
-      "url": "https://juejin.cn/post/7695939202564669474",
-      "last_hot_value": "热度:2232",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-16T00:13:16",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "一个周末就想把短链服务推到 10 万 QPS，真能靠加 Redis 做到吗？",
-      "url": "https://juejin.cn/post/7696889902293614642",
-      "last_hot_value": "热度:1809",
+      "title": "学会 SQLAlchemy 搭建 Python 与 MySQL 之间的数据访问桥梁 🚀",
+      "url": "https://juejin.cn/post/7697168479082889243",
+      "last_hot_value": "热度:738",
       "first_seen_at": "2026-10-18T10:20:54",
-      "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 5,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "把 AutoCAD 搬进浏览器，到底有多难？聊聊 CADCraft、OpenCAD Studio 和 MLightCAD",
-      "url": "https://juejin.cn/post/7696483064553701376",
-      "last_hot_value": "热度:1233",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 0,
-      "peak_rank": 2,
+      "title": "2026年的前端：你引以为傲的框架，正在被浏览器原生能力“架空”",
+      "url": "https://juejin.cn/post/7697134861442039849",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-10-19T13:58:11",
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -57,48 +47,28 @@
       "last_hot_value": "热度:945",
       "first_seen_at": "2026-10-17T03:20:21",
       "last_seen_at": "2026-10-18T17:19:33",
+      "consecutive_count": 0,
+      "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "两个 WorkBuddy 客户端总被“合并”解决方法",
+      "url": "https://juejin.cn/post/7697162867455688719",
+      "last_hot_value": "热度:378",
+      "first_seen_at": "2026-10-19T13:58:11",
+      "last_seen_at": "2026-10-19T13:59:56",
       "consecutive_count": 3,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "REA：逆向工程任何事物",
-      "url": "https://juejin.cn/post/7696077282666889250",
-      "last_hot_value": "热度:1071",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-17T03:20:21",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "甲方只给了一张卫星截图，我用 Three.js + Blender 建了一座 3D 能源站",
-      "url": "https://juejin.cn/post/7695697094277087272",
-      "last_hot_value": "热度:819",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-16T00:13:16",
-      "consecutive_count": 0,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "学会 SQLAlchemy 搭建 Python 与 MySQL 之间的数据访问桥梁 🚀",
-      "url": "https://juejin.cn/post/7697168479082889243",
-      "last_hot_value": "热度:684",
-      "first_seen_at": "2026-10-18T10:20:54",
-      "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 2,
       "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "太猛了，一个月干到15W+，给大家推荐一个最近爆火的开源逆向工具：REA",
-      "url": "https://juejin.cn/post/7696048084749484082",
-      "last_hot_value": "热度:837",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-16T15:54:10",
-      "consecutive_count": 0,
-      "peak_rank": 4,
+      "title": "玩了一天 REA，我号快没了",
+      "url": "https://juejin.cn/post/7698176323931979839",
+      "last_hot_value": "热度:369",
+      "first_seen_at": "2026-10-19T13:58:11",
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -107,7 +77,7 @@
       "last_hot_value": "热度:522",
       "first_seen_at": "2026-10-18T10:20:54",
       "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
     },
@@ -132,13 +102,13 @@
       "is_new": false
     },
     {
-      "title": "2028编程圈很火的10个Skills",
-      "url": "https://juejin.cn/post/7695999629460029466",
-      "last_hot_value": "热度:720",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-16T00:13:16",
-      "consecutive_count": 0,
-      "peak_rank": 5,
+      "title": "AI 帮我写的小程序「厨菜记」上线满月了，挣了两百块！！！",
+      "url": "https://juejin.cn/post/7697873433355304970",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-10-19T13:58:11",
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 3,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -147,7 +117,7 @@
       "last_hot_value": "热度:405",
       "first_seen_at": "2026-10-18T10:20:54",
       "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
     },
@@ -162,14 +132,24 @@
       "is_new": false
     },
     {
+      "title": "AI 流式输出都用 SSE，什么时候必须换 WebSocket？",
+      "url": "https://juejin.cn/post/7697591781001691163",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-10-19T13:58:11",
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 3,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
       "title": "数据集成软件 KFS：多套业务库汇聚时，先把来源和口径理清",
       "url": "https://juejin.cn/post/7697500325122277376",
       "last_hot_value": "热度:315",
       "first_seen_at": "2026-10-18T17:19:33",
       "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "使用 cad-viewer 搭建「预渲染 + 静态托管」的云端看图方案",
@@ -182,13 +162,13 @@
       "is_new": false
     },
     {
-      "title": "全程 AI 写的小程序，刚接上会员虚拟支付，上线第二天就有人真金白银买单了｜双签名、定价、iOS 的坑我全踩了一遍",
-      "url": "https://juejin.cn/post/7695698056566358066",
-      "last_hot_value": "热度:531",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-16T00:13:16",
-      "consecutive_count": 0,
-      "peak_rank": 7,
+      "title": "从Cursor到Codex，从Skills到Harness：AI编程正在经历第三次范式迁移",
+      "url": "https://juejin.cn/post/7672696268489408575",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-10-19T13:58:11",
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 3,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -197,7 +177,7 @@
       "last_hot_value": "热度:288",
       "first_seen_at": "2026-10-18T10:20:54",
       "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -212,14 +192,24 @@
       "is_new": false
     },
     {
+      "title": "从 0 到 1：我用 300 行代码给 AI 记忆加上了“不可篡改的收据”（附开源实现）",
+      "url": "https://juejin.cn/post/7697418750073929762",
+      "last_hot_value": "热度:180",
+      "first_seen_at": "2026-10-19T13:58:11",
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 3,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
       "title": "别再死磕纯技术了：2026 年程序员的 7 条真实出路",
       "url": "https://juejin.cn/post/7696817605548245002",
       "last_hot_value": "热度:252",
       "first_seen_at": "2026-10-18T17:19:33",
       "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "前端是如何死去的？| 完整时间线",
@@ -242,13 +232,13 @@
       "is_new": false
     },
     {
-      "title": "12个UI组件库，Star最低的下载最多",
-      "url": "https://juejin.cn/post/7695700837499519014",
-      "last_hot_value": "热度:504",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-16T00:13:16",
-      "consecutive_count": 0,
-      "peak_rank": 9,
+      "title": "别再花钱调 OCR 接口了！这个国产开源工具，免费还能离线跑",
+      "url": "https://juejin.cn/post/7697873433354485770",
+      "last_hot_value": "热度:171",
+      "first_seen_at": "2026-10-19T13:58:11",
+      "last_seen_at": "2026-10-19T13:59:56",
+      "consecutive_count": 3,
+      "peak_rank": 10,
       "is_new": false
     },
     {
@@ -257,16 +247,6 @@
       "last_hot_value": "热度:243",
       "first_seen_at": "2026-10-18T10:20:54",
       "last_seen_at": "2026-10-18T17:19:33",
-      "consecutive_count": 2,
-      "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "AI翻译都这么强了，为什么程序员还是躲不开英语？假如你想用上GPT6，我劝你还是早点背单词吧！",
-      "url": "https://juejin.cn/post/7695613699442311222",
-      "last_hot_value": "热度:477",
-      "first_seen_at": "2026-10-16T00:09:05",
-      "last_seen_at": "2026-10-16T00:13:16",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
