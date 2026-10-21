@@ -1720,5 +1720,26 @@
     "category_name": "文化·兴趣",
     "failed_at": "2026-10-20T23:04:53",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-10-21T01:19:35",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-10-21T01:19:45",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "guokr",
+    "platform_name": "果壳",
+    "category_name": "行业·商业",
+    "failed_at": "2026-10-21T01:19:53",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
