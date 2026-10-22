@@ -1,144 +1,104 @@
 {
-  "update_time": "2026-10-19T14:00:17",
+  "update_time": "2026-10-22T22:48:06",
   "items": [
     {
-      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
-      "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:255010 回复:3164",
-      "first_seen_at": "2026-10-19T13:58:23",
-      "last_seen_at": "2026-10-19T14:00:17",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
-      "url": "https://www.nodeseek.com/post-572284-1",
-      "last_hot_value": "查看:86203 回复:226",
-      "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-19T14:00:17",
-      "consecutive_count": 7,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:267442 回复:2356",
-      "first_seen_at": "2026-10-19T13:58:23",
-      "last_seen_at": "2026-10-19T14:00:17",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "【绝对有用】IPSuper，一眼看透IP纯净度、IP风险、原生与家宽、VPN与恶意流量识别",
-      "url": "https://www.nodeseek.com/post-824558-1",
-      "last_hot_value": "查看:13259 回复:167",
-      "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-19T14:00:17",
-      "consecutive_count": 7,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "常见VPS测试方法",
-      "url": "https://www.nodeseek.com/post-726469-1",
-      "last_hot_value": "查看:6757 回复:118",
-      "first_seen_at": "2026-10-19T13:57:57",
-      "last_seen_at": "2026-10-19T14:00:17",
+      "title": "【你我皆是oneman】发布CLICD开源一键便捷LXC/KVM管理项目",
+      "url": "https://www.nodeseek.com/post-762899-1",
+      "last_hot_value": "查看:6194 回复:122",
+      "first_seen_at": "2026-10-22T22:45:19",
+      "last_seen_at": "2026-10-22T22:48:06",
       "consecutive_count": 4,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "『更新，NFD2.0』 telegram私聊机器人，创建只需一分钟！替代Livegram Bot",
-      "url": "https://www.nodeseek.com/post-286885-1",
-      "last_hot_value": "查看:255269 回复:515",
-      "first_seen_at": "2026-10-19T13:57:57",
-      "last_seen_at": "2026-10-19T14:00:17",
-      "consecutive_count": 4,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "懒人教程，通过dd迁移kvm服务器数据，不用重新安装软件",
-      "url": "https://www.nodeseek.com/post-120-1",
-      "last_hot_value": "查看:1615 回复:8",
-      "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
-      "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:46136 回复:318",
-      "first_seen_at": "2026-10-19T13:58:23",
-      "last_seen_at": "2026-10-19T14:00:17",
-      "consecutive_count": 3,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "nametra.de NS官方米表开启公测，欢迎大家试用体验！",
-      "url": "https://www.nodeseek.com/post-373751-1",
-      "last_hot_value": "查看:317009 回复:540",
-      "first_seen_at": "2026-10-18T10:21:07",
-      "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "【原创首发】参考级测评脚本——硬件质量体检脚本bash <(curl -Ls Hardware.Check.Place)",
-      "url": "https://www.nodeseek.com/post-584268-1",
-      "last_hot_value": "查看:32193 回复:201",
-      "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-19T14:00:17",
-      "consecutive_count": 7,
-      "peak_rank": 6,
+      "peak_rank": 1,
       "is_new": false
     },
     {
       "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
       "url": "https://www.nodeseek.com/post-786238-1",
-      "last_hot_value": "查看:5831 回复:63",
-      "first_seen_at": "2026-10-18T10:21:07",
-      "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 0,
-      "peak_rank": 6,
+      "last_hot_value": "查看:6338 回复:70",
+      "first_seen_at": "2026-10-22T22:47:19",
+      "last_seen_at": "2026-10-22T22:48:06",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "【原创首发】参考级测评脚本——网络质量体检脚本 bash <(curl -Ls Net.Check.Place)",
-      "url": "https://www.nodeseek.com/post-287967-1",
-      "last_hot_value": "查看:105353 回复:819",
-      "first_seen_at": "2026-10-19T13:58:23",
-      "last_seen_at": "2026-10-19T14:00:17",
+      "title": "【补档】使用阿里云CDT 享受每月200G/4元高速流量",
+      "url": "https://www.nodeseek.com/post-572284-1",
+      "last_hot_value": "查看:89839 回复:229",
+      "first_seen_at": "2026-10-22T22:47:19",
+      "last_seen_at": "2026-10-22T22:48:06",
       "consecutive_count": 3,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "NAT机商家合集-置顶每月更新中",
-      "url": "https://www.nodeseek.com/post-54366-1",
-      "last_hot_value": "查看:161452 回复:409",
-      "first_seen_at": "2026-10-19T13:58:23",
-      "last_seen_at": "2026-10-19T14:00:17",
-      "consecutive_count": 3,
-      "peak_rank": 8,
+      "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "NS官方邮箱系统正式版(V2)",
       "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:97491 回复:646",
-      "first_seen_at": "2026-10-16T15:54:22",
-      "last_seen_at": "2026-10-18T10:21:07",
-      "consecutive_count": 0,
+      "last_hot_value": "查看:100258 回复:650",
+      "first_seen_at": "2026-10-22T22:47:19",
+      "last_seen_at": "2026-10-22T22:48:06",
+      "consecutive_count": 3,
+      "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
+      "url": "https://www.nodeseek.com/post-1033-1",
+      "last_hot_value": "查看:258509 回复:3183",
+      "first_seen_at": "2026-10-22T22:47:19",
+      "last_seen_at": "2026-10-22T22:48:06",
+      "consecutive_count": 3,
+      "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "CloudSSH 开源项目：借助 Cloudflare Workers 打造免费且功能强大 Web SSH 终端，用浏览器远程管理服务器，连接信息云端同步 + AI Agent智能运维，一键部署还不花一分钱",
+      "url": "https://www.nodeseek.com/post-898574-1",
+      "last_hot_value": "查看:7700 回复:112",
+      "first_seen_at": "2026-10-22T22:45:19",
+      "last_seen_at": "2026-10-22T22:48:06",
+      "consecutive_count": 4,
+      "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "极简探针，它终于开源发布了！",
+      "url": "https://www.nodeseek.com/post-925236-1",
+      "last_hot_value": "查看:22928 回复:306",
+      "first_seen_at": "2026-10-22T22:45:19",
+      "last_seen_at": "2026-10-22T22:48:06",
+      "consecutive_count": 4,
+      "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:273282 回复:2365",
+      "first_seen_at": "2026-10-22T22:47:19",
+      "last_seen_at": "2026-10-22T22:48:06",
+      "consecutive_count": 3,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "HashPay | 一站式加密货币支付网关",
+      "url": "https://www.nodeseek.com/post-808616-1",
+      "last_hot_value": "查看:5126 回复:88",
+      "first_seen_at": "2026-10-22T22:45:19",
+      "last_seen_at": "2026-10-22T22:48:06",
+      "consecutive_count": 4,
+      "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
+      "url": "https://www.nodeseek.com/post-865242-1",
+      "last_hot_value": "查看:47542 回复:323",
+      "first_seen_at": "2026-10-22T22:47:19",
+      "last_seen_at": "2026-10-22T22:48:06",
+      "consecutive_count": 3,
+      "peak_rank": 10,
       "is_new": false
     }
   ]
