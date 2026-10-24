@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-10-22T22:47:56",
+  "update_time": "2026-10-24T13:39:31",
   "items": [
+    {
+      "title": "微信运动每天晚上 10 点推送排行榜，技术上到底有多难？",
+      "url": "https://juejin.cn/post/7699320318288494630",
+      "last_hot_value": "热度:720",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "为什么我在团队里禁止使用 axios？",
       "url": "https://juejin.cn/post/7698268211587022874",
       "last_hot_value": "热度:2502",
       "first_seen_at": "2026-10-22T22:45:09",
       "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "潜伏 20 年没人能利用的 PHP 漏洞，AI 一周做成了武器",
+      "url": "https://juejin.cn/post/7698999578180075547",
+      "last_hot_value": "热度:684",
+      "first_seen_at": "2026-10-22T22:45:09",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 5,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,8 +37,18 @@
       "last_hot_value": "热度:1629",
       "first_seen_at": "2026-10-22T22:45:09",
       "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "刷到 FDE 岗位那一刻，我还以为前端又活了",
+      "url": "https://juejin.cn/post/7699243153364123690",
+      "last_hot_value": "热度:513",
+      "first_seen_at": "2026-10-22T22:45:09",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 5,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -27,9 +57,19 @@
       "last_hot_value": "热度:1215",
       "first_seen_at": "2026-10-22T22:45:09",
       "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "Flutter 官方表示：AI 时代代码越来越容易写，为什么还要一套代码库？",
+      "url": "https://juejin.cn/post/7699414277584797734",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！",
@@ -37,9 +77,19 @@
       "last_hot_value": "热度:522",
       "first_seen_at": "2026-10-22T22:45:09",
       "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "PHP漏洞危机，你的网站升级了吗?",
+      "url": "https://juejin.cn/post/7699094123467178034",
+      "last_hot_value": "热度:432",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "我数了 647 条大厂前端 JD：AI 不再只是加分项",
@@ -47,9 +97,19 @@
       "last_hot_value": "热度:378",
       "first_seen_at": "2026-10-22T22:45:09",
       "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "红利窗口开着，程序员别在场边囤课",
+      "url": "https://juejin.cn/post/7699351034398621732",
+      "last_hot_value": "热度:396",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "搞钱点子之生态鱼缸",
@@ -57,9 +117,19 @@
       "last_hot_value": "热度:360",
       "first_seen_at": "2026-10-22T22:45:09",
       "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "你的WorkBuddy不好用，大概率是这些设置没设好",
+      "url": "https://juejin.cn/post/7699375396186488851",
+      "last_hot_value": "热度:324",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "为什么每个前端都应该拥有一个自己的独立博客？",
@@ -67,19 +137,29 @@
       "last_hot_value": "热度:333",
       "first_seen_at": "2026-10-22T22:45:09",
       "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "潜伏 20 年没人能利用的 PHP 漏洞，AI 一周做成了武器",
-      "url": "https://juejin.cn/post/7698999578180075547",
-      "last_hot_value": "热度:324",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "title": "PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级",
+      "url": "https://juejin.cn/post/7699014849129726003",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "牛一越界，大屏 3 秒飞到它身边：我用真实卫星数据 + Three.js 做了个 3D 智慧牧场",
+      "url": "https://juejin.cn/post/7698947426488959016",
+      "last_hot_value": "热度:279",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "程序员 1v1 访谈系列第五期：裁掉正岗，招外包",
@@ -87,19 +167,19 @@
       "last_hot_value": "热度:306",
       "first_seen_at": "2026-10-22T22:45:09",
       "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
     {
-      "title": "刷到 FDE 岗位那一刻，我还以为前端又活了",
-      "url": "https://juejin.cn/post/7699243153364123690",
-      "last_hot_value": "热度:297",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 4,
+      "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
+      "url": "https://juejin.cn/post/7699017769225928744",
+      "last_hot_value": "热度:261",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-24T13:39:31",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

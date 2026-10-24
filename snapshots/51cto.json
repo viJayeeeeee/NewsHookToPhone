@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-10-22T22:47:59",
+  "update_time": "2026-10-24T13:39:34",
   "items": [
+    {
+      "title": "HarmonyOS 7.0 端侧3DGS实验⑤：空洞、漂浮伪影与视角稳定 #1024·向光而行·码向未来#",
+      "url": "https://ost.51cto.com/posts/60830",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "未认证即可接管服务器！PHP 紧急补丁背后，AI 攻防已经进入 “机器速度” 时代",
       "url": "https://www.51cto.com/article/858990.html",
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "在 HarmonyOS 6 上做视频倍速，0.5x 到 2x 随便切",
+      "url": "https://ost.51cto.com/posts/60813",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "一次过审的鸿蒙应用发布全流程实战 #1024·向光而行·码向未来#",
@@ -17,9 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "PHP 爆出高危漏洞，服务器可被直接拿下，尽快修复！",
+      "url": "https://www.51cto.com/article/859099.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "在鸿蒙记账 App 里尝试 3DGS：一个周末，两次黑屏 #1024互动话题#​",
@@ -27,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "一人，合法，反超原版，王琰：填平闭源模型的思维链护城河",
+      "url": "https://www.51cto.com/article/859074.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "OpenAI 模型即将登陆 Google Cloud",
@@ -37,9 +77,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "PHP 爆出两大高风险漏洞！Akamai 即时部署防护机制",
+      "url": "https://www.51cto.com/article/859067.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "提速不降智，小红书DoSA将首token延迟无损减少近一半",
@@ -47,9 +97,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "Claude Code/Codex 预装、空闲只收磁盘费：boxd 开发工作区实测，一条命令全组共用一台机器",
+      "url": "https://www.51cto.com/article/859065.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "模型会写代码不等于能交付！深入拆解 Harness，从沙箱、智能体循环到验证体系的实战指南",
@@ -57,9 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "Cell Reports Medicine 2026 | 一种由大语言模型驱动的多学科人工智能智能体系统，用于预测急诊危重患者的谵妄",
+      "url": "https://www.51cto.com/article/859055.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "域名埋点零侵入实时校验实践：基于代理转发与规则驱动的工具设计",
@@ -67,9 +137,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕",
+      "url": "https://www.51cto.com/article/859040.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "RAG 不是终点：OKF 如何让 AI Agent 真正记住关键知识",
@@ -77,9 +157,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "NeurIPS'26 | 注意力也能弃权！改善长上下文、低比特鲁棒性",
+      "url": "https://www.51cto.com/article/859039.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Jev 决策模型能分清0糖和低糖吗？拿元气森林试一试",
@@ -87,9 +177,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "Agent 沙箱：AI 开始动手之后，边界该画在哪里？",
+      "url": "https://www.51cto.com/article/859038.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-24T13:39:34",
+      "last_seen_at": "2026-10-24T13:39:34",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "ICML 2026 | 走向 AI Agent可靠性的科学",
@@ -97,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-22T22:45:11",
       "last_seen_at": "2026-10-22T22:47:59",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

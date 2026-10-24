@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-10-22T22:47:57",
+  "update_time": "2026-10-24T13:39:33",
   "items": [
+    {
+      "title": "【AI大模型接入SDK】Trae生成代码介绍",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/168347042",
+      "last_hot_value": "3.3w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "AI Agent 工具调用如何更可靠？Spring AI + MCP 实战：参数校验、权限校验与人工确认",
       "url": "https://blog.csdn.net/2403_86779341/article/details/168550000",
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "博主开源 AI 记账系统看全栈项目设计：Smart Ledger",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/168745535",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-10-22T22:45:10",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 5,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,9 +37,19 @@
       "last_hot_value": "2.0w",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "AI 说我在能领 20 万补贴，翻完官方文件只剩 6 万：我用 WorkBuddy + TextIn xParse 搭了个不漏坑的补贴雷达",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/168876380",
+      "last_hot_value": "2.3w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "不止于时序存储：DolphinDB 如何成为 AI 时代的工业智能底座",
@@ -27,9 +57,19 @@
       "last_hot_value": "1.7w",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "多个AI Agent一起工作时谁在忙什么？Star Office UI把任务状态放进同一间像素办公室",
+      "url": "https://blog.csdn.net/Pocker_Spades_A/article/details/168881908",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "Yandex 遭无人机袭击停机",
@@ -37,9 +77,19 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "N1飞牛NAS做AI接口中转层：New-API接本地Ollama，再用Token把模型能力分发出去",
+      "url": "https://blog.csdn.net/AIRoses/article/details/168861753",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "【AI大模型接入SDK】ChatServer 路由规则绑定",
@@ -47,9 +97,19 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "在 Ubuntu ARM64 上运行 Q1 V3.0 MuJoCo 模型：加载、步进和单执行器响应",
+      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/168868115",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "从麦克风说一句话，到数字人开口回答：这套本地AI链路在8G显卡上跑起来了",
@@ -57,9 +117,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "模型合并技术_SLERP_TIES_Merge_DARE",
+      "url": "https://blog.csdn.net/2302_78391795/article/details/168957879",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "一套引擎、两种模型、一种文件：Apache IoTDB 2.0 的时序选型答卷",
@@ -67,19 +137,29 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
     },
     {
-      "title": "博主开源 AI 记账系统看全栈项目设计：Smart Ledger",
-      "url": "https://blog.csdn.net/beautifulmemory/article/details/168745535",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-10-22T22:45:10",
-      "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "title": "Flowable 状态通知设计：单体用本地事件，微服务如何回写业务状态？",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/168651610",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "title": "【PBAP】规范精讲[7]: 蓝牙PBAP服务发现机制详解——让设备互相识别的关键流程",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/168561541",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Linux 网络编程：从零掌握 TCP Socket 编程（附 C++ 实战）",
@@ -87,9 +167,19 @@
       "last_hot_value": "9228",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "月底报表又把库拖垮了？聊聊金仓数据库KES的列存储和真本事",
+      "url": "https://blog.csdn.net/qq_57761637/article/details/168871759",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-10-24T13:39:33",
+      "last_seen_at": "2026-10-24T13:39:33",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "时序数据库选型指南：面向工业物联网大数据场景，Apache IoTDB落地实践",
@@ -97,7 +187,7 @@
       "last_hot_value": "8272",
       "first_seen_at": "2026-10-22T22:45:10",
       "last_seen_at": "2026-10-22T22:47:57",
-      "consecutive_count": 4,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
