@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-10-24T13:40:25",
+  "update_time": "2026-10-26T01:09:32",
   "items": [
+    {
+      "title": "湖北省十堰市丹江口市气象台发布大雾黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/42038141600000_20261026084701.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "陕西省宝鸡市凤县气象台发布大雾黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/61033041600000_20261024211035.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "山西省朔州市应县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14062241600000_20261026084700.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -17,8 +37,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "内蒙古自治区呼伦贝尔市新巴尔虎右旗气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/15072741600000_20261026084614.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "山西省朔州市平鲁区气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14060341600000_20261026084600.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "山西省太原市娄烦县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14012341600000_20261026084600.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "贵州省遵义市正安县气象台发布大雾黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/52032441600000_20261026084459.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "山西省临汾市乡宁县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14102941600000_20261026084400.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -67,8 +137,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "内蒙古自治区乌兰察布市气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/15090041600000_20261026084327.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -77,8 +157,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "辽宁省抚顺市清原满族自治县气象台发布寒潮蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/21042341600000_20261026083700.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -87,8 +177,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "山西省大同市广灵县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/14022341600000_20261026084100.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-10-26T01:09:03",
+      "last_seen_at": "2026-10-26T01:09:32",
+      "consecutive_count": 3,
+      "peak_rank": 10,
       "is_new": false
     },
     {
@@ -97,7 +197,7 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-10-24T13:39:24",
       "last_seen_at": "2026-10-24T13:40:25",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

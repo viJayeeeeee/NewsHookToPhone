@@ -1,84 +1,64 @@
 {
-  "update_time": "2026-10-24T13:39:31",
+  "update_time": "2026-10-26T01:09:48",
   "items": [
+    {
+      "title": "Flutter 官方表示：AI 时代代码越来越容易写，为什么还要一套代码库？",
+      "url": "https://juejin.cn/post/7699414277584797734",
+      "last_hot_value": "热度:639",
+      "first_seen_at": "2026-10-24T13:39:31",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 3,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "微信运动每天晚上 10 点推送排行榜，技术上到底有多难？",
       "url": "https://juejin.cn/post/7699320318288494630",
       "last_hot_value": "热度:720",
       "first_seen_at": "2026-10-24T13:39:31",
       "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "为什么我在团队里禁止使用 axios？",
-      "url": "https://juejin.cn/post/7698268211587022874",
-      "last_hot_value": "热度:2502",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
       "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "潜伏 20 年没人能利用的 PHP 漏洞，AI 一周做成了武器",
-      "url": "https://juejin.cn/post/7698999578180075547",
-      "last_hot_value": "热度:684",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 5,
+      "title": "程序员 1v1 访谈系列第六期：国企也降薪裁员",
+      "url": "https://juejin.cn/post/7699445731564027919",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "手机到底有没有偷听我们？我抓包了 72 小时，抓到了真凶",
-      "url": "https://juejin.cn/post/7698382188488048649",
-      "last_hot_value": "热度:1629",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 0,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "刷到 FDE 岗位那一刻，我还以为前端又活了",
-      "url": "https://juejin.cn/post/7699243153364123690",
-      "last_hot_value": "热度:513",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 5,
+      "title": "一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏",
+      "url": "https://juejin.cn/post/7699372774716801034",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
       "peak_rank": 3,
       "is_new": false
     },
     {
-      "title": "报表总在扫大表，列存储应该放在哪一层",
-      "url": "https://juejin.cn/post/7698947426489663528",
-      "last_hot_value": "热度:1215",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 0,
-      "peak_rank": 3,
+      "title": "别照抄网上的 php2shell 复现脚本：PHP 内核这次到底碎在哪，4 个真相（2026）",
+      "url": "https://juejin.cn/post/7699300052456652800",
+      "last_hot_value": "热度:270",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
-      "title": "Flutter 官方表示：AI 时代代码越来越容易写，为什么还要一套代码库？",
-      "url": "https://juejin.cn/post/7699414277584797734",
-      "last_hot_value": "热度:477",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "太强了！GitHub上开源了一款AI自动化测试框架，0代码搞定前后端测试！",
-      "url": "https://juejin.cn/post/7698283872392757286",
-      "last_hot_value": "热度:522",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
-      "consecutive_count": 0,
-      "peak_rank": 4,
+      "title": "AI coding 时代最值钱的东西，软件工程（下）",
+      "url": "https://juejin.cn/post/7699399582179704847",
+      "last_hot_value": "热度:261",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -87,18 +67,18 @@
       "last_hot_value": "热度:432",
       "first_seen_at": "2026-10-24T13:39:31",
       "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "我数了 647 条大厂前端 JD：AI 不再只是加分项",
-      "url": "https://juejin.cn/post/7698254253442793507",
-      "last_hot_value": "热度:378",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
       "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "用 TRAE 把 Markdown文档 搬到微信公众号",
+      "url": "https://juejin.cn/post/7699372774716997642",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -107,18 +87,18 @@
       "last_hot_value": "热度:396",
       "first_seen_at": "2026-10-24T13:39:31",
       "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "搞钱点子之生态鱼缸",
-      "url": "https://juejin.cn/post/7699215174621364267",
-      "last_hot_value": "热度:360",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
       "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "AI说代码没漏洞？马上被 PHP 打脸了",
+      "url": "https://juejin.cn/post/7699673660089729064",
+      "last_hot_value": "热度:198",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -127,18 +107,18 @@
       "last_hot_value": "热度:324",
       "first_seen_at": "2026-10-24T13:39:31",
       "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "为什么每个前端都应该拥有一个自己的独立博客？",
-      "url": "https://juejin.cn/post/7698637850893139977",
-      "last_hot_value": "热度:333",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
       "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "10000 个中国版 Codex 在路上：桌面 Agent 争夺执行入口，一篇理清",
+      "url": "https://juejin.cn/post/7699445731564978191",
+      "last_hot_value": "热度:198",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -147,9 +127,19 @@
       "last_hot_value": "热度:306",
       "first_seen_at": "2026-10-24T13:39:31",
       "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
+      "url": "https://juejin.cn/post/7700050834004426790",
+      "last_hot_value": "热度:180",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
+      "peak_rank": 9,
+      "is_new": false
     },
     {
       "title": "牛一越界，大屏 3 秒飞到它身边：我用真实卫星数据 + Three.js 做了个 3D 智慧牧场",
@@ -157,18 +147,18 @@
       "last_hot_value": "热度:279",
       "first_seen_at": "2026-10-24T13:39:31",
       "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "程序员 1v1 访谈系列第五期：裁掉正岗，招外包",
-      "url": "https://juejin.cn/post/7698646220872450082",
-      "last_hot_value": "热度:306",
-      "first_seen_at": "2026-10-22T22:45:09",
-      "last_seen_at": "2026-10-22T22:47:56",
       "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "花了3个月，我们做了一款 AI 版的“飞书文档”",
+      "url": "https://juejin.cn/post/7699738861139689526",
+      "last_hot_value": "热度:162",
+      "first_seen_at": "2026-10-26T01:08:29",
+      "last_seen_at": "2026-10-26T01:09:48",
+      "consecutive_count": 2,
+      "peak_rank": 10,
       "is_new": false
     },
     {
@@ -177,9 +167,9 @@
       "last_hot_value": "热度:261",
       "first_seen_at": "2026-10-24T13:39:31",
       "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
