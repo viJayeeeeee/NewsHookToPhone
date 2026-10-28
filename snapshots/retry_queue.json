@@ -1958,5 +1958,47 @@
     "category_name": "音乐·阅读·生活",
     "failed_at": "2026-10-28T00:37:37",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-movie",
+    "platform_name": "豆瓣电影",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-28T06:00:44",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-group",
+    "platform_name": "豆瓣小组",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-28T06:00:52",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "jianshu",
+    "platform_name": "简书",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-28T06:01:00",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ngabbs",
+    "platform_name": "NGA论坛",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-28T06:01:09",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hupu",
+    "platform_name": "虎扑",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-28T06:01:17",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "coolapk",
+    "platform_name": "酷安",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-10-28T06:01:26",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
