@@ -2091,5 +2091,19 @@
     "category_name": "行业·商业",
     "failed_at": "2026-10-28T22:14:59",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-10-29T01:50:04",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-10-29T01:50:14",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
