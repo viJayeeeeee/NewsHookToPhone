@@ -1615,5 +1615,26 @@
     "category_name": "科技·开发者",
     "failed_at": "2026-10-27T06:15:49",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-10-30T03:20:39",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-10-30T03:20:48",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "guokr",
+    "platform_name": "果壳",
+    "category_name": "行业·商业",
+    "failed_at": "2026-10-30T03:20:56",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
