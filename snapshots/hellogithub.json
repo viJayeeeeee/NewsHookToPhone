@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-10-26T01:09:59",
+  "update_time": "2026-10-30T00:00:48",
   "items": [
     {
       "title": "更快地训练大模型和具身模型",
       "url": "https://github.com/baidu-baige/LoongForge",
-      "last_hot_value": "3900",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
+      "last_hot_value": "4590",
+      "first_seen_at": "2026-10-30T00:00:48",
+      "last_seen_at": "2026-10-30T00:00:48",
       "consecutive_count": 1,
       "peak_rank": 1,
       "is_new": true
     },
     {
-      "title": "《Linux Basics for Hackers》学习笔记",
-      "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
-      "last_hot_value": "81",
-      "first_seen_at": "2026-10-26T01:08:41",
-      "last_seen_at": "2026-10-26T01:09:59",
+      "title": "极简的本地图片压缩工具",
+      "url": "https://github.com/amiaoapp/PicLite",
+      "last_hot_value": "349",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
       "consecutive_count": 2,
       "peak_rank": 2,
       "is_new": false
     },
     {
-      "title": "轻量级的 Java IDE 编程工具",
-      "url": "https://github.com/1lck/Lithe-IDEA",
-      "last_hot_value": "6495",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
-      "consecutive_count": 1,
+      "title": "数据由自己掌控的健身记录应用",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "last_hot_value": "414",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
+      "consecutive_count": 2,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "手绘风格 AI 生图技能包",
-      "url": "https://github.com/yang0/handraw-style",
-      "last_hot_value": "4946",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
-      "consecutive_count": 1,
+      "title": "《高性价比人生指南》",
+      "url": "https://github.com/eternity4719/HowToLiveBetter",
+      "last_hot_value": "725",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "统一管理 AI 技能包的工具",
-      "url": "https://github.com/xingkongliang/skills-manager",
-      "last_hot_value": "3547",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
-      "consecutive_count": 1,
+      "title": "一词一画的雅思背单词工具",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "last_hot_value": "401",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
+      "consecutive_count": 2,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "让 AI Agent 帮你做 PPT",
-      "url": "https://github.com/chuspeeism/dashi-ppt-skill",
-      "last_hot_value": "7465",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
-      "consecutive_count": 1,
+      "title": "从零打造商业软件的开源替代品",
+      "url": "https://github.com/HeyPuter/everything",
+      "last_hot_value": "613",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "把字幕变成手绘动画",
-      "url": "https://github.com/geeklee/srt-whiteboard-animation",
-      "last_hot_value": "2505",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
-      "consecutive_count": 1,
+      "title": "给电视换上 Apple TV 风格的桌面",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "last_hot_value": "342",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
+      "consecutive_count": 2,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "把技术书变成智能体技能",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "last_hot_value": "6901",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
-      "consecutive_count": 1,
+      "title": "一键切换 AI 编程助手的模型",
+      "url": "https://github.com/yetone/magpie",
+      "last_hot_value": "358",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "让 Windows 桌面井然有序",
-      "url": "https://github.com/Tianyu199509/DeskBox",
-      "last_hot_value": "10998",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
-      "consecutive_count": 1,
+      "title": "无需显卡运行千亿参数模型",
+      "url": "https://github.com/JustVugg/colibri",
+      "last_hot_value": "431",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "AI 原生的个人笔记应用",
-      "url": "https://github.com/tianma-if/edgeever",
-      "last_hot_value": "3035",
-      "first_seen_at": "2026-10-26T01:09:59",
-      "last_seen_at": "2026-10-26T01:09:59",
-      "consecutive_count": 1,
+      "title": "开源的本地 AI 语音工作室",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "last_hot_value": "339",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-30T00:00:48",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

@@ -1,175 +1,105 @@
 {
-  "update_time": "2026-10-26T01:09:48",
+  "update_time": "2026-10-30T00:00:39",
   "items": [
     {
-      "title": "Flutter 官方表示：AI 时代代码越来越容易写，为什么还要一套代码库？",
-      "url": "https://juejin.cn/post/7699414277584797734",
-      "last_hot_value": "热度:639",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 3,
+      "title": "Python 面向对象编程：类、继承、多态与组合",
+      "url": "https://juejin.cn/post/7701269657706315811",
+      "last_hot_value": "热度:5499",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "微信运动每天晚上 10 点推送排行榜，技术上到底有多难？",
-      "url": "https://juejin.cn/post/7699320318288494630",
-      "last_hot_value": "热度:720",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "程序员 1v1 访谈系列第六期：国企也降薪裁员",
-      "url": "https://juejin.cn/post/7699445731564027919",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "PHP Swoole 协程模型详解：协程与线程/进程、调度、常驻内存及与 Go goroutine 的异同",
+      "url": "https://juejin.cn/post/7701591870955012111",
+      "last_hot_value": "热度:4113",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏",
-      "url": "https://juejin.cn/post/7699372774716801034",
-      "last_hot_value": "热度:306",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "Deepseek v5 来了",
+      "url": "https://juejin.cn/post/7701541249069383706",
+      "last_hot_value": "热度:2916",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "别照抄网上的 php2shell 复现脚本：PHP 内核这次到底碎在哪，4 个真相（2026）",
-      "url": "https://juejin.cn/post/7699300052456652800",
-      "last_hot_value": "热度:270",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "出事了，AI 提效后，老板让我裁员20%",
+      "url": "https://juejin.cn/post/7700887980139036682",
+      "last_hot_value": "热度:846",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "AI coding 时代最值钱的东西，软件工程（下）",
-      "url": "https://juejin.cn/post/7699399582179704847",
-      "last_hot_value": "热度:261",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "删了一个没用的 console.log，生产环境直接崩了!",
+      "url": "https://juejin.cn/post/7701290557268951066",
+      "last_hot_value": "热度:819",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "PHP漏洞危机，你的网站升级了吗?",
-      "url": "https://juejin.cn/post/7699094123467178034",
-      "last_hot_value": "热度:432",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "用 TRAE 把 Markdown文档 搬到微信公众号",
-      "url": "https://juejin.cn/post/7699372774716997642",
-      "last_hot_value": "热度:252",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "我买的电视，我还不能研究它吗？",
+      "url": "https://juejin.cn/post/7701316033940865058",
+      "last_hot_value": "热度:513",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "红利窗口开着，程序员别在场边囤课",
-      "url": "https://juejin.cn/post/7699351034398621732",
-      "last_hot_value": "热度:396",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "AI说代码没漏洞？马上被 PHP 打脸了",
-      "url": "https://juejin.cn/post/7699673660089729064",
-      "last_hot_value": "热度:198",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "Three.js 医院三维大屏实战：Codex + Blender MCP + React 从建模到交互全流程",
+      "url": "https://juejin.cn/post/7700887980140429322",
+      "last_hot_value": "热度:513",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "你的WorkBuddy不好用，大概率是这些设置没设好",
-      "url": "https://juejin.cn/post/7699375396186488851",
-      "last_hot_value": "热度:324",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "10000 个中国版 Codex 在路上：桌面 Agent 争夺执行入口，一篇理清",
-      "url": "https://juejin.cn/post/7699445731564978191",
-      "last_hot_value": "热度:198",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "程序员 1v1 访谈系列第八期：大龄女程序员的困境",
+      "url": "https://juejin.cn/post/7701269925755846671",
+      "last_hot_value": "热度:360",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "PHP 紧急修复两项严重 RCE 漏洞，8.2 至 8.5 用户应立即升级",
-      "url": "https://juejin.cn/post/7699014849129726003",
-      "last_hot_value": "热度:306",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
-      "url": "https://juejin.cn/post/7700050834004426790",
-      "last_hot_value": "热度:180",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "GPT-6.1 Terra上线：更便宜了，干活到底怎么样？",
+      "url": "https://juejin.cn/post/7701352628311392297",
+      "last_hot_value": "热度:333",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "牛一越界，大屏 3 秒飞到它身边：我用真实卫星数据 + Three.js 做了个 3D 智慧牧场",
-      "url": "https://juejin.cn/post/7698947426488959016",
-      "last_hot_value": "热度:279",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "花了3个月，我们做了一款 AI 版的“飞书文档”",
-      "url": "https://juejin.cn/post/7699738861139689526",
-      "last_hot_value": "热度:162",
-      "first_seen_at": "2026-10-26T01:08:29",
-      "last_seen_at": "2026-10-26T01:09:48",
-      "consecutive_count": 2,
+      "title": "AI 会干掉 React Native 吗？",
+      "url": "https://juejin.cn/post/7700822035409928246",
+      "last_hot_value": "热度:315",
+      "first_seen_at": "2026-10-30T00:00:39",
+      "last_seen_at": "2026-10-30T00:00:39",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
-      "url": "https://juejin.cn/post/7699017769225928744",
-      "last_hot_value": "热度:261",
-      "first_seen_at": "2026-10-24T13:39:31",
-      "last_seen_at": "2026-10-24T13:39:31",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

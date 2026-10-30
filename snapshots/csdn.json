@@ -1,185 +1,105 @@
 {
-  "update_time": "2026-10-26T01:09:50",
+  "update_time": "2026-10-30T00:00:40",
   "items": [
     {
-      "title": "启元Q1机器人SDK实操：跑通触摸消息，用ROS 2图形界面完成调试与模型展示",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/168875121",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
+      "title": "【AI大模型接入SDK】ChatServer构建（CMakeList.txt）",
+      "url": "https://blog.csdn.net/2401_89899187/article/details/168885168",
+      "last_hot_value": "2.4w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【AI大模型接入SDK】Trae生成代码介绍",
-      "url": "https://blog.csdn.net/2401_89899187/article/details/168347042",
-      "last_hot_value": "3.3w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-24T13:39:33",
-      "consecutive_count": 0,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "AI 说我在能领 20 万补贴，翻完官方文件只剩 6 万：我用 WorkBuddy + TextIn xParse 搭了个不漏坑的补贴雷达",
-      "url": "https://blog.csdn.net/2401_86326742/article/details/168876380",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 3,
+      "title": "模型快了，机器人就能动吗？从 OpenVLA-OFT 到启元 Q1 的 8 步动作块适配实验",
+      "url": "https://blog.csdn.net/lrq13965748542/article/details/169265487",
+      "last_hot_value": "2.1w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "用 Spring AI 搭 RAG 问答：把公司文档喂给大模型（全链路实战）",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/169058262",
-      "last_hot_value": "1.5w",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
+      "title": "飞牛NAS部署Hermes AI Agent：接入DeepSeek、微信与公网访问完整教程",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/169454834",
+      "last_hot_value": "1.7w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【AI智能体】Codex 实现AI自动化运维实战操作详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/166849454",
+      "title": "【AI】让 AI 写视频代码：提示词怎么写，画面怎么控，Token 怎么省",
+      "url": "https://blog.csdn.net/2501_91731683/article/details/169166283",
       "last_hot_value": "1.3w",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "多个AI Agent一起工作时谁在忙什么？Star Office UI把任务状态放进同一间像素办公室",
-      "url": "https://blog.csdn.net/Pocker_Spades_A/article/details/168881908",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-24T13:39:33",
-      "consecutive_count": 0,
-      "peak_rank": 4,
-      "is_new": false
+      "title": "AI 提出科学假设之后：从数据筛选到实验验证",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/168771198",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
-      "title": "AI Agent 工程化开发实战（二）：5 分钟跑通第一个 Deep Agent，然后拆开它",
-      "url": "https://blog.csdn.net/xiaobing259/article/details/168774045",
+      "title": "AI 编程智能体 17：四步搞定专属AI智能体",
+      "url": "https://blog.csdn.net/2503_92624912/article/details/169352659",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "从 1024 块 GPU 到 558 万美元：拆解 DeepSeek-V3 的算法-系统协同设计",
+      "url": "https://blog.csdn.net/beautifulmemory/article/details/169259784",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "网络原理｜第五阶段：IPv4 地址、网络接口、网络前缀与地址块（自然单元 5.1）",
+      "url": "https://blog.csdn.net/2401_86112610/article/details/169180657",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "计算机网络篇9：应用层——HTTP 的文本报文结构，与 URL 定位到文件的完整链路",
+      "url": "https://blog.csdn.net/2502_94387000/article/details/168453529",
       "last_hot_value": "1.0w",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "N1飞牛NAS做AI接口中转层：New-API接本地Ollama，再用Token把模型能力分发出去",
-      "url": "https://blog.csdn.net/AIRoses/article/details/168861753",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-24T13:39:33",
-      "consecutive_count": 0,
-      "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "分布式链路追踪 SkyWalking介绍",
-      "url": "https://blog.csdn.net/2401_89019969/article/details/164404092",
-      "last_hot_value": "9082",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "在 Ubuntu ARM64 上运行 Q1 V3.0 MuJoCo 模型：加载、步进和单执行器响应",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/168868115",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-24T13:39:33",
-      "consecutive_count": 0,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "从语言指令到机器人动作：OpenVLA 论文拆解及对启元开发的启发",
-      "url": "https://blog.csdn.net/Mrxiao_bo/article/details/168973632",
-      "last_hot_value": "8993",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "模型合并技术_SLERP_TIES_Merge_DARE",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/168957879",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-24T13:39:33",
-      "consecutive_count": 0,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "【Linux网络】网络为什么要分层？从协议、OSI 到 TCP/IP，一次搭起网络通信整体框架",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/168884765",
-      "last_hot_value": "7980",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "Flowable 状态通知设计：单体用本地事件，微服务如何回写业务状态？",
-      "url": "https://blog.csdn.net/zhouzhongyan/article/details/168651610",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-24T13:39:33",
-      "consecutive_count": 0,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "KingbaseES SQL 调优六步法：定位、诊断、下药、验证，一步都别省",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/168979308",
-      "last_hot_value": "7915",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【PBAP】规范精讲[7]: 蓝牙PBAP服务发现机制详解——让设备互相识别的关键流程",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/168561541",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-24T13:39:33",
-      "consecutive_count": 0,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "AI 图片编辑如何保持一致：局部修改与透明通道",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/168771087",
-      "last_hot_value": "7669",
-      "first_seen_at": "2026-10-26T01:08:31",
-      "last_seen_at": "2026-10-26T01:09:50",
-      "consecutive_count": 2,
+      "title": "从 xParse 看企业 AI：业务知识如何进入工作流",
+      "url": "https://blog.csdn.net/qq_46092061/article/details/169366959",
+      "last_hot_value": "8390",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-30T00:00:40",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
-    },
-    {
-      "title": "月底报表又把库拖垮了？聊聊金仓数据库KES的列存储和真本事",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/168871759",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-10-24T13:39:33",
-      "last_seen_at": "2026-10-24T13:39:33",
-      "consecutive_count": 0,
-      "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

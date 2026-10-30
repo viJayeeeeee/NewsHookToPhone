@@ -1,125 +1,105 @@
 {
-  "update_time": "2026-10-26T01:09:52",
+  "update_time": "2026-10-30T00:00:42",
   "items": [
     {
-      "title": "刚刚，Claude不聊天了！一句话出看板、出动画，直接交成品",
-      "url": "https://www.51cto.com/article/859126.html",
+      "title": "HarmonyOS 7 ArkGraphics 3D后处理实战：调节曝光与色调映射#1024·向光而行·码向未来#",
+      "url": "https://ost.51cto.com/posts/61499",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-26T01:08:33",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "HarmonyOS 7.0 端侧3DGS实验⑤：空洞、漂浮伪影与视角稳定 #1024·向光而行·码向未来#",
-      "url": "https://ost.51cto.com/posts/60830",
+      "title": "HarmonyOS 7文搜图实战：用实验现象描述定位示波器原图",
+      "url": "https://ost.51cto.com/posts/61497",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 3,
-      "peak_rank": 1,
-      "is_new": false
-    },
-    {
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "url": "https://www.51cto.com/article/859122.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-10-26T01:08:33",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 2,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "在 HarmonyOS 6 上做视频倍速，0.5x 到 2x 随便切",
-      "url": "https://ost.51cto.com/posts/60813",
+      "title": "NeurIPS'26 | 后训练越多模型越“轴”？给参数加点扰动，探索能力回来了",
+      "url": "https://www.51cto.com/article/859699.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 3,
-      "peak_rank": 2,
-      "is_new": false
-    },
-    {
-      "title": "PHP 爆出高危漏洞，服务器可被直接拿下，尽快修复！",
-      "url": "https://www.51cto.com/article/859099.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "一人，合法，反超原版，王琰：填平闭源模型的思维链护城河",
-      "url": "https://www.51cto.com/article/859074.html",
+      "title": "“界面已死”喊早了！谷歌CEO皮查伊谈Agent时代的界面：Agent替人办事，但是屏幕还得留给人",
+      "url": "https://www.51cto.com/article/859696.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "PHP 爆出两大高风险漏洞！Akamai 即时部署防护机制",
-      "url": "https://www.51cto.com/article/859067.html",
+      "title": "拆解小红书存储底座 00｜从孤岛走向融合：小红书存储与数据库架构进化",
+      "url": "https://www.51cto.com/article/859670.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Claude Code/Codex 预装、空闲只收磁盘费：boxd 开发工作区实测，一条命令全组共用一台机器",
-      "url": "https://www.51cto.com/article/859065.html",
+      "title": "物理学也要被AI攻陷了？五道20多年量子公开问题被突破",
+      "url": "https://www.51cto.com/article/859669.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Cell Reports Medicine 2026 | 一种由大语言模型驱动的多学科人工智能智能体系统，用于预测急诊危重患者的谵妄",
-      "url": "https://www.51cto.com/article/859055.html",
+      "title": "我给 WorkBuddy 接上了 Prometheus，AI 自动查监控、分析故障，真香！",
+      "url": "https://www.51cto.com/article/859668.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕",
-      "url": "https://www.51cto.com/article/859040.html",
+      "title": "滴滴面试官皱眉：Agent 里工具调用超时，你说怎么处理？我从超时重试讲到熔断降级，面试官没说话换了个问题",
+      "url": "https://www.51cto.com/article/859667.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-26T01:09:52",
-      "consecutive_count": 3,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "NeurIPS'26 | 注意力也能弃权！改善长上下文、低比特鲁棒性",
-      "url": "https://www.51cto.com/article/859039.html",
+      "title": "蚂蚁推出OCR大模型：同一架构实现全场景文本智能，2B参数也能打",
+      "url": "https://www.51cto.com/article/859666.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-24T13:39:34",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Agent 沙箱：AI 开始动手之后，边界该画在哪里？",
-      "url": "https://www.51cto.com/article/859038.html",
+      "title": "当 AI 一天提交 3 万次代码：Git 被淘汰，Anthropic 重写了版本控制",
+      "url": "https://www.51cto.com/article/859664.html",
       "last_hot_value": "",
-      "first_seen_at": "2026-10-24T13:39:34",
-      "last_seen_at": "2026-10-24T13:39:34",
-      "consecutive_count": 0,
+      "first_seen_at": "2026-10-30T00:00:42",
+      "last_seen_at": "2026-10-30T00:00:42",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
