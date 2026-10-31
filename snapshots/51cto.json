@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-10-30T00:00:42",
+  "update_time": "2026-10-31T00:07:15",
   "items": [
+    {
+      "title": "HarmonyOS 7 ArkGraphics 3D交互实战：点击3D礼盒选中部件#1024·向光而行·码向未来#",
+      "url": "https://ost.51cto.com/posts/61650",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "HarmonyOS 7 ArkGraphics 3D后处理实战：调节曝光与色调映射#1024·向光而行·码向未来#",
       "url": "https://ost.51cto.com/posts/61499",
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "灶台菜谱设计手记 03｜HarmonyOS 7.0 空间化：沉浸光感反馈 #1024·向光而行·码向未来#",
+      "url": "https://ost.51cto.com/posts/61582",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "HarmonyOS 7文搜图实战：用实验现象描述定位示波器原图",
@@ -17,9 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "大道至简！复旦×南洋理工提出SimpleVLN，用原生MLLM刷新导航SOTA",
+      "url": "https://www.51cto.com/article/859818.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "NeurIPS'26 | 后训练越多模型越“轴”？给参数加点扰动，探索能力回来了",
@@ -27,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "智能体上不了生产？六种生产级数据架构拆解：CDC 同步、语义层到零信任检索全流程",
+      "url": "https://www.51cto.com/article/859811.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "“界面已死”喊早了！谷歌CEO皮查伊谈Agent时代的界面：Agent替人办事，但是屏幕还得留给人",
@@ -37,9 +77,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Python 3.15 正式发布！这六个新特性，开发者值得关注",
+      "url": "https://www.51cto.com/article/859810.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "拆解小红书存储底座 00｜从孤岛走向融合：小红书存储与数据库架构进化",
@@ -47,9 +97,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "拆解小红书存储底座 01｜多源数据传输总线 RedDTS 2.0",
+      "url": "https://www.51cto.com/article/859809.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "物理学也要被AI攻陷了？五道20多年量子公开问题被突破",
@@ -57,9 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "京东二面被问：为什么用Jev这种决策模型，传统的Bert模型不能做决策吗？这不就是个概念吗？我愣了一下，不知道怎么回。",
+      "url": "https://www.51cto.com/article/859808.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "我给 WorkBuddy 接上了 Prometheus，AI 自动查监控、分析故障，真香！",
@@ -67,9 +137,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "一份给医药行业的\"数据地图\"：15 个语义域如何串起孤岛",
+      "url": "https://www.51cto.com/article/859807.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "滴滴面试官皱眉：Agent 里工具调用超时，你说怎么处理？我从超时重试讲到熔断降级，面试官没说话换了个问题",
@@ -77,9 +157,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "JS/TS：这些坑 90% 的人都踩过！实战避坑合集，让你开发少走弯路",
+      "url": "https://www.51cto.com/article/859806.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 9,
+      "is_new": false
     },
     {
       "title": "蚂蚁推出OCR大模型：同一架构实现全场景文本智能，2B参数也能打",
@@ -87,9 +177,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "【$175,000】人类技艺巅峰之作：纯逻辑漏洞构筑的 Edge 全链条攻击深度解析！",
+      "url": "https://www.51cto.com/article/859805.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-10-31T00:05:20",
+      "last_seen_at": "2026-10-31T00:07:15",
+      "consecutive_count": 5,
+      "peak_rank": 10,
+      "is_new": false
     },
     {
       "title": "当 AI 一天提交 3 万次代码：Git 被淘汰，Anthropic 重写了版本控制",
@@ -97,9 +197,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-10-30T00:00:42",
       "last_seen_at": "2026-10-30T00:00:42",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

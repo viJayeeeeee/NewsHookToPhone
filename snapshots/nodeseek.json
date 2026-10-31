@@ -1,74 +1,104 @@
 {
-  "update_time": "2026-10-30T00:00:50",
+  "update_time": "2026-10-31T00:07:22",
   "items": [
+    {
+      "title": "【项目开源+新手教程】给新手MJJ的喂饭教程：OU-SSH 面板 / 直观的SSH安全工具 / VPS基础安全与基本操作",
+      "url": "https://www.nodeseek.com/post-788832-1",
+      "last_hot_value": "查看:8844 回复:111",
+      "first_seen_at": "2026-10-31T00:05:28",
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 4,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【原创调优脚本】Tcpfit — 单线程 186 → 401 Mbps，动态 TCP 调优，优化线路机器通用一键开源脚本",
       "url": "https://www.nodeseek.com/post-865242-1",
-      "last_hot_value": "查看:50280 回复:333",
+      "last_hot_value": "查看:50599 回复:333",
       "first_seen_at": "2026-10-30T00:00:50",
-      "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 5,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:265204 回复:3224",
+      "last_hot_value": "查看:266272 回复:3227",
       "first_seen_at": "2026-10-30T00:00:50",
-      "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 5,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【合集】常用VPS脚本",
       "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:278529 回复:2391",
+      "last_hot_value": "查看:279168 回复:2394",
       "first_seen_at": "2026-10-30T00:00:50",
-      "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 5,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
+      "url": "https://www.nodeseek.com/post-718774-1",
+      "last_hot_value": "查看:19808 回复:203",
+      "first_seen_at": "2026-10-30T00:00:16",
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 6,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "nametra.de NS官方米表开启公测，欢迎大家试用体验！",
       "url": "https://www.nodeseek.com/post-373751-1",
-      "last_hot_value": "查看:326480 回复:545",
+      "last_hot_value": "查看:327084 回复:545",
       "first_seen_at": "2026-10-30T00:00:16",
-      "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 6,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "从0开始注册一个ASN并广播IP",
+      "url": "https://www.nodeseek.com/post-314035-1",
+      "last_hot_value": "查看:12442 回复:97",
+      "first_seen_at": "2026-10-31T00:05:28",
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 4,
+      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "NS官方邮箱系统正式版(V2)",
       "url": "https://www.nodeseek.com/post-647200-1",
-      "last_hot_value": "查看:103639 回复:656",
+      "last_hot_value": "查看:104085 回复:656",
       "first_seen_at": "2026-10-30T00:00:16",
-      "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 6,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "nodeimage.com 正式版发布！附带论坛内自动上传图片脚本",
+      "url": "https://www.nodeseek.com/post-387328-1",
+      "last_hot_value": "查看:831822 回复:1202",
+      "first_seen_at": "2026-10-31T00:05:28",
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 4,
+      "peak_rank": 6,
       "is_new": false
     },
     {
       "title": "极简探针，它终于开源发布了！",
       "url": "https://www.nodeseek.com/post-925236-1",
-      "last_hot_value": "查看:24691 回复:317",
+      "last_hot_value": "查看:24896 回复:317",
       "first_seen_at": "2026-10-30T00:00:50",
-      "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:22",
+      "consecutive_count": 5,
       "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "去越南面基 GreenCloud CEO 了 顺便参观了绿云总部",
-      "url": "https://www.nodeseek.com/post-718774-1",
-      "last_hot_value": "查看:19542 回复:201",
-      "first_seen_at": "2026-10-30T00:00:16",
-      "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 2,
-      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -77,7 +107,7 @@
       "last_hot_value": "查看:21182 回复:230",
       "first_seen_at": "2026-10-30T00:00:16",
       "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -87,9 +117,9 @@
       "last_hot_value": "查看:165307 回复:419",
       "first_seen_at": "2026-10-30T00:00:50",
       "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "【开源】LanQin Email：一个可自建、可管理、开箱即用的开源邮箱系统",
@@ -97,7 +127,7 @@
       "last_hot_value": "查看:6775 回复:71",
       "first_seen_at": "2026-10-30T00:00:16",
       "last_seen_at": "2026-10-30T00:00:50",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

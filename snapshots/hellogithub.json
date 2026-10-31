@@ -1,73 +1,93 @@
 {
-  "update_time": "2026-10-30T00:00:48",
+  "update_time": "2026-10-31T00:07:21",
   "items": [
     {
       "title": "更快地训练大模型和具身模型",
       "url": "https://github.com/baidu-baige/LoongForge",
-      "last_hot_value": "4590",
+      "last_hot_value": "4737",
       "first_seen_at": "2026-10-30T00:00:48",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 5,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "拖一下就能转换格式的工具",
+      "url": "https://github.com/KnifeLemon/Filee",
+      "last_hot_value": "529",
+      "first_seen_at": "2026-10-31T00:05:26",
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 4,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "极简的本地图片压缩工具",
       "url": "https://github.com/amiaoapp/PicLite",
-      "last_hot_value": "349",
+      "last_hot_value": "494",
       "first_seen_at": "2026-10-30T00:00:14",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 6,
       "peak_rank": 2,
       "is_new": false
     },
     {
       "title": "数据由自己掌控的健身记录应用",
       "url": "https://github.com/DuarteSantos8/openGym",
-      "last_hot_value": "414",
+      "last_hot_value": "540",
       "first_seen_at": "2026-10-30T00:00:14",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 6,
       "peak_rank": 3,
       "is_new": false
     },
     {
       "title": "《高性价比人生指南》",
       "url": "https://github.com/eternity4719/HowToLiveBetter",
-      "last_hot_value": "725",
+      "last_hot_value": "1074",
       "first_seen_at": "2026-10-30T00:00:14",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 6,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "给电视换上 Apple TV 风格的桌面",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "last_hot_value": "561",
+      "first_seen_at": "2026-10-30T00:00:14",
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 6,
+      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "一词一画的雅思背单词工具",
       "url": "https://github.com/designfuchen/word-atlas",
-      "last_hot_value": "401",
+      "last_hot_value": "544",
       "first_seen_at": "2026-10-30T00:00:14",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 6,
       "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "从零打造商业软件的开源替代品",
       "url": "https://github.com/HeyPuter/everything",
-      "last_hot_value": "613",
+      "last_hot_value": "805",
       "first_seen_at": "2026-10-30T00:00:14",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 6,
       "peak_rank": 6,
       "is_new": false
     },
     {
-      "title": "给电视换上 Apple TV 风格的桌面",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "last_hot_value": "342",
+      "title": "无需显卡运行千亿参数模型",
+      "url": "https://github.com/JustVugg/colibri",
+      "last_hot_value": "556",
       "first_seen_at": "2026-10-30T00:00:14",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 6,
       "peak_rank": 7,
       "is_new": false
     },
@@ -77,28 +97,18 @@
       "last_hot_value": "358",
       "first_seen_at": "2026-10-30T00:00:14",
       "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "无需显卡运行千亿参数模型",
-      "url": "https://github.com/JustVugg/colibri",
-      "last_hot_value": "431",
-      "first_seen_at": "2026-10-30T00:00:14",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
-      "peak_rank": 9,
       "is_new": false
     },
     {
       "title": "开源的本地 AI 语音工作室",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "last_hot_value": "339",
+      "last_hot_value": "450",
       "first_seen_at": "2026-10-30T00:00:14",
-      "last_seen_at": "2026-10-30T00:00:48",
-      "consecutive_count": 2,
-      "peak_rank": 10,
+      "last_seen_at": "2026-10-31T00:07:21",
+      "consecutive_count": 6,
+      "peak_rank": 9,
       "is_new": false
     }
   ]

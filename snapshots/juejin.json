@@ -1,35 +1,45 @@
 {
-  "update_time": "2026-10-30T00:00:39",
+  "update_time": "2026-10-31T00:07:12",
   "items": [
+    {
+      "title": "ValidX vs 正则表达式：可读性与维护性对比",
+      "url": "https://juejin.cn/post/7701250481567039528",
+      "last_hot_value": "热度:5904",
+      "first_seen_at": "2026-10-31T00:05:17",
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 5,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "Python 面向对象编程：类、继承、多态与组合",
       "url": "https://juejin.cn/post/7701269657706315811",
-      "last_hot_value": "热度:5499",
+      "last_hot_value": "热度:5661",
       "first_seen_at": "2026-10-30T00:00:39",
-      "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 6,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "PHP Swoole 协程模型详解：协程与线程/进程、调度、常驻内存及与 Go goroutine 的异同",
       "url": "https://juejin.cn/post/7701591870955012111",
-      "last_hot_value": "热度:4113",
+      "last_hot_value": "热度:4626",
       "first_seen_at": "2026-10-30T00:00:39",
-      "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 6,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Deepseek v5 来了",
       "url": "https://juejin.cn/post/7701541249069383706",
-      "last_hot_value": "热度:2916",
+      "last_hot_value": "热度:4275",
       "first_seen_at": "2026-10-30T00:00:39",
-      "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 6,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "出事了，AI 提效后，老板让我裁员20%",
@@ -37,29 +47,39 @@
       "last_hot_value": "热度:846",
       "first_seen_at": "2026-10-30T00:00:39",
       "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Service Mesh 可观测性：分布式追踪、指标与日志的统一方案",
+      "url": "https://juejin.cn/post/7701971738456752162",
+      "last_hot_value": "热度:2097",
+      "first_seen_at": "2026-10-31T00:05:17",
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 5,
+      "peak_rank": 5,
+      "is_new": false
     },
     {
       "title": "删了一个没用的 console.log，生产环境直接崩了!",
       "url": "https://juejin.cn/post/7701290557268951066",
-      "last_hot_value": "热度:819",
+      "last_hot_value": "热度:1107",
       "first_seen_at": "2026-10-30T00:00:39",
-      "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 6,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "我买的电视，我还不能研究它吗？",
       "url": "https://juejin.cn/post/7701316033940865058",
-      "last_hot_value": "热度:513",
+      "last_hot_value": "热度:711",
       "first_seen_at": "2026-10-30T00:00:39",
-      "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 6,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Three.js 医院三维大屏实战：Codex + Blender MCP + React 从建模到交互全流程",
@@ -67,19 +87,29 @@
       "last_hot_value": "热度:513",
       "first_seen_at": "2026-10-30T00:00:39",
       "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "史诗级封号收入",
+      "url": "https://juejin.cn/post/7701870817483259958",
+      "last_hot_value": "热度:675",
+      "first_seen_at": "2026-10-31T00:05:17",
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 5,
+      "peak_rank": 8,
+      "is_new": false
     },
     {
       "title": "程序员 1v1 访谈系列第八期：大龄女程序员的困境",
       "url": "https://juejin.cn/post/7701269925755846671",
-      "last_hot_value": "热度:360",
+      "last_hot_value": "热度:504",
       "first_seen_at": "2026-10-30T00:00:39",
-      "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 6,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GPT-6.1 Terra上线：更便宜了，干活到底怎么样？",
@@ -87,9 +117,19 @@
       "last_hot_value": "热度:333",
       "first_seen_at": "2026-10-30T00:00:39",
       "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "现代 Android 架构指南：不要再主动设计 Callback 接口",
+      "url": "https://juejin.cn/post/7701545991036862491",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-10-31T00:05:17",
+      "last_seen_at": "2026-10-31T00:07:12",
+      "consecutive_count": 5,
+      "peak_rank": 10,
+      "is_new": false
     },
     {
       "title": "AI 会干掉 React Native 吗？",
@@ -97,9 +137,9 @@
       "last_hot_value": "热度:315",
       "first_seen_at": "2026-10-30T00:00:39",
       "last_seen_at": "2026-10-30T00:00:39",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

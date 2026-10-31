@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-10-30T00:00:40",
+  "update_time": "2026-10-31T00:07:13",
   "items": [
+    {
+      "title": "飞牛NAS部署Hermes AI Agent：接入DeepSeek、微信与公网访问完整教程",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/169454834",
+      "last_hot_value": "3.4w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 6,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【AI大模型接入SDK】ChatServer构建（CMakeList.txt）",
       "url": "https://blog.csdn.net/2401_89899187/article/details/168885168",
       "last_hot_value": "2.4w",
       "first_seen_at": "2026-10-30T00:00:40",
       "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "想捡闲鱼好价，却没空一直刷新？ai-goofish-monitor盯关键词和价格，AI自动做第一轮筛选",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/169455790",
+      "last_hot_value": "2.3w",
+      "first_seen_at": "2026-10-31T00:05:19",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 5,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "模型快了，机器人就能动吗？从 OpenVLA-OFT 到启元 Q1 的 8 步动作块适配实验",
@@ -17,19 +37,29 @@
       "last_hot_value": "2.1w",
       "first_seen_at": "2026-10-30T00:00:40",
       "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "飞牛NAS部署Hermes AI Agent：接入DeepSeek、微信与公网访问完整教程",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/169454834",
-      "last_hot_value": "1.7w",
-      "first_seen_at": "2026-10-30T00:00:40",
-      "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "title": "MapReduce - Partitioner 与 ReduceTask 的数量匹配原则",
+      "url": "https://blog.csdn.net/qq_41187124/article/details/157685443",
+      "last_hot_value": "2.3w",
+      "first_seen_at": "2026-10-31T00:05:19",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 5,
       "peak_rank": 3,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "AI 提出科学假设之后：从数据筛选到实验验证",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/168771198",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-10-30T00:00:40",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 6,
+      "peak_rank": 4,
+      "is_new": false
     },
     {
       "title": "【AI】让 AI 写视频代码：提示词怎么写，画面怎么控，Token 怎么省",
@@ -37,29 +67,49 @@
       "last_hot_value": "1.3w",
       "first_seen_at": "2026-10-30T00:00:40",
       "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "AI 提出科学假设之后：从数据筛选到实验验证",
-      "url": "https://blog.csdn.net/weixin_74809706/article/details/168771198",
-      "last_hot_value": "1.2w",
-      "first_seen_at": "2026-10-30T00:00:40",
-      "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "title": "超立方体Ramsey（openai/math 家族181）H11攻坚日志｜D118–D121四轮形式化闭合：Availability异常预算、父子包络组合、重叠异常拆分与单调事件尾界支付",
+      "url": "https://blog.csdn.net/TunerT_TQ/article/details/169346968",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-10-31T00:05:19",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 5,
       "peak_rank": 5,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "飞牛NAS部署Memos自建备忘录：Docker运行、持久化保存、图文记录和远程访问一起完成",
+      "url": "https://blog.csdn.net/qyj19920704/article/details/169464892",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-10-31T00:05:19",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 5,
+      "peak_rank": 6,
+      "is_new": false
     },
     {
       "title": "AI 编程智能体 17：四步搞定专属AI智能体",
       "url": "https://blog.csdn.net/2503_92624912/article/details/169352659",
-      "last_hot_value": "1.1w",
+      "last_hot_value": "1.3w",
       "first_seen_at": "2026-10-30T00:00:40",
-      "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 6,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "AI挖洞、AI下毒、AI被盯上：攻防两边的48小时",
+      "url": "https://blog.csdn.net/wodekouwei/article/details/169367685",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-10-31T00:05:19",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 5,
+      "peak_rank": 7,
+      "is_new": false
     },
     {
       "title": "从 1024 块 GPU 到 558 万美元：拆解 DeepSeek-V3 的算法-系统协同设计",
@@ -67,9 +117,9 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-10-30T00:00:40",
       "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "网络原理｜第五阶段：IPv4 地址、网络接口、网络前缀与地址块（自然单元 5.1）",
@@ -77,9 +127,19 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-10-30T00:00:40",
       "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "【AI】AI Agent 真能替你砍价吗？从交易实验看偏好建模与授权边界",
+      "url": "https://blog.csdn.net/2501_91731683/article/details/169365378",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-10-31T00:05:19",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 5,
+      "peak_rank": 9,
+      "is_new": false
     },
     {
       "title": "计算机网络篇9：应用层——HTTP 的文本报文结构，与 URL 定位到文件的完整链路",
@@ -87,9 +147,19 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-10-30T00:00:40",
       "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "MySQL 8.0 迁移后 SQL 变慢：执行计划里 3 类被忽略的成本差异",
+      "url": "https://blog.csdn.net/2501_92769340/article/details/167498359",
+      "last_hot_value": "8243",
+      "first_seen_at": "2026-10-31T00:05:19",
+      "last_seen_at": "2026-10-31T00:07:13",
+      "consecutive_count": 5,
+      "peak_rank": 10,
+      "is_new": false
     },
     {
       "title": "从 xParse 看企业 AI：业务知识如何进入工作流",
@@ -97,9 +167,9 @@
       "last_hot_value": "8390",
       "first_seen_at": "2026-10-30T00:00:40",
       "last_seen_at": "2026-10-30T00:00:40",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
