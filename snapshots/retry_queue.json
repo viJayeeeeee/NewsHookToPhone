@@ -1902,5 +1902,68 @@
     "category_name": "新闻·资讯",
     "failed_at": "2026-11-01T22:51:06",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "weibo",
+    "platform_name": "微博热搜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:05:35",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "zhihu",
+    "platform_name": "知乎热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:05:44",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douyin",
+    "platform_name": "抖音热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:05:52",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "bilibili",
+    "platform_name": "哔哩哔哩",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:06:00",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "kuaishou",
+    "platform_name": "快手热榜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:06:09",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "tieba",
+    "platform_name": "百度贴吧",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:06:17",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "acfun",
+    "platform_name": "A站",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:06:26",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "zhihu-daily",
+    "platform_name": "知乎日报",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:06:34",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sina",
+    "platform_name": "新浪热搜",
+    "category_name": "社交媒体·热榜",
+    "failed_at": "2026-11-02T02:06:42",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
