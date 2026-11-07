@@ -1678,5 +1678,47 @@
     "category_name": "行业·商业",
     "failed_at": "2026-11-07T19:08:45",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-movie",
+    "platform_name": "豆瓣电影",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-11-07T22:45:12",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "douban-group",
+    "platform_name": "豆瓣小组",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-11-07T22:45:20",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "jianshu",
+    "platform_name": "简书",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-11-07T22:45:28",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "ngabbs",
+    "platform_name": "NGA论坛",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-11-07T22:45:36",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "hupu",
+    "platform_name": "虎扑",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-11-07T22:45:44",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "coolapk",
+    "platform_name": "酷安",
+    "category_name": "文化·兴趣",
+    "failed_at": "2026-11-07T22:45:52",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
