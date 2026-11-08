@@ -1482,5 +1482,26 @@
     "category_name": "新闻·资讯",
     "failed_at": "2026-11-06T17:20:28",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "36kr",
+    "platform_name": "36氪",
+    "category_name": "行业·商业",
+    "failed_at": "2026-11-08T14:55:37",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "huxiu",
+    "platform_name": "虎嗅",
+    "category_name": "行业·商业",
+    "failed_at": "2026-11-08T14:55:46",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "guokr",
+    "platform_name": "果壳",
+    "category_name": "行业·商业",
+    "failed_at": "2026-11-08T14:55:54",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
