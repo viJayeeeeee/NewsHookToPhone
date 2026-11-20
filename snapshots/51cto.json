@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-11-18T07:43:32",
+  "update_time": "2026-11-20T02:23:09",
   "items": [
+    {
+      "title": "【HarmonyOS 7】压缩存、超分看：鸿蒙图像超分在「不想上班」里的工程化落地",
+      "url": "https://ost.51cto.com/posts/64537",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "OpenAI翻车！GPT-6.2 Astra被批「史上最差」，内部员工连夜弃用",
       "url": "https://www.51cto.com/article/861528.html",
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "【HarmonyOS 7】鸿蒙平行视界实战：两份配置、零业务代码，给折叠屏补上双栏体验",
+      "url": "https://ost.51cto.com/posts/64536",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "英伟达董事会当众拒绝黄仁勋回归",
@@ -17,9 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "NGINX2Root 严重漏洞，现在能一路走到宿主机 root",
+      "url": "https://www.51cto.com/article/861610.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "Agent开始调用模型、工具和API，谁来管住AI交互流量？",
@@ -27,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "最近爆火的 UI 组件库！把网页做出了高级感！",
+      "url": "https://www.51cto.com/article/861609.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "GPT-6.2 跑分赢了，整理了一张换不换清单",
@@ -37,9 +77,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "前端人赢麻了！拖拽交互不用手写了！",
+      "url": "https://www.51cto.com/article/861607.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "运维效率起飞！WorkBuddy 打通 Ansible，服务器管理直接对话完成",
@@ -47,9 +97,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "OpenAI 1200 个智能体攻破 Hugging Face 生产系统事件深度复盘：奖励黑客、沙箱失效，与多智能体团队治理指南",
+      "url": "https://www.51cto.com/article/861601.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "Node.js 27 来了！迭代器、文件系统迎来大升级",
@@ -57,9 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "不用训练！Opus 5.5直接手写Transformer权重，13类任务全拿100%",
+      "url": "https://www.51cto.com/article/861589.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "从补丁对比到自动打靶：谷歌 GTIG 披露自主 AI 攻击全流程，安全运维该怎么接招？",
@@ -67,9 +137,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "刚刚，谷歌Gemini 4再发新款，对标超越GPT-6.2 Sol！世界模型Genie 4也已开放",
+      "url": "https://www.51cto.com/article/861588.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "刚刚，OpenAI 发布 GPT-6.2 Astra 和 Sol",
@@ -77,9 +157,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "补丁成了「漏洞说明书」！谷歌曝黑客让AI照着补丁写攻击代码",
+      "url": "https://www.51cto.com/article/861592.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "HarmonyOS 7图片处理实战：读取GIF的帧信息和播放时长",
@@ -87,9 +177,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "港中深联合微软研究院提出多模态统一建模新架构ConvexLLM，让声音接上大模型已经学会的知识与推理",
+      "url": "https://www.51cto.com/article/861585.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-20T02:23:09",
+      "last_seen_at": "2026-11-20T02:23:09",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "HarmonyOS 6.0 时尚电商首页实战：从零构建高质感跨端商城 UI",
@@ -97,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-18T07:36:01",
       "last_seen_at": "2026-11-18T07:43:32",
-      "consecutive_count": 5,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }
