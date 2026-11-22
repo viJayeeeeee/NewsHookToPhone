@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-11-18T07:43:29",
+  "update_time": "2026-11-22T00:19:36",
   "items": [
     {
-      "title": "AI帮我生成了一个炫酷的3D大屏，上线3天就卡崩了",
-      "url": "https://juejin.cn/post/7708639137272102966",
-      "last_hot_value": "热度:873",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "永别了，程序员！(转）",
+      "url": "https://juejin.cn/post/7705987138957328427",
+      "last_hot_value": "热度:6993",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "用了这 Skill，前端兄弟都觉得好",
-      "url": "https://juejin.cn/post/7708682938188578854",
-      "last_hot_value": "热度:765",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "空值、日期、字符串：业务 SQL 里的函数先跑一遍",
+      "url": "https://juejin.cn/post/7710058428483780623",
+      "last_hot_value": "热度:2790",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "连AI自己也不愿意维护自己的屎山代码",
-      "url": "https://juejin.cn/post/7708565080221040683",
-      "last_hot_value": "热度:450",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "分库分表要被淘汰了？",
+      "url": "https://juejin.cn/post/7709495049776480294",
+      "last_hot_value": "热度:774",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "真狠啊，DeepSeek 开放全家桶 API。",
-      "url": "https://juejin.cn/post/7708954185542172710",
-      "last_hot_value": "热度:369",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "为了快 30 倍，我把构建工具换成了 Rust，结果团队差点连班都加不了",
+      "url": "https://juejin.cn/post/7709679151841722409",
+      "last_hot_value": "热度:666",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "代码越来越便宜，判断力越来越贵：AI 时代的 Android 架构与协程避坑指南",
-      "url": "https://juejin.cn/post/7707957158462357546",
-      "last_hot_value": "热度:342",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "iOS for Web ，把原生 iOS App 跑到进浏览器里面，倒反天罡",
+      "url": "https://juejin.cn/post/7709530253697908778",
+      "last_hot_value": "热度:459",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "如何让 AI 高效工作",
-      "url": "https://juejin.cn/post/7708627348664762394",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "太狠了！GitHub 5.6 万 Star，让 AI 直接操控 Chrome 调试",
+      "url": "https://juejin.cn/post/7709431516912943140",
+      "last_hot_value": "热度:432",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”",
-      "url": "https://juejin.cn/post/7708058421904392242",
-      "last_hot_value": "热度:315",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "Jetpack Compose 1.13 发布，憋了这么久终有交代了",
+      "url": "https://juejin.cn/post/7709778061000441910",
+      "last_hot_value": "热度:351",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Flutter Native Interop 稳定了，Platform Channel 要退场了",
-      "url": "https://juejin.cn/post/7708728039933624363",
-      "last_hot_value": "热度:279",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "手搓 Agent（五）：学会翻书——RAG，先查资料再回答",
+      "url": "https://juejin.cn/post/7709755322558431242",
+      "last_hot_value": "热度:252",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Flutter Analyzer 系列坑推进，必看，AI 时代这玩意最吃你内存",
-      "url": "https://juejin.cn/post/7708010764016517147",
-      "last_hot_value": "热度:261",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "思考，行动，复盘｜2026",
+      "url": "https://juejin.cn/post/7709817287637516322",
+      "last_hot_value": "热度:243",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "为什么 agent 的 demo 都很惊艳，上了生产就不靠谱",
-      "url": "https://juejin.cn/post/7707938781526245391",
-      "last_hot_value": "热度:216",
-      "first_seen_at": "2026-11-18T07:35:58",
-      "last_seen_at": "2026-11-18T07:43:29",
-      "consecutive_count": 5,
+      "title": "我扒了 GitHub Trending 前 20，8 个在做同一件事：给 Coding Agent 造基础设施",
+      "url": "https://juejin.cn/post/7709495049776709670",
+      "last_hot_value": "热度:225",
+      "first_seen_at": "2026-11-22T00:19:36",
+      "last_seen_at": "2026-11-22T00:19:36",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

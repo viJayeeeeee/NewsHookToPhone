@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-11-18T07:43:30",
+  "update_time": "2026-11-22T00:19:37",
   "items": [
     {
-      "title": "【AI智能体】Codex + Harness Engineering 实战开发ChatBot 项目详解",
-      "url": "https://blog.csdn.net/zhangcongyi420/article/details/169847875",
-      "last_hot_value": "3.2w",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "title": "【Linux网络】HTTP 请求到底长什么样？从 URL、请求响应报文到 Web 服务器完整实战",
+      "url": "https://blog.csdn.net/2402_87731470/article/details/171112653",
+      "last_hot_value": "1.9w",
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Next-AI-Draw.io本地部署教程：AI生成架构图、流程图与UML",
-      "url": "https://blog.csdn.net/2401_87629362/article/details/170864263",
+      "title": "LobeHub+Ollama本地AI教程：私有Agent、模型管理与远程访问",
+      "url": "https://blog.csdn.net/2602_94956987/article/details/171040465",
       "last_hot_value": "1.8w",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【Linux】守护进程怎么实现？从进程组、会话到 setsid 与 Daemon 完整实战",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/170444799",
+      "title": "Spring AI 可观测性：接入 Micrometer + Prometheus（全链路观测实战）",
+      "url": "https://blog.csdn.net/sinat_41617212/article/details/171137964",
       "last_hot_value": "1.6w",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "用 Spring AI 做文本分类/摘要：落地到后台工作流（无人值守批处理实战）",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/170821581",
-      "last_hot_value": "1.4w",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "title": "同时控10台电脑是什么体验？远程多台电脑、多控一与批量管理实测",
+      "url": "https://blog.csdn.net/2401_89538720/article/details/171039647",
+      "last_hot_value": "1.6w",
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "一篇看懂 Spring AOP：核心概念 + 五种通知 + 切点表达式 + 动态代理（附案例和流程图）",
-      "url": "https://blog.csdn.net/2502_93799892/article/details/170776868",
-      "last_hot_value": "1.3w",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "title": "【C++ 基于微服务的即时通讯系统】用户服务之Redis数据层落地：会话、登录状态与验证码全封装",
+      "url": "https://blog.csdn.net/2503_91389547/article/details/170650437",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "金仓AI数据库上手记：语义层、库内计算、权限继承，一次讲清",
-      "url": "https://blog.csdn.net/qq_57761637/article/details/170822359",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "title": "Valhalla L3工程评测｜openai/codex-security：AI安全扫描CI链路静态取证画像",
+      "url": "https://blog.csdn.net/TunerT_TQ/article/details/171096367",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【人工智能驱动的电催化研究-08】NumPy数组、维度与向量运算",
-      "url": "https://blog.csdn.net/2402_84593233/article/details/170889422",
-      "last_hot_value": "1.1w",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "title": "【人工智能驱动的电催化研究-10】代数、函数、指数与对数",
+      "url": "https://blog.csdn.net/2402_84593233/article/details/171138639",
+      "last_hot_value": "8598",
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "幻觉问题深析_为什么大模型会编造内容及缓解方案",
-      "url": "https://blog.csdn.net/2302_78391795/article/details/170902276",
-      "last_hot_value": "7464",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "title": "如何为你的 Web 应用添加文档编辑能力：ONLYOFFICE 文档集成实战",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/170930113",
+      "last_hot_value": "8155",
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "演示网页时不想共享整台电脑？我在NAS里放了一个多人共用的隔离浏览器",
-      "url": "https://blog.csdn.net/Rqaqedamancy/article/details/170859844",
-      "last_hot_value": "7159",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "title": "Redis实战：给大模型接口做缓存省60%token",
+      "url": "https://blog.csdn.net/superdangbo/article/details/171109466",
+      "last_hot_value": "7914",
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Homarr飞牛NAS部署教程：服务导航、Docker状态与远程访问",
-      "url": "https://blog.csdn.net/weixin_44976692/article/details/170913066",
-      "last_hot_value": "7004",
-      "first_seen_at": "2026-11-18T07:36:00",
-      "last_seen_at": "2026-11-18T07:43:30",
-      "consecutive_count": 5,
+      "title": "第二十二届全国大学生智能汽车竞赛比赛规则",
+      "url": "https://blog.csdn.net/zhuoqingjoking97298/article/details/171017946",
+      "last_hot_value": "6164",
+      "first_seen_at": "2026-11-22T00:19:37",
+      "last_seen_at": "2026-11-22T00:19:37",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }

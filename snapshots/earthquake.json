@@ -1,105 +1,55 @@
 {
-  "update_time": "2026-11-18T07:43:23",
+  "update_time": "2026-11-22T00:19:32",
   "items": [
     {
-      "title": "M5.7 秘鲁附近海域",
+      "title": "M5.6 青海海西州德令哈市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.7级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
+      "last_hot_value": "5.6级",
+      "first_seen_at": "2026-11-22T00:19:32",
+      "last_seen_at": "2026-11-22T00:19:32",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "M5.7 印尼弗洛勒斯岛附近海域",
+      "title": "M6.8 印尼西南群岛",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.7级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
+      "last_hot_value": "6.8级",
+      "first_seen_at": "2026-11-22T00:19:32",
+      "last_seen_at": "2026-11-22T00:19:32",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "M5.9 巴布亚新几内亚",
+      "title": "M6.7 秘鲁",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.9级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
+      "last_hot_value": "6.7级",
+      "first_seen_at": "2026-11-22T00:19:32",
+      "last_seen_at": "2026-11-22T00:19:32",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "M5.2 罗马尼亚",
+      "title": "M3.9 四川凉山州西昌市",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.2级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
+      "last_hot_value": "3.9级",
+      "first_seen_at": "2026-11-22T00:19:32",
+      "last_seen_at": "2026-11-22T00:19:32",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "M6.6 印尼卡伊群岛",
+      "title": "M3.0 四川宜宾市珙县",
       "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "6.6级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
+      "last_hot_value": "3.0级",
+      "first_seen_at": "2026-11-22T00:19:32",
+      "last_seen_at": "2026-11-22T00:19:32",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
-    },
-    {
-      "title": "M5.4 日本本州岛",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "5.4级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
-      "peak_rank": 6,
-      "is_new": false
-    },
-    {
-      "title": "M3.3 新疆巴音郭楞州轮台县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.3级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
-      "peak_rank": 7,
-      "is_new": false
-    },
-    {
-      "title": "M3.0 云南昭通市巧家县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "M3.0 新疆昌吉州昌吉市",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.0级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "M3.1 新疆阿克苏地区沙雅县",
-      "url": "https://www.cenc.ac.cn/earthquake-manage-publish-web/search",
-      "last_hot_value": "3.1级",
-      "first_seen_at": "2026-11-18T07:37:17",
-      "last_seen_at": "2026-11-18T07:43:23",
-      "consecutive_count": 7,
-      "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
