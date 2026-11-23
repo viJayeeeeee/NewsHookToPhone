@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-11-22T00:19:31",
+  "update_time": "2026-11-23T00:17:06",
   "items": [
+    {
+      "title": "辽宁省葫芦岛市兴城市气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/21148141600000_20261122201300.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "湖北省宜昌市长阳土家族自治县气象台发布大雾黄色预警信号",
       "url": "https://www.nmc.cn/publish/alarm/42052841600000_20261122015758.html",
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "贵州省黔西南布依族苗族自治州普安县气象台发布大雾黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/52232341600000_20261122201134.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,8 +37,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "辽宁省朝阳市建平县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/21132241600000_20261122200100.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "贵州省毕节市织金县气象台发布大雾橙色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/52052441600000_20261122200123.html",
+      "last_hot_value": "橙色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "贵州省毕节市大方县气象台发布寒潮蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/52052141600000_20261122195739.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "辽宁省葫芦岛市南票区气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/21140441600000_20261122195500.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "蓝色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "辽宁省本溪市桓仁满族自治县气象台发布道路结冰黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/21052241600000_20261122195400.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +137,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "辽宁省葫芦岛市绥中县气象台发布大风蓝色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/21142141600000_20261122194900.html",
+      "last_hot_value": "蓝色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +157,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "辽宁省辽阳市辽阳县气象台发布道路结冰黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/21102141600000_20261122194800.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +177,18 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "辽宁省辽阳市灯塔市气象台发布道路结冰黄色预警信号",
+      "url": "https://www.nmc.cn/publish/alarm/21108141600000_20261122194600.html",
+      "last_hot_value": "黄色",
+      "first_seen_at": "2026-11-23T00:17:06",
+      "last_seen_at": "2026-11-23T00:17:06",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +197,9 @@
       "last_hot_value": "黄色",
       "first_seen_at": "2026-11-22T00:19:31",
       "last_seen_at": "2026-11-22T00:19:31",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

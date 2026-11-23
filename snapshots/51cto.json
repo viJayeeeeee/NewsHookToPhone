@@ -1,24 +1,34 @@
 {
-  "update_time": "2026-11-20T02:23:09",
+  "update_time": "2026-11-23T00:18:38",
   "items": [
+    {
+      "title": "【鸿蒙实战】第 31 篇：手机碰一下 PC 就传图？生产落地要过四道关（HarmonyOS 7.x）",
+      "url": "https://ost.51cto.com/posts/64789",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 1,
+      "is_new": false
+    },
     {
       "title": "【HarmonyOS 7】压缩存、超分看：鸿蒙图像超分在「不想上班」里的工程化落地",
       "url": "https://ost.51cto.com/posts/64537",
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 1,
-      "is_new": true
-    },
-    {
-      "title": "OpenAI翻车！GPT-6.2 Astra被批「史上最差」，内部员工连夜弃用",
-      "url": "https://www.51cto.com/article/861528.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "HarmonyOS 6 阅读页冷启动：书目仍要等，先让窗口显示什么",
+      "url": "https://ost.51cto.com/posts/64668",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 2,
       "is_new": false
     },
     {
@@ -27,18 +37,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 2,
-      "is_new": true
-    },
-    {
-      "title": "英伟达董事会当众拒绝黄仁勋回归",
-      "url": "https://www.51cto.com/article/861527.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "如今程序员面试，为什么都问 Agent？（代码，架构图，提示词，PPT都分享）",
+      "url": "https://www.51cto.com/article/861701.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 3,
       "is_new": false
     },
     {
@@ -47,18 +57,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 3,
-      "is_new": true
-    },
-    {
-      "title": "Agent开始调用模型、工具和API，谁来管住AI交互流量？",
-      "url": "https://www.51cto.com/article/861526.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "别盲目拆分多 Agent！Anthropic：很多团队的子 Agent 不是太少，是太多",
+      "url": "https://www.51cto.com/article/861695.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 4,
       "is_new": false
     },
     {
@@ -67,18 +77,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 4,
-      "is_new": true
-    },
-    {
-      "title": "GPT-6.2 跑分赢了，整理了一张换不换清单",
-      "url": "https://www.51cto.com/article/861520.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "从微软六万人转身到百度 “智能组织”：你的团队，处在 AI 成熟度哪一级？",
+      "url": "https://www.51cto.com/article/861692.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
@@ -87,18 +97,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 5,
-      "is_new": true
-    },
-    {
-      "title": "运维效率起飞！WorkBuddy 打通 Ansible，服务器管理直接对话完成",
-      "url": "https://www.51cto.com/article/861519.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "刚刚，DeepSeek张博创业曝光：开源个人Agent！",
+      "url": "https://www.51cto.com/article/861690.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 6,
       "is_new": false
     },
     {
@@ -107,18 +117,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 6,
-      "is_new": true
-    },
-    {
-      "title": "Node.js 27 来了！迭代器、文件系统迎来大升级",
-      "url": "https://www.51cto.com/article/861518.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "Fable 5.2开卷80%，闭卷仅47%！最强编程智能体遇上机器人难题",
+      "url": "https://www.51cto.com/article/861689.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 7,
       "is_new": false
     },
     {
@@ -127,18 +137,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "从补丁对比到自动打靶：谷歌 GTIG 披露自主 AI 攻击全流程，安全运维该怎么接招？",
-      "url": "https://www.51cto.com/article/861517.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "删软链接带个斜杠，源目录直接没了，这个坑千万别踩",
+      "url": "https://www.51cto.com/article/861688.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 8,
       "is_new": false
     },
     {
@@ -147,18 +157,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
-    },
-    {
-      "title": "刚刚，OpenAI 发布 GPT-6.2 Astra 和 Sol",
-      "url": "https://www.51cto.com/article/861516.html",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "奥特曼给「AI造AI」踩刹车！方向盘必须握在人类手中",
+      "url": "https://www.51cto.com/article/861687.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 9,
       "is_new": false
     },
     {
@@ -167,18 +177,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 9,
-      "is_new": true
-    },
-    {
-      "title": "HarmonyOS 7图片处理实战：读取GIF的帧信息和播放时长",
-      "url": "https://ost.51cto.com/posts/64340",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "Claude开AI工厂：七周造38个模型，狂揽5.5万下载！",
+      "url": "https://www.51cto.com/article/861686.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-23T00:17:15",
+      "last_seen_at": "2026-11-23T00:18:38",
+      "consecutive_count": 2,
+      "peak_rank": 10,
       "is_new": false
     },
     {
@@ -187,16 +197,6 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-20T02:23:09",
       "last_seen_at": "2026-11-20T02:23:09",
-      "consecutive_count": 1,
-      "peak_rank": 10,
-      "is_new": true
-    },
-    {
-      "title": "HarmonyOS 6.0 时尚电商首页实战：从零构建高质感跨端商城 UI",
-      "url": "https://ost.51cto.com/posts/64339",
-      "last_hot_value": "",
-      "first_seen_at": "2026-11-18T07:36:01",
-      "last_seen_at": "2026-11-18T07:43:32",
       "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false

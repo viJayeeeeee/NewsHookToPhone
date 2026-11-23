@@ -1,14 +1,44 @@
 {
-  "update_time": "2026-11-22T00:19:29",
+  "update_time": "2026-11-23T00:17:04",
   "items": [
     {
       "title": "克拉多克太太",
       "url": "",
       "last_hot_value": "1972人在读",
       "first_seen_at": "2026-11-22T00:19:29",
-      "last_seen_at": "2026-11-22T00:19:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 2,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "两京十五日（全集｜同名影视原著）",
+      "url": "",
+      "last_hot_value": "3456人在读",
+      "first_seen_at": "2026-11-23T00:17:04",
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "窄门（足本无删减，名家经典译本）",
+      "url": "",
+      "last_hot_value": "4293人在读",
+      "first_seen_at": "2026-11-23T00:17:04",
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
+      "title": "黑客与画家（10万册纪念版）",
+      "url": "",
+      "last_hot_value": "1308人在读",
+      "first_seen_at": "2026-11-23T00:17:04",
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -16,9 +46,29 @@
       "url": "",
       "last_hot_value": "354人在读",
       "first_seen_at": "2026-11-22T00:19:29",
-      "last_seen_at": "2026-11-22T00:19:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 2,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "蛇结（果麦经典）",
+      "url": "",
+      "last_hot_value": "2361人在读",
+      "first_seen_at": "2026-11-23T00:17:04",
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
+    },
+    {
+      "title": "星辰时刻（克拉丽丝·李斯佩克朵作品集）",
+      "url": "",
+      "last_hot_value": "516人在读",
+      "first_seen_at": "2026-11-23T00:17:04",
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -26,30 +76,30 @@
       "url": "",
       "last_hot_value": "441人在读",
       "first_seen_at": "2026-11-22T00:19:29",
-      "last_seen_at": "2026-11-22T00:19:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 2,
       "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "读毛选，走出人生困局",
       "url": "",
       "last_hot_value": "3648人在读",
       "first_seen_at": "2026-11-22T00:19:29",
-      "last_seen_at": "2026-11-22T00:19:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "简媜经典作品两部曲",
       "url": "",
       "last_hot_value": "409人在读",
       "first_seen_at": "2026-11-22T00:19:29",
-      "last_seen_at": "2026-11-22T00:19:29",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-23T00:17:04",
+      "consecutive_count": 2,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

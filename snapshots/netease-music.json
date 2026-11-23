@@ -1,14 +1,74 @@
 {
-  "update_time": "2026-11-22T00:19:27",
+  "update_time": "2026-11-23T00:17:00",
   "items": [
+    {
+      "title": "海屿你",
+      "url": "https://music.163.com/#/song?id=1973665667",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
+    {
+      "title": "天龙八部之宿敌",
+      "url": "https://music.163.com/#/song?id=167691",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
+    },
+    {
+      "title": "于是",
+      "url": "https://music.163.com/#/song?id=1303464858",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
     {
       "title": "如果呢",
       "url": "https://music.163.com/#/song?id=1842728629",
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-11-22T00:19:27",
       "last_seen_at": "2026-11-22T00:19:27",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "我不难过",
+      "url": "https://music.163.com/#/song?id=287398",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "time machine (feat. aren park)",
+      "url": "https://music.163.com/#/song?id=1379918404",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
+    },
+    {
+      "title": "Violet",
+      "url": "https://music.163.com/#/song?id=1881426227",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -17,8 +77,48 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-11-22T00:19:27",
       "last_seen_at": "2026-11-22T00:19:27",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "99",
+      "url": "https://music.163.com/#/song?id=2741144144",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "冬天又来临",
+      "url": "https://music.163.com/#/song?id=3460493895",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
+    },
+    {
+      "title": "茉茉",
+      "url": "https://music.163.com/#/song?id=3448039922",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
+    },
+    {
+      "title": "罗生门（Follow）",
+      "url": "https://music.163.com/#/song?id=1456890009",
+      "last_hot_value": "热度:100",
+      "first_seen_at": "2026-11-23T00:17:00",
+      "last_seen_at": "2026-11-23T00:17:00",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -27,9 +127,9 @@
       "last_hot_value": "热度:0",
       "first_seen_at": "2026-11-22T00:19:27",
       "last_seen_at": "2026-11-22T00:19:27",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

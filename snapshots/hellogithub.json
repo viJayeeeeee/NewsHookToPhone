@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-11-20T02:23:18",
+  "update_time": "2026-11-23T00:18:43",
   "items": [
     {
-      "title": "可拖动时间轴的中国历史地图",
-      "url": "https://github.com/DeanChensj/jiangshan-map",
-      "last_hot_value": "4974",
-      "first_seen_at": "2026-11-18T07:36:09",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 6,
+      "title": "DSH 的 AI 绘图插件",
+      "url": "https://github.com/shanliuling/dsh-image-gen",
+      "last_hot_value": "295",
+      "first_seen_at": "2026-11-23T00:17:22",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 2,
       "peak_rank": 1,
       "is_new": false
     },
     {
+      "title": "给 Caddy 加上应用防火墙",
+      "url": "https://github.com/fabriziosalmi/caddy-waf",
+      "last_hot_value": "125",
+      "first_seen_at": "2026-11-23T00:17:22",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "可拖动时间轴的中国历史地图",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "last_hot_value": "5667",
+      "first_seen_at": "2026-11-23T00:18:43",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "拖一下就能转换格式的工具",
       "url": "https://github.com/KnifeLemon/Filee",
-      "last_hot_value": "4264",
-      "first_seen_at": "2026-11-18T07:39:17",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 5,
-      "peak_rank": 2,
+      "last_hot_value": "4565",
+      "first_seen_at": "2026-11-23T00:18:43",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
+    },
+    {
+      "title": "Google 地图商家信息采集工具",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "last_hot_value": "265",
+      "first_seen_at": "2026-11-23T00:17:22",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 2,
+      "peak_rank": 5,
       "is_new": false
     },
     {
       "title": "《高性价比人生指南》",
       "url": "https://github.com/eternity4719/HowToLiveBetter",
-      "last_hot_value": "6242",
-      "first_seen_at": "2026-11-18T07:39:17",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 5,
-      "peak_rank": 3,
-      "is_new": false
-    },
-    {
-      "title": "给 Mac 窗口穿上毛衣",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "last_hot_value": "1237",
-      "first_seen_at": "2026-11-18T07:36:09",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 6,
-      "peak_rank": 4,
-      "is_new": false
-    },
-    {
-      "title": "把 Switch 游戏装进 iPhone 的工具",
-      "url": "https://github.com/LNPANDY/NX2Apple",
-      "last_hot_value": "1523",
-      "first_seen_at": "2026-11-18T07:36:09",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 6,
-      "peak_rank": 5,
-      "is_new": false
+      "last_hot_value": "6731",
+      "first_seen_at": "2026-11-23T00:18:43",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "给电视换上 Apple TV 风格的桌面",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "last_hot_value": "4649",
-      "first_seen_at": "2026-11-18T07:39:17",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 5,
-      "peak_rank": 6,
-      "is_new": false
+      "last_hot_value": "5000",
+      "first_seen_at": "2026-11-23T00:18:43",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
+    },
+    {
+      "title": "给 Mac 窗口穿上毛衣",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "last_hot_value": "1462",
+      "first_seen_at": "2026-11-23T00:18:43",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "一词一画的雅思背单词工具",
       "url": "https://github.com/designfuchen/word-atlas",
-      "last_hot_value": "3561",
-      "first_seen_at": "2026-11-18T07:39:17",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 5,
-      "peak_rank": 7,
-      "is_new": false
+      "last_hot_value": "3837",
+      "first_seen_at": "2026-11-23T00:18:43",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "开源的本地 AI 语音工作室",
       "url": "https://github.com/debpalash/VoiceStudio",
-      "last_hot_value": "2506",
-      "first_seen_at": "2026-11-18T07:39:17",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 5,
-      "peak_rank": 8,
-      "is_new": false
-    },
-    {
-      "title": "数据由自己掌控的健身记录应用",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "last_hot_value": "2482",
-      "first_seen_at": "2026-11-18T07:39:17",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 5,
-      "peak_rank": 9,
-      "is_new": false
-    },
-    {
-      "title": "从零打造商业软件的开源替代品",
-      "url": "https://github.com/HeyPuter/everything",
-      "last_hot_value": "4075",
-      "first_seen_at": "2026-11-18T07:39:17",
-      "last_seen_at": "2026-11-20T02:23:18",
-      "consecutive_count": 5,
+      "last_hot_value": "2759",
+      "first_seen_at": "2026-11-23T00:18:43",
+      "last_seen_at": "2026-11-23T00:18:43",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
