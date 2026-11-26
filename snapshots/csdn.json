@@ -1,105 +1,105 @@
 {
-  "update_time": "2026-11-23T00:19:08",
+  "update_time": "2026-11-26T05:36:03",
   "items": [
     {
-      "title": "【Linux网络】HTTP 请求到底长什么样？从 URL、请求响应报文到 Web 服务器完整实战",
-      "url": "https://blog.csdn.net/2402_87731470/article/details/171112653",
-      "last_hot_value": "1.9w",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "DeepSeek Harness Windows部署教程：Agent工作区、工具调用与远程访问",
+      "url": "https://blog.csdn.net/weixin_42878111/article/details/171228469",
+      "last_hot_value": "3.2w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 1,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "LobeHub+Ollama本地AI教程：私有Agent、模型管理与远程访问",
-      "url": "https://blog.csdn.net/2602_94956987/article/details/171040465",
-      "last_hot_value": "1.8w",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "C++STL00 | 六个组件怎么咬成一个框架",
+      "url": "https://blog.csdn.net/2502_92159017/article/details/171357078",
+      "last_hot_value": "1.4w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 2,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Spring AI 可观测性：接入 Micrometer + Prometheus（全链路观测实战）",
-      "url": "https://blog.csdn.net/sinat_41617212/article/details/171137964",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "AI技术学习｜模型API接入：Java调用大语言模型、多轮对话与结构化输出",
+      "url": "https://blog.csdn.net/2401_86112610/article/details/171094336",
+      "last_hot_value": "1.2w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 3,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "同时控10台电脑是什么体验？远程多台电脑、多控一与批量管理实测",
-      "url": "https://blog.csdn.net/2401_89538720/article/details/171039647",
-      "last_hot_value": "1.6w",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "11月23日AI前沿复盘：安全双警报、模型降价潮与工程防线",
+      "url": "https://blog.csdn.net/qq_46987323/article/details/171236652",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 4,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【C++ 基于微服务的即时通讯系统】用户服务之Redis数据层落地：会话、登录状态与验证码全封装",
-      "url": "https://blog.csdn.net/2503_91389547/article/details/170650437",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "源码级拆解 OCI Python SDK：云原生SDK的请求生命周期、安全脱敏与异步架构设计 | L3 静态深度评测",
+      "url": "https://blog.csdn.net/TunerT_TQ/article/details/171298420",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 5,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Valhalla L3工程评测｜openai/codex-security：AI安全扫描CI链路静态取证画像",
-      "url": "https://blog.csdn.net/TunerT_TQ/article/details/171096367",
-      "last_hot_value": "1.0w",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "GitHub 热榜项目 - 周榜(2026-11-23)",
+      "url": "https://blog.csdn.net/u014390502/article/details/171253847",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 6,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "【人工智能驱动的电催化研究-10】代数、函数、指数与对数",
-      "url": "https://blog.csdn.net/2402_84593233/article/details/171138639",
-      "last_hot_value": "8598",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "LangChain（09）：Streaming 流式输出与事件处理",
+      "url": "https://blog.csdn.net/2401_83830408/article/details/171377879",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 7,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "如何为你的 Web 应用添加文档编辑能力：ONLYOFFICE 文档集成实战",
-      "url": "https://blog.csdn.net/weixin_37800531/article/details/170930113",
-      "last_hot_value": "8155",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "【AI 测评】通用工具 vs Calliper：合同/标书版本比对，为什么通用工具不够用？",
+      "url": "https://blog.csdn.net/2402_87298751/article/details/171243552",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 8,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "Redis实战：给大模型接口做缓存省60%token",
-      "url": "https://blog.csdn.net/superdangbo/article/details/171109466",
-      "last_hot_value": "7914",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "一个账号，多套组织身份：SpringBoot + Vue3后台的权限配置实战",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/170989509",
+      "last_hot_value": "1.0w",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 9,
-      "is_new": false
+      "is_new": true
     },
     {
-      "title": "第二十二届全国大学生智能汽车竞赛比赛规则",
-      "url": "https://blog.csdn.net/zhuoqingjoking97298/article/details/171017946",
-      "last_hot_value": "6164",
-      "first_seen_at": "2026-11-22T00:19:37",
-      "last_seen_at": "2026-11-23T00:19:08",
-      "consecutive_count": 4,
+      "title": "Shapefile 一键生成 GeoServer 样式：GeoTools + Spring Boot 实现 YSLD 自动生成器",
+      "url": "https://blog.csdn.net/yelangkingwuzuhu/article/details/171316798",
+      "last_hot_value": "9269",
+      "first_seen_at": "2026-11-26T05:36:03",
+      "last_seen_at": "2026-11-26T05:36:03",
+      "consecutive_count": 1,
       "peak_rank": 10,
-      "is_new": false
+      "is_new": true
     }
   ]
 }
