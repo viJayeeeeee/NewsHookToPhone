@@ -1,34 +1,54 @@
 {
-  "update_time": "2026-11-26T05:37:05",
+  "update_time": "2026-11-27T00:09:40",
   "items": [
     {
       "title": "可能的爱",
       "url": "https://movie.douban.com/subject/36847425/",
       "last_hot_value": "8.6",
       "first_seen_at": "2026-11-26T05:37:05",
-      "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 2,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "黑球",
       "url": "https://movie.douban.com/subject/37215318/",
       "last_hot_value": "8.7",
       "first_seen_at": "2026-11-26T05:37:05",
-      "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 2,
       "peak_rank": 2,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "一切如你所见",
+      "url": "https://movie.douban.com/subject/38643086/",
+      "last_hot_value": "8.6",
+      "first_seen_at": "2026-11-26T05:37:05",
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 2,
+      "peak_rank": 3,
+      "is_new": false
     },
     {
       "title": "另一个妈妈",
       "url": "https://movie.douban.com/subject/37317907/",
       "last_hot_value": "5.8",
       "first_seen_at": "2026-11-26T05:37:05",
-      "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 2,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "斗破苍穹剧场版 双帝之战​",
+      "url": "https://movie.douban.com/subject/37471473/",
+      "last_hot_value": "0.0",
+      "first_seen_at": "2026-11-27T00:09:40",
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -36,19 +56,29 @@
       "url": "https://movie.douban.com/subject/37342630/",
       "last_hot_value": "7.7",
       "first_seen_at": "2026-11-26T05:37:05",
-      "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 2,
       "peak_rank": 4,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "八仙！",
       "url": "https://movie.douban.com/subject/36882191/",
       "last_hot_value": "8.2",
       "first_seen_at": "2026-11-26T05:37:05",
-      "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 2,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "峡湾",
+      "url": "https://movie.douban.com/subject/37168181/",
+      "last_hot_value": "8.0",
+      "first_seen_at": "2026-11-27T00:09:40",
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -56,10 +86,10 @@
       "url": "https://movie.douban.com/subject/37148241/",
       "last_hot_value": "7.5",
       "first_seen_at": "2026-11-26T05:37:05",
-      "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 2,
       "peak_rank": 6,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "黄金时段",
@@ -67,29 +97,19 @@
       "last_hot_value": "6.2",
       "first_seen_at": "2026-11-26T05:37:05",
       "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
-      "is_new": true
-    },
-    {
-      "title": "一切如你所见",
-      "url": "https://movie.douban.com/subject/38643086/",
-      "last_hot_value": "8.6",
-      "first_seen_at": "2026-11-26T05:37:05",
-      "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
-      "peak_rank": 8,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "逃出布迪秀",
       "url": "https://movie.douban.com/subject/37446297/",
       "last_hot_value": "7.3",
       "first_seen_at": "2026-11-26T05:37:05",
-      "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "last_seen_at": "2026-11-27T00:09:40",
+      "consecutive_count": 2,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "哥斯拉-0.0",
@@ -97,9 +117,9 @@
       "last_hot_value": "6.7",
       "first_seen_at": "2026-11-26T05:37:05",
       "last_seen_at": "2026-11-26T05:37:05",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
