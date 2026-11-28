@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-11-26T05:36:00",
+  "update_time": "2026-11-28T00:01:37",
   "items": [
+    {
+      "title": "周五好，大家周末打算干啥",
+      "url": "https://www.v2ex.com/t/1260212",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "认真问，现在是不是可以抄底了？",
       "url": "https://www.v2ex.com/t/1259867",
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "其他模型真的好用，我又何必折腾 Claude 呢",
+      "url": "https://www.v2ex.com/t/1260233",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,8 +37,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "有人从 codex 弃坑转到 Antigravity 的没",
+      "url": "https://www.v2ex.com/t/1260241",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "求推荐: 怎么解决家庭超轻量的看电影/动画片需求",
+      "url": "https://www.v2ex.com/t/1260279",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "为何新出的手机完全不支持 tf 卡了？",
+      "url": "https://www.v2ex.com/t/1260288",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "有没有年付 1000-1500 左右的机场，要稳",
+      "url": "https://www.v2ex.com/t/1260223",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "元旦准备飞到香港看 MyGO 演唱会，有点纠结要不要告诉父母",
+      "url": "https://www.v2ex.com/t/1260214",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +137,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "最近 Antigravity 重置太频繁了，于是我上线了一个 Agy Reset 重置信号监测站，让你不错过每一次重置，且本贴随楼抽 50 位评论者每位赠送 50$V2EX",
+      "url": "https://www.v2ex.com/t/1260187",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +157,18 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "2-3k 可以买到比较可以的相机吗",
+      "url": "https://www.v2ex.com/t/1260208",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:37",
+      "last_seen_at": "2026-11-28T00:01:37",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,9 +177,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "这周的 ChatGPT 很想揍它",
@@ -97,9 +187,9 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:36:00",
       "last_seen_at": "2026-11-26T05:36:00",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

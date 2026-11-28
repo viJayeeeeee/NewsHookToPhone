@@ -1,14 +1,34 @@
 {
-  "update_time": "2026-11-26T05:36:03",
+  "update_time": "2026-11-28T00:01:43",
   "items": [
+    {
+      "title": "Toonflow AI短剧教程：Windows部署、批量生成与角色一致性",
+      "url": "https://blog.csdn.net/2401_87629362/article/details/171425713",
+      "last_hot_value": "3.0w",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "DeepSeek Harness Windows部署教程：Agent工作区、工具调用与远程访问",
       "url": "https://blog.csdn.net/weixin_42878111/article/details/171228469",
       "last_hot_value": "3.2w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
+      "is_new": false
+    },
+    {
+      "title": "Python 广播机制的原理与实现，尾部对齐、stride 零复制与深度学习中的张量计算",
+      "url": "https://blog.csdn.net/2502_94387000/article/details/171312966",
+      "last_hot_value": "2.5w",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 2,
       "is_new": true
     },
     {
@@ -17,8 +37,18 @@
       "last_hot_value": "1.4w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "AI文本水印：生成机制、统计检测与误报",
+      "url": "https://blog.csdn.net/weixin_74809706/article/details/170927066",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "1.2w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "从0实现C++ AI大模型接入SDK（五）：DeepSeekProvider的实现——策略模式、HTTP请求与SSE流式响应",
+      "url": "https://blog.csdn.net/Face_FeaR/article/details/171366855",
+      "last_hot_value": "1.3w",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "AI技术学习｜检索增强生成：Embedding、向量数据库与Java RAG实现原理",
+      "url": "https://blog.csdn.net/2401_86112610/article/details/171095791",
+      "last_hot_value": "1.1w",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "我用GPUWorks搭了个售后工单AI分诊台",
+      "url": "https://blog.csdn.net/2301_80863610/article/details/171435390",
+      "last_hot_value": "8841",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "1.1w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "想找Java制造业项目？看看这套MES的排产、报工和质检",
+      "url": "https://blog.csdn.net/zhouzhongyan/article/details/170989470",
+      "last_hot_value": "7337",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +137,18 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "从零开始掌握生成式人工智能：从Transformer到扩散模型",
+      "url": "https://blog.csdn.net/LOVEmy134611/article/details/160478703",
+      "last_hot_value": "7324",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +157,18 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "一年间学习的总结与成长记录——记录自己的18岁",
+      "url": "https://blog.csdn.net/oooooooooooohd/article/details/166945281",
+      "last_hot_value": "6426",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +177,18 @@
       "last_hot_value": "1.0w",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "【L2CAP】规范精讲[11]: 从谈条件到开门营业——配置谈判与数据收发全流程",
+      "url": "https://blog.csdn.net/weixin_37800531/article/details/171157247",
+      "last_hot_value": "6222",
+      "first_seen_at": "2026-11-28T00:01:43",
+      "last_seen_at": "2026-11-28T00:01:43",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +197,9 @@
       "last_hot_value": "9269",
       "first_seen_at": "2026-11-26T05:36:03",
       "last_seen_at": "2026-11-26T05:36:03",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

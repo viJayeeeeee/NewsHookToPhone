@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-11-26T05:36:05",
+  "update_time": "2026-11-28T00:01:45",
   "items": [
+    {
+      "title": "HarmonyOS 应用发布工程指南 02｜同质化识别与差异化产品架构",
+      "url": "https://ost.51cto.com/posts/65221",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "HarmonyOS 7.0 小艺 Skill 实战（一）：阳台托管小助手的意图边界",
       "url": "https://ost.51cto.com/posts/65084",
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "HarmonyOS 7.0 沉浸光感实战（一）：夜读拾光签的材质分层",
+      "url": "https://ost.51cto.com/posts/65215",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "HarmonyOS 布局进阶：Grid网格与WaterFlow瀑布流完全解析",
@@ -17,9 +37,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 2,
       "is_new": false
+    },
+    {
+      "title": "十个可组合的 AI 编程 Skills，打通需求澄清到 Bug 治理全链路",
+      "url": "https://www.51cto.com/article/862325.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
     },
     {
       "title": "WeKnora+DSH：让 Agent 直接使用企业知识库，这个插件值得试试",
@@ -27,9 +57,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 3,
       "is_new": false
+    },
+    {
+      "title": "官宣！2027 年，uni-app 两大平台停止维护！",
+      "url": "https://www.51cto.com/article/862324.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 4,
+      "is_new": true
     },
     {
       "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上“化学外挂”，解锁质谱分析技能",
@@ -37,9 +77,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "春节流量洪峰下的运维组织战：SRE 团队的春节保障实录",
+      "url": "https://www.51cto.com/article/862323.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "从字符串到结构化决策：读懂 System One，给你的智能体链路装一个毫秒级 “快思考” 闸门",
@@ -47,9 +97,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 5,
       "is_new": false
+    },
+    {
+      "title": "学 PostgreSQL 别只背语法，先搞懂 MVCC、索引和复制",
+      "url": "https://www.51cto.com/article/862322.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 6,
+      "is_new": true
     },
     {
       "title": "面试官追问：“Agent Harness 怎么设计？”，我解释：“写个循环，跑到模型说完成”，他：“它说干完了，你就验收了？”",
@@ -57,9 +117,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 6,
       "is_new": false
+    },
+    {
+      "title": "一文读懂企业本体：Python+K8s 落地，解决 AI 多智能体的语义鸿沟",
+      "url": "https://www.51cto.com/article/862321.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 7,
+      "is_new": true
     },
     {
       "title": "DSH Super-agent 自主架构剖析：Router／Worker 双层分工设计",
@@ -67,9 +137,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 7,
       "is_new": false
+    },
+    {
+      "title": "拿Claude给模型提能力，直接原地降智！官方文档实锤",
+      "url": "https://www.51cto.com/article/862320.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 8,
+      "is_new": true
     },
     {
       "title": "大厂面试：生产级 KV Cache 怎么优化 ？说说显存预算 、PagedAttention优化、缓存量化 、 KV Offload 卸载原理？",
@@ -77,9 +157,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
+    },
+    {
+      "title": "搞懂 Linux 调度器原理，才算真正吃透进程管理",
+      "url": "https://www.51cto.com/article/862319.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 9,
+      "is_new": true
     },
     {
       "title": "Agent任务跑到一半，服务重启后怎么办",
@@ -87,9 +177,19 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
+    },
+    {
+      "title": "手把手教你把Skill挂上支付宝挣钱，好手艺不该只有免费开源",
+      "url": "https://www.51cto.com/article/862318.html",
+      "last_hot_value": "",
+      "first_seen_at": "2026-11-28T00:01:45",
+      "last_seen_at": "2026-11-28T00:01:45",
+      "consecutive_count": 1,
+      "peak_rank": 10,
+      "is_new": true
     },
     {
       "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
@@ -97,7 +197,7 @@
       "last_hot_value": "",
       "first_seen_at": "2026-11-26T05:35:29",
       "last_seen_at": "2026-11-26T05:36:05",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 10,
       "is_new": false
     }

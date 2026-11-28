@@ -1,33 +1,63 @@
 {
-  "update_time": "2026-11-26T05:36:12",
+  "update_time": "2026-11-28T00:01:52",
   "items": [
+    {
+      "title": "【开源】 WindTerm 的顺手+ MobaXTerm 的全面： Rust + GPUI 的 OxideTerm，带MCP",
+      "url": "https://www.nodeseek.com/post-1048067-1",
+      "last_hot_value": "查看:2863 回复:50",
+      "first_seen_at": "2026-11-28T00:01:52",
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "NS 关键词检测（docker版）",
       "url": "https://www.nodeseek.com/post-370785-1",
-      "last_hot_value": "查看:12560 回复:115",
+      "last_hot_value": "查看:12701 回复:116",
       "first_seen_at": "2026-11-26T05:35:39",
-      "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 3,
       "peak_rank": 1,
       "is_new": false
     },
     {
-      "title": "【合集】常用VPS脚本",
-      "url": "https://www.nodeseek.com/post-183694-1",
-      "last_hot_value": "查看:299654 回复:2486",
-      "first_seen_at": "2026-11-26T05:36:12",
-      "last_seen_at": "2026-11-26T05:36:12",
+      "title": "【保姆级】VPS 拿到手后必做的初始化配置脚本v2",
+      "url": "https://www.nodeseek.com/post-724033-1",
+      "last_hot_value": "查看:5954 回复:46",
+      "first_seen_at": "2026-11-28T00:01:52",
+      "last_seen_at": "2026-11-28T00:01:52",
       "consecutive_count": 1,
       "peak_rank": 2,
       "is_new": true
     },
     {
+      "title": "【合集】常用VPS脚本",
+      "url": "https://www.nodeseek.com/post-183694-1",
+      "last_hot_value": "查看:300484 回复:2489",
+      "first_seen_at": "2026-11-26T05:36:12",
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "极简探针，它终于开源发布了！",
+      "url": "https://www.nodeseek.com/post-925236-1",
+      "last_hot_value": "查看:30542 回复:348",
+      "first_seen_at": "2026-11-28T00:01:52",
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 1,
+      "peak_rank": 3,
+      "is_new": true
+    },
+    {
       "title": "[小白入门科普] 服务器行业黑话大全 持续更新中.......",
       "url": "https://www.nodeseek.com/post-1033-1",
-      "last_hot_value": "查看:288039 回复:3380",
+      "last_hot_value": "查看:288939 回复:3389",
       "first_seen_at": "2026-11-26T05:35:39",
-      "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 3,
       "peak_rank": 3,
       "is_new": false
     },
@@ -37,9 +67,19 @@
       "last_hot_value": "查看:5230 回复:50",
       "first_seen_at": "2026-11-26T05:35:39",
       "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 4,
       "is_new": false
+    },
+    {
+      "title": "能直接聊天的防广告 TG面板「v1.11.0」. 5层防护: CAS联防+动图题+蜜罐诱捕+观察期审核 1秒过 可解封笨蛋",
+      "url": "https://www.nodeseek.com/post-1079769-1",
+      "last_hot_value": "查看:2528 回复:73",
+      "first_seen_at": "2026-11-28T00:01:52",
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 1,
+      "peak_rank": 5,
+      "is_new": true
     },
     {
       "title": "NS官方邮箱系统正式版(V2)",
@@ -47,8 +87,18 @@
       "last_hot_value": "查看:117167 回复:674",
       "first_seen_at": "2026-11-26T05:36:12",
       "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "[开源分享] claudette: 远程当本地跑！远程claude code最新解决方案",
+      "url": "https://www.nodeseek.com/post-1058070-1",
+      "last_hot_value": "查看:2492 回复:39",
+      "first_seen_at": "2026-11-28T00:01:52",
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,17 +107,27 @@
       "last_hot_value": "查看:60287 回复:364",
       "first_seen_at": "2026-11-26T05:36:12",
       "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "【开源】Inkstone —— 部署在 Cloudflare workers 上的全能 Markdown 笔记（更新0.4.0）",
+      "url": "https://www.nodeseek.com/post-849481-1",
+      "last_hot_value": "查看:8562 回复:118",
+      "first_seen_at": "2026-11-28T00:01:52",
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
       "title": "自用VPS一键脚本工具箱，一个脚本搞定大部分需求",
       "url": "https://www.nodeseek.com/post-58421-1",
-      "last_hot_value": "查看:52210 回复:492",
+      "last_hot_value": "查看:52383 回复:494",
       "first_seen_at": "2026-11-26T05:35:39",
-      "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 2,
+      "last_seen_at": "2026-11-28T00:01:52",
+      "consecutive_count": 3,
       "peak_rank": 7,
       "is_new": false
     },
@@ -77,7 +137,7 @@
       "last_hot_value": "查看:1813 回复:64",
       "first_seen_at": "2026-11-26T05:35:39",
       "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 8,
       "is_new": false
     },
@@ -87,7 +147,7 @@
       "last_hot_value": "查看:3215 回复:48",
       "first_seen_at": "2026-11-26T05:35:39",
       "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 9,
       "is_new": false
     },
@@ -97,9 +157,9 @@
       "last_hot_value": "查看:16067 回复:136",
       "first_seen_at": "2026-11-26T05:36:12",
       "last_seen_at": "2026-11-26T05:36:12",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-11-26T05:36:11",
+  "update_time": "2026-11-28T00:01:51",
   "items": [
+    {
+      "title": "开箱即用的大模型强化学习框架",
+      "url": "https://github.com/baidu-baige/LoongSage",
+      "last_hot_value": "80",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "开源的安卓刷机工具箱",
       "url": "https://github.com/Smart-Paocai/VioletToolBox",
       "last_hot_value": "758",
       "first_seen_at": "2026-11-26T05:35:38",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 2,
+      "consecutive_count": 0,
       "peak_rank": 1,
       "is_new": false
+    },
+    {
+      "title": "集成 AI 助手的远程连接工具",
+      "url": "https://github.com/t8y2/motty",
+      "last_hot_value": "419",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 2,
+      "is_new": true
     },
     {
       "title": "DSH 的 AI 绘图插件",
@@ -17,8 +37,18 @@
       "last_hot_value": "1651",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "Arc 风格的 Markdown 编辑器",
+      "url": "https://github.com/Ciao1019/ArcMD",
+      "last_hot_value": "518",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "5165",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "把课本变成会讲解的互动网页",
+      "url": "https://github.com/DozenTwelve/Papermorph",
+      "last_hot_value": "318",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "6497",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "无需 U 盘安装双系统",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "last_hot_value": "386",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "554",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "让 AI 帮你做产品宣传片",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "last_hot_value": "247",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "7489",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "用代码生成的像素游戏特效库",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "last_hot_value": "134",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,8 +137,18 @@
       "last_hot_value": "515",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "基于 QuickJS 的轻量级 Node.js 运行时",
+      "url": "https://github.com/Ray-D-Song/lexe",
+      "last_hot_value": "38",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
@@ -77,8 +157,18 @@
       "last_hot_value": "5540",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 8,
+      "is_new": false
+    },
+    {
+      "title": "查看 AI 编程额度的灵动岛",
+      "url": "https://github.com/MoFeng2223/BrimDeck",
+      "last_hot_value": "151",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +177,18 @@
       "last_hot_value": "4244",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "专为 DSH 设计的 AI 机器人团队",
+      "url": "https://github.com/Fei-Craft/DS-Bot",
+      "last_hot_value": "190",
+      "first_seen_at": "2026-11-28T00:01:51",
+      "last_seen_at": "2026-11-28T00:01:51",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +197,9 @@
       "last_hot_value": "3117",
       "first_seen_at": "2026-11-26T05:36:11",
       "last_seen_at": "2026-11-26T05:36:11",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }

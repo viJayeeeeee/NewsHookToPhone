@@ -1,15 +1,35 @@
 {
-  "update_time": "2026-11-26T05:36:01",
+  "update_time": "2026-11-28T00:01:41",
   "items": [
+    {
+      "title": "年终总结，这可能是程序员最后一个冬天了",
+      "url": "https://juejin.cn/post/7712359514976731177",
+      "last_hot_value": "热度:1620",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 1,
+      "is_new": true
+    },
     {
       "title": "SpringBoot4.2正式发布，人麻了！",
       "url": "https://juejin.cn/post/7711285721428492303",
       "last_hot_value": "热度:1188",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 1,
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Docker 部署：从镜像构建到容器上线",
+      "url": "https://juejin.cn/post/7711950881198358562",
+      "last_hot_value": "热度:630",
+      "first_seen_at": "2026-11-26T05:36:01",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 2,
+      "peak_rank": 2,
+      "is_new": false
     },
     {
       "title": "四年前从大厂裸辞到进山修行， 我找到了另一个方向的版本答案。",
@@ -17,8 +37,18 @@
       "last_hot_value": "热度:846",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 2,
+      "is_new": false
+    },
+    {
+      "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！",
+      "url": "https://juejin.cn/post/7711658681012174883",
+      "last_hot_value": "热度:477",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 3,
       "is_new": true
     },
     {
@@ -27,8 +57,18 @@
       "last_hot_value": "热度:738",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 3,
+      "is_new": false
+    },
+    {
+      "title": "线上突发大面积白屏，排查一天后，我发现是 `JSON.parse` 背了锅",
+      "url": "https://juejin.cn/post/7711915889649647659",
+      "last_hot_value": "热度:450",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 4,
       "is_new": true
     },
     {
@@ -37,8 +77,18 @@
       "last_hot_value": "热度:657",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 4,
+      "is_new": false
+    },
+    {
+      "title": "为什么成熟 Android 项目几乎看不到 IdleHandler？",
+      "url": "https://juejin.cn/post/7711955915188240384",
+      "last_hot_value": "热度:387",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 5,
       "is_new": true
     },
     {
@@ -47,8 +97,18 @@
       "last_hot_value": "热度:630",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 5,
+      "is_new": false
+    },
+    {
+      "title": "大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念",
+      "url": "https://juejin.cn/post/7712021656399675407",
+      "last_hot_value": "热度:369",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 6,
       "is_new": true
     },
     {
@@ -57,8 +117,18 @@
       "last_hot_value": "热度:621",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 6,
+      "is_new": false
+    },
+    {
+      "title": "当 Claude 开始反对蒸馏，我想起了那 700 万份盗版书籍",
+      "url": "https://juejin.cn/post/7712021656399134735",
+      "last_hot_value": "热度:342",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 7,
       "is_new": true
     },
     {
@@ -67,18 +137,28 @@
       "last_hot_value": "热度:513",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 7,
+      "is_new": false
+    },
+    {
+      "title": "Spring AI 还是 LangChain4j？2026 年 Java 接入大模型，我把这笔「架构赌注」的账算清楚了",
+      "url": "https://juejin.cn/post/7712084377979093033",
+      "last_hot_value": "热度:324",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 8,
       "is_new": true
     },
     {
-      "title": "Docker 部署：从镜像构建到容器上线",
-      "url": "https://juejin.cn/post/7711950881198358562",
-      "last_hot_value": "热度:378",
-      "first_seen_at": "2026-11-26T05:36:01",
-      "last_seen_at": "2026-11-26T05:36:01",
+      "title": "实测 10 个前端 UI 生成开源 Skill｜AI 输出直达上线标准",
+      "url": "https://juejin.cn/post/7712021656399462415",
+      "last_hot_value": "热度:306",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
       "consecutive_count": 1,
-      "peak_rank": 8,
+      "peak_rank": 9,
       "is_new": true
     },
     {
@@ -87,8 +167,18 @@
       "last_hot_value": "热度:288",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 9,
+      "is_new": false
+    },
+    {
+      "title": "我把 7 个 UI 库的下拉框用键盘敲了一遍，3 家出了岔子",
+      "url": "https://juejin.cn/post/7711743882738352163",
+      "last_hot_value": "热度:297",
+      "first_seen_at": "2026-11-28T00:01:41",
+      "last_seen_at": "2026-11-28T00:01:41",
+      "consecutive_count": 1,
+      "peak_rank": 10,
       "is_new": true
     },
     {
@@ -97,9 +187,9 @@
       "last_hot_value": "热度:270",
       "first_seen_at": "2026-11-26T05:36:01",
       "last_seen_at": "2026-11-26T05:36:01",
-      "consecutive_count": 1,
+      "consecutive_count": 0,
       "peak_rank": 10,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
