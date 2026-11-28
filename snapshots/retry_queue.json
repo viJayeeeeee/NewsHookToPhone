@@ -1552,5 +1552,47 @@
     "category_name": "游戏",
     "failed_at": "2026-11-28T05:22:03",
     "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "baidu",
+    "platform_name": "百度热搜",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-11-28T14:11:46",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "toutiao",
+    "platform_name": "今日头条",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-11-28T14:11:56",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "thepaper",
+    "platform_name": "澎湃新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-11-28T14:12:04",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "sina-news",
+    "platform_name": "新浪新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-11-28T14:12:12",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "netease-news",
+    "platform_name": "网易新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-11-28T14:12:20",
+    "reason": "获取失败（已重试 3 次）"
+  },
+  {
+    "platform_type": "qq-news",
+    "platform_name": "腾讯新闻",
+    "category_name": "新闻·资讯",
+    "failed_at": "2026-11-28T14:12:28",
+    "reason": "获取失败（已重试 3 次）"
   }
 ]
